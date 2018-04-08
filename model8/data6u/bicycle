@@ -1,0 +1,17305 @@
+i 
+must 
+have 
+struck RelNScrEv_bicycle
+something 
+while 
+riding ScrEv_ride_bike
+my 
+bike 
+because 
+it 
+suddenly 
+lost RelNScrEv_bicycle
+all 
+its 
+pressure 
+. 
+upon 
+closer 
+examination 
+, 
+i 
+found ScrEv_notice_problem
+a 
+screw 
+in 
+it 
+. 
+i 
+sighed UnrelEv_bicycle
+with 
+frustration 
+and 
+laid ScrEv_lay_bike_down
+the 
+bike 
+on 
+its 
+side 
+. 
+i 
+took+out ScrEv_get_tools
+a 
+wrench 
+, 
+a 
+tube 
+, 
+and 
+a 
+tire 
+tool 
+out 
+of 
+my 
+bag 
+. 
+i 
+loosened ScrEv_loose_nut
+the 
+nut 
+holding UnrelEv_bicycle
+the 
+wheel 
+on 
+my 
+bike 
+with 
+the 
+wrench 
+and 
+then 
+undid ScrEv_free_wheel
+the 
+rest 
+with 
+my 
+hands 
+. 
+when 
+the 
+wheel 
+was UnrelEv_bicycle
+free 
+, 
+i 
+took RelNScrEv_bicycle
+the 
+tire 
+tool 
+and 
+wedged RelNScrEv_bicycle
+it 
+between 
+the 
+wheel 
+and 
+tire 
+to 
+remove ScrEv_take_tire_off
+the 
+rubber 
+. 
+i 
+examined ScrEv_examine_tire
+the 
+inner 
+tube 
+and 
+it 
+was UnrelEv_bicycle
+definitely 
+beyond 
+repair 
+. 
+i 
+removed ScrEv_remove_tire
+the 
+damaged 
+tube 
+and 
+replaced ScrEv_put_new_tire
+it 
+with 
+the 
+new 
+one 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+onto 
+the 
+wheel 
+and 
+pulled ScrEv_pull_air_pin
+the 
+air 
+pin 
+through 
+the 
+hole 
+on 
+the 
+wheel 
+. 
+i 
+took+out ScrEv_get_tools
+my 
+air 
+pump 
+and 
+began UnrelEv_bicycle
+to 
+refill ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+. 
+<end_of_story>_bicycle 
+i 
+ride ScrEv_ride_bike
+my 
+bike 
+to 
+work 
+everyday 
+. 
+i 
+also 
+ride ScrEv_ride_bike
+for 
+pleasure 
+on 
+the 
+weekends 
+. 
+this 
+morning 
+i 
+was 
+pedaling ScrEv_ride_bike
+along 
+and 
+all 
+of 
+the 
+sudden 
+i 
+could 
+feel ScrEv_notice_problem
+the 
+gritty 
+pavement 
+scraping UnrelEv_bicycle
+the 
+rim 
+. 
+i 
+got ScrEv_get_off
+off 
+the 
+bike 
+and 
+sure 
+enough 
+the 
+front 
+tire 
+was UnrelEv_bicycle
+flat 
+. 
+well 
+that 
+is UnrelEv_bicycle
+bad 
+but 
+not 
+as 
+bad 
+if 
+the 
+rear 
+tire 
+was UnrelEv_bicycle
+flat 
+and 
+i 
+had 
+to 
+take ScrEv_other_bicycle
+the 
+chain 
+off 
+. 
+i 
+always 
+carry UnrelEv_bicycle
+a 
+spare 
+inner 
+tube 
+and 
+have UnrelEv_bicycle
+a 
+pump 
+on 
+the 
+frame 
+of 
+my 
+bike 
+. 
+this 
+was 
+going 
+to 
+be UnrelEv_bicycle
+easy 
+as 
+i 
+have 
+done UnrelEv_bicycle
+this 
+many 
+times 
+before 
+. 
+i 
+loosened ScrEv_loose_nut
+the 
+lock 
+nuts 
+that 
+hold UnrelEv_bicycle
+the 
+front 
+tire 
+in 
+place 
+and 
+pulled ScrEv_take_tire_off
+the 
+tire 
+from 
+the 
+frame 
+. 
+i 
+looked RelNScrEv_bicycle
+in 
+my 
+bike 
+pack 
+and 
+found RelNScrEv_bicycle
+the 
+tool 
+that 
+helps UnrelEv_bicycle
+take ScrEv_take_tire_off
+the 
+tire 
+off 
+the 
+rim 
+. 
+this 
+took UnrelEv_bicycle
+all 
+of 
+523 
+minutes 
+. 
+when 
+i 
+had UnrelEv_bicycle
+that 
+off 
+i 
+took UnrelEv_bicycle
+the 
+old 
+inner 
+tube 
+and 
+placed UnrelEv_bicycle
+it 
+in 
+my 
+backpack 
+to 
+patch ScrEv_put_patch/seal
+later 
+. 
+i 
+then 
+fit ScrEv_put_new_tire
+the 
+good 
+inner 
+tube 
+inside 
+the 
+tire 
+and 
+in 
+reverse 
+order 
+fitted ScrEv_put_new_tire
+the 
+tire 
+to 
+the 
+rim 
+. 
+i 
+next 
+took ScrEv_get_tools
+my 
+pump 
+and 
+filled ScrEv_refill_tire_air
+it 
+up 
+to 
+the 
+correct 
+pressure 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+front 
+fork 
+and 
+tightened RelNScrEv_bicycle
+the 
+locking UnrelEv_bicycle
+nuts 
+and 
+was UnrelEv_bicycle
+on 
+my 
+way 
+. 
+i 
+was UnrelEv_bicycle
+n't 
+even 
+late 
+for 
+work 
+. 
+<end_of_story>_bicycle 
+the 
+other 
+day 
+, 
+my 
+best 
+friend 
+and 
+i 
+were 
+riding ScrEv_ride_bike
+to 
+his 
+house 
+. 
+when 
+we 
+were UnrelEv_bicycle
+almost 
+there 
+, 
+i 
+noticed ScrEv_notice_problem
+that 
+the 
+front 
+tire 
+on 
+my 
+bicycle 
+felt ScrEv_notice_problem
+rather 
+wobbly 
+and 
+was UnrelEv_bicycle
+most 
+likely 
+flat 
+. 
+i 
+was UnrelEv_bicycle
+in 
+luck 
+however 
+, 
+as 
+my 
+friend 
+had UnrelEv_bicycle
+a 
+bicycle 
+repair 
+kit 
+and 
+some 
+spare 
+tires 
+. 
+once 
+we 
+arrived UnrelEv_bicycle
+at 
+my 
+friend 
+'s 
+house 
+, 
+i 
+asked UnrelEv_bicycle
+my 
+friend 
+if 
+he 
+let UnrelEv_bicycle
+me 
+borrow UnrelEv_bicycle
+his 
+bicycle 
+repair 
+kit 
+. 
+first 
+, 
+i 
+turned RelNScrEv_bicycle
+the 
+bike 
+over 
+and 
+removed ScrEv_take_tire_off
+the 
+front 
+tire 
+and 
+tube 
+. 
+next 
+i 
+filled RelNScrEv_bicycle
+the 
+tube 
+with 
+air 
+to 
+check ScrEv_examine_tire
+where 
+the 
+tube 
+was UnrelEv_bicycle
+damaged 
+, 
+and 
+found ScrEv_examine_tire
+a 
+small 
+glass 
+shard 
+which 
+had 
+punctured RelNScrEv_bicycle
+through 
+it 
+. 
+after 
+making UnrelEv_bicycle
+ensure 
+the 
+tube 
+was UnrelEv_bicycle
+fully 
+deflated 
+, 
+i 
+repaired ScrEv_put_patch/seal
+the 
+puncture 
+in 
+the 
+tube 
+by 
+using UnrelEv_bicycle
+glue 
+and 
+applying ScrEv_put_patch/seal
+a 
+patch 
+on 
+top 
+, 
+then 
+slid ScrEv_put_new_tire
+it 
+back 
+onto 
+the 
+tire 
+using UnrelEv_bicycle
+my 
+hands 
+. 
+next 
+, 
+i 
+placed ScrEv_put_new_tire
+and 
+pushed ScrEv_put_new_tire
+the 
+tire 
+back 
+onto 
+the 
+tube 
+. 
+after 
+which 
+, 
+i 
+reconnected ScrEv_put_new_tire
+the 
+tire 
+onto 
+the 
+bicycle 
+. 
+finally 
+, 
+i 
+pumped ScrEv_refill_tire_air
+air 
+into 
+the 
+tire 
+until 
+it 
+was UnrelEv_bicycle
+filled+up ScrEv_refill_tire_air
+and 
+the 
+bicycle 
+was UnrelEv_bicycle
+ready 
+to 
+be 
+ridden ScrEv_ride_bike
+again 
+. 
+<end_of_story>_bicycle 
+last 
+weekend 
+i 
+took ScrEv_ride_bike
+a 
+bike 
+ride 
+around 
+my 
+neighborhood 
+. 
+when 
+i 
+got UnrelEv_bicycle
+back 
+home 
+, 
+i 
+noticed ScrEv_notice_problem
+that 
+my 
+front 
+tire 
+looked UnrelEv_bicycle
+low 
+. 
+i 
+looked ScrEv_examine_tire
+at 
+the 
+tire 
+and 
+realized UnrelEv_bicycle
+there 
+was UnrelEv_bicycle
+a 
+nail 
+stuck RelNScrEv_bicycle
+in 
+it 
+. 
+i 
+took RelNScrEv_bicycle
+the 
+nail 
+out 
+. 
+then 
+removed ScrEv_take_tire_off
+the 
+tire 
+from 
+the 
+bike 
+. 
+inside 
+the 
+tire 
+was UnrelEv_bicycle
+a 
+bike 
+tube 
+. 
+the 
+air 
+goes UnrelEv_bicycle
+in 
+the 
+bike 
+tube 
+, 
+but 
+it 
+was 
+leaking RelNScrEv_bicycle
+because 
+of 
+the 
+hole 
+the 
+nail 
+put RelNScrEv_bicycle
+in 
+it 
+. 
+i 
+found ScrEv_get_tools
+my 
+patch 
+kit 
+, 
+and 
+glued ScrEv_put_patch/seal
+a 
+bike 
+tube 
+patch 
+over 
+the 
+hole 
+. 
+then 
+i 
+got ScrEv_get_tools
+my 
+air 
+pump 
+. 
+i 
+pumped ScrEv_refill_tire_air
+and 
+pumped ScrEv_refill_tire_air
+until 
+the 
+tube 
+was 
+inflated ScrEv_refill_tire_air
+. 
+afterwards 
+, 
+i 
+put RelNScrEv_bicycle
+the 
+bike 
+tube 
+in 
+water 
+to 
+see ScrEv_check_new_tire
+if 
+there 
+were UnrelEv_bicycle
+any 
+air 
+bubbles 
+. 
+air 
+bubbles 
+in 
+the 
+water 
+mean UnrelEv_bicycle
+there 
+'s UnrelEv_bicycle
+still 
+a 
+leak 
+. 
+luckily 
+for 
+me 
+, 
+it 
+was 
+no 
+longer 
+leaking RelNScrEv_bicycle
+air 
+! 
+i 
+put ScrEv_other_bicycle
+the 
+tire 
+back 
+over 
+the 
+top 
+of 
+the 
+bike 
+tube 
+and 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+my 
+bicycle 
+. 
+i 
+looked ScrEv_check_new_tire
+at 
+it 
+carefully 
+, 
+then 
+hopped UnrelEv_bicycle
+on 
+for 
+another 
+ride 
+around 
+the 
+neighborhood 
+, 
+this 
+time 
+avoiding UnrelEv_bicycle
+any 
+nails 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+down 
+the 
+sidewalk 
+and 
+noticed ScrEv_notice_problem
+that 
+my 
+bicycle 
+tire 
+had 
+gone RelNScrEv_bicycle
+flat 
+. 
+i 
+took UnrelEv_bicycle
+my 
+bike 
+home 
+and 
+attempted UnrelEv_bicycle
+to 
+put ScrEv_refill_tire_air
+air 
+in 
+the 
+tire 
+. 
+i 
+noticed ScrEv_notice_problem
+a 
+hissing UnrelEv_bicycle
+noise 
+coming UnrelEv_bicycle
+from 
+the 
+tire 
+and 
+realized UnrelEv_bicycle
+that 
+it 
+had UnrelEv_bicycle
+a 
+hole 
+in 
+it 
+. 
+i 
+had UnrelEv_bicycle
+a 
+can 
+of 
+tire 
+patch 
+on 
+the 
+shelf 
+in 
+the 
+garage 
+. 
+i 
+took ScrEv_get_tools
+a 
+screwdriver 
+and 
+loosened ScrEv_take_tire_off
+the 
+tire 
+from 
+the 
+metal 
+rim 
+of 
+the 
+bicycle 
+. 
+after 
+i 
+got ScrEv_take_tire_off
+the 
+tire 
+off 
+, 
+i 
+opened RelNScrEv_bicycle
+the 
+can 
+of 
+tire 
+patch 
+and 
+, 
+with 
+a 
+wooden 
+spatula 
+, 
+i 
+applied ScrEv_put_patch/seal
+some 
+of 
+the 
+black 
+tire 
+patch 
+to 
+the 
+inside 
+of 
+the 
+tire 
+where 
+the 
+hole 
+was UnrelEv_bicycle
+. 
+i 
+allowed UnrelEv_bicycle
+it 
+to 
+dry RelNScrEv_bicycle
+for 
+a 
+few 
+hours 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+rubber 
+tire 
+back 
+on 
+the 
+tire 
+rim 
+, 
+and 
+added ScrEv_refill_tire_air
+air 
+. 
+the 
+tire 
+held UnrelEv_bicycle
+air 
+and 
+there 
+was UnrelEv_bicycle
+no 
+longer 
+a 
+hissing UnrelEv_bicycle
+noise 
+. 
+i 
+hope UnrelEv_bicycle
+my 
+repair 
+holds UnrelEv_bicycle
+for 
+a 
+long 
+while 
+. 
+<end_of_story>_bicycle 
+some 
+years 
+ago 
+, 
+i 
+used ScrEv_ride_bike
+my 
+bike 
+to 
+get UnrelEv_bicycle
+around 
+town 
+a 
+lot 
+. 
+of 
+course 
+, 
+came UnrelEv_bicycle
+the 
+time 
+when 
+you 
+have 
+to 
+make+repairs Evoking_bicycle
+. 
+i 
+found+out UnrelEv_bicycle
+a 
+lot 
+about 
+bicycle 
+tires 
+during 
+this 
+time 
+. 
+my 
+tire 
+had RelNScrEv_bicycle
+a 
+leak 
+so 
+i 
+bought ScrEv_get_tools
+a 
+repair 
+kit 
+. 
+i 
+had UnrelEv_bicycle
+no 
+idea 
+how 
+to 
+use UnrelEv_bicycle
+it 
+but 
+i 
+did 
+find+out UnrelEv_bicycle
+. 
+i 
+had 
+to 
+take ScrEv_free_wheel
+the 
+whole 
+wheel 
+off 
+the 
+bicycle 
+. 
+next 
+i 
+pried ScrEv_take_tire_off
+the 
+tires 
+from 
+the 
+rim 
+and 
+that 
+took UnrelEv_bicycle
+some 
+doing UnrelEv_bicycle
+. 
+okay 
+once 
+i 
+got ScrEv_take_tire_off
+that 
+off 
+i 
+had 
+to 
+take ScrEv_take_tire_off
+the 
+inner 
+tube 
+out 
+also 
+and 
+i 
+learned UnrelEv_bicycle
+that 
+i 
+had 
+to 
+be UnrelEv_bicycle
+very 
+careful 
+with 
+the 
+inner 
+tube 
+because 
+i 
+could 
+cause UnrelEv_bicycle
+more 
+damage 
+by 
+being UnrelEv_bicycle
+rough 
+. 
+next 
+, 
+i 
+took UnrelEv_bicycle
+the 
+inner 
+tube 
+to 
+the 
+gas 
+station 
+to 
+get UnrelEv_bicycle
+air 
+since 
+i 
+did 
+n't 
+have UnrelEv_bicycle
+a 
+manual 
+air 
+pump 
+. 
+i 
+learned UnrelEv_bicycle
+really 
+quickly 
+that 
+i 
+needed 
+to 
+fill ScrEv_refill_tire_air
+the 
+inner 
+tube 
+with 
+care 
+or 
+i 
+would 
+be 
+buying UnrelEv_bicycle
+another 
+one 
+since 
+the 
+air 
+fills ScrEv_refill_tire_air
+it 
+quickly 
+and 
+the 
+tube 
+can 
+pop UnrelEv_bicycle
+. 
+once 
+i 
+put RelNScrEv_bicycle
+a 
+little 
+air 
+in 
+the 
+tube 
+i 
+had 
+to 
+listen ScrEv_examine_tire
+as 
+i 
+pressed RelNScrEv_bicycle
+the 
+air 
+out 
+to 
+determine ScrEv_examine_tire
+where 
+the 
+leak 
+was UnrelEv_bicycle
+actually 
+at 
+. 
+once 
+the 
+leak 
+location 
+was 
+identified RelNScrEv_bicycle
+then 
+i 
+was 
+able 
+to 
+take UnrelEv_bicycle
+the 
+tube 
+home 
+and 
+use UnrelEv_bicycle
+the 
+glue 
+from 
+the 
+kit 
+and 
+apply ScrEv_put_patch/seal
+the 
+rubber 
+patch 
+. 
+of 
+course 
+i 
+had 
+to 
+allow UnrelEv_bicycle
+the 
+tube 
+to 
+dry RelNScrEv_bicycle
+and 
+then 
+deflate RelNScrEv_bicycle
+it 
+to 
+get ScrEv_put_new_tire
+it 
+back 
+on 
+the 
+bicycle 
+. 
+once 
+i 
+got UnrelEv_bicycle
+it 
+all 
+put ScrEv_put_new_tire
+back 
+together 
+i 
+walked UnrelEv_bicycle
+my 
+bike 
+back 
+to 
+the 
+gas 
+station 
+for 
+air 
+. 
+<end_of_story>_bicycle 
+i 
+went UnrelEv_bicycle
+out 
+to 
+ride ScrEv_ride_bike
+my 
+bicycle 
+one 
+morning 
+, 
+only 
+to 
+find ScrEv_notice_problem
+that 
+my 
+front 
+tire 
+was UnrelEv_bicycle
+very 
+flat 
+. 
+i 
+grabbed ScrEv_get_tools
+my 
+manual 
+air 
+pump 
+and 
+tried UnrelEv_bicycle
+to 
+put ScrEv_refill_tire_air
+air 
+into 
+it 
+, 
+but 
+it 
+would 
+not 
+hold UnrelEv_bicycle
+any 
+and 
+kept UnrelEv_bicycle
+going RelNScrEv_bicycle
+flat 
+. 
+i 
+heard UnrelEv_bicycle
+a 
+hissing UnrelEv_bicycle
+sound 
+, 
+so 
+i 
+knew UnrelEv_bicycle
+i 
+had 
+punctured RelNScrEv_bicycle
+the 
+tire 
+somehow 
+. 
+luckily 
+i 
+had UnrelEv_bicycle
+a 
+spare 
+inner 
+tube 
+that 
+i 
+could 
+put+on ScrEv_put_new_tire
+. 
+i 
+flipped RelNScrEv_bicycle
+my 
+bicycle 
+over 
+and 
+took ScrEv_get_tools
+a 
+wrench 
+to 
+remove ScrEv_take_tire_off
+the 
+tire 
+from 
+the 
+spokes 
+. 
+it 
+was UnrelEv_bicycle
+kind 
+of 
+greasy 
+and 
+messy 
+, 
+but 
+i 
+did 
+n't 
+mind UnrelEv_bicycle
+. 
+i 
+was 
+able 
+to 
+get ScrEv_take_tire_off
+it 
+off 
+pretty 
+easily 
+. 
+i 
+then 
+pushed ScrEv_take_tire_off
+the 
+tire 
+off 
+of 
+the 
+rim 
+all 
+the 
+way 
+around 
+. 
+when 
+the 
+tire 
+was UnrelEv_bicycle
+off 
+the 
+rim 
+, 
+i 
+took RelNScrEv_bicycle
+the 
+spare 
+tube 
+i 
+had UnrelEv_bicycle
+and 
+put ScrEv_put_new_tire
+it 
+all 
+around 
+the 
+inside 
+of 
+the 
+tire 
+. 
+i 
+then 
+pushed ScrEv_put_new_tire
+the 
+tire 
+back 
+onto 
+the 
+rim 
+. 
+it 
+did 
+not 
+go+on UnrelEv_bicycle
+as 
+easily 
+as 
+it 
+came+off UnrelEv_bicycle
+, 
+and 
+it 
+took UnrelEv_bicycle
+a 
+bit 
+of 
+struggling UnrelEv_bicycle
+with 
+the 
+tire 
+to 
+get ScrEv_put_new_tire
+it 
+back 
+on 
+. 
+finally 
+i 
+had UnrelEv_bicycle
+it 
+on 
+. 
+i 
+took ScrEv_get_tools
+my 
+manual 
+air 
+pump 
+and 
+pumped ScrEv_refill_tire_air
+up 
+the 
+tube 
+inside 
+of 
+the 
+tire 
+. 
+it 
+held UnrelEv_bicycle
+air 
+very 
+nicely 
+, 
+and 
+i 
+did 
+n't 
+hear UnrelEv_bicycle
+any 
+hissing UnrelEv_bicycle
+and 
+it 
+did 
+not 
+go RelNScrEv_bicycle
+flat 
+. 
+i 
+then 
+put ScrEv_other_bicycle
+the 
+tire 
+back 
+on 
+the 
+front 
+bicycle 
+fork 
+, 
+and 
+tightened ScrEv_other_bicycle
+the 
+nuts 
+so 
+it 
+would 
+hold UnrelEv_bicycle
+very 
+well 
+and 
+not 
+slip UnrelEv_bicycle
+or 
+come+off UnrelEv_bicycle
+. 
+i 
+then 
+flipped RelNScrEv_bicycle
+my 
+bicycle 
+over 
+and 
+made+sure ScrEv_check_new_tire
+the 
+tire 
+was 
+still 
+holding UnrelEv_bicycle
+air 
+. 
+it 
+was UnrelEv_bicycle
+, 
+so 
+i 
+put+on UnrelEv_bicycle
+my 
+helmet 
+, 
+and 
+finally 
+was 
+able 
+to 
+enjoy UnrelEv_bicycle
+my 
+morning 
+bike+ride ScrEv_ride_bike
+. 
+<end_of_story>_bicycle 
+my 
+bike 
+tire 
+was UnrelEv_bicycle
+flat 
+so 
+i 
+went RelNScrEv_bicycle
+to 
+the 
+bike 
+shop 
+and 
+bought RelNScrEv_bicycle
+a 
+replacement 
+. 
+i 
+first 
+took ScrEv_take_tire_off
+the 
+old 
+tire 
+off 
+of 
+my 
+bike 
+. 
+then 
+i 
+set RelNScrEv_bicycle
+my 
+bike 
+on 
+a 
+rack 
+to 
+that 
+the 
+flat 
+tire 
+would 
+be UnrelEv_bicycle
+easy 
+to 
+get UnrelEv_bicycle
+to 
+. 
+then 
+i 
+put RelNScrEv_bicycle
+the 
+new 
+tire 
+around 
+the 
+wheel 
+to 
+see RelNScrEv_bicycle
+if 
+it 
+fits UnrelEv_bicycle
+. 
+it 
+did UnrelEv_bicycle
+. 
+then 
+i 
+put ScrEv_put_new_tire
+the 
+new 
+tire 
+into 
+the 
+grooves 
+inside 
+the 
+wheel 
+. 
+then 
+i 
+walked UnrelEv_bicycle
+with 
+my 
+bike 
+to 
+the 
+gas 
+station 
+just 
+around 
+the 
+corner 
+to 
+fill ScrEv_refill_tire_air
+it 
+up 
+with 
+air 
+. 
+i 
+put UnrelEv_bicycle
+a 
+quarter 
+into 
+the 
+air 
+machine 
+and 
+put UnrelEv_bicycle
+my 
+bike 
+next 
+to 
+the 
+air 
+hose 
+and 
+filled ScrEv_refill_tire_air
+the 
+tire 
+up 
+. 
+i 
+checked ScrEv_check_new_tire
+the 
+air 
+pressure 
+with 
+a 
+gauge 
+and 
+it 
+was UnrelEv_bicycle
+alright 
+. 
+i 
+felt ScrEv_check_new_tire
+around 
+the 
+tire 
+to 
+make+sure ScrEv_check_new_tire
+that 
+it 
+was UnrelEv_bicycle
+solidly 
+in 
+place 
+and 
+it 
+was UnrelEv_bicycle
+. 
+<end_of_story>_bicycle 
+while 
+i 
+was UnrelEv_bicycle
+out 
+riding ScrEv_ride_bike
+my 
+bike 
+one 
+warm 
+spring 
+day 
+, 
+one 
+of 
+the 
+tires 
+went RelNScrEv_bicycle
+flat 
+. 
+fortunately 
+i 
+had UnrelEv_bicycle
+a 
+repair 
+kit 
+with 
+me 
+in 
+a 
+pouch 
+on 
+the 
+bike 
+. 
+i 
+always 
+kept UnrelEv_bicycle
+it 
+with 
+me 
+on 
+rides ScrEv_ride_bike
+just 
+in 
+case 
+of 
+such 
+an 
+occurrence 
+. 
+i 
+got+off ScrEv_get_off
+and 
+went RelNScrEv_bicycle
+to 
+the 
+side 
+of 
+the 
+trail 
+out 
+of 
+the 
+way 
+of 
+other 
+bikers 
+and 
+runners 
+. 
+i 
+lay ScrEv_lay_bike_down
+the 
+bike 
+on 
+its 
+side 
+and 
+got ScrEv_get_tools
+the 
+repair 
+kit 
+out 
+of 
+the 
+pouch 
+. 
+the 
+repair 
+kit 
+contained UnrelEv_bicycle
+a 
+new 
+inner 
+tube 
+which 
+i 
+inflated ScrEv_refill_tire_air
+. 
+i 
+then 
+pulled ScrEv_take_tire_off
+the 
+outer 
+tire 
+off 
+of 
+the 
+inner 
+tube 
+. 
+i 
+replaced ScrEv_put_new_tire
+the 
+flattened RelNScrEv_bicycle
+inner 
+tube 
+with 
+the 
+new 
+one 
+and 
+replaced ScrEv_put_new_tire
+the 
+outer 
+tire 
+over 
+it 
+. 
+i 
+rode+off ScrEv_ride_bike
+slowly 
+to 
+make+sure ScrEv_check_new_tire
+everything 
+was UnrelEv_bicycle
+correctly 
+in 
+place 
+. 
+once 
+i 
+got UnrelEv_bicycle
+home 
+, 
+i 
+replaced UnrelEv_bicycle
+the 
+spare 
+tire 
+kit 
+with 
+a 
+new 
+one 
+so 
+that 
+i 
+would 
+be UnrelEv_bicycle
+prepared 
+on 
+my 
+next 
+ride ScrEv_ride_bike
+. 
+<end_of_story>_bicycle 
+while 
+riding ScrEv_ride_bike
+down 
+the 
+street 
+i 
+got RelNScrEv_bicycle
+a 
+flat 
+tire 
+on 
+my 
+bike 
+. 
+i 
+found+out ScrEv_examine_tire
+for 
+sure 
+that 
+the 
+tire 
+was UnrelEv_bicycle
+actually 
+flat 
+by 
+trying UnrelEv_bicycle
+to 
+fill RelNScrEv_bicycle
+it 
+up 
+and 
+see ScrEv_examine_tire
+if 
+it 
+held UnrelEv_bicycle
+air 
+. 
+it 
+did 
+not 
+stay UnrelEv_bicycle
+inflated 
+so 
+i 
+thought UnrelEv_bicycle
+that 
+i 
+needed 
+to 
+replace ScrEv_put_new_tire
+the 
+inner 
+tube 
+. 
+i 
+went UnrelEv_bicycle
+and 
+got ScrEv_get_tools
+my 
+dad 
+'s 
+adjustable 
+wrench 
+from 
+the 
+garage 
+, 
+hoping UnrelEv_bicycle
+he 
+would 
+not 
+be UnrelEv_bicycle
+angry 
+. 
+i 
+removed ScrEv_free_wheel
+the 
+wheel 
+by 
+loosening ScrEv_loose_nut
+the 
+two 
+nuts 
+using UnrelEv_bicycle
+the 
+wrench 
+and 
+almost 
+caught UnrelEv_bicycle
+my 
+finger 
+in 
+the 
+chain 
+. 
+after 
+the 
+wheel 
+had 
+been 
+removed ScrEv_free_wheel
+, 
+i 
+removed ScrEv_take_tire_off
+the 
+tire 
+and 
+tube 
+from 
+the 
+wheel 
+rim 
+and 
+nearly 
+cut UnrelEv_bicycle
+my 
+hand 
+again 
+. 
+i 
+removed ScrEv_remove_tire
+the 
+old 
+-lrb- 
+flat 
+-rrb- 
+inner 
+tube 
+and 
+replace ScrEv_put_new_tire
+it 
+with 
+a 
+new 
+tube 
+that 
+i 
+bought RelNScrEv_bicycle
+at 
+the 
+store 
+down 
+the 
+street 
+. 
+the 
+guy 
+at 
+the 
+store 
+said UnrelEv_bicycle
+that 
+if 
+the 
+hole 
+was UnrelEv_bicycle
+small 
+enough 
+, 
+i 
+could 
+possibly 
+patch ScrEv_put_patch/seal
+the 
+hole 
+using UnrelEv_bicycle
+a 
+tire 
+patch 
+kit 
+. 
+i 
+told UnrelEv_bicycle
+the 
+man 
+that 
+the 
+hole 
+was UnrelEv_bicycle
+523 
+inches 
+long 
+and 
+he 
+said UnrelEv_bicycle
+i 
+needed 
+to 
+replace ScrEv_put_new_tire
+the 
+inner 
+tube-but 
+i 
+already 
+figured UnrelEv_bicycle
+that 
+out 
+because 
+it 
+happened UnrelEv_bicycle
+last 
+summer 
+too 
+. 
+when 
+i 
+finally 
+had UnrelEv_bicycle
+the 
+new 
+tube 
+in 
+the 
+tire 
+, 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+rim 
+and 
+made+sure ScrEv_check_new_tire
+that 
+the 
+tube 
+stem 
+was UnrelEv_bicycle
+in 
+the 
+right 
+place 
+. 
+i 
+had UnrelEv_bicycle
+some 
+lemonade 
+and 
+then 
+i 
+put ScrEv_other_bicycle
+the 
+wheel 
+back 
+on 
+the 
+bike 
+and 
+tightened ScrEv_other_bicycle
+the 
+nuts 
+. 
+then 
+i 
+inflated ScrEv_refill_tire_air
+the 
+tire 
+and 
+rode ScrEv_ride_bike
+to 
+my 
+friend 
+steve 
+'s 
+house 
+to 
+play UnrelEv_bicycle
+video 
+games 
+. 
+<end_of_story>_bicycle 
+yesterday 
+afternoon 
+, 
+i 
+decided UnrelEv_bicycle
+to 
+ride ScrEv_ride_bike
+my 
+bike 
+to 
+central 
+park 
+. 
+i 
+rode ScrEv_ride_bike
+my 
+bike 
+to 
+the 
+park 
+from 
+my 
+apartment 
+, 
+it 
+took UnrelEv_bicycle
+me 
+about 
+523 
+minutes 
+. 
+i 
+was UnrelEv_bicycle
+very 
+excited 
+and 
+happy 
+because 
+i 
+have 
+n't 
+rode ScrEv_ride_bike
+my 
+bike 
+in 
+a 
+very 
+long 
+time 
+. 
+i 
+missed UnrelEv_bicycle
+the 
+experience 
+of 
+feeling UnrelEv_bicycle
+the 
+window 
+blowing UnrelEv_bicycle
+against 
+my 
+face 
+, 
+and 
+feeling UnrelEv_bicycle
+my 
+hair 
+float UnrelEv_bicycle
+in 
+the 
+air 
+. 
+when 
+i 
+finally 
+got UnrelEv_bicycle
+to 
+the 
+park 
+, 
+i 
+decided UnrelEv_bicycle
+that 
+i 
+would 
+ride ScrEv_ride_bike
+around 
+the 
+park 
+a 
+few 
+times 
+. 
+it 
+was 
+going 
+to 
+be UnrelEv_bicycle
+a 
+great 
+form 
+of 
+exercise 
+. 
+however 
+, 
+after 
+i 
+rode ScrEv_ride_bike
+the 
+bike 
+a 
+few 
+times 
+around 
+the 
+park 
+, 
+my 
+front 
+bicycle 
+tire 
+suddenly 
+started UnrelEv_bicycle
+to 
+lose RelNScrEv_bicycle
+air 
+. 
+i 
+safely 
+got+off ScrEv_get_off
+and 
+examined ScrEv_examine_tire
+the 
+tire 
+wheel 
+. 
+i 
+checked ScrEv_examine_tire
+if 
+there 
+was UnrelEv_bicycle
+any 
+rips 
+or 
+holes 
+on 
+the 
+wheel 
+. 
+perhaps 
+i 
+rode ScrEv_ride_bike
+over 
+something 
+sharp 
+. 
+i 
+found RelNScrEv_bicycle
+a 
+few 
+small 
+holes 
+on 
+the 
+bike 
+and 
+realized UnrelEv_bicycle
+the 
+culprit 
+for 
+my 
+flat 
+tire 
+. 
+i 
+was 
+forced UnrelEv_bicycle
+to 
+carry RelNScrEv_bicycle
+the 
+bike 
+home 
+in 
+order 
+to 
+repair+it Evoking_bicycle
+. 
+there 
+was UnrelEv_bicycle
+no 
+way 
+i 
+would 
+repair+it Evoking_bicycle
+at 
+the 
+park 
+. 
+once 
+i 
+brought RelNScrEv_bicycle
+it 
+home 
+, 
+i 
+brought RelNScrEv_bicycle
+it 
+to 
+my 
+basement 
+. 
+i 
+turned RelNScrEv_bicycle
+the 
+bike 
+over 
+so 
+that 
+it 
+stood UnrelEv_bicycle
+on 
+its 
+seat 
+and 
+handle 
+bars 
+. 
+i 
+let RelNScrEv_bicycle
+the 
+remaining UnrelEv_bicycle
+air 
+out 
+of 
+the 
+tube 
+of 
+my 
+broken 
+tire 
+. 
+once 
+the 
+tire 
+was 
+deflated RelNScrEv_bicycle
+, 
+i 
+took ScrEv_take_tire_off
+the 
+tire 
+off 
+the 
+rim 
+. 
+i 
+found RelNScrEv_bicycle
+the 
+part 
+of 
+the 
+tire 
+with 
+the 
+multiple 
+holes 
+. 
+i 
+spread RelNScrEv_bicycle
+a 
+thin 
+layer 
+of 
+glue 
+around 
+the 
+holes 
+. 
+then 
+i 
+looked+around RelNScrEv_bicycle
+for 
+my 
+tire 
+patch 
+kit 
+. 
+once 
+i 
+found RelNScrEv_bicycle
+it 
+, 
+i 
+applied ScrEv_put_patch/seal
+it 
+on 
+to 
+the 
+holes 
+and 
+covered RelNScrEv_bicycle
+over 
+them 
+. 
+i 
+then 
+placed ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+rim 
+and 
+inflated ScrEv_refill_tire_air
+it 
+again 
+. 
+<end_of_story>_bicycle 
+last 
+week 
+on 
+a 
+bike+ride ScrEv_ride_bike
+to 
+my 
+friends 
+house 
+, 
+i 
+was 
+traveling ScrEv_ride_bike
+on 
+a 
+very 
+rough 
+road 
+with 
+a 
+lot 
+of 
+rocks 
+on 
+the 
+side 
+of 
+it 
+. 
+i 
+realized ScrEv_notice_problem
+after 
+about 
+523 
+minutes 
+into 
+my 
+ride ScrEv_ride_bike
+that 
+i 
+had UnrelEv_bicycle
+a 
+very 
+bad 
+flat 
+tire 
+. 
+thankfully 
+i 
+carry UnrelEv_bicycle
+the 
+proper 
+tools 
+and 
+items 
+with 
+me 
+to 
+fix+it Evoking_bicycle
+. 
+i 
+pulled RelNScrEv_bicycle
+off 
+the 
+road 
+and 
+opened RelNScrEv_bicycle
+my 
+bag 
+with 
+my 
+tools 
+. 
+after 
+removing ScrEv_take_tire_off
+the 
+tire 
+and 
+the 
+tube 
+inside 
+, 
+i 
+used UnrelEv_bicycle
+my 
+tools 
+to 
+put ScrEv_put_new_tire
+a 
+brand 
+new 
+tube 
+inside 
+of 
+the 
+tire 
+. 
+i 
+checked ScrEv_check_new_tire
+it 
+to 
+make+sure ScrEv_check_new_tire
+that 
+i 
+had 
+aligned UnrelEv_bicycle
+everything 
+correctly 
+and 
+after 
+ensuring ScrEv_check_new_tire
+that 
+i 
+did UnrelEv_bicycle
+, 
+i 
+placed ScrEv_put_new_tire
+the 
+tire 
+back 
+onto 
+the 
+bike 
+. 
+i 
+then 
+used UnrelEv_bicycle
+my 
+portable 
+pump 
+to 
+make+sure ScrEv_check_new_tire
+that 
+i 
+had UnrelEv_bicycle
+the 
+proper 
+amount 
+of 
+air 
+pressure 
+inside 
+of 
+it 
+, 
+because 
+i 
+did 
+n't 
+want UnrelEv_bicycle
+another 
+flat 
+. 
+after 
+checking ScrEv_check_new_tire
+everything 
+twice 
+, 
+i 
+was UnrelEv_bicycle
+on 
+my 
+way 
+again 
+. 
+it 
+was UnrelEv_bicycle
+an 
+easy 
+fix 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+along 
+the 
+road 
+when 
+a 
+tire 
+blew+out RelNScrEv_bicycle
+. 
+i 
+dragged RelNScrEv_bicycle
+it 
+back 
+to 
+my 
+garage 
+and 
+began UnrelEv_bicycle
+to 
+repair+my+bicycle+'s+tire Evoking_bicycle
+. 
+i 
+flipped RelNScrEv_bicycle
+the 
+bike 
+upside 
+down 
+and 
+stood RelNScrEv_bicycle
+it 
+up 
+so 
+that 
+i 
+could 
+work RelNScrEv_bicycle
+on 
+it 
+from 
+the 
+bottom-up 
+. 
+i 
+took+off ScrEv_take_tire_off
+the 
+old 
+tire 
+and 
+began 
+putting+on ScrEv_put_new_tire
+the 
+new 
+one 
+that 
+i 
+had UnrelEv_bicycle
+around 
+in 
+my 
+garage 
+. 
+once 
+i 
+replaced ScrEv_put_new_tire
+the 
+tire 
+i 
+flipped RelNScrEv_bicycle
+it 
+back 
+around 
+to 
+make+sure ScrEv_check_new_tire
+that 
+i 
+had 
+put ScrEv_put_new_tire
+it 
+on 
+correctly 
+and 
+once 
+i 
+had 
+double 
+checked ScrEv_check_new_tire
+that 
+it 
+was UnrelEv_bicycle
+on 
+correctly 
+i 
+started UnrelEv_bicycle
+to 
+ride ScrEv_ride_bike
+my 
+bike 
+down 
+the 
+road 
+to 
+test RelNScrEv_bicycle
+the 
+bicycle 
+and 
+the 
+tire 
+so 
+that 
+if 
+there 
+was UnrelEv_bicycle
+something 
+wrong 
+with 
+it 
+i 
+could 
+figure ScrEv_notice_problem
+it 
+out 
+now 
+and 
+not 
+after 
+in 
+case 
+i 
+was UnrelEv_bicycle
+in 
+a 
+situation 
+, 
+such 
+as 
+going UnrelEv_bicycle
+down 
+a 
+hill 
+, 
+that 
+it 
+could 
+be UnrelEv_bicycle
+harmful 
+to 
+me 
+in 
+any 
+way 
+. 
+<end_of_story>_bicycle 
+while 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+i 
+accidentally 
+ran+over RelNScrEv_bicycle
+a 
+nail 
+. 
+my 
+rear 
+tire 
+quickly 
+deflated RelNScrEv_bicycle
+. 
+i 
+walked RelNScrEv_bicycle
+the 
+bike 
+home 
+. 
+my 
+bike 
+tire 
+had UnrelEv_bicycle
+an 
+inner 
+tube 
+, 
+and 
+i 
+had UnrelEv_bicycle
+an 
+extra 
+one 
+in 
+my 
+basement 
+. 
+i 
+got RelNScrEv_bicycle
+the 
+extra 
+inner 
+tube 
+and 
+went UnrelEv_bicycle
+to 
+work 
+. 
+in 
+order 
+to 
+fix+my+tire Evoking_bicycle
+, 
+i 
+had 
+to 
+pry ScrEv_take_tire_off
+the 
+rubber 
+outer 
+tire 
+out 
+of 
+the 
+wheel 
+'s 
+metal 
+rim 
+. 
+i 
+got ScrEv_get_tools
+a 
+screwdriver 
+and 
+inserted RelNScrEv_bicycle
+it 
+between 
+the 
+metal 
+and 
+rubber 
+, 
+lifting ScrEv_take_tire_off
+the 
+rubber 
+out 
+. 
+i 
+went UnrelEv_bicycle
+around 
+the 
+rim 
+that 
+way 
+taking ScrEv_take_tire_off
+the 
+tire 
+out 
+of 
+the 
+rim 
+. 
+once 
+it 
+was UnrelEv_bicycle
+out 
+, 
+i 
+was 
+able 
+to 
+pull ScrEv_take_tire_off
+the 
+broken 
+inner 
+tube 
+out 
+. 
+as 
+i 
+'d 
+figured UnrelEv_bicycle
+, 
+there 
+was UnrelEv_bicycle
+a 
+big 
+hole 
+in 
+it 
+from 
+the 
+nail 
+. 
+i 
+put ScrEv_remove_tire
+the 
+old 
+inner 
+tube 
+aside 
+and 
+got RelNScrEv_bicycle
+the 
+new 
+one 
+. 
+there 
+'s UnrelEv_bicycle
+a 
+part 
+on 
+the 
+tube 
+where 
+a 
+valve 
+comes+out UnrelEv_bicycle
+. 
+that 
+'s 
+where 
+you 
+attach RelNScrEv_bicycle
+a 
+pump 
+to 
+fill ScrEv_refill_tire_air
+the 
+tube 
+with 
+air 
+. 
+i 
+put RelNScrEv_bicycle
+this 
+valve 
+through 
+the 
+hole 
+in 
+the 
+rim 
+that 
+it 
+'s UnrelEv_bicycle
+supposed 
+to 
+stick+through UnrelEv_bicycle
+. 
+then 
+i 
+went UnrelEv_bicycle
+around 
+the 
+rim 
+squeezing ScrEv_put_new_tire
+the 
+inner 
+tube 
+into 
+the 
+tire 
+. 
+once 
+i 
+had UnrelEv_bicycle
+the 
+inner 
+tube 
+in 
+place 
+, 
+i 
+went UnrelEv_bicycle
+around 
+the 
+rim 
+again 
+pushing ScrEv_put_new_tire
+the 
+outer 
+part 
+of 
+the 
+tire 
+back 
+into 
+the 
+rim 
+. 
+that 
+was UnrelEv_bicycle
+hard 
+work 
+, 
+but 
+i 
+finally 
+managed UnrelEv_bicycle
+it 
+. 
+once 
+that 
+was UnrelEv_bicycle
+done 
+, 
+i 
+got+out ScrEv_get_tools
+my 
+bike 
+pump 
+, 
+fitted RelNScrEv_bicycle
+it 
+to 
+the 
+inner 
+tube 
+'s 
+valve 
+, 
+and 
+filled ScrEv_refill_tire_air
+the 
+new 
+tire 
+with 
+air 
+. 
+soon 
+my 
+tire 
+was UnrelEv_bicycle
+completely 
+repaired Evoking_bicycle
+and 
+i 
+was 
+able 
+to 
+ride ScrEv_ride_bike
+again 
+! 
+<end_of_story>_bicycle 
+i 
+was 
+going 
+to 
+go ScrEv_ride_bike
+on 
+a 
+bike 
+ride 
+with 
+a 
+friend 
+. 
+i 
+pulled UnrelEv_bicycle
+my 
+bike 
+out 
+of 
+the 
+garage 
+only 
+to 
+discover ScrEv_notice_problem
+i 
+had 
+a 
+flat 
+tire 
+. 
+i 
+was UnrelEv_bicycle
+n't 
+sure 
+if 
+the 
+flat 
+was UnrelEv_bicycle
+just 
+from 
+a 
+slow 
+leak 
+or 
+a 
+bad 
+tube 
+. 
+if 
+it 
+was UnrelEv_bicycle
+from 
+a 
+bad 
+tube 
+i 
+would 
+have 
+to 
+use UnrelEv_bicycle
+tools 
+to 
+take ScrEv_take_tire_off
+the 
+tire 
+completely 
+off 
+. 
+then 
+i 
+would 
+have 
+to 
+replace ScrEv_put_new_tire
+the 
+tube 
+. 
+if 
+it 
+was UnrelEv_bicycle
+just 
+a 
+slow 
+leak 
+i 
+could 
+just 
+inflate ScrEv_refill_tire_air
+the 
+tire 
+with 
+my 
+air 
+pump 
+and 
+be UnrelEv_bicycle
+on 
+my 
+way 
+. 
+i 
+decided UnrelEv_bicycle
+to 
+try UnrelEv_bicycle
+the 
+easy 
+route 
+first 
+and 
+inflated ScrEv_refill_tire_air
+the 
+tire 
+with 
+the 
+pump 
+. 
+it 
+felt ScrEv_check_new_tire
+as 
+if 
+the 
+tire 
+was UnrelEv_bicycle
+full 
+and 
+the 
+problem 
+was UnrelEv_bicycle
+solved 
+. 
+i 
+took ScrEv_ride_bike
+the 
+bike 
+for 
+a 
+test 
+ride 
+around 
+the 
+neighborhood 
+just 
+to 
+be UnrelEv_bicycle
+sure 
+that 
+it 
+was UnrelEv_bicycle
+fully 
+inflated ScrEv_refill_tire_air
+and 
+would 
+stay UnrelEv_bicycle
+that 
+way 
+. 
+it 
+stayed UnrelEv_bicycle
+inflated ScrEv_refill_tire_air
+and 
+i 
+set+off ScrEv_ride_bike
+to 
+meet UnrelEv_bicycle
+with 
+my 
+friend 
+. 
+<end_of_story>_bicycle 
+one 
+time 
+i 
+drove ScrEv_ride_bike
+over 
+a 
+piece 
+of 
+glass 
+and 
+it 
+put RelNScrEv_bicycle
+a 
+hole 
+into 
+my 
+bicycle 
+tire 
+. 
+i 
+had 
+to 
+walk RelNScrEv_bicycle
+my 
+bicycle 
+all 
+the 
+way 
+home 
+, 
+which 
+was UnrelEv_bicycle
+very 
+unpleasant 
+, 
+and 
+then 
+i 
+could 
+not 
+use ScrEv_ride_bike
+my 
+bike 
+again 
+until 
+i 
+had 
+fixed+it Evoking_bicycle
+. 
+so 
+i 
+looked+up RelNScrEv_bicycle
+online 
+how 
+to 
+fix+a+punctured+tire Evoking_bicycle
+, 
+and 
+went RelNScrEv_bicycle
+to 
+the 
+hardware 
+store 
+to 
+pick+up ScrEv_get_tools
+the 
+necessary 
+tools 
+. 
+after 
+purchasing ScrEv_get_tools
+these 
+tools 
+i 
+pumped ScrEv_refill_tire_air
+some 
+air 
+into 
+the 
+tire 
+to 
+locate RelNScrEv_bicycle
+the 
+hole 
+and 
+then 
+i 
+took ScrEv_take_tire_off
+the 
+tire 
+off 
+of 
+the 
+wheel 
+to 
+repair+it Evoking_bicycle
+. 
+i 
+followed UnrelEv_bicycle
+the 
+directions 
+on 
+the 
+repair 
+kit 
+which 
+were UnrelEv_bicycle
+actually 
+very 
+simple 
+. 
+after 
+i 
+had 
+patched ScrEv_put_patch/seal
+the 
+hole 
+, 
+i 
+waited RelNScrEv_bicycle
+for 
+the 
+adhesive 
+material 
+to 
+dry RelNScrEv_bicycle
+and 
+then 
+i 
+took ScrEv_ride_bike
+the 
+bike 
+out 
+for 
+a 
+short 
+test 
+run 
+to 
+make+sure ScrEv_check_new_tire
+that 
+if 
+the 
+tire 
+failed RelNScrEv_bicycle
+again 
+i 
+would 
+not 
+be UnrelEv_bicycle
+far 
+from 
+home 
+. 
+<end_of_story>_bicycle 
+if 
+you 
+have UnrelEv_bicycle
+a 
+flat 
+tire 
+it 
+is UnrelEv_bicycle
+quite 
+easy 
+to 
+change+it Evoking_bicycle
+yourself 
+. 
+the 
+front 
+tire 
+is UnrelEv_bicycle
+the 
+easiest 
+to 
+change Unclear_bicycle
+while 
+the 
+back 
+will 
+require UnrelEv_bicycle
+more 
+time 
+and 
+maybe 
+additional 
+tools 
+. 
+this 
+is UnrelEv_bicycle
+usually 
+the 
+back 
+tire 
+is UnrelEv_bicycle
+where 
+the 
+chain 
+and 
+gears 
+are 
+connected UnrelEv_bicycle
+to 
+so 
+it 
+is 
+harder 
+to 
+take+off ScrEv_free_wheel
+the 
+bike 
+frame 
+. 
+sadly 
+, 
+most 
+of 
+the 
+time 
+a 
+flat 
+tire 
+is UnrelEv_bicycle
+the 
+back 
+tire 
+because 
+the 
+back 
+tire 
+supports UnrelEv_bicycle
+most 
+of 
+your 
+weight 
+on 
+a 
+bicycle 
+. 
+so 
+you 
+'ll 
+need UnrelEv_bicycle
+a 
+wrench 
+to 
+undo ScrEv_loose_nut
+the 
+bolts 
+on 
+both 
+sides 
+of 
+the 
+tire 
+. 
+this 
+will 
+allow UnrelEv_bicycle
+you 
+to 
+take+off ScrEv_free_wheel
+the 
+entire 
+tire 
+. 
+inside 
+the 
+tire 
+is UnrelEv_bicycle
+an 
+innertube 
+, 
+and 
+this 
+is UnrelEv_bicycle
+the 
+part 
+you 
+either 
+need 
+to 
+replace ScrEv_put_new_tire
+or 
+patch+up ScrEv_put_patch/seal
+. 
+if 
+it 
+is UnrelEv_bicycle
+a 
+small 
+hole 
+and 
+you 
+can 
+easily 
+find RelNScrEv_bicycle
+the 
+hole 
+, 
+you 
+can 
+use UnrelEv_bicycle
+a 
+tire 
+patch 
+kit 
+to 
+fix ScrEv_put_patch/seal
+the 
+hole 
+. 
+other 
+wise 
+you 
+may UnrelEv_bicycle
+just 
+replace ScrEv_put_new_tire
+the 
+entire 
+innertube 
+altogether 
+. 
+either 
+way 
+you 
+will 
+put ScrEv_put_new_tire
+the 
+innertube 
+back 
+, 
+and 
+then 
+the 
+tire 
+back 
+onto 
+the 
+bike 
+frame 
+. 
+lastly 
+, 
+screw RelNScrEv_bicycle
+back 
+on 
+the 
+bolts 
+and 
+pump ScrEv_refill_tire_air
+some 
+air 
+into 
+the 
+tire 
+. 
+you 
+'ll 
+be UnrelEv_bicycle
+ready 
+to 
+ride ScrEv_ride_bike
+soon 
+after 
+! 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+around 
+my 
+house 
+and 
+noticed ScrEv_notice_problem
+i 
+had 
+to 
+peddle UnrelEv_bicycle
+harder 
+than 
+i 
+usually 
+do UnrelEv_bicycle
+. 
+i 
+got ScrEv_get_off
+off 
+my 
+bike 
+to 
+see ScrEv_examine_tire
+if 
+everything 
+was UnrelEv_bicycle
+wrong 
+. 
+the 
+front 
+tire 
+looked UnrelEv_bicycle
+okay 
+, 
+the 
+chain 
+was UnrelEv_bicycle
+still 
+on 
+the 
+bike 
+, 
+but 
+the 
+back 
+tire 
+was UnrelEv_bicycle
+flat 
+unfortunately 
+. 
+i 
+walked RelNScrEv_bicycle
+my 
+bike 
+back 
+to 
+my 
+house 
+because 
+it 
+is UnrelEv_bicycle
+not 
+safe 
+to 
+ride ScrEv_ride_bike
+a 
+bike 
+with 
+a 
+flat 
+tire 
+. 
+i 
+went RelNScrEv_bicycle
+in 
+my 
+garage 
+and 
+looked RelNScrEv_bicycle
+for 
+the 
+air 
+pump 
+. 
+i 
+connected RelNScrEv_bicycle
+the 
+valve 
+of 
+the 
+pump 
+to 
+the 
+valve 
+on 
+the 
+tire 
+. 
+i 
+pumped ScrEv_refill_tire_air
+the 
+air 
+pump 
+and 
+kept 
+checking RelNScrEv_bicycle
+the 
+tire 
+to 
+make+sure UnrelEv_bicycle
+it 
+was 
+working UnrelEv_bicycle
+. 
+it 
+was UnrelEv_bicycle
+hard 
+work 
+and 
+it 
+took UnrelEv_bicycle
+longer 
+than 
+i 
+thought UnrelEv_bicycle
+. 
+eventually 
+, 
+the 
+tire 
+seemed UnrelEv_bicycle
+full 
+with 
+air 
+. 
+i 
+put UnrelEv_bicycle
+my 
+ear 
+next 
+to 
+it 
+to 
+see ScrEv_check_new_tire
+if 
+i 
+could 
+hear UnrelEv_bicycle
+any 
+air 
+coming+out UnrelEv_bicycle
+but 
+i 
+did 
+n't 
+hear UnrelEv_bicycle
+any 
+. 
+i 
+got RelNScrEv_bicycle
+back 
+on 
+my 
+bike 
+and 
+it 
+rode ScrEv_ride_bike
+fine 
+. 
+<end_of_story>_bicycle 
+in 
+a 
+couple 
+days 
+, 
+me 
+and 
+some 
+friends 
+were 
+going 
+to 
+celebrate UnrelEv_bicycle
+the 
+good 
+weather 
+by 
+going UnrelEv_bicycle
+biking ScrEv_ride_bike
+. 
+i 
+had UnrelEv_bicycle
+my 
+bike 
+sit UnrelEv_bicycle
+in 
+my 
+garage 
+for 
+a 
+couple 
+years 
+not 
+using UnrelEv_bicycle
+it 
+. 
+so 
+when 
+i 
+decided UnrelEv_bicycle
+to 
+get UnrelEv_bicycle
+it 
+out 
+, 
+to 
+my 
+surprise 
+it 
+had UnrelEv_bicycle
+flat 
+tires 
+. 
+i 
+struggled UnrelEv_bicycle
+to 
+get UnrelEv_bicycle
+the 
+bike 
+out 
+of 
+the 
+garage 
+with 
+all 
+the 
+other 
+junk 
+in 
+it 
+, 
+and 
+found RelNScrEv_bicycle
+my 
+tire 
+pump 
+along 
+with 
+it 
+. 
+after 
+i 
+got UnrelEv_bicycle
+my 
+bike 
+out 
+, 
+i 
+kneeled UnrelEv_bicycle
+near 
+the 
+bike 
+and 
+found RelNScrEv_bicycle
+cap 
+for 
+the 
+tire 
+. 
+i 
+unscrewed ScrEv_pull_air_pin
+it 
+with 
+a 
+pair 
+of 
+pliers 
+because 
+it 
+was UnrelEv_bicycle
+on 
+tight 
+. 
+i 
+plugged RelNScrEv_bicycle
+the 
+hose 
+into 
+the 
+tire 
+and 
+started UnrelEv_bicycle
+pumping ScrEv_refill_tire_air
+until 
+it 
+was UnrelEv_bicycle
+at 
+a 
+good 
+level 
+. 
+i 
+quickly 
+unplugged RelNScrEv_bicycle
+the 
+air 
+pump 
+and 
+screwed RelNScrEv_bicycle
+the 
+cap 
+back 
+on 
+. 
+after 
+this 
+i 
+moved UnrelEv_bicycle
+over 
+to 
+the 
+rear 
+tire 
+, 
+and 
+repeated UnrelEv_bicycle
+the 
+same 
+process 
+to 
+fix+my+flat+bicycle+tire Evoking_bicycle
+. 
+<end_of_story>_bicycle 
+as 
+an 
+avid 
+mountain 
+biker 
+, 
+i 
+have 
+found UnrelEv_bicycle
+myself 
+in 
+many 
+precarious 
+situations 
+. 
+from 
+run 
+ins 
+with 
+bears 
+, 
+to 
+falling UnrelEv_bicycle
+into 
+prickly 
+bushes 
+. 
+it 
+is UnrelEv_bicycle
+always 
+an 
+adventure 
+when 
+you 
+are 
+riding ScrEv_ride_bike
+your 
+mountain 
+bike 
+through 
+the 
+great 
+outdoors 
+. 
+one 
+particular 
+issue 
+that 
+affects UnrelEv_bicycle
+all 
+mountain 
+bikers 
+, 
+is UnrelEv_bicycle
+flat 
+tires 
+. 
+i 
+have 
+had UnrelEv_bicycle
+numerous 
+flat 
+tires 
+during 
+my 
+years 
+riding ScrEv_ride_bike
+. 
+the 
+first 
+flat 
+tire 
+i 
+ever 
+had+left UnrelEv_bicycle
+me 
+stranded UnrelEv_bicycle
+miles 
+away 
+form 
+civilization 
+. 
+i 
+had 
+to 
+hoof RelNScrEv_bicycle
+it 
+out 
+on 
+foot 
+, 
+carrying RelNScrEv_bicycle
+a 
+broken 
+bike 
+. 
+it 
+was UnrelEv_bicycle
+an 
+experience 
+i 
+did 
+not 
+want 
+to 
+relive UnrelEv_bicycle
+again 
+. 
+from 
+then 
+on 
+i 
+purchased ScrEv_get_tools
+and 
+kept UnrelEv_bicycle
+many 
+bicycle 
+tire 
+tubes 
+in 
+my 
+riding 
+gear 
+. 
+to 
+replace+a+bicycle+tire Evoking_bicycle
+is UnrelEv_bicycle
+now 
+a 
+simple 
+process 
+for 
+me 
+. 
+you 
+break RelNScrEv_bicycle
+the 
+bead 
+on 
+the 
+old 
+tire 
+shell 
+and 
+pull ScrEv_take_tire_off
+it 
+slightly 
+to 
+the 
+side 
+. 
+you 
+work ScrEv_take_tire_off
+the 
+tube 
+out 
+from 
+between 
+the 
+rim 
+and 
+the 
+tire 
+itself 
+. 
+you 
+then 
+stuff ScrEv_put_new_tire
+the 
+new 
+rubber 
+tube 
+where 
+the 
+old 
+one 
+was 
+, 
+making+sure RelNScrEv_bicycle
+the 
+nipple 
+matches UnrelEv_bicycle
+with 
+the 
+nipple 
+hole 
+. 
+you 
+then 
+move ScrEv_put_new_tire
+the 
+outer 
+tire 
+back 
+into 
+position 
+and 
+pump+up ScrEv_refill_tire_air
+the 
+tire 
+. 
+<end_of_story>_bicycle 
+one 
+day 
+my 
+bicycle 
+tire 
+got RelNScrEv_bicycle
+flat 
+due 
+to 
+hitting RelNScrEv_bicycle
+some 
+glass 
+in 
+the 
+street 
+. 
+i 
+then 
+had 
+to 
+walk RelNScrEv_bicycle
+the 
+rest 
+of 
+the 
+way 
+home 
+. 
+i 
+took RelNScrEv_bicycle
+it 
+into 
+my 
+garage 
+and 
+tried UnrelEv_bicycle
+to 
+repair+it Evoking_bicycle
+by 
+putting ScrEv_put_patch/seal
+some 
+duct 
+tape 
+on 
+it 
+and 
+pumping ScrEv_refill_tire_air
+it 
+with 
+air 
+. 
+this 
+, 
+however 
+, 
+only 
+made UnrelEv_bicycle
+matters 
+worst 
+and 
+all 
+the 
+air 
+ended+up+making UnrelEv_bicycle
+another 
+hole 
+in 
+my 
+tire 
+because 
+i 
+over+inflated RelNScrEv_bicycle
+it 
+. 
+i 
+decided UnrelEv_bicycle
+that 
+i 
+had UnrelEv_bicycle
+no 
+other 
+options 
+and 
+i 
+ordered ScrEv_get_tools
+a 
+new 
+tire 
+on 
+amazon 
+for 
+my 
+bike 
+. 
+once 
+that 
+came UnrelEv_bicycle
+in 
+the 
+mail 
+it 
+was UnrelEv_bicycle
+time 
+to 
+repair+my+broken+bike Evoking_bicycle
+. 
+i 
+got ScrEv_get_tools
+a 
+socket 
+wrench 
+and 
+unscrewed ScrEv_loose_nut
+the 
+nut 
+of 
+the 
+bike 
+that 
+attached UnrelEv_bicycle
+to 
+the 
+wheel 
+. 
+after 
+that 
+i 
+got ScrEv_get_tools
+my 
+new 
+bike 
+tire 
+and 
+put ScrEv_put_new_tire
+it 
+on 
+the 
+frame 
+of 
+the 
+bike 
+and 
+screwed ScrEv_other_bicycle
+it 
+back 
+on 
+. 
+once 
+that 
+was UnrelEv_bicycle
+complete 
+my 
+bike 
+was UnrelEv_bicycle
+as 
+good 
+as 
+new 
+and 
+i 
+was UnrelEv_bicycle
+back 
+to 
+riding ScrEv_ride_bike
+my 
+daily 
+bike 
+trail 
+by 
+my 
+house 
+. 
+<end_of_story>_bicycle 
+it 
+'s UnrelEv_bicycle
+a 
+major 
+bummer 
+when 
+you 
+are UnrelEv_bicycle
+excited 
+to 
+ride ScrEv_ride_bike
+your 
+bike 
+only 
+to 
+find ScrEv_notice_problem
+that 
+you 
+have 
+somehow 
+ended+up UnrelEv_bicycle
+with 
+a 
+flat 
+tire 
+. 
+i 
+try 
+to 
+keep UnrelEv_bicycle
+a 
+repair 
+kit 
+on 
+hand 
+for 
+just 
+such 
+an 
+opportunity 
+. 
+the 
+first 
+thing 
+i 
+do+is UnrelEv_bicycle
+determine ScrEv_examine_tire
+what 
+is UnrelEv_bicycle
+the 
+cause 
+of 
+the 
+flat 
+. 
+perhaps 
+the 
+tire 
+has 
+been 
+punctured RelNScrEv_bicycle
+, 
+or 
+perhaps 
+it 
+is UnrelEv_bicycle
+an 
+older 
+tire 
+and 
+the 
+seal 
+is 
+failing RelNScrEv_bicycle
+. 
+if 
+it 
+is UnrelEv_bicycle
+a 
+puncture 
+, 
+i 
+would 
+do UnrelEv_bicycle
+my 
+best 
+to 
+seal ScrEv_put_patch/seal
+the 
+hole 
+with 
+my 
+available 
+materials 
+and 
+then 
+allow UnrelEv_bicycle
+the 
+sealant 
+to 
+dry RelNScrEv_bicycle
+for 
+as 
+long 
+as 
+is+required UnrelEv_bicycle
+. 
+i 
+have UnrelEv_bicycle
+my 
+tire 
+pump 
+on 
+hand 
+, 
+so 
+when 
+the 
+tire 
+is UnrelEv_bicycle
+ready 
+i 
+can 
+slowly 
+pump ScrEv_refill_tire_air
+air 
+while 
+also 
+watching ScrEv_check_new_tire
+to 
+see ScrEv_check_new_tire
+if 
+i 
+am 
+losing UnrelEv_bicycle
+air 
+. 
+if 
+the 
+seal 
+holds UnrelEv_bicycle
+, 
+my 
+bike 
+is UnrelEv_bicycle
+good 
+to 
+go UnrelEv_bicycle
+. 
+if 
+i 
+still 
+feel ScrEv_check_new_tire
+or 
+see ScrEv_check_new_tire
+a 
+leak 
+, 
+i 
+know UnrelEv_bicycle
+there 
+is UnrelEv_bicycle
+a 
+bigger 
+issue 
+to 
+contend UnrelEv_bicycle
+with 
+. 
+<end_of_story>_bicycle 
+carrying UnrelEv_bicycle
+a 
+spare 
+inner 
+tube 
+saves UnrelEv_bicycle
+lots 
+of 
+time 
+and 
+trouble 
+, 
+since 
+i 
+have 
+to 
+carry UnrelEv_bicycle
+a 
+patch 
+kit 
+anyway 
+. 
+however 
+, 
+if 
+i 
+do 
+n't 
+have UnrelEv_bicycle
+one 
+, 
+i 
+can 
+still 
+fix+a+flat Evoking_bicycle
+. 
+first 
+i 
+turn RelNScrEv_bicycle
+the 
+bike 
+over 
+, 
+and 
+remove RelNScrEv_bicycle
+the 
+brake 
+by 
+opening RelNScrEv_bicycle
+the 
+quick 
+release 
+lever 
+. 
+then 
+i 
+remove ScrEv_take_tire_off
+the 
+tire 
+with 
+its 
+quick 
+release 
+lever 
+. 
+now 
+i 
+inspect ScrEv_examine_tire
+the 
+outside 
+of 
+the 
+tire 
+, 
+to 
+try UnrelEv_bicycle
+to 
+find ScrEv_examine_tire
+the 
+source 
+of 
+the 
+problem 
+. 
+i 
+look ScrEv_examine_tire
+for 
+imbedded 
+glass 
+, 
+thorns 
+, 
+cuts 
+or 
+tears 
+. 
+if 
+i 
+find RelNScrEv_bicycle
+a 
+foreign 
+object 
+, 
+i 
+remove RelNScrEv_bicycle
+it 
+. 
+then 
+i 
+take ScrEv_take_tire_off
+the 
+tire 
+off 
+. 
+i 
+deflate RelNScrEv_bicycle
+it 
+, 
+and 
+push RelNScrEv_bicycle
+the 
+side 
+of 
+the 
+tire 
+towards 
+the 
+middle 
+, 
+trying UnrelEv_bicycle
+to 
+expose ScrEv_take_tire_off
+the 
+tube 
+. 
+if 
+that 
+fails UnrelEv_bicycle
+, 
+i 
+use UnrelEv_bicycle
+tire 
+irons 
+, 
+if 
+i 
+have UnrelEv_bicycle
+them 
+. 
+i 
+shove RelNScrEv_bicycle
+one 
+in 
+on 
+the 
+opposite 
+side 
+of 
+the 
+wheel 
+form 
+the 
+valve 
+, 
+and 
+lever RelNScrEv_bicycle
+the 
+edge 
+of 
+the 
+tire 
+out 
+of 
+the 
+rim 
+. 
+then 
+i 
+put+in RelNScrEv_bicycle
+the 
+next 
+tire 
+iron 
+about 
+three 
+spokes 
+away 
+and 
+try UnrelEv_bicycle
+to 
+lift RelNScrEv_bicycle
+the 
+section 
+of 
+tire 
+in 
+between 
+up 
+and 
+away 
+from 
+the 
+rim 
+. 
+this 
+makes UnrelEv_bicycle
+it 
+possible 
+to 
+take ScrEv_take_tire_off
+the 
+whole 
+tire 
+out 
+and 
+remove ScrEv_remove_tire
+it 
+. 
+i 
+look ScrEv_examine_tire
+for 
+the 
+leak 
+inside 
+the 
+tire 
+, 
+and 
+then 
+on 
+the 
+tube 
+. 
+i 
+deflate RelNScrEv_bicycle
+the 
+tube 
+by 
+pushing RelNScrEv_bicycle
+the 
+valve 
+center 
+until 
+i 
+hear UnrelEv_bicycle
+air 
+hiss UnrelEv_bicycle
+. 
+if 
+i 
+can 
+not 
+find RelNScrEv_bicycle
+the 
+leak 
+, 
+i 
+put RelNScrEv_bicycle
+the 
+tube 
+in 
+a 
+bucket 
+of 
+water 
+and 
+look ScrEv_examine_tire
+for 
+bubbles 
+. 
+if 
+i 
+can 
+not 
+do UnrelEv_bicycle
+that 
+, 
+i 
+listen RelNScrEv_bicycle
+, 
+and 
+then 
+i 
+look ScrEv_examine_tire
+around 
+the 
+valve 
+. 
+i 
+also 
+inspect ScrEv_examine_tire
+the 
+inside 
+of 
+the 
+tire 
+. 
+now 
+, 
+i 
+need UnrelEv_bicycle
+a 
+patch 
+kit 
+. 
+i 
+clean RelNScrEv_bicycle
+the 
+outside 
+of 
+the 
+tire 
+near 
+the 
+leak 
+as 
+much 
+as 
+i 
+can UnrelEv_bicycle
+. 
+then 
+i 
+roughen RelNScrEv_bicycle
+the 
+area 
+with 
+the 
+scratchy 
+thing 
+provided UnrelEv_bicycle
+. 
+i 
+spread RelNScrEv_bicycle
+the 
+foul-smelling UnrelEv_bicycle
+glue 
+, 
+let UnrelEv_bicycle
+it 
+dry RelNScrEv_bicycle
+until 
+it 
+is UnrelEv_bicycle
+tacky 
+, 
+and 
+press+on ScrEv_put_patch/seal
+the 
+patch 
+, 
+starting UnrelEv_bicycle
+at 
+its 
+center 
+, 
+and 
+being UnrelEv_bicycle
+careful 
+not 
+to 
+glue UnrelEv_bicycle
+the 
+tire 
+to 
+itself 
+. 
+now 
+i 
+partially 
+re-inflate ScrEv_refill_tire_air
+the 
+tube 
+, 
+and 
+replace ScrEv_put_new_tire
+it 
+in 
+the 
+tire 
+, 
+making+sure UnrelEv_bicycle
+the 
+spoke 
+cushion 
+stays UnrelEv_bicycle
+in 
+place 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+on 
+the 
+wheel 
+, 
+and 
+check ScrEv_check_new_tire
+to 
+see UnrelEv_bicycle
+that 
+the 
+valve 
+is 
+pointed UnrelEv_bicycle
+straight 
+to 
+the 
+center 
+. 
+i 
+re-inflate ScrEv_refill_tire_air
+the 
+tube 
+, 
+and 
+then 
+replace ScrEv_other_bicycle
+the 
+wheel 
+and 
+reattach RelNScrEv_bicycle
+it 
+and 
+reattach RelNScrEv_bicycle
+the 
+brake 
+. 
+and 
+i 
+turn RelNScrEv_bicycle
+the 
+bike 
+over 
+again 
+and 
+ride ScrEv_ride_bike
+. 
+<end_of_story>_bicycle 
+when 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+this 
+past 
+summer 
+, 
+one 
+of 
+my 
+tires 
+went RelNScrEv_bicycle
+flat 
+. 
+i 
+noticed ScrEv_notice_problem
+it 
+went RelNScrEv_bicycle
+flat 
+because 
+it 
+felt ScrEv_notice_problem
+bumpy 
+while 
+i 
+was 
+riding ScrEv_ride_bike
+down 
+the 
+street 
+. 
+i 
+wheeled ScrEv_get_off
+my 
+bike 
+home 
+while 
+walking RelNScrEv_bicycle
+next 
+to 
+it 
+and 
+pushing RelNScrEv_bicycle
+it 
+. 
+i 
+asked RelNScrEv_bicycle
+my 
+dad 
+to 
+help UnrelEv_bicycle
+me 
+fix+the+flat+tire Evoking_bicycle
+because 
+i 
+had 
+never 
+done UnrelEv_bicycle
+it 
+before 
+. 
+he 
+gave ScrEv_get_tools
+me 
+the 
+materials 
+i 
+needed UnrelEv_bicycle
+to 
+fix+it Evoking_bicycle
+, 
+and 
+he 
+explained RelNScrEv_bicycle
+how 
+to 
+go UnrelEv_bicycle
+about 
+fixing+it Evoking_bicycle
+. 
+to 
+my 
+surprise 
+, 
+it 
+was UnrelEv_bicycle
+very 
+easy 
+to 
+fix+the+flat+tire Evoking_bicycle
+. 
+i 
+just 
+had 
+to 
+patch+up ScrEv_put_patch/seal
+the 
+hole 
+with 
+the 
+materials 
+he 
+gave ScrEv_get_tools
+me 
+. 
+after 
+i 
+patched+up ScrEv_put_patch/seal
+the 
+hole 
+, 
+i 
+used RelNScrEv_bicycle
+an 
+air 
+pump 
+to 
+put ScrEv_refill_tire_air
+air 
+in 
+both 
+of 
+my 
+tires 
+. 
+this 
+completed UnrelEv_bicycle
+the 
+repair 
+process 
+for 
+me 
+. 
+the 
+next 
+day 
+, 
+i 
+rode ScrEv_ride_bike
+my 
+bike 
+again 
+and 
+i 
+did 
+not 
+have RelNScrEv_bicycle
+any 
+problems 
+with 
+the 
+tire 
+. 
+<end_of_story>_bicycle 
+my 
+sister 
+jane 
+and 
+i 
+love UnrelEv_bicycle
+to 
+go UnrelEv_bicycle
+bicycling ScrEv_ride_bike
+. 
+one 
+warm 
+day 
+in 
+june 
+, 
+we 
+wanted UnrelEv_bicycle
+to 
+go UnrelEv_bicycle
+out 
+and 
+ride ScrEv_ride_bike
+but 
+my 
+bike 
+had ScrEv_notice_problem
+a 
+flat 
+tire 
+. 
+i 
+carefully 
+took ScrEv_take_tire_off
+the 
+tire 
+off 
+of 
+the 
+rim 
+and 
+then 
+inflated ScrEv_examine_tire
+it 
+with 
+a 
+hand 
+pump 
+so 
+i 
+could 
+find ScrEv_examine_tire
+the 
+leak 
+. 
+a 
+blast 
+of 
+cool 
+air 
+on 
+my 
+fingers 
+led ScrEv_examine_tire
+me 
+to 
+the 
+problem 
+: 
+a 
+single 
+round 
+hole 
+, 
+probably 
+caused UnrelEv_bicycle
+by 
+a 
+nail 
+or 
+other 
+sharp 
+object 
+. 
+i 
+got+out ScrEv_get_tools
+my 
+patch 
+kit 
+, 
+and 
+jane 
+held+up RelNScrEv_bicycle
+the 
+tire 
+for 
+me 
+as 
+i 
+first 
+applied ScrEv_put_patch/seal
+glue 
+and 
+then 
+placed ScrEv_put_patch/seal
+a 
+patch 
+carefully 
+over 
+the 
+damaged RelNScrEv_bicycle
+area 
+. 
+i 
+had 
+to 
+let UnrelEv_bicycle
+it 
+dry RelNScrEv_bicycle
+, 
+so 
+we 
+took UnrelEv_bicycle
+turns 
+riding RelNScrEv_bicycle
+jane 
+'s 
+bike 
+for 
+a 
+while 
+. 
+then 
+i 
+inflated ScrEv_refill_tire_air
+the 
+tire 
+and 
+checked ScrEv_check_new_tire
+the 
+patch 
+. 
+it 
+was UnrelEv_bicycle
+good 
+! 
+the 
+leak 
+was 
+repaired Evoking_bicycle
+. 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+my 
+bike 
+and 
+we 
+went+off ScrEv_ride_bike
+on 
+a 
+nice 
+long 
+ride 
+. 
+i 
+was UnrelEv_bicycle
+happy 
+to 
+have 
+my 
+bike 
+fixed Evoking_bicycle
+again 
+. 
+<end_of_story>_bicycle 
+i 
+was UnrelEv_bicycle
+about 
+to 
+go ScrEv_ride_bike
+for 
+a 
+bicycle 
+ride 
+, 
+but 
+when 
+i 
+went RelNScrEv_bicycle
+to 
+the 
+garage 
+to 
+get RelNScrEv_bicycle
+my 
+bike 
+i 
+realized ScrEv_notice_problem
+the 
+tire 
+was+completely+flat Evoking_bicycle
+. 
+luckily 
+i 
+was 
+prepared RelNScrEv_bicycle
+for 
+just 
+such 
+an 
+event 
+. 
+i 
+went RelNScrEv_bicycle
+to 
+a 
+shelf 
+and 
+found ScrEv_get_tools
+my 
+bicycle 
+repair 
+kit 
+. 
+then 
+i 
+took ScrEv_examine_tire
+a 
+close 
+look 
+at 
+the 
+bicycle 
+tire 
+. 
+if 
+i 
+could 
+n't 
+find ScrEv_examine_tire
+the 
+leak 
+, 
+i 
+could 
+always 
+fill RelNScrEv_bicycle
+a 
+tub 
+with 
+water 
+, 
+put RelNScrEv_bicycle
+the 
+tire 
+under 
+the 
+water 
+and 
+see ScrEv_examine_tire
+where 
+the 
+bubbles 
+come+out RelNScrEv_bicycle
+. 
+luckily 
+the 
+leak 
+was UnrelEv_bicycle
+obvious 
+. 
+i 
+applied ScrEv_put_patch/seal
+some 
+adhesive 
+from 
+the 
+kit 
+and 
+put+on ScrEv_put_patch/seal
+a 
+rubber 
+patch 
+. 
+then 
+i 
+got+down ScrEv_get_tools
+my 
+bicycle 
+pump 
+. 
+i 
+hooked ScrEv_pull_air_pin
+the 
+hose 
+up 
+to 
+the 
+nipple 
+on 
+the 
+tire 
+and 
+then 
+pumped ScrEv_refill_tire_air
+up 
+and 
+down 
+vigorously 
+for 
+a 
+few 
+minutes 
+. 
+i 
+felt ScrEv_check_new_tire
+the 
+tire 
+. 
+it 
+was UnrelEv_bicycle
+nice 
+and 
+firm 
+. 
+success 
+! 
+i 
+put+away ScrEv_other_bicycle
+the 
+pump 
+and 
+kit 
+and 
+hopped+on ScrEv_ride_bike
+for 
+my 
+bike 
+ride 
+. 
+<end_of_story>_bicycle 
+i 
+recently 
+got+a+flat+bicycle+tire Evoking_bicycle
+while 
+riding ScrEv_ride_bike
+home 
+from 
+work 
+. 
+as 
+soon 
+as 
+i 
+got RelNScrEv_bicycle
+home 
+, 
+i 
+removed ScrEv_remove_tire
+the 
+tire 
+from 
+the 
+bike 
+and 
+checked ScrEv_check_new_tire
+for 
+the 
+cause 
+. 
+sure 
+enough 
+, 
+there 
+was RelNScrEv_bicycle
+a 
+small 
+puncture 
+, 
+i 
+must 
+have 
+run RelNScrEv_bicycle
+over 
+something 
+sharp 
+while 
+commuting ScrEv_ride_bike
+home 
+. 
+i 
+then 
+went RelNScrEv_bicycle
+to 
+the 
+local 
+bike 
+shop 
+and 
+the 
+man 
+at 
+the 
+shop 
+recommended RelNScrEv_bicycle
+that 
+i 
+buy ScrEv_get_tools
+a 
+patch 
+kit 
+, 
+since 
+doing UnrelEv_bicycle
+so 
+is UnrelEv_bicycle
+much 
+cheaper 
+than 
+replacing+the+entire+tube Evoking_bicycle
+. 
+the 
+patch 
+kit 
+was UnrelEv_bicycle
+very 
+easy 
+to 
+use UnrelEv_bicycle
+as 
+the 
+instructions 
+were UnrelEv_bicycle
+very 
+details 
+. 
+first 
+i 
+added ScrEv_put_patch/seal
+glue 
+to 
+the 
+area 
+and 
+then 
+put ScrEv_put_patch/seal
+the 
+patch 
+on 
+top 
+. 
+after 
+holding RelNScrEv_bicycle
+the 
+patch 
+in 
+place 
+for 
+a 
+few 
+minutes 
+, 
+i 
+added RelNScrEv_bicycle
+a 
+little 
+talc 
+. 
+i 
+also 
+added RelNScrEv_bicycle
+a 
+little 
+talc 
+to 
+the 
+inside 
+of 
+the 
+tire 
+. 
+once 
+everything 
+was 
+set RelNScrEv_bicycle
+, 
+i 
+put ScrEv_put_new_tire
+the 
+wheel 
+back 
+on 
+the 
+bike 
+and 
+everything 
+was UnrelEv_bicycle
+good 
+as 
+new 
+. 
+<end_of_story>_bicycle 
+my 
+friend 
+adam 
+and 
+i 
+decided UnrelEv_bicycle
+to 
+go UnrelEv_bicycle
+to 
+the 
+flea 
+market 
+today 
+because 
+the 
+weather 
+was UnrelEv_bicycle
+nice 
+and 
+we 
+were 
+hoping UnrelEv_bicycle
+to 
+take UnrelEv_bicycle
+some 
+random 
+junk 
+home 
+with 
+us 
+. 
+we 
+walked UnrelEv_bicycle
+around 
+for 
+a 
+while 
+, 
+but 
+nothing 
+really 
+caught UnrelEv_bicycle
+our 
+attention 
+. 
+we 
+were 
+looking+for UnrelEv_bicycle
+something 
+special 
+amount 
+all 
+this 
+junk 
+. 
+suddenly 
+something 
+caught UnrelEv_bicycle
+my 
+eye 
+, 
+it 
+was UnrelEv_bicycle
+an 
+old 
+schwinn 
+with 
+a 
+flat 
+tire 
+. 
+the 
+price 
+was UnrelEv_bicycle
+right 
+so 
+i 
+decided UnrelEv_bicycle
+to 
+take UnrelEv_bicycle
+it 
+home 
+with 
+me 
+. 
+fixing+the+flat+tire Evoking_bicycle
+was UnrelEv_bicycle
+a 
+trivial 
+task 
+, 
+i 
+could 
+do UnrelEv_bicycle
+it 
+in 
+my 
+sleep 
+. 
+all 
+i 
+had 
+to 
+do+was UnrelEv_bicycle
+remove RelNScrEv_bicycle
+the 
+brakes 
+off 
+the 
+back 
+wheel 
+, 
+then 
+i 
+needed 
+to 
+remove ScrEv_free_wheel
+the 
+wheel 
+from 
+the 
+axle 
+, 
+next 
+i 
+would 
+take ScrEv_take_tire_off
+the 
+old 
+tube 
+off 
+of 
+the 
+rim 
+and 
+replace ScrEv_put_new_tire
+it 
+with 
+the 
+new 
+one 
+, 
+lastly 
+i 
+would 
+just 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+axle 
+and 
+reattach RelNScrEv_bicycle
+the 
+brakes 
+. 
+with 
+this 
+little 
+amount 
+of 
+effort 
+i 
+would 
+have UnrelEv_bicycle
+myself 
+a 
+brand 
+new 
+schwinn 
+. 
+<end_of_story>_bicycle 
+yesterday 
+i 
+was 
+riding ScrEv_ride_bike
+around 
+my 
+neighborhood 
+on 
+my 
+bicycle 
+when 
+i 
+drove ScrEv_notice_problem
+over 
+a 
+rusty 
+nail 
+hiding UnrelEv_bicycle
+between 
+the 
+bricks 
+on 
+the 
+sidewalk 
+. 
+i 
+had 
+to 
+walk ScrEv_get_off
+my 
+bike 
+home 
+. 
+today 
+, 
+i 
+went RelNScrEv_bicycle
+to 
+the 
+store 
+to 
+buy ScrEv_get_tools
+a 
+flat 
+tire 
+repair 
+kit 
+. 
+i 
+took ScrEv_remove_tire
+the 
+tire 
+off 
+the 
+bike 
+and 
+located ScrEv_examine_tire
+the 
+nail 
+so 
+i 
+could 
+remove RelNScrEv_bicycle
+it 
+. 
+after 
+removing RelNScrEv_bicycle
+the 
+nail 
+, 
+i 
+let RelNScrEv_bicycle
+the 
+remainder 
+of 
+the 
+air 
+out 
+of 
+the 
+tire 
+. 
+the 
+next 
+step 
+was UnrelEv_bicycle
+to 
+pry ScrEv_take_tire_off
+the 
+tire 
+off 
+of 
+the 
+rim 
+. 
+i 
+got ScrEv_get_tools
+my 
+flat 
+head 
+screwdriver 
+and 
+was UnrelEv_bicycle
+able 
+to 
+separate ScrEv_take_tire_off
+the 
+rim 
+from 
+the 
+tire 
+and 
+inner 
+tube 
+. 
+i 
+pumped ScrEv_examine_tire
+just 
+enough 
+air 
+to 
+find ScrEv_examine_tire
+the 
+leak 
+in 
+my 
+tire 
+where 
+the 
+nail 
+had 
+penetrated RelNScrEv_bicycle
+. 
+after 
+finding ScrEv_examine_tire
+the 
+hole 
+, 
+i 
+buffed RelNScrEv_bicycle
+the 
+area 
+the 
+hole 
+was UnrelEv_bicycle
+at 
+and 
+applied ScrEv_put_patch/seal
+glue 
+to 
+it 
+. 
+then 
+i 
+put ScrEv_put_patch/seal
+a 
+tire 
+patch 
+over 
+the 
+glue 
+and 
+let UnrelEv_bicycle
+it 
+sit RelNScrEv_bicycle
+for 
+a 
+few 
+minutes 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+inner 
+tube 
+and 
+tire 
+back 
+on 
+the 
+rim 
+, 
+and 
+pumped ScrEv_refill_tire_air
+my 
+tire 
+up 
+with 
+air 
+. 
+<end_of_story>_bicycle 
+when 
+riding ScrEv_ride_bike
+bikes 
+, 
+sometimes 
+the 
+tires 
+will 
+go+flat Evoking_bicycle
+. 
+this 
+can 
+happen UnrelEv_bicycle
+either 
+because 
+you 
+ran RelNScrEv_bicycle
+over 
+something 
+and 
+there 
+is UnrelEv_bicycle
+a 
+hole 
+, 
+or 
+because 
+the 
+tire 
+is 
+leaking RelNScrEv_bicycle
+air 
+somewhere 
+. 
+sometimes 
+you 
+can 
+just 
+get ScrEv_get_tools
+a 
+pump 
+and 
+refill ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+, 
+and 
+sometimes 
+you 
+need 
+to 
+replace+the+entire+thing Evoking_bicycle
+. 
+there 
+is UnrelEv_bicycle
+this 
+stuff 
+that 
+i 
+have 
+used UnrelEv_bicycle
+before 
+that 
+worked RelNScrEv_bicycle
+for 
+small 
+holes 
+though 
+, 
+it 
+was UnrelEv_bicycle
+like 
+this 
+foam 
+stuff 
+that 
+is UnrelEv_bicycle
+in 
+a 
+bottle 
+. 
+you 
+just 
+spray ScrEv_put_patch/seal
+it 
+in 
+and 
+let UnrelEv_bicycle
+it 
+sit RelNScrEv_bicycle
+for 
+a 
+little 
+bit 
+. 
+the 
+foam 
+closes RelNScrEv_bicycle
+the 
+hole 
+up 
+and 
+you 
+can 
+refill ScrEv_refill_tire_air
+the 
+tire 
+and 
+everything 
+works RelNScrEv_bicycle
+again 
+if 
+the 
+hole 
+was UnrelEv_bicycle
+n't 
+a 
+bad 
+one 
+. 
+if 
+the 
+tire 
+is 
+too 
+far 
+gone RelNScrEv_bicycle
+, 
+you 
+wo 
+n't 
+be UnrelEv_bicycle
+able 
+to 
+repair+it Evoking_bicycle
+with 
+anything 
+and 
+will 
+end+up UnrelEv_bicycle
+replacing+the+whole+thing Evoking_bicycle
+or 
+risk UnrelEv_bicycle
+riding ScrEv_ride_bike
+on 
+the 
+metal 
+rims 
+which 
+can 
+seriously 
+damage UnrelEv_bicycle
+your 
+bike 
+. 
+<end_of_story>_bicycle 
+i 
+went ScrEv_ride_bike
+on 
+a 
+bike 
+ride 
+in 
+the 
+afternoon 
+yesterday 
+, 
+the 
+weather 
+had UnrelEv_bicycle
+an 
+amazing 
+break 
+of 
+sunlight 
+, 
+and 
+i 
+had 
+to 
+take UnrelEv_bicycle
+advantage 
+of 
+it 
+. 
+gearing+up UnrelEv_bicycle
+for 
+the 
+bike 
+ride 
+was UnrelEv_bicycle
+n't 
+very 
+time 
+consuming UnrelEv_bicycle
+, 
+it 
+only 
+took UnrelEv_bicycle
+about 
+523 
+minutes 
+to 
+change UnrelEv_bicycle
+, 
+grab UnrelEv_bicycle
+my 
+helmet 
+, 
+and 
+fill UnrelEv_bicycle
+a 
+water 
+bottle 
+from 
+the 
+sink 
+. 
+i 
+left UnrelEv_bicycle
+home 
+, 
+and 
+progressed ScrEv_ride_bike
+close 
+to 
+523 
+miles 
+before 
+i 
+heard ScrEv_notice_problem
+a 
+low 
+hiss 
+escape RelNScrEv_bicycle
+from 
+somewhere 
+below 
+where 
+my 
+feet 
+were UnrelEv_bicycle
+. 
+i 
+almost 
+knew ScrEv_notice_problem
+immediately 
+that 
+it 
+was UnrelEv_bicycle
+going 
+to 
+be+a+flat+tire Evoking_bicycle
+. 
+i 
+had 
+my 
+friend 
+pick ScrEv_get_off
+me 
+up 
+, 
+they 
+helped UnrelEv_bicycle
+get RelNScrEv_bicycle
+me 
+home 
+without 
+further 
+incident 
+. 
+after 
+getting ScrEv_lay_bike_down
+my 
+bike 
+up 
+on 
+it 
+'s 
+stand 
+, 
+i 
+began UnrelEv_bicycle
+to 
+peel ScrEv_take_tire_off
+the 
+bad 
+tire 
+off 
+the 
+rim 
+, 
+finding ScrEv_examine_tire
+the 
+tube 
+had RelNScrEv_bicycle
+a 
+small 
+puncture 
+. 
+i 
+decided UnrelEv_bicycle
+to 
+to 
+replace ScrEv_put_new_tire
+the 
+tube 
+entirely 
+, 
+and 
+fitted ScrEv_put_new_tire
+the 
+tube 
+and 
+tire 
+back 
+onto 
+the 
+rim 
+, 
+fixing+the+issue+of+the+flat+tire Evoking_bicycle
+. 
+<end_of_story>_bicycle 
+as 
+i 
+was 
+bring RelNScrEv_bicycle
+my 
+bike 
+out 
+of 
+the 
+garage 
+i 
+realized ScrEv_notice_problem
+the 
+rear 
+tire 
+had RelNScrEv_bicycle
+flat 
+and 
+there 
+was RelNScrEv_bicycle
+clearly 
+a 
+small 
+hissing RelNScrEv_bicycle
+sound 
+where 
+there 
+was RelNScrEv_bicycle
+a 
+puncture 
+. 
+i 
+got ScrEv_get_tools
+my 
+tools 
+and 
+loosened ScrEv_loose_nut
+and 
+removed ScrEv_loose_nut
+the 
+nuts 
+holding RelNScrEv_bicycle
+the 
+tire 
+on 
+the 
+bike 
+. 
+using RelNScrEv_bicycle
+a 
+screwdriver 
+i 
+wedged RelNScrEv_bicycle
+underneath 
+the 
+tire 
+removing ScrEv_take_tire_off
+it 
+from 
+the 
+metal 
+wheel 
+. 
+i 
+removed ScrEv_remove_tire
+the 
+tire 
+tube 
+and 
+cleaned+off RelNScrEv_bicycle
+the 
+punctured RelNScrEv_bicycle
+area 
+with 
+a 
+dry 
+cloth 
+. 
+i 
+put ScrEv_put_patch/seal
+tire 
+repair 
+glue 
+on 
+the 
+hole 
+and 
+placed ScrEv_put_patch/seal
+a 
+tire 
+patch 
+on 
+the 
+glue 
+and 
+held RelNScrEv_bicycle
+it 
+tight 
+for 
+several 
+minutes 
+until 
+the 
+glue 
+dried RelNScrEv_bicycle
+. 
+i 
+filled ScrEv_refill_tire_air
+it 
+up 
+to 
+ensure ScrEv_check_new_tire
+the 
+hole 
+was 
+not 
+leaking RelNScrEv_bicycle
+any 
+air 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+tube 
+back 
+in 
+the 
+tire 
+and 
+re-attached ScrEv_put_new_tire
+it 
+to 
+the 
+wheel 
+tightening RelNScrEv_bicycle
+the 
+bolts 
+. 
+again 
+i 
+filled ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+and 
+took ScrEv_ride_bike
+my 
+bike 
+for 
+a 
+ride 
+. 
+i 
+was UnrelEv_bicycle
+successful 
+repairing+my+flat+tire Evoking_bicycle
+. 
+<end_of_story>_bicycle 
+when 
+you 
+have+a+flat+bicycle+tire Evoking_bicycle
+the 
+first 
+thing 
+you 
+need 
+to 
+do+is UnrelEv_bicycle
+see ScrEv_examine_tire
+where 
+the 
+hole 
+is 
+originating RelNScrEv_bicycle
+from 
+. 
+you 
+have 
+to 
+fully 
+unscrew ScrEv_loose_nut
+the 
+tire 
+first 
+and 
+take+off ScrEv_take_tire_off
+the 
+outer 
+rubber 
+. 
+then 
+you 
+have 
+to 
+take+off ScrEv_take_tire_off
+the 
+inner 
+rubber 
+tube 
+off 
+of 
+the 
+tire 
+frame 
+. 
+once 
+you 
+have UnrelEv_bicycle
+the 
+inner 
+tube 
+try UnrelEv_bicycle
+to 
+find ScrEv_get_tools
+a 
+body 
+of 
+water 
+. 
+most 
+easy 
+method 
+is UnrelEv_bicycle
+filling ScrEv_refill_tire_air
+the 
+tire 
+back 
+up 
+with 
+air 
+and 
+listening ScrEv_examine_tire
+for 
+the 
+sound 
+. 
+another 
+method 
+is UnrelEv_bicycle
+filling RelNScrEv_bicycle
+a 
+bucket 
+with 
+water 
+if 
+you 
+are UnrelEv_bicycle
+at 
+home 
+. 
+once 
+the 
+inner 
+tube 
+is 
+submerged RelNScrEv_bicycle
+in 
+the 
+water 
+you 
+should 
+be UnrelEv_bicycle
+able 
+to 
+see ScrEv_examine_tire
+bubbles 
+coming+out RelNScrEv_bicycle
+of 
+the 
+hole 
+. 
+once 
+you 
+identify ScrEv_examine_tire
+where 
+the 
+puncture 
+is UnrelEv_bicycle
+you 
+have 
+to 
+dry RelNScrEv_bicycle
+the 
+area 
+first 
+before 
+using RelNScrEv_bicycle
+either 
+a 
+specific 
+tape 
+or 
+glue 
+to 
+plug+up ScrEv_put_patch/seal
+the 
+hole 
+. 
+verify ScrEv_check_new_tire
+once 
+you 
+repaired+the+hole Evoking_bicycle
+place ScrEv_put_new_tire
+the 
+tube 
+back 
+on 
+the 
+frame 
+and 
+fill ScrEv_refill_tire_air
+it 
+back 
+up 
+with 
+air 
+. 
+<end_of_story>_bicycle 
+i 
+recently 
+started UnrelEv_bicycle
+biking ScrEv_ride_bike
+to 
+lose UnrelEv_bicycle
+weight 
+and 
+for 
+health 
+. 
+after 
+a 
+month 
+of 
+biking ScrEv_ride_bike
+everyday 
+, 
+my 
+bike 
+hit ScrEv_notice_problem
+a 
+nail 
+in 
+the 
+road 
+which 
+i 
+think+is UnrelEv_bicycle
+pretty 
+dangerous 
+. 
+what 
+if 
+a 
+kid 
+was 
+playing UnrelEv_bicycle
+? 
+i 
+was 
+pretty 
+devastated UnrelEv_bicycle
+. 
+because 
+of 
+the 
+expenses 
+with 
+school 
+, 
+i 
+would 
+not 
+be UnrelEv_bicycle
+able 
+to 
+afford RelNScrEv_bicycle
+a 
+new 
+tire 
+. 
+so 
+i 
+thought UnrelEv_bicycle
+to 
+myself 
+, 
+maybe 
+i 
+can 
+fix+it Evoking_bicycle
+. 
+i 
+resolved UnrelEv_bicycle
+to 
+fix+it Evoking_bicycle
+this 
+sunday 
+, 
+because 
+i 
+figured UnrelEv_bicycle
+friday 
+and 
+saturday 
+would 
+be UnrelEv_bicycle
+too 
+busy 
+. 
+i 
+'ve 
+never 
+repaired+a+bike+tire Evoking_bicycle
+before 
+. 
+so 
+i 
+searched RelNScrEv_bicycle
+google 
+for 
+some 
+tutorials 
+. 
+turns UnrelEv_bicycle
+out 
+, 
+i 
+can 
+just 
+use RelNScrEv_bicycle
+a 
+sticky 
+material 
+to 
+cover ScrEv_put_patch/seal
+the 
+part 
+that 
+'s 
+broken RelNScrEv_bicycle
+. 
+i 
+looked RelNScrEv_bicycle
+at 
+various 
+online 
+store 
+. 
+no 
+one 
+seemed UnrelEv_bicycle
+to 
+have RelNScrEv_bicycle
+it 
+. 
+just 
+my 
+luck 
+. 
+then 
+it 
+occurred UnrelEv_bicycle
+to 
+me 
+that 
+maybe 
+an 
+automotive 
+store 
+would 
+have RelNScrEv_bicycle
+it 
+, 
+and 
+they 
+did UnrelEv_bicycle
+! 
+it 
+was UnrelEv_bicycle
+only 
+$ 
+523 
+. 
+stuck ScrEv_put_patch/seal
+it 
+in 
+and 
+inflated ScrEv_refill_tire_air
+my 
+tire 
+. 
+it 
+'s 
+been 
+working UnrelEv_bicycle
+for 
+months 
+ever 
+since 
+! 
+<end_of_story>_bicycle 
+once 
+, 
+when 
+i 
+was UnrelEv_bicycle
+523 
+, 
+i 
+had 
+a 
+flat+bicycle+tire Evoking_bicycle
+. 
+i 
+had 
+ridden ScrEv_ride_bike
+over 
+a 
+nail 
+and 
+my 
+tire 
+was 
+punctured RelNScrEv_bicycle
+and 
+my 
+tube 
+popped RelNScrEv_bicycle
+. 
+in 
+order 
+to 
+fix+it Evoking_bicycle
+my 
+brother 
+took RelNScrEv_bicycle
+me 
+the 
+store 
+so 
+i 
+could 
+buy RelNScrEv_bicycle
+a 
+patch 
+to 
+fix+the+tire Evoking_bicycle
+. 
+once 
+we 
+got RelNScrEv_bicycle
+the 
+patch 
+, 
+we 
+went RelNScrEv_bicycle
+back 
+to 
+the 
+house 
+. 
+in 
+order 
+to 
+find ScrEv_examine_tire
+the 
+hole 
+we 
+filled RelNScrEv_bicycle
+the 
+tub 
+with 
+water 
+and 
+put RelNScrEv_bicycle
+the 
+tube 
+in 
+. 
+we 
+looked RelNScrEv_bicycle
+to 
+see ScrEv_examine_tire
+where 
+bubbles 
+came+out RelNScrEv_bicycle
+; 
+where 
+the 
+bubbles 
+came+out RelNScrEv_bicycle
+told ScrEv_examine_tire
+us 
+where 
+the 
+hole 
+was UnrelEv_bicycle
+. 
+once 
+we 
+noted ScrEv_examine_tire
+the 
+location 
+of 
+the 
+hole 
+we 
+took RelNScrEv_bicycle
+the 
+tube 
+out 
+of 
+the 
+tub 
+and 
+dried RelNScrEv_bicycle
+it 
+. 
+to 
+put+on ScrEv_put_patch/seal
+the 
+patch 
+we 
+had 
+to 
+put RelNScrEv_bicycle
+a 
+glue 
+on 
+the 
+tube 
+and 
+then 
+put+on ScrEv_put_patch/seal
+the 
+patch 
+. 
+we 
+held RelNScrEv_bicycle
+it 
+there 
+a 
+few 
+minutes 
+to 
+make+sure UnrelEv_bicycle
+it 
+would 
+stay RelNScrEv_bicycle
+, 
+then 
+we 
+let UnrelEv_bicycle
+it 
+sit RelNScrEv_bicycle
+for 
+an 
+hour 
+to 
+make+sure UnrelEv_bicycle
+the 
+glue 
+would 
+dry RelNScrEv_bicycle
+. 
+to 
+make+sure UnrelEv_bicycle
+it 
+dried RelNScrEv_bicycle
+well 
+we 
+placed RelNScrEv_bicycle
+the 
+tube 
+out 
+in 
+the 
+sun 
+so 
+the 
+the 
+heat 
+could 
+help RelNScrEv_bicycle
+it 
+along 
+. 
+to 
+be UnrelEv_bicycle
+safe 
+we 
+waited RelNScrEv_bicycle
+a 
+day 
+. 
+the 
+next 
+day 
+we 
+took RelNScrEv_bicycle
+the 
+tube 
+and 
+put ScrEv_put_new_tire
+it 
+back 
+in 
+the 
+tire 
+, 
+then 
+we 
+put ScrEv_put_new_tire
+the 
+tire 
+on 
+the 
+wheel 
+. 
+my 
+bike 
+was UnrelEv_bicycle
+good 
+to 
+ride ScrEv_ride_bike
+again 
+. 
+<end_of_story>_bicycle 
+in 
+order 
+for 
+a 
+bike 
+to 
+be UnrelEv_bicycle
+rideable 
+, 
+its 
+tires 
+must 
+be UnrelEv_bicycle
+full 
+of 
+air 
+. 
+if 
+you 
+ride ScrEv_ride_bike
+over 
+a 
+sharp 
+thorn 
+or 
+rock 
+, 
+you 
+might 
+get UnrelEv_bicycle
+unlucky 
+, 
+and 
+pierce RelNScrEv_bicycle
+one 
+of 
+your 
+tires 
+. 
+the 
+air 
+will 
+rush RelNScrEv_bicycle
+out 
+of 
+the 
+hole 
+, 
+and 
+you 
+will 
+have+a+flat+tire Evoking_bicycle
+, 
+often 
+just 
+called UnrelEv_bicycle
+, 
+a 
+flat 
+. 
+if 
+this 
+happens UnrelEv_bicycle
+, 
+you 
+mus 
+n't 
+continue UnrelEv_bicycle
+to 
+ride ScrEv_ride_bike
+; 
+you 
+need 
+to 
+stop ScrEv_get_off
+somewhere 
+, 
+and 
+repair+the+tire Evoking_bicycle
+. 
+first 
+, 
+you 
+'ll 
+need 
+to 
+remove ScrEv_free_wheel
+the 
+wheel 
+that 
+has+the+flat+tire Evoking_bicycle
+. 
+it 
+is UnrelEv_bicycle
+usually 
+easier 
+to 
+remove ScrEv_free_wheel
+the 
+front 
+wheel 
+than 
+the 
+back 
+, 
+because 
+of 
+the 
+gears 
+in 
+back 
+. 
+once 
+you 
+have ScrEv_free_wheel
+the 
+damaged RelNScrEv_bicycle
+wheel 
+off 
+the 
+bike 
+, 
+you 
+need 
+to 
+remove ScrEv_remove_tire
+the 
+tough 
+outer 
+part 
+of 
+the 
+tire 
+by 
+prying ScrEv_remove_tire
+it 
+, 
+little 
+by 
+little 
+, 
+off 
+of 
+the 
+rim 
+of 
+the 
+wheel 
+. 
+the 
+hole 
+in 
+the 
+tough 
+tire 
+is UnrelEv_bicycle
+not 
+actually 
+the 
+problem 
+; 
+it 
+'s UnrelEv_bicycle
+the 
+hole 
+in 
+the 
+inner 
+tube 
+that 
+must 
+be 
+repaired Evoking_bicycle
+. 
+once 
+you 
+'ve 
+pried ScrEv_remove_tire
+the 
+tire 
+off 
+the 
+rim 
+, 
+it 
+is UnrelEv_bicycle
+easy 
+to 
+pull+out ScrEv_take_tire_off
+the 
+floppy 
+tube 
+. 
+now 
+you 
+have 
+to 
+locate ScrEv_examine_tire
+the 
+hole 
+. 
+sometimes 
+the 
+hole 
+is UnrelEv_bicycle
+very 
+obvious 
+, 
+just 
+by 
+looking ScrEv_examine_tire
+. 
+other 
+times 
+, 
+you 
+can 
+submerge RelNScrEv_bicycle
+the 
+tube 
+under 
+water 
+, 
+and 
+look+for ScrEv_examine_tire
+bubbles 
+. 
+once 
+found ScrEv_examine_tire
+, 
+the 
+hole 
+can 
+be 
+easily 
+patched ScrEv_put_patch/seal
+using RelNScrEv_bicycle
+a 
+patch 
+kit 
+. 
+test ScrEv_check_new_tire
+to 
+make+sure UnrelEv_bicycle
+the 
+hole 
+is 
+totally 
+sealed ScrEv_put_patch/seal
+before 
+reassembling ScrEv_put_new_tire
+the 
+wheel 
+! 
+if 
+the 
+repaired Evoking_bicycle
+tube 
+holds ScrEv_check_new_tire
+air 
+well 
+, 
+you 
+can 
+put ScrEv_put_new_tire
+the 
+tube 
+in 
+the 
+tire 
+, 
+and 
+get ScrEv_put_new_tire
+them 
+back 
+onto 
+the 
+rim 
+of 
+the 
+wheel 
+. 
+now 
+, 
+pedal ScrEv_ride_bike
+fast 
+, 
+to 
+make+up UnrelEv_bicycle
+for 
+lost 
+time 
+! 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+in 
+the 
+bike 
+lane 
+going UnrelEv_bicycle
+to 
+work 
+when 
+i 
+felt ScrEv_notice_problem
+my 
+tire 
+pop RelNScrEv_bicycle
+and 
+give+out RelNScrEv_bicycle
+on 
+me 
+. 
+i 
+quickly 
+pulled+over RelNScrEv_bicycle
+to 
+the 
+side 
+walk 
+and 
+got+off ScrEv_get_off
+my 
+bike 
+to 
+take ScrEv_examine_tire
+a 
+good 
+look 
+at 
+it 
+. 
+a 
+rock 
+was 
+embedded RelNScrEv_bicycle
+into 
+my 
+tire 
+tube 
+. 
+i 
+pried RelNScrEv_bicycle
+the 
+rock 
+out 
+with 
+my 
+fingers 
+and 
+got ScrEv_get_tools
+my 
+patch 
+kit 
+from 
+my 
+backpack 
+. 
+i 
+made+sure ScrEv_examine_tire
+there 
+was UnrelEv_bicycle
+no 
+other 
+debris 
+in 
+the 
+tire 
+and 
+then 
+applied RelNScrEv_bicycle
+the 
+glue 
+. 
+i 
+stuck ScrEv_put_patch/seal
+the 
+patch 
+onto 
+the 
+glue 
+and 
+made+sure UnrelEv_bicycle
+it 
+was UnrelEv_bicycle
+a 
+nice 
+fit 
+and 
+held RelNScrEv_bicycle
+well 
+. 
+after 
+that 
+i 
+pumped ScrEv_refill_tire_air
+my 
+tire 
+back 
+up 
+with 
+air 
+and 
+checked ScrEv_check_new_tire
+to 
+make+sure UnrelEv_bicycle
+it 
+would 
+hold+up RelNScrEv_bicycle
+to 
+the 
+rigors 
+of 
+the 
+road 
+. 
+after 
+that 
+i 
+hopped ScrEv_ride_bike
+back 
+on 
+my 
+bike 
+and 
+slowly 
+rode ScrEv_ride_bike
+to 
+work 
+careful 
+of 
+anymore 
+rocks 
+. 
+i 
+got UnrelEv_bicycle
+to 
+work 
+on 
+time 
+. 
+this 
+is UnrelEv_bicycle
+why 
+i 
+always 
+carry RelNScrEv_bicycle
+around 
+my 
+repair 
+kit 
+. 
+<end_of_story>_bicycle 
+today 
+i 
+wanted UnrelEv_bicycle
+to 
+take ScrEv_ride_bike
+a 
+ride 
+on 
+my 
+bicycle 
+but 
+could UnrelEv_bicycle
+n't 
+because 
+it 
+had+a+flat+tire Evoking_bicycle
+. 
+so 
+i 
+loaded RelNScrEv_bicycle
+my 
+bicycle 
+up 
+into 
+my 
+car 
+and 
+took RelNScrEv_bicycle
+it 
+to 
+the 
+bike 
+shop 
+to 
+be 
+repaired Evoking_bicycle
+. 
+the 
+man 
+that 
+worked RelNScrEv_bicycle
+at 
+the 
+shop 
+put ScrEv_lay_bike_down
+my 
+bicycle 
+upside 
+down 
+on 
+a 
+rack 
+that 
+held RelNScrEv_bicycle
+it 
+in 
+place 
+. 
+he 
+removed ScrEv_take_tire_off
+the 
+tire 
+from 
+the 
+rim 
+. 
+the 
+rim 
+is UnrelEv_bicycle
+the 
+silver 
+part 
+that 
+makes UnrelEv_bicycle
+the 
+tire 
+go UnrelEv_bicycle
+around 
+. 
+he 
+then 
+removed ScrEv_remove_tire
+a 
+rubber 
+tube 
+from 
+inside 
+the 
+tire 
+and 
+replaced ScrEv_put_new_tire
+it 
+with 
+a 
+new 
+tube 
+. 
+next 
+the 
+man 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+onto 
+my 
+bike 
+. 
+he 
+then 
+took RelNScrEv_bicycle
+my 
+bike 
+down 
+off 
+of 
+the 
+rack 
+and 
+added ScrEv_refill_tire_air
+air 
+to 
+the 
+tire 
+to 
+pump ScrEv_refill_tire_air
+it 
+up 
+. 
+he 
+had UnrelEv_bicycle
+me 
+sit RelNScrEv_bicycle
+on 
+the 
+bike 
+to 
+make+sure ScrEv_check_new_tire
+the 
+correct 
+amount 
+of 
+air 
+was UnrelEv_bicycle
+in 
+the 
+tire 
+. 
+it 
+was UnrelEv_bicycle
+perfect 
+and 
+i 
+was UnrelEv_bicycle
+ready 
+to 
+ride ScrEv_ride_bike
+! 
+<end_of_story>_bicycle 
+the 
+other 
+day 
+my 
+dad 
+was 
+riding ScrEv_ride_bike
+his 
+bike 
+and 
+started UnrelEv_bicycle
+having ScrEv_notice_problem
+trouble 
+steering RelNScrEv_bicycle
+. 
+he 
+rode ScrEv_ride_bike
+the 
+bike 
+back 
+home 
+and 
+then 
+took RelNScrEv_bicycle
+it 
+into 
+the 
+back 
+yard 
+to 
+have ScrEv_examine_tire
+a 
+look 
+at 
+it 
+. 
+he 
+noticed ScrEv_notice_problem
+that 
+the 
+front 
+tire 
+was UnrelEv_bicycle
+flat 
+and 
+was 
+n't 
+keeping RelNScrEv_bicycle
+air 
+in 
+it 
+. 
+he 
+took ScrEv_take_tire_off
+it 
+off 
+the 
+bike 
+. 
+first 
+he 
+pumped ScrEv_refill_tire_air
+it 
+up 
+and 
+tried UnrelEv_bicycle
+to 
+see ScrEv_examine_tire
+if 
+the 
+tire 
+would 
+hold RelNScrEv_bicycle
+air 
+. 
+it 
+would UnrelEv_bicycle
+not 
+. 
+then 
+he 
+rubbed RelNScrEv_bicycle
+liquid 
+dish 
+detergent 
+on 
+the 
+tire 
+and 
+pumped ScrEv_refill_tire_air
+it 
+up 
+and 
+looked+for ScrEv_examine_tire
+where 
+it 
+bubbled RelNScrEv_bicycle
+to 
+see ScrEv_examine_tire
+where 
+the 
+hole 
+was UnrelEv_bicycle
+. 
+once 
+he 
+found ScrEv_examine_tire
+the 
+hole 
+, 
+he 
+decided UnrelEv_bicycle
+if 
+it 
+needed RelNScrEv_bicycle
+a 
+patch 
+or 
+a 
+plug 
+. 
+it 
+was UnrelEv_bicycle
+a 
+small 
+round 
+hole 
+so 
+he 
+decided UnrelEv_bicycle
+to 
+put ScrEv_put_patch/seal
+a 
+plug 
+in 
+it 
+. 
+he 
+got ScrEv_get_tools
+the 
+packages 
+of 
+plugs 
+and 
+found RelNScrEv_bicycle
+one 
+that 
+was UnrelEv_bicycle
+the 
+right 
+size 
+. 
+he 
+followed RelNScrEv_bicycle
+the 
+instructs 
+on 
+the 
+package 
+to 
+insert ScrEv_put_patch/seal
+the 
+plug 
+into 
+the 
+hole 
+and 
+secure ScrEv_put_patch/seal
+it 
+. 
+he 
+pumped ScrEv_refill_tire_air
+the 
+tire 
+back 
+up 
+and 
+it 
+held RelNScrEv_bicycle
+air 
+. 
+he 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+bike 
+. 
+<end_of_story>_bicycle 
+today 
+i 
+hopped RelNScrEv_bicycle
+on 
+my 
+bike 
+to 
+take ScrEv_ride_bike
+a 
+ride 
+to 
+the 
+supermarket 
+. 
+when 
+i 
+sat+down RelNScrEv_bicycle
+, 
+i 
+noticed ScrEv_notice_problem
+my 
+tire 
+was UnrelEv_bicycle
+flat 
+. 
+i 
+looked ScrEv_notice_problem
+down 
+, 
+and 
+sure 
+enough 
+there 
+was UnrelEv_bicycle
+no 
+air 
+in 
+the 
+tire 
+. 
+i 
+went UnrelEv_bicycle
+to 
+go UnrelEv_bicycle
+get ScrEv_get_tools
+my 
+air 
+pump 
+and 
+fill+up ScrEv_refill_tire_air
+the 
+tire 
+. 
+i 
+unscrewed ScrEv_pull_air_pin
+the 
+cover 
+of 
+the 
+nozzle 
+and 
+then 
+attached RelNScrEv_bicycle
+the 
+bicycle 
+pump 
+to 
+it 
+. 
+i 
+then 
+filled ScrEv_refill_tire_air
+the 
+bicycle 
+tire 
+with 
+air 
+. 
+after 
+that 
+, 
+i 
+released RelNScrEv_bicycle
+the 
+bicycle 
+pump 
+and 
+screwed RelNScrEv_bicycle
+the 
+cover 
+back 
+on 
+. 
+then 
+i 
+rode ScrEv_ride_bike
+my 
+bicycle 
+a 
+little 
+bit 
+to 
+see ScrEv_examine_tire
+if 
+the 
+tire 
+would 
+remain RelNScrEv_bicycle
+inflated ScrEv_refill_tire_air
+. 
+after 
+a 
+couple 
+of 
+loops 
+around 
+the 
+street 
+, 
+i 
+noticed ScrEv_notice_problem
+the 
+tire 
+was 
+beginning UnrelEv_bicycle
+to 
+flatten RelNScrEv_bicycle
+again 
+, 
+so 
+i 
+decided UnrelEv_bicycle
+to 
+replace+the+bicycle+'s+inner+tube Evoking_bicycle
+. 
+i 
+went UnrelEv_bicycle
+to 
+get ScrEv_get_tools
+my 
+spare 
+inner 
+tube 
+as 
+well 
+as 
+a 
+screwdriver 
+and 
+wrench 
+. 
+i 
+unbolted ScrEv_loose_nut
+the 
+wheel 
+from 
+the 
+bicycle 
+with 
+the 
+wrench 
+. 
+then 
+i 
+used RelNScrEv_bicycle
+the 
+screw 
+driver 
+to 
+take ScrEv_take_tire_off
+the 
+tire 
+and 
+old 
+inner 
+tube 
+out 
+. 
+i 
+brought+out ScrEv_get_tire
+the 
+new 
+inner 
+tube 
+and 
+placed ScrEv_put_new_tire
+it 
+inside 
+the 
+tire 
+, 
+then 
+put ScrEv_put_new_tire
+both 
+back 
+on 
+the 
+wheel 
+and 
+put ScrEv_put_new_tire
+the 
+wheel 
+on 
+the 
+bike 
+. 
+i 
+took+out ScrEv_get_tools
+my 
+air 
+pump 
+and 
+filled ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+until 
+it 
+was UnrelEv_bicycle
+firm 
+. 
+when 
+i 
+rode ScrEv_ride_bike
+around 
+this 
+time 
+the 
+tire 
+remained RelNScrEv_bicycle
+firm 
+, 
+so 
+i 
+put RelNScrEv_bicycle
+my 
+things 
+away 
+and 
+rode ScrEv_ride_bike
+to 
+the 
+supermarket 
+. 
+<end_of_story>_bicycle 
+my 
+husband 
+was 
+riding ScrEv_ride_bike
+down 
+a 
+steep 
+hill 
+a 
+few 
+miles 
+from 
+home 
+when 
+he 
+got+a+blow+out Evoking_bicycle
+. 
+he 
+called RelNScrEv_bicycle
+me 
+to 
+come RelNScrEv_bicycle
+and 
+get RelNScrEv_bicycle
+him 
+. 
+luckily 
+he 
+was UnrelEv_bicycle
+n't 
+hurt 
+. 
+he 
+had ScrEv_get_tools
+the 
+bicycle 
+repair 
+kit 
+on 
+him 
+. 
+we 
+took ScrEv_take_tire_off
+the 
+tire 
+off 
+with 
+some 
+tools 
+. 
+we 
+took ScrEv_remove_tire
+the 
+inner 
+tube 
+out 
+. 
+he 
+checked ScrEv_examine_tire
+the 
+inner 
+tube 
+for 
+holes 
+by 
+putting ScrEv_refill_tire_air
+air 
+in 
+it 
+. 
+he 
+found ScrEv_examine_tire
+the 
+hole 
+and 
+marked RelNScrEv_bicycle
+it 
+. 
+that 
+is UnrelEv_bicycle
+the 
+place 
+where 
+he 
+put ScrEv_put_patch/seal
+the 
+patch 
+and 
+glued ScrEv_put_patch/seal
+it 
+. 
+my 
+husband 
+put ScrEv_put_new_tire
+the 
+tube 
+back 
+in 
+the 
+bicycle 
+. 
+the 
+frame 
+was UnrelEv_bicycle
+a 
+little 
+bent 
+but 
+the 
+bike 
+was UnrelEv_bicycle
+okay 
+. 
+i 
+followed UnrelEv_bicycle
+him 
+for 
+a 
+little 
+while 
+. 
+he 
+was UnrelEv_bicycle
+almost 
+to 
+the 
+park 
+so 
+i 
+met UnrelEv_bicycle
+him 
+there 
+. 
+after 
+a 
+while 
+we 
+put UnrelEv_bicycle
+the 
+bike 
+in 
+the 
+back 
+of 
+the 
+truck 
+and 
+drove UnrelEv_bicycle
+home 
+. 
+<end_of_story>_bicycle 
+i 
+got RelNScrEv_bicycle
+my 
+yeti 
+523 
+enduro 
+bike 
+out 
+and 
+had 
+made UnrelEv_bicycle
+some 
+minor 
+adjustments 
+to 
+the 
+tuning 
+. 
+one 
+other 
+adjustment 
+i 
+made+was UnrelEv_bicycle
+to 
+put UnrelEv_bicycle
+some 
+road 
+tires 
+on 
+it 
+so 
+i 
+could 
+ride ScrEv_ride_bike
+capital 
+circle 
+road 
+of 
+tallahassee 
+south 
+to 
+the 
+major 
+bike 
+trail 
+. 
+as 
+i 
+made ScrEv_ride_bike
+my 
+way 
+through 
+traffic 
+in 
+the 
+bike 
+lane 
+the 
+wind 
+blew UnrelEv_bicycle
+on 
+my 
+face 
+and 
+the 
+sun 
+warmed UnrelEv_bicycle
+my 
+skin 
+. 
+i 
+was UnrelEv_bicycle
+in 
+a 
+great 
+mood 
+. 
+then 
+all 
+of 
+a 
+sudden 
+the 
+mood 
+was 
+dampened UnrelEv_bicycle
+and 
+corrupted UnrelEv_bicycle
+by 
+that 
+horrible 
+noise 
+of 
+leaking ScrEv_notice_problem
+air 
+. 
+i 
+had 
+hit RelNScrEv_bicycle
+some 
+road 
+debree 
+that 
+caused+a+flat+tire Evoking_bicycle
+. 
+after 
+cursing RelNScrEv_bicycle
+the 
+event 
+and 
+going RelNScrEv_bicycle
+through 
+a 
+small 
+tantrum 
+i 
+consulted ScrEv_get_tools
+the 
+tools 
+of 
+my 
+backpack 
+which 
+i 
+always 
+brought ScrEv_get_tools
+with 
+me 
+. 
+i 
+took ScrEv_take_tire_off
+the 
+tire 
+off 
+, 
+removed ScrEv_remove_tire
+the 
+tube 
+, 
+isolated ScrEv_examine_tire
+the 
+puncture 
+, 
+and 
+then 
+applied ScrEv_put_patch/seal
+the 
+patch 
+. 
+i 
+reassembled ScrEv_put_new_tire
+the 
+tube 
+and 
+tire 
+, 
+pumped ScrEv_refill_tire_air
+it 
+up 
+with 
+my 
+small 
+hand 
+pump 
+, 
+and 
+made ScrEv_ride_bike
+my 
+way 
+back 
+home 
+. 
+<end_of_story>_bicycle 
+i 
+went UnrelEv_bicycle
+out 
+to 
+my 
+garage 
+to 
+get RelNScrEv_bicycle
+my 
+bike 
+to 
+go ScrEv_ride_bike
+on 
+a 
+ride 
+. 
+when 
+i 
+saw RelNScrEv_bicycle
+my 
+bike 
+i 
+realized ScrEv_notice_problem
+that 
+one 
+of 
+the 
+tires 
+were UnrelEv_bicycle
+flat 
+. 
+i 
+needed 
+to 
+buy ScrEv_get_tire
+a 
+new 
+tube 
+in 
+order 
+to 
+fix+the+flat Evoking_bicycle
+. 
+i 
+drove RelNScrEv_bicycle
+to 
+the 
+local 
+bike 
+shop 
+and 
+purchased ScrEv_get_tire
+a 
+tube 
+that 
+would 
+fit RelNScrEv_bicycle
+my 
+bike 
+'s 
+tire 
+and 
+then 
+i 
+drove RelNScrEv_bicycle
+back 
+home 
+. 
+i 
+took ScrEv_get_tire
+the 
+tube 
+out 
+of 
+the 
+packaging 
+and 
+read RelNScrEv_bicycle
+the 
+instructions 
+on 
+how 
+to 
+put ScrEv_put_new_tire
+it 
+on 
+the 
+bike 
+. 
+i 
+removed ScrEv_take_tire_off
+the 
+tire 
+from 
+the 
+bike 
+and 
+took ScrEv_remove_tire
+out 
+the 
+old 
+tube 
+that 
+was 
+punctured RelNScrEv_bicycle
+. 
+i 
+then 
+inserted ScrEv_put_new_tire
+the 
+new 
+tube 
+onto 
+the 
+tire 
+. 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+bike 
+and 
+pumped+up ScrEv_refill_tire_air
+the 
+tube 
+with 
+air 
+until 
+it 
+was 
+filled ScrEv_refill_tire_air
+to 
+the 
+desired UnrelEv_bicycle
+fill 
+weight 
+. 
+i 
+got RelNScrEv_bicycle
+on 
+the 
+bike 
+to 
+test ScrEv_check_new_tire
+it 
+and 
+it 
+was UnrelEv_bicycle
+in 
+great 
+shape 
+. 
+then 
+i 
+took+off ScrEv_ride_bike
+on 
+my 
+bike 
+ride 
+. 
+<end_of_story>_bicycle 
+yesterday 
+, 
+my 
+bike 
+tire 
+popped RelNScrEv_bicycle
+while 
+i 
+was 
+riding ScrEv_ride_bike
+it 
+. 
+i 
+had 
+to 
+walk ScrEv_get_off
+523 
+min 
+home 
+to 
+get+it+fixed Evoking_bicycle
+. 
+i 
+had 
+tried UnrelEv_bicycle
+riding ScrEv_ride_bike
+it 
+with 
+a 
+flat 
+tire 
+, 
+but 
+the 
+bike 
+dragged RelNScrEv_bicycle
+on 
+the 
+cement 
+and 
+i 
+did 
+n't 
+have UnrelEv_bicycle
+the 
+man 
+power 
+to 
+turn RelNScrEv_bicycle
+the 
+wheels 
+. 
+when 
+, 
+i 
+got RelNScrEv_bicycle
+home 
+i 
+asked RelNScrEv_bicycle
+my 
+father 
+for 
+help 
+. 
+we 
+inflated ScrEv_refill_tire_air
+the 
+tire 
+a 
+little 
+with 
+a 
+mechanical 
+pump 
+. 
+you 
+grab ScrEv_refill_tire_air
+the 
+pump 
+with 
+two 
+hands 
+, 
+pull ScrEv_refill_tire_air
+the 
+lever 
+up 
+and 
+then 
+push+down ScrEv_refill_tire_air
+with 
+your 
+whole 
+body 
+weight 
+. 
+we 
+put RelNScrEv_bicycle
+the 
+tire 
+underwater 
+to 
+find ScrEv_examine_tire
+where 
+bubbles 
+were 
+coming+out RelNScrEv_bicycle
+to 
+find ScrEv_examine_tire
+the 
+hole 
+. 
+after 
+we 
+found ScrEv_examine_tire
+the 
+hole 
+, 
+we 
+dried RelNScrEv_bicycle
+the 
+tire 
+and 
+sprayed ScrEv_put_patch/seal
+a 
+rubber 
+sealant 
+to 
+the 
+tire 
+to 
+seal ScrEv_put_patch/seal
+the 
+hole 
+. 
+afterwards 
+, 
+we 
+inflated ScrEv_refill_tire_air
+the 
+tire 
+. 
+then 
+, 
+i 
+got ScrEv_ride_bike
+on 
+it 
+to 
+see ScrEv_check_new_tire
+if 
+it 
+worked RelNScrEv_bicycle
+. 
+after 
+a 
+day 
+or 
+so 
+, 
+i 
+rode ScrEv_ride_bike
+it 
+again 
+to 
+make+sure ScrEv_check_new_tire
+the 
+tire 
+was 
+n't 
+deflating RelNScrEv_bicycle
+. 
+<end_of_story>_bicycle 
+when 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+last 
+week 
+i 
+must 
+have 
+ran RelNScrEv_bicycle
+over 
+something 
+sharp 
+, 
+because 
+when 
+i 
+got RelNScrEv_bicycle
+home 
+i 
+noticed ScrEv_notice_problem
+that 
+the 
+front 
+tire 
+was UnrelEv_bicycle
+flat 
+. 
+this 
+was 
+annoying UnrelEv_bicycle
+especially 
+since 
+i 
+did 
+n't 
+have UnrelEv_bicycle
+the 
+equipment 
+to 
+fix+it Evoking_bicycle
+. 
+so 
+later 
+that 
+day 
+i 
+drove RelNScrEv_bicycle
+over 
+to 
+the 
+local 
+sports 
+store 
+and 
+bought ScrEv_get_tire
+a 
+new 
+tire 
+inner 
+tube 
+and 
+an 
+air 
+pump 
+. 
+when 
+i 
+got RelNScrEv_bicycle
+home 
+i 
+took+out ScrEv_remove_tire
+the 
+old 
+punctured RelNScrEv_bicycle
+inner 
+tube 
+from 
+the 
+tire 
+and 
+replaced ScrEv_put_new_tire
+it 
+with 
+the 
+new 
+once 
+. 
+i 
+then 
+unscrewed ScrEv_pull_air_pin
+the 
+air 
+cap 
+on 
+the 
+tire 
+and 
+attached ScrEv_refill_tire_air
+the 
+air 
+pump 
+. 
+i 
+began UnrelEv_bicycle
+pumping ScrEv_refill_tire_air
+air 
+into 
+the 
+tire 
+, 
+it 
+took UnrelEv_bicycle
+about 
+523 
+pumps 
+before 
+it 
+was 
+fully 
+filled+up ScrEv_refill_tire_air
+with 
+air 
+. 
+i 
+then 
+got ScrEv_ride_bike
+on 
+the 
+bike 
+and 
+tested ScrEv_check_new_tire
+it 
+to 
+see ScrEv_check_new_tire
+how 
+it 
+would 
+hold+up RelNScrEv_bicycle
+. 
+it 
+felt UnrelEv_bicycle
+good 
+as 
+new 
+. 
+i 
+rode ScrEv_ride_bike
+around 
+happy 
+that 
+it 
+was 
+fixed Evoking_bicycle
+, 
+and 
+also 
+happy 
+that 
+i 
+now 
+had ScrEv_get_tools
+the 
+equipment 
+to 
+fix+it Evoking_bicycle
+again 
+if 
+it 
+went RelNScrEv_bicycle
+flat 
+in 
+the 
+future 
+. 
+<end_of_story>_bicycle 
+yesterday 
+, 
+i 
+wanted UnrelEv_bicycle
+to 
+ride ScrEv_ride_bike
+my 
+bike 
+because 
+the 
+weather 
+was UnrelEv_bicycle
+so 
+nice 
+. 
+i 
+got RelNScrEv_bicycle
+my 
+bike 
+out 
+of 
+the 
+storage 
+closet 
+and 
+noticed ScrEv_notice_problem
+it 
+had RelNScrEv_bicycle
+a 
+flat 
+tire 
+. 
+since 
+i 
+do 
+not 
+have RelNScrEv_bicycle
+a 
+spare 
+tire 
+, 
+i 
+had 
+to 
+fix+it Evoking_bicycle
+if 
+i 
+wanted UnrelEv_bicycle
+to 
+ride ScrEv_ride_bike
+. 
+i 
+found ScrEv_get_tools
+my 
+bike 
+pump 
+and 
+patch 
+kit 
+. 
+i 
+pumped ScrEv_refill_tire_air
+the 
+tire 
+and 
+was UnrelEv_bicycle
+able 
+to 
+locate ScrEv_examine_tire
+the 
+air 
+leak 
+. 
+i 
+took+out ScrEv_get_tools
+the 
+patch 
+and 
+applied ScrEv_put_patch/seal
+it 
+to 
+the 
+part 
+of 
+the 
+tire 
+that 
+had RelNScrEv_bicycle
+the 
+little 
+leak 
+. 
+i 
+then 
+pumped ScrEv_refill_tire_air
+the 
+tire 
+again 
+. 
+i 
+had 
+to 
+be UnrelEv_bicycle
+careful 
+not 
+to 
+overfill ScrEv_refill_tire_air
+the 
+tire 
+so 
+the 
+patch 
+would 
+n't 
+pop+off RelNScrEv_bicycle
+. 
+once 
+i 
+was+sure UnrelEv_bicycle
+the 
+patch 
+would 
+n't 
+come+off RelNScrEv_bicycle
+, 
+i 
+made+sure UnrelEv_bicycle
+that 
+i 
+pumped ScrEv_refill_tire_air
+the 
+air 
+into 
+the 
+tire 
+sufficiently 
+. 
+i 
+tested ScrEv_check_new_tire
+the 
+tire 
+by 
+sitting RelNScrEv_bicycle
+on 
+the 
+bike 
+and 
+riding ScrEv_ride_bike
+around 
+a 
+little 
+. 
+the 
+tire 
+seemed ScrEv_check_new_tire
+to 
+hold RelNScrEv_bicycle
+, 
+so 
+i 
+was UnrelEv_bicycle
+ready 
+to 
+go ScrEv_ride_bike
+on 
+my 
+bike 
+ride 
+. 
+it 
+was UnrelEv_bicycle
+such 
+a 
+nice 
+day 
+and 
+i 
+had UnrelEv_bicycle
+a 
+great 
+day 
+riding ScrEv_ride_bike
+my 
+bike 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bicycle 
+down 
+a 
+beautiful 
+country 
+road 
+on 
+a 
+sunny 
+, 
+summer 
+day 
+. 
+when 
+all 
+of 
+a 
+sudden 
+, 
+i 
+felt ScrEv_notice_problem
+something 
+was UnrelEv_bicycle
+wrong 
+. 
+i 
+stopped ScrEv_get_off
+my 
+bike 
+, 
+got+off ScrEv_get_off
+and 
+looked RelNScrEv_bicycle
+down 
+. 
+my 
+front 
+tire 
+had 
+gone RelNScrEv_bicycle
+flat 
+. 
+i 
+must 
+have 
+ridden ScrEv_ride_bike
+over 
+something 
+sharp 
+to 
+puncture RelNScrEv_bicycle
+it 
+. 
+so 
+i 
+pulled+out ScrEv_get_tools
+my 
+gear 
+bag 
+that 
+i 
+had 
+strapped RelNScrEv_bicycle
+to 
+my 
+bike 
+. 
+i 
+found ScrEv_get_tire
+an 
+extra 
+rubber 
+tire 
+liner 
+and 
+the 
+tools 
+needed UnrelEv_bicycle
+to 
+repair+it Evoking_bicycle
+. 
+i 
+took ScrEv_free_wheel
+the 
+wheel 
+off 
+my 
+bike 
+so 
+it 
+would 
+be UnrelEv_bicycle
+easier 
+to 
+work RelNScrEv_bicycle
+on 
+. 
+i 
+removed ScrEv_remove_tire
+the 
+punctured RelNScrEv_bicycle
+rubber 
+tire 
+liner 
+from 
+the 
+wheel 
+. 
+i 
+replaced ScrEv_put_new_tire
+it 
+with 
+the 
+new 
+one 
+using RelNScrEv_bicycle
+my 
+tools 
+. 
+i 
+then 
+used RelNScrEv_bicycle
+a 
+special 
+little 
+cartridge 
+i 
+had 
+brought ScrEv_get_tools
+with 
+me 
+that 
+was 
+filled UnrelEv_bicycle
+with 
+pressurized UnrelEv_bicycle
+carbon 
+dioxide 
+to 
+pump ScrEv_refill_tire_air
+my 
+new 
+tire 
+up 
+. 
+once 
+it 
+was 
+done UnrelEv_bicycle
+, 
+i 
+placed ScrEv_put_new_tire
+it 
+back 
+on 
+my 
+bike 
+and 
+continued+on ScrEv_ride_bike
+with 
+my 
+ride 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+by 
+bicycle 
+along 
+the 
+river 
+trail 
+this 
+morning 
+when 
+i 
+noticed ScrEv_notice_problem
+that 
+something 
+did 
+n't 
+seem UnrelEv_bicycle
+right 
+. 
+my 
+front 
+tire 
+was UnrelEv_bicycle
+n't 
+as 
+firm 
+as 
+it 
+usually 
+is UnrelEv_bicycle
+, 
+and 
+the 
+situation 
+was 
+getting UnrelEv_bicycle
+worse 
+. 
+i 
+stopped RelNScrEv_bicycle
+pedaling ScrEv_ride_bike
+, 
+got+off ScrEv_get_off
+the 
+bike 
+, 
+and 
+put ScrEv_examine_tire
+my 
+ear 
+to 
+the 
+tire 
+. 
+i 
+could 
+hear ScrEv_examine_tire
+a 
+faint 
+hissing RelNScrEv_bicycle
+sound 
+. 
+the 
+tire 
+was RelNScrEv_bicycle
+flat 
+. 
+darn 
+, 
+i 
+thought UnrelEv_bicycle
+to 
+myself 
+. 
+i 
+was UnrelEv_bicycle
+miles 
+from 
+home 
+-- 
+too 
+far 
+to 
+walk RelNScrEv_bicycle
+back 
+, 
+and 
+nowhere 
+near 
+a 
+repair 
+shop 
+. 
+fortunately 
+, 
+i 
+keep ScrEv_get_tools
+a 
+patch 
+kit 
+that 
+i 
+bought ScrEv_get_tools
+at 
+the 
+local 
+bike 
+shop 
+in 
+my 
+backpack 
+. 
+i 
+took RelNScrEv_bicycle
+the 
+backpack 
+off 
+, 
+rummaged RelNScrEv_bicycle
+around 
+inside 
+for 
+the 
+repair 
+kit 
+, 
+and 
+grabbed ScrEv_get_tools
+it 
+. 
+it 
+had 
+been UnrelEv_bicycle
+a 
+year 
+since 
+i 
+last 
+used RelNScrEv_bicycle
+it 
+, 
+but 
+i 
+got UnrelEv_bicycle
+the 
+hang 
+of 
+it 
+. 
+i 
+found ScrEv_examine_tire
+the 
+exact 
+spot 
+of 
+the 
+hole 
+in 
+the 
+tire 
+, 
+patched ScrEv_put_patch/seal
+it 
+, 
+and 
+then 
+re-inflated ScrEv_refill_tire_air
+the 
+tire 
+. 
+my 
+hands 
+were UnrelEv_bicycle
+dirty 
+, 
+but 
+i 
+was UnrelEv_bicycle
+able 
+to 
+ride ScrEv_ride_bike
+home 
+without 
+any 
+further 
+trouble 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+having ScrEv_ride_bike
+a 
+nice 
+bicycle 
+ride 
+on 
+a 
+sunny 
+day 
+. 
+something 
+seemed ScrEv_notice_problem
+off 
+about 
+my 
+bike 
+but 
+it 
+took UnrelEv_bicycle
+me 
+quite 
+the 
+while 
+before 
+i 
+realized ScrEv_notice_problem
+what 
+had 
+happened UnrelEv_bicycle
+. 
+at 
+some 
+point 
+, 
+one 
+of 
+my 
+bike 
+'s 
+tires 
+went+flat Evoking_bicycle
+. 
+i 
+got+off ScrEv_get_off
+at 
+a 
+safe 
+stopping 
+point 
+away 
+from 
+the 
+highway 
+and 
+turned ScrEv_lay_bike_down
+my 
+bicycle 
+upside 
+down 
+. 
+sure 
+enough 
+, 
+one 
+of 
+my 
+tires 
+was RelNScrEv_bicycle
+flat 
+, 
+the 
+back 
+tire 
+specifically 
+. 
+this 
+was UnrelEv_bicycle
+why 
+i 
+always 
+carried ScrEv_get_tools
+a 
+small 
+travel 
+bag 
+of 
+tools 
+. 
+i 
+set+down ScrEv_get_tools
+the 
+bag 
+and 
+began UnrelEv_bicycle
+to 
+work RelNScrEv_bicycle
+. 
+first 
+i 
+took+off ScrEv_take_tire_off
+my 
+tire 
+. 
+there 
+was UnrelEv_bicycle
+a 
+quick 
+release 
+which 
+made UnrelEv_bicycle
+it 
+very 
+easy 
+to 
+take+off ScrEv_take_tire_off
+. 
+i 
+just 
+moved RelNScrEv_bicycle
+a 
+simple 
+lever 
+. 
+next 
+, 
+i 
+used RelNScrEv_bicycle
+my 
+tire 
+lever 
+to 
+detach ScrEv_remove_tire
+the 
+tire 
+from 
+the 
+rim 
+. 
+before 
+putting ScrEv_put_new_tire
+in 
+a 
+new 
+tube 
+from 
+my 
+bag 
+, 
+i 
+filled ScrEv_refill_tire_air
+it 
+with 
+just 
+a 
+little 
+bit 
+of 
+air 
+. 
+once 
+it 
+was 
+set RelNScrEv_bicycle
+in 
+place 
+, 
+i 
+just 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+and 
+continued ScrEv_ride_bike
+my 
+trip 
+. 
+<end_of_story>_bicycle 
+yesterday 
+while 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+i 
+got+a+flat+tire Evoking_bicycle
+. 
+luckily 
+i 
+had ScrEv_get_tools
+a 
+tire 
+repair 
+kit 
+in 
+the 
+garage 
+. 
+it 
+'s UnrelEv_bicycle
+very 
+easy 
+to 
+do UnrelEv_bicycle
+. 
+the 
+first 
+thing 
+i 
+did UnrelEv_bicycle
+was 
+use RelNScrEv_bicycle
+a 
+flathead 
+screwdriver 
+to 
+pop ScrEv_take_tire_off
+the 
+tire 
+off 
+of 
+the 
+rim 
+. 
+the 
+tire 
+is UnrelEv_bicycle
+hollow 
+inside 
+, 
+with 
+no 
+tube 
+. 
+the 
+patch 
+kit 
+contains RelNScrEv_bicycle
+small 
+rubber 
+patches 
+with 
+glue 
+, 
+that 
+you 
+use RelNScrEv_bicycle
+to 
+seal+up ScrEv_put_patch/seal
+any 
+holes 
+that 
+might 
+appear RelNScrEv_bicycle
+. 
+when 
+i 
+had ScrEv_take_tire_off
+the 
+tire 
+off 
+the 
+rim 
+i 
+looked ScrEv_examine_tire
+all 
+around 
+inside 
+to 
+find ScrEv_examine_tire
+the 
+hole 
+. 
+when 
+i 
+found ScrEv_examine_tire
+it 
+, 
+i 
+used RelNScrEv_bicycle
+a 
+special 
+piece 
+of 
+sandpaper 
+inside 
+the 
+repair 
+kit 
+to 
+clean+off RelNScrEv_bicycle
+the 
+area 
+around 
+the 
+hole 
+, 
+so 
+the 
+glue 
+would 
+stick RelNScrEv_bicycle
+nicely 
+. 
+i 
+then 
+applied RelNScrEv_bicycle
+the 
+glue 
+and 
+put ScrEv_put_patch/seal
+one 
+of 
+the 
+small 
+rubber 
+patches 
+onto 
+it 
+. 
+the 
+instructions 
+said UnrelEv_bicycle
+to 
+let UnrelEv_bicycle
+it 
+dry RelNScrEv_bicycle
+for 
+a 
+few 
+hours 
+, 
+so 
+i 
+went UnrelEv_bicycle
+inside 
+and 
+watched UnrelEv_bicycle
+tv 
+. 
+after 
+awhile 
+i 
+came UnrelEv_bicycle
+back 
+out 
+and 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+rim 
+, 
+then 
+used RelNScrEv_bicycle
+a 
+pump 
+to 
+pump ScrEv_refill_tire_air
+the 
+tire 
+full 
+of 
+air 
+. 
+sure 
+enough 
+, 
+it 
+fixed+the+hole Evoking_bicycle
+! 
+<end_of_story>_bicycle 
+riding ScrEv_ride_bike
+my 
+bike 
+through 
+the 
+park 
+, 
+i 
+was 
+enjoying UnrelEv_bicycle
+the 
+beautiful 
+spring 
+scenery 
+. 
+a 
+family 
+of 
+squirrels 
+caught UnrelEv_bicycle
+my 
+attention 
+and 
+i 
+was 
+looking UnrelEv_bicycle
+at 
+them 
+when 
+i 
+hit RelNScrEv_bicycle
+some 
+broken UnrelEv_bicycle
+glass 
+. 
+my 
+bike 
+'s 
+tire 
+immediately 
+deflated Evoking_bicycle
+. 
+i 
+walked ScrEv_get_off
+it 
+back 
+to 
+my 
+car 
+, 
+loaded+up RelNScrEv_bicycle
+, 
+and 
+headed RelNScrEv_bicycle
+for 
+a 
+local 
+department 
+store 
+. 
+sure 
+enough 
+, 
+they 
+had RelNScrEv_bicycle
+bike 
+tire 
+repair 
+kits 
+in 
+the 
+sporting 
+goods 
+section 
+. 
+i 
+bought ScrEv_get_tools
+one 
+, 
+and 
+then 
+headed+on RelNScrEv_bicycle
+home 
+. 
+once 
+there 
+i 
+removed ScrEv_free_wheel
+a 
+wheel 
+from 
+the 
+bike 
+. 
+from 
+it 
+i 
+took+out ScrEv_remove_tire
+the 
+inner 
+tube 
+. 
+i 
+rubbed RelNScrEv_bicycle
+some 
+soapy 
+water 
+on 
+it 
+and 
+quickly 
+found ScrEv_examine_tire
+the 
+problem 
+spot 
+. 
+from 
+my 
+new 
+repair 
+kit 
+i 
+found ScrEv_get_tools
+a 
+special 
+patch 
+. 
+i 
+applied RelNScrEv_bicycle
+the 
+sealant 
+and 
+then 
+stuck ScrEv_put_patch/seal
+the 
+patch 
+on 
+. 
+i 
+used RelNScrEv_bicycle
+a 
+hair 
+dryer 
+to 
+heat RelNScrEv_bicycle
+and 
+set RelNScrEv_bicycle
+it 
+. 
+next 
+, 
+i 
+took+out ScrEv_get_tools
+the 
+air 
+compressor 
+and 
+reinflated ScrEv_refill_tire_air
+the 
+inner 
+tube 
+. 
+after 
+reassembling ScrEv_put_new_tire
+everything 
+, 
+i 
+sat RelNScrEv_bicycle
+on 
+the 
+bike 
+and 
+tested ScrEv_check_new_tire
+it 
+out 
+. 
+good 
+as 
+new 
+! 
+<end_of_story>_bicycle 
+i 
+wanted UnrelEv_bicycle
+to 
+go+for+a+bike+ride Evoking_bicycle
+, 
+so 
+i 
+went+out UnrelEv_bicycle
+to 
+the 
+garage 
+to 
+get ScrEv_other_bicycle
+my 
+bike 
+. 
+i 
+brought RelNScrEv_bicycle
+it 
+out 
+to 
+the 
+driveway 
+and 
+got+on RelNScrEv_bicycle
+. 
+i 
+noticed ScrEv_notice_problem
+that 
+something 
+did 
+n't 
+feel UnrelEv_bicycle
+right 
+. 
+it 
+was UnrelEv_bicycle
+too 
+hard 
+to 
+pedal RelNScrEv_bicycle
+. 
+i 
+looked+down UnrelEv_bicycle
+and 
+noticed ScrEv_notice_problem
+that 
+my 
+front 
+tire 
+was UnrelEv_bicycle
+flat 
+. 
+i 
+went+back UnrelEv_bicycle
+into 
+the 
+garage 
+and 
+brought+out ScrEv_get_tools
+my 
+bicycle 
+pump 
+. 
+i 
+removed ScrEv_other_bicycle
+the 
+cover 
+from 
+the 
+air 
+valve 
+and 
+attached ScrEv_other_bicycle
+the 
+pump 
+to 
+it 
+. 
+i 
+pumped ScrEv_other_bicycle
+up 
+and 
+down 
+on 
+the 
+handle 
+a 
+few 
+times 
+and 
+noticed ScrEv_notice_problem
+that 
+the 
+air 
+was 
+not 
+staying+in RelNScrEv_bicycle
+. 
+i 
+went+back UnrelEv_bicycle
+into 
+the 
+garage 
+, 
+again 
+, 
+and 
+this 
+time 
+i 
+brought+out ScrEv_get_tools
+my 
+bicycle 
+repair 
+kit 
+. 
+i 
+found ScrEv_other_bicycle
+the 
+hole 
+in 
+my 
+tire 
+, 
+put ScrEv_put_patch/seal
+a 
+patch 
+on 
+, 
+and 
+then 
+filled ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+. 
+the 
+patch 
+seemed UnrelEv_bicycle
+to 
+be 
+nice 
+and 
+sturdy 
+and 
+i 
+believed UnrelEv_bicycle
+it 
+was 
+going 
+to 
+hold RelNScrEv_bicycle
+. 
+i 
+put ScrEv_other_bicycle
+the 
+air 
+pump 
+and 
+the 
+bicycle 
+tire 
+patch 
+kit 
+back 
+into 
+the 
+garage 
+, 
+put+on UnrelEv_bicycle
+my 
+helmet 
+, 
+and 
+rode RelNScrEv_bicycle
+my 
+bicycle 
+down 
+the 
+street 
+. 
+<end_of_story>_bicycle 
+i 
+was+riding+my+bike Evoking_bicycle
+yesterday 
+and 
+somehow 
+i 
+must 
+have 
+run+over RelNScrEv_bicycle
+something 
+and 
+punctured RelNScrEv_bicycle
+the 
+front 
+tire 
+of 
+my 
+bike 
+. 
+i 
+measured RelNScrEv_bicycle
+my 
+tire 
+height 
+and 
+wrote+down RelNScrEv_bicycle
+my 
+model 
+of 
+my 
+bike 
+before 
+i 
+wen ScrEv_other_bicycle
+to 
+the 
+bike 
+shop 
+to 
+buy ScrEv_get_tire
+a 
+new 
+inner 
+tube 
+. 
+i 
+go ScrEv_other_bicycle
+to 
+the 
+bike 
+shop 
+and 
+the 
+man 
+behind 
+the 
+counter 
+asked RelNScrEv_bicycle
+what 
+i 
+needed UnrelEv_bicycle
+help 
+with 
+. 
+i 
+explained RelNScrEv_bicycle
+i 
+needed UnrelEv_bicycle
+a 
+new 
+inner 
+tube 
+for 
+my 
+bike 
+since 
+i 
+had 
+gotten RelNScrEv_bicycle
+a 
+flat 
+tire 
+. 
+i 
+showed RelNScrEv_bicycle
+him 
+the 
+model 
+number 
+and 
+the 
+tire 
+height 
+an 
+d 
+he 
+quickly 
+went UnrelEv_bicycle
+a 
+got RelNScrEv_bicycle
+the 
+inner 
+tube 
+i 
+needed UnrelEv_bicycle
+. 
+i 
+payed RelNScrEv_bicycle
+for 
+my 
+purchase 
+, 
+thank UnrelEv_bicycle
+the 
+man 
+and 
+went UnrelEv_bicycle
+home 
+to 
+fix+my+bike Evoking_bicycle
+. 
+i 
+took ScrEv_free_wheel
+the 
+front 
+tire 
+off 
+and 
+gently 
+pried ScrEv_take_tire_off
+the 
+outer 
+tire 
+off 
+. 
+the 
+inner 
+tube 
+is UnrelEv_bicycle
+sort 
+of 
+pliable 
+so 
+i 
+stretched ScrEv_take_tire_off
+it 
+over 
+and 
+off 
+of 
+the 
+rim 
+. 
+i 
+took UnrelEv_bicycle
+the 
+new 
+inner 
+tube 
+and 
+stretched ScrEv_put_new_tire
+it 
+on 
+the 
+metal 
+rim 
+, 
+making+sure UnrelEv_bicycle
+the 
+stem 
+when 
+you 
+inflate RelNScrEv_bicycle
+the 
+tire 
+was 
+lined+up UnrelEv_bicycle
+with 
+the 
+hole 
+on 
+the 
+metal 
+rim 
+. 
+i 
+replaced ScrEv_remove_tire
+the 
+outer 
+tire 
+and 
+re-inflated ScrEv_refill_tire_air
+the 
+tire 
+with 
+my 
+bicycle 
+pump 
+. 
+now 
+i 
+can 
+ride ScrEv_ride_bike
+my 
+bike 
+again 
+! 
+<end_of_story>_bicycle 
+last 
+week 
+, 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bicycle 
+on 
+a 
+dirt 
+path 
+through 
+the 
+forest 
+. 
+the 
+path 
+had UnrelEv_bicycle
+many 
+rocks 
+and 
+branches 
+on 
+it 
+and 
+at 
+some 
+point 
+during 
+my 
+ride 
+, 
+i 
+hit RelNScrEv_bicycle
+a 
+rock 
+and 
+put RelNScrEv_bicycle
+a 
+hole 
+in 
+the 
+tire 
+. 
+i 
+was 
+forced UnrelEv_bicycle
+to 
+walk RelNScrEv_bicycle
+my 
+bike 
+back 
+to 
+my 
+house 
+and 
+inspect ScrEv_examine_tire
+the 
+tires 
+. 
+it 
+seemed UnrelEv_bicycle
+to 
+be UnrelEv_bicycle
+a 
+minor 
+hole 
+where 
+the 
+rock 
+had 
+pierced RelNScrEv_bicycle
+the 
+tire 
+that 
+would 
+require UnrelEv_bicycle
+some 
+minor 
+patching RelNScrEv_bicycle
+. 
+i 
+loaded ScrEv_other_bicycle
+the 
+bicycle 
+into 
+the 
+back 
+of 
+the 
+car 
+and 
+drove ScrEv_other_bicycle
+it 
+to 
+our 
+local 
+bike 
+shop 
+where 
+they 
+applied ScrEv_put_patch/seal
+some 
+sort 
+of 
+fill 
+to 
+the 
+hole 
+and 
+patched ScrEv_put_patch/seal
+it 
+up 
+. 
+once 
+completed UnrelEv_bicycle
+, 
+my 
+tires 
+retained UnrelEv_bicycle
+their 
+air 
+pressure 
+and 
+were UnrelEv_bicycle
+good 
+as 
+new 
+. 
+i 
+paid RelNScrEv_bicycle
+the 
+man 
+at 
+the 
+shop 
+and 
+took RelNScrEv_bicycle
+my 
+bike 
+home 
+. 
+the 
+next 
+day 
+, 
+i 
+took UnrelEv_bicycle
+it 
+back 
+out 
+for 
+a 
+ride 
+and 
+all 
+was UnrelEv_bicycle
+well 
+! 
+the 
+bike 
+shop 
+was UnrelEv_bicycle
+far 
+better 
+equipped RelNScrEv_bicycle
+to 
+fix+my+flat Evoking_bicycle
+than 
+i 
+was UnrelEv_bicycle
+. 
+<end_of_story>_bicycle 
+the 
+flat 
+tire 
+it 
+was UnrelEv_bicycle
+a 
+beautiful 
+sunny 
+day 
+with 
+only 
+a 
+slight 
+breeze 
+. 
+it 
+seemed UnrelEv_bicycle
+to 
+me 
+like 
+a 
+perfect 
+day 
+for 
+a 
+bicycle 
+ride 
+. 
+i 
+thought UnrelEv_bicycle
+i 
+would 
+ride ScrEv_ride_bike
+on 
+the 
+bike 
+trails 
+to 
+the 
+park 
+and 
+enjoy UnrelEv_bicycle
+my 
+day 
+. 
+however 
+, 
+when 
+i 
+went+out UnrelEv_bicycle
+into 
+the 
+garage 
+, 
+i 
+saw ScrEv_notice_problem
+that 
+the 
+back 
+tire 
+on 
+my 
+bicycle 
+was UnrelEv_bicycle
+flat 
+. 
+luckily 
+, 
+i 
+had UnrelEv_bicycle
+a 
+spare 
+tire 
+on 
+hand 
+. 
+the 
+tire 
+that 
+was UnrelEv_bicycle
+flat 
+had 
+been UnrelEv_bicycle
+on 
+my 
+bicycle 
+for 
+a 
+couple 
+of 
+years 
+now 
+, 
+it 
+needed 
+replaced ScrEv_remove_tire
+anyway 
+. 
+i 
+remembered UnrelEv_bicycle
+how 
+my 
+dad 
+had 
+taught UnrelEv_bicycle
+me 
+to 
+replace ScrEv_remove_tire
+the 
+tire 
+and 
+got UnrelEv_bicycle
+the 
+job 
+done UnrelEv_bicycle
+. 
+it 
+did 
+not 
+take RelNScrEv_bicycle
+as 
+long 
+as 
+i 
+thought UnrelEv_bicycle
+it 
+might UnrelEv_bicycle
+. 
+i 
+kept RelNScrEv_bicycle
+the 
+old 
+tire 
+to 
+see UnrelEv_bicycle
+if 
+i 
+could 
+patch ScrEv_put_patch/seal
+it 
+up 
+later 
+and 
+put ScrEv_refill_tire_air
+air 
+in 
+it 
+to 
+have UnrelEv_bicycle
+on 
+hand 
+as 
+a 
+spare 
+when 
+i 
+needed UnrelEv_bicycle
+one 
+. 
+after 
+my 
+new 
+tire 
+was UnrelEv_bicycle
+on 
+my 
+bike 
+, 
+i 
+went ScrEv_ride_bike
+for 
+the 
+ride 
+to 
+the 
+park 
+that 
+i 
+planned UnrelEv_bicycle
+and 
+had UnrelEv_bicycle
+a 
+great 
+time 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+new 
+bicycle 
+when 
+i 
+stumbled UnrelEv_bicycle
+over 
+a 
+rock 
+or 
+something 
+. 
+the 
+tire 
+seemed UnrelEv_bicycle
+to 
+explode RelNScrEv_bicycle
+upon 
+impact 
+. 
+i 
+struggled UnrelEv_bicycle
+to 
+stay UnrelEv_bicycle
+atop 
+the 
+bicycle 
+but 
+was 
+fortunately 
+able 
+to 
+keep UnrelEv_bicycle
+my 
+balance 
+. 
+i 
+knew UnrelEv_bicycle
+that 
+i 
+had 
+to 
+fix+my+tire Evoking_bicycle
+in 
+order 
+to 
+use RelNScrEv_bicycle
+the 
+bike 
+. 
+i 
+knew UnrelEv_bicycle
+the 
+local 
+gas 
+station 
+was UnrelEv_bicycle
+only 
+a 
+few 
+blocks 
+away 
+so 
+i 
+decided UnrelEv_bicycle
+to 
+walk ScrEv_other_bicycle
+my 
+bike 
+there 
+. 
+the 
+first 
+thing 
+i 
+did UnrelEv_bicycle
+was 
+get ScrEv_get_tools
+something 
+to 
+tape+up ScrEv_put_patch/seal
+the 
+hole 
+. 
+the 
+manager 
+gave RelNScrEv_bicycle
+me 
+some 
+sort 
+of 
+sticky 
+resin 
+in 
+order 
+to 
+patch ScrEv_put_patch/seal
+things 
+up 
+. 
+i 
+went UnrelEv_bicycle
+to 
+the 
+air 
+pump 
+to 
+put ScrEv_refill_tire_air
+some 
+air 
+into 
+the 
+tire 
+and 
+once 
+it 
+was UnrelEv_bicycle
+full 
+i 
+was UnrelEv_bicycle
+ready 
+to 
+patch ScrEv_put_patch/seal
+it 
+up 
+. 
+i 
+used RelNScrEv_bicycle
+the 
+resin 
+to 
+cover ScrEv_put_patch/seal
+the 
+hole 
+and 
+the 
+tire 
+seemed UnrelEv_bicycle
+as 
+good 
+as 
+new 
+. 
+i 
+rode ScrEv_ride_bike
+the 
+bike 
+home 
+and 
+made+sure UnrelEv_bicycle
+to 
+avoid+rolling UnrelEv_bicycle
+over 
+anymore 
+rocks 
+. 
+<end_of_story>_bicycle 
+i 
+began UnrelEv_bicycle
+to 
+repair+my+flat+bicycle+tire Evoking_bicycle
+by 
+removing ScrEv_take_tire_off
+the 
+wheel 
+from 
+the 
+bike 
+. 
+this 
+was 
+done UnrelEv_bicycle
+by 
+disconnecting RelNScrEv_bicycle
+the 
+brake 
+cable 
+so 
+the 
+wheel 
+would 
+be 
+able 
+to 
+be 
+removed RelNScrEv_bicycle
+from 
+the 
+frame 
+. 
+i 
+then 
+loosened ScrEv_loose_nut
+the 
+bolts 
+holding UnrelEv_bicycle
+it 
+on 
+and 
+slid ScrEv_free_wheel
+the 
+axle 
+off 
+the 
+frame 
+, 
+making+sure UnrelEv_bicycle
+that 
+the 
+chain 
+did 
+not 
+get+caught RelNScrEv_bicycle
+or 
+bind+up RelNScrEv_bicycle
+while 
+doing UnrelEv_bicycle
+so 
+. 
+after 
+the 
+wheel 
+was 
+removed ScrEv_remove_tire
+, 
+i 
+made+sure UnrelEv_bicycle
+that 
+all 
+possible 
+air 
+was UnrelEv_bicycle
+out 
+of 
+the 
+tube 
+so 
+that 
+it 
+would 
+be UnrelEv_bicycle
+easier 
+to 
+remove ScrEv_remove_tire
+. 
+i 
+next 
+took ScrEv_get_tools
+two 
+flat 
+head 
+screwdrivers 
+and 
+began UnrelEv_bicycle
+to 
+remove ScrEv_remove_tire
+the 
+tire 
+from 
+the 
+bicycle 
+. 
+after 
+the 
+tire 
+was 
+finally 
+removed ScrEv_remove_tire
+, 
+i 
+pulled ScrEv_other_bicycle
+the 
+tube 
+off 
+the 
+rim 
+as 
+well 
+. 
+next 
+, 
+i 
+placed ScrEv_other_bicycle
+a 
+new 
+tube 
+in 
+place 
+making+sure UnrelEv_bicycle
+that 
+the 
+valve 
+stem 
+was 
+placed RelNScrEv_bicycle
+through 
+the 
+rim 
+appropriately 
+. 
+after 
+doing UnrelEv_bicycle
+this 
+, 
+i 
+began UnrelEv_bicycle
+to 
+fit ScrEv_put_new_tire
+the 
+tire 
+to 
+the 
+rim 
+, 
+making+sure UnrelEv_bicycle
+the 
+tube 
+was 
+placed RelNScrEv_bicycle
+inside 
+the 
+tire 
+and 
+not 
+pinched RelNScrEv_bicycle
+at 
+all 
+. 
+once 
+the 
+tire 
+was UnrelEv_bicycle
+on 
+the 
+rim 
+, 
+i 
+inflated ScrEv_refill_tire_air
+the 
+tube 
+, 
+making+sure UnrelEv_bicycle
+that 
+the 
+tire 
+seated RelNScrEv_bicycle
+onto 
+the 
+rim 
+properly 
+and 
+that 
+everything 
+held RelNScrEv_bicycle
+air 
+. 
+finally 
+, 
+i 
+reinstalled ScrEv_put_new_tire
+the 
+wheel 
+onto 
+the 
+bike 
+, 
+and 
+reconnected RelNScrEv_bicycle
+everything 
+appropriately 
+. 
+<end_of_story>_bicycle 
+i 
+began UnrelEv_bicycle
+by 
+finding ScrEv_notice_problem
+the 
+culprit 
+of 
+my 
+flat 
+tire 
+, 
+it 
+was UnrelEv_bicycle
+a 
+nail 
+on 
+the 
+side 
+of 
+the 
+road 
+. 
+unfortunately 
+i 
+did 
+not 
+have UnrelEv_bicycle
+a 
+spare 
+tire 
+so 
+i 
+had 
+to 
+carry ScrEv_other_bicycle
+my 
+bike 
+the 
+rest 
+of 
+the 
+way 
+home 
+. 
+after 
+the 
+gruesome 
+trek 
+back 
+to 
+my 
+house 
+i 
+flipped ScrEv_lay_bike_down
+the 
+bicycle 
+upside 
+down 
+and 
+began+my+repair Evoking_bicycle
+. 
+first 
+i 
+took+off ScrEv_take_tire_off
+the 
+outer 
+tire 
+to 
+replace RelNScrEv_bicycle
+my 
+tube 
+with 
+a 
+better 
+more 
+expensive 
+tube 
+that 
+has UnrelEv_bicycle
+the 
+ability 
+to 
+fix RelNScrEv_bicycle
+a 
+puncture 
+. 
+i 
+do 
+not 
+want UnrelEv_bicycle
+to 
+experience UnrelEv_bicycle
+carrying RelNScrEv_bicycle
+my 
+bike 
+a 
+mile 
+ever 
+again 
+. 
+after 
+putting ScrEv_other_bicycle
+the 
+new 
+tube 
+on 
+i 
+screw ScrEv_put_new_tire
+back 
+on 
+the 
+tire 
+and 
+put 
+the 
+outer 
+tire 
+over 
+the 
+tube 
+. 
+i 
+then 
+fill ScrEv_refill_tire_air
+the 
+psi 
+to 
+523 
+in 
+my 
+tire 
+and 
+listen ScrEv_check_new_tire
+for 
+any 
+leaking RelNScrEv_bicycle
+air 
+. 
+then 
+i 
+spin ScrEv_other_bicycle
+the 
+tire 
+to 
+make UnrelEv_bicycle
+all 
+the 
+slime 
+inside 
+become 
+evenly 
+distributed UnrelEv_bicycle
+throughout 
+. 
+this 
+will 
+prevent RelNScrEv_bicycle
+leaks 
+in 
+the 
+future 
+and 
+even 
+with 
+a 
+slight 
+leak 
+i 
+will 
+still 
+be 
+able 
+to 
+ride ScrEv_ride_bike
+back 
+home 
+and 
+fix RelNScrEv_bicycle
+the 
+tire 
+quickly 
+yet 
+again 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+home 
+from 
+school 
+one 
+day 
+when 
+i 
+went+through UnrelEv_bicycle
+a 
+thorny 
+patch 
+of 
+ground 
+while 
+going UnrelEv_bicycle
+through 
+the 
+park 
+. 
+the 
+tire 
+then 
+went RelNScrEv_bicycle
+flat 
+after 
+a 
+few 
+more 
+minutes 
+of 
+riding ScrEv_ride_bike
+and 
+i 
+was 
+stuck UnrelEv_bicycle
+a 
+couple 
+of 
+miles 
+from 
+home 
+. 
+i 
+called UnrelEv_bicycle
+my 
+dad 
+and 
+told UnrelEv_bicycle
+him 
+what 
+happened UnrelEv_bicycle
+and 
+where 
+i 
+was UnrelEv_bicycle
+. 
+after 
+a 
+few 
+minutes 
+, 
+he 
+showed UnrelEv_bicycle
+up 
+with 
+new 
+inner 
+tubes 
+and 
+a 
+few 
+tools 
+to 
+help UnrelEv_bicycle
+me 
+fix+my+bike+tires Evoking_bicycle
+. 
+we 
+started UnrelEv_bicycle
+by 
+removing ScrEv_take_tire_off
+the 
+outer 
+rubber 
+of 
+the 
+tires 
+and 
+getting ScrEv_take_tire_off
+the 
+damaged 
+inner 
+tubes 
+out 
+. 
+then 
+we 
+replaced ScrEv_remove_tire
+them 
+with 
+new 
+ones 
+. 
+after 
+reinstalling ScrEv_put_new_tire
+the 
+tubes 
+and 
+putting ScrEv_put_new_tire
+them 
+back 
+onto 
+the 
+bicycle 
+, 
+we 
+had 
+to 
+inflate ScrEv_refill_tire_air
+the 
+tires 
+which 
+took RelNScrEv_bicycle
+a 
+few 
+minutes 
+with 
+a 
+foot 
+pump 
+. 
+afterwards 
+, 
+he 
+drove UnrelEv_bicycle
+home 
+and 
+i 
+followed UnrelEv_bicycle
+on 
+my 
+repaired RelNScrEv_bicycle
+bike 
+. 
+i 
+promised UnrelEv_bicycle
+to 
+avoid UnrelEv_bicycle
+patches 
+of 
+thorns 
+after 
+that 
+since 
+it 
+cost UnrelEv_bicycle
+me 
+523 
+weeks 
+of 
+allowance 
+to 
+buy ScrEv_get_tire
+the 
+inner 
+tubes 
+. 
+<end_of_story>_bicycle 
+it 
+was UnrelEv_bicycle
+a 
+sunny 
+afternoon 
+so 
+my 
+friend 
+and 
+i 
+went 
+decided UnrelEv_bicycle
+to 
+go ScrEv_ride_bike
+for 
+a 
+ride 
+on 
+our 
+bicycles 
+in 
+the 
+woods 
+. 
+i 
+did 
+n't 
+check RelNScrEv_bicycle
+the 
+air 
+pressure 
+beforehand 
+and 
+thought UnrelEv_bicycle
+it 
+would 
+be UnrelEv_bicycle
+okay 
+. 
+as 
+we 
+were 
+riding ScrEv_ride_bike
+through 
+the 
+trails 
+in 
+the 
+woods 
+the 
+terrain 
+was UnrelEv_bicycle
+more 
+rough 
+than 
+i 
+had 
+expected UnrelEv_bicycle
+and 
+the 
+the 
+tire 
+went ScrEv_other_bicycle
+flat 
+. 
+i 
+got+off ScrEv_get_off
+my 
+bicycle 
+and 
+knelt+down UnrelEv_bicycle
+to 
+check ScrEv_notice_problem
+the 
+condition 
+of 
+the 
+tire 
+to 
+see ScrEv_notice_problem
+if 
+there 
+were UnrelEv_bicycle
+any 
+punctures 
+. 
+there 
+were UnrelEv_bicycle
+n't 
+any 
+and 
+it 
+was UnrelEv_bicycle
+just 
+out 
+of 
+air 
+. 
+it 
+was UnrelEv_bicycle
+a 
+good 
+thing 
+my 
+friend 
+packed ScrEv_get_tools
+an 
+air 
+pump 
+. 
+i 
+stuck ScrEv_refill_tire_air
+the 
+needle 
+from 
+the 
+air 
+pump 
+into 
+the 
+tire 
+and 
+started UnrelEv_bicycle
+to 
+pump ScrEv_refill_tire_air
+air 
+. 
+the 
+bicycle 
+tire 
+started UnrelEv_bicycle
+to 
+inflate RelNScrEv_bicycle
+and 
+it 
+was UnrelEv_bicycle
+good 
+as 
+new 
+. 
+i 
+packed UnrelEv_bicycle
+the 
+air 
+pump 
+and 
+handed UnrelEv_bicycle
+it 
+back 
+to 
+my 
+friend 
+and 
+continued ScrEv_ride_bike
+our 
+bicycle 
+adventure 
+in 
+the 
+woods 
+. 
+<end_of_story>_bicycle 
+last 
+week 
+when 
+i 
+went 
+biking ScrEv_ride_bike
+on 
+a 
+trail 
+with 
+a 
+friend 
+, 
+she 
+rode+over ScrEv_ride_bike
+a 
+nail 
+and 
+one 
+of 
+her 
+bike 
+tires 
+was UnrelEv_bicycle
+punctured RelNScrEv_bicycle
+. 
+we 
+immediately 
+stopped ScrEv_get_off
+riding ScrEv_ride_bike
+so 
+that 
+we 
+could 
+fix+the+problem Evoking_bicycle
+, 
+and 
+we 
+were UnrelEv_bicycle
+lucky 
+that 
+it 
+was UnrelEv_bicycle
+n't 
+too 
+bad 
+of 
+an 
+issue 
+. 
+to 
+fix Evoking_bicycle
+it 
+, 
+we 
+had 
+to 
+return ScrEv_other_bicycle
+home 
+and 
+take RelNScrEv_bicycle
+care 
+of 
+it 
+with 
+the 
+tools 
+we 
+had RelNScrEv_bicycle
+there 
+. 
+we 
+turned ScrEv_lay_bike_down
+the 
+bike 
+over 
+so 
+it 
+was 
+resting RelNScrEv_bicycle
+on 
+the 
+handlebars 
+and 
+the 
+seat 
+so 
+that 
+we 
+would 
+have UnrelEv_bicycle
+access 
+to 
+the 
+wheel 
+very 
+easily 
+. 
+upon 
+spinning ScrEv_other_bicycle
+the 
+wheel 
+, 
+we 
+found RelNScrEv_bicycle
+the 
+nail 
+she 
+had 
+run+over RelNScrEv_bicycle
+and 
+removed ScrEv_other_bicycle
+it 
+. 
+we 
+had 
+to 
+release ScrEv_other_bicycle
+all 
+the 
+air 
+from 
+the 
+tube 
+to 
+begin UnrelEv_bicycle
+with 
+, 
+then 
+take ScrEv_take_tire_off
+the 
+tire 
+off 
+of 
+the 
+rim 
+using RelNScrEv_bicycle
+tools 
+called UnrelEv_bicycle
+a 
+tire 
+levers 
+. 
+after 
+we 
+had UnrelEv_bicycle
+that 
+off 
+, 
+we 
+had 
+to 
+remove ScrEv_take_tire_off
+the 
+tube 
+from 
+the 
+tire 
+and 
+inflate ScrEv_refill_tire_air
+it 
+with 
+enough 
+air 
+to 
+find RelNScrEv_bicycle
+the 
+hole 
+. 
+we 
+knew UnrelEv_bicycle
+about 
+where 
+it 
+would 
+be UnrelEv_bicycle
+. 
+using RelNScrEv_bicycle
+a 
+piece 
+of 
+my 
+brother 
+'s 
+chalk 
+, 
+we 
+marked ScrEv_other_bicycle
+where 
+the 
+hole 
+was UnrelEv_bicycle
+so 
+we 
+would 
+n't 
+lose UnrelEv_bicycle
+the 
+spot 
+, 
+and 
+then 
+we 
+took ScrEv_other_bicycle
+the 
+air 
+out 
+of 
+the 
+tube 
+again 
+. 
+using RelNScrEv_bicycle
+a 
+patch 
+kit 
+designed UnrelEv_bicycle
+for 
+this 
+kind 
+of 
+issue 
+, 
+we 
+patched+up ScrEv_put_patch/seal
+the 
+hole 
+and 
+put ScrEv_other_bicycle
+the 
+tube 
+back 
+into 
+the 
+tire 
+. 
+we 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+wheel 
+and 
+re-inflated ScrEv_refill_tire_air
+it 
+. 
+the 
+patch 
+worked UnrelEv_bicycle
+perfectly 
+and 
+we 
+were 
+able 
+to 
+go+out UnrelEv_bicycle
+biking ScrEv_ride_bike
+again 
+the 
+next 
+day 
+! 
+<end_of_story>_bicycle 
+after 
+getting RelNScrEv_bicycle
+a 
+flat 
+tire 
+on 
+my 
+bicycle 
+, 
+i 
+took ScrEv_other_bicycle
+my 
+bike 
+into 
+the 
+garage 
+and 
+placed ScrEv_other_bicycle
+it 
+on 
+my 
+bike+repair Evoking_bicycle
+stand 
+. 
+i 
+got ScrEv_get_tools
+all 
+the 
+necessary 
+tools 
+and 
+items 
+ready 
+for 
+repair Evoking_bicycle
+: 
+my 
+air 
+compressor 
+-lrb- 
+smaller 
+air 
+compressor 
+which 
+serves RelNScrEv_bicycle
+as 
+my 
+air 
+pump 
+-rrb- 
+, 
+my 
+alan 
+key 
+-lrb- 
+hex 
+key 
+-rrb- 
+, 
+my 
+spare 
+tire 
+, 
+and 
+tube 
+repair 
+just 
+in 
+case 
+my 
+tire 
+could 
+be 
+saved UnrelEv_bicycle
+by 
+patching RelNScrEv_bicycle
+the 
+inner 
+tube 
+. 
+after 
+placing ScrEv_other_bicycle
+my 
+bike 
+on 
+the 
+stand 
+, 
+i 
+was 
+able 
+to 
+remove ScrEv_take_tire_off
+the 
+back 
+tire 
+off 
+of 
+the 
+rim 
+and 
+i 
+noticed ScrEv_notice_problem
+how 
+the 
+inner 
+tube 
+of 
+the 
+tire 
+could 
+not 
+be 
+saved UnrelEv_bicycle
+. 
+as 
+a 
+result 
+, 
+i 
+tossed ScrEv_remove_tire
+the 
+damaged 
+tire 
+to 
+the 
+side 
+and 
+picked+up ScrEv_get_tire
+the 
+spare 
+tire 
+to 
+place ScrEv_put_new_tire
+it 
+on 
+empty 
+rim 
+. 
+after 
+a 
+few 
+moments 
+of 
+fitting ScrEv_put_new_tire
+the 
+tire 
+to 
+the 
+rim 
+and 
+placing ScrEv_put_new_tire
+it 
+correctly 
+on 
+, 
+i 
+was 
+able 
+to 
+test ScrEv_check_new_tire
+to 
+see UnrelEv_bicycle
+if 
+the 
+tire 
+would 
+spin RelNScrEv_bicycle
+and 
+roll RelNScrEv_bicycle
+correctly 
+. 
+i 
+rode RelNScrEv_bicycle
+the 
+tire 
+around 
+for 
+a 
+few 
+minutes 
+to 
+get UnrelEv_bicycle
+a 
+feel 
+for 
+the 
+tire 
+. 
+the 
+air 
+was UnrelEv_bicycle
+low 
+, 
+so 
+i 
+had 
+to 
+pump ScrEv_refill_tire_air
+it 
+up 
+an 
+additional 
+few 
+pounds 
+of 
+air 
+in 
+order 
+to 
+get UnrelEv_bicycle
+it 
+correct 
+. 
+the 
+entire 
+process 
+only 
+took RelNScrEv_bicycle
+me 
+about 
+ten-to-fifteen 
+minutes 
+to 
+complete UnrelEv_bicycle
+, 
+and 
+i 
+had UnrelEv_bicycle
+my 
+new 
+tire 
+on 
+my 
+bike 
+in 
+no 
+time 
+. 
+<end_of_story>_bicycle 
+repairing+a+flat+bike+tire Evoking_bicycle
+can 
+be UnrelEv_bicycle
+a 
+little 
+tiring UnrelEv_bicycle
+, 
+if 
+you 
+get UnrelEv_bicycle
+my 
+drift 
+. 
+anyway 
+, 
+the 
+last 
+time 
+i 
+had 
+to 
+do Evoking_bicycle
+this 
+was 
+when 
+i 
+'d 
+apparently 
+ran+over ScrEv_other_bicycle
+some 
+random 
+, 
+sharp 
+piece 
+of 
+metal 
+that 
+got+stuck RelNScrEv_bicycle
+in 
+my 
+front 
+tire 
+. 
+i 
+had 
+to 
+get ScrEv_get_tools
+some 
+sealant 
+and 
+a 
+little 
+oil 
+for 
+my 
+tire 
+pump 
+. 
+i 
+flipped ScrEv_lay_bike_down
+by 
+bike 
+upside 
+down 
+and 
+used RelNScrEv_bicycle
+a 
+wrench 
+to 
+take ScrEv_free_wheel
+the 
+whole 
+tire 
+off 
+. 
+i 
+have UnrelEv_bicycle
+an 
+older 
+bike 
+, 
+so 
+it 
+'s UnrelEv_bicycle
+easier 
+to 
+do UnrelEv_bicycle
+it 
+this 
+way 
+. 
+i 
+deflated ScrEv_other_bicycle
+the 
+tire 
+and 
+then 
+i 
+took ScrEv_take_tire_off
+the 
+outer 
+tire 
+off 
+. 
+i 
+removed ScrEv_other_bicycle
+the 
+metal 
+bit 
+from 
+the 
+tire 
+and 
+the 
+bladder 
+. 
+i 
+sealed ScrEv_put_patch/seal
+the 
+bladder 
+and 
+had 
+to 
+wait ScrEv_other_bicycle
+for 
+it 
+to 
+cure RelNScrEv_bicycle
+. 
+the 
+outer 
+tire 
+got+a ScrEv_put_patch/seal
+little 
+bit 
+of 
+repair 
+mix 
+too 
+. 
+after 
+the 
+various 
+mixes 
+dried RelNScrEv_bicycle
+, 
+i 
+inflated ScrEv_refill_tire_air
+the 
+bladder 
+a 
+bit 
+and 
+put ScrEv_put_new_tire
+both 
+the 
+bladder 
+and 
+the 
+tire 
+back 
+on 
+the 
+wheel 
+. 
+this 
+took RelNScrEv_bicycle
+a 
+while 
+, 
+since 
+i 
+had 
+to 
+make+sure UnrelEv_bicycle
+that 
+it 
+was UnrelEv_bicycle
+well 
+within 
+the 
+wheel 
+well 
+, 
+so 
+that 
+the 
+tire 
+would 
+stay+on RelNScrEv_bicycle
+. 
+the 
+last 
+thing 
+i 
+really 
+had 
+to 
+do UnrelEv_bicycle
+was 
+fully 
+inflate ScrEv_refill_tire_air
+the 
+bladder 
+and 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+bike 
+. 
+it 
+took RelNScrEv_bicycle
+a 
+little 
+while 
+to 
+do 
+, 
+but 
+it 
+was UnrelEv_bicycle
+better 
+than 
+buying RelNScrEv_bicycle
+an 
+all 
+new 
+tire 
+. 
+<end_of_story>_bicycle 
+this 
+weekend 
+, 
+i 
+planned UnrelEv_bicycle
+to 
+go 
+bike 
+riding ScrEv_ride_bike
+. 
+i 
+had 
+n't 
+gone ScrEv_ride_bike
+in 
+some 
+time 
+and 
+, 
+when 
+i 
+checked ScrEv_other_bicycle
+my 
+bike 
+beforehand 
+, 
+discovered ScrEv_notice_problem
+that 
+one 
+of 
+the 
+tires 
+had 
+gone RelNScrEv_bicycle
+flat 
+. 
+i 
+attempted UnrelEv_bicycle
+to 
+pump ScrEv_other_bicycle
+air 
+back 
+into 
+the 
+tire 
+, 
+first 
+. 
+the 
+tire 
+would 
+not 
+hold RelNScrEv_bicycle
+air 
+, 
+so 
+i 
+knew UnrelEv_bicycle
+that 
+i 
+would 
+have 
+to 
+repair+the+flat+tire Evoking_bicycle
+. 
+i 
+turned ScrEv_lay_bike_down
+the 
+bike 
+upside 
+down 
+. 
+this 
+would 
+help UnrelEv_bicycle
+me 
+by 
+giving UnrelEv_bicycle
+me 
+better 
+access 
+to 
+the 
+bike 
+tires 
+. 
+i 
+found ScrEv_get_tools
+a 
+wrench 
+of 
+appropriate 
+size 
+and 
+used RelNScrEv_bicycle
+it 
+to 
+take+off ScrEv_other_bicycle
+the 
+bolts 
+that 
+held 
+the 
+tire 
+on 
+the 
+bike 
+. 
+when 
+i 
+had 
+taken+off ScrEv_other_bicycle
+the 
+bolts 
+, 
+i 
+took ScrEv_take_tire_off
+the 
+tire 
+off 
+the 
+bike 
+frame 
+. 
+then 
+, 
+i 
+let+out ScrEv_other_bicycle
+the 
+rest 
+of 
+the 
+air 
+out 
+of 
+the 
+bike 
+tire 
+. 
+when 
+the 
+tire 
+was UnrelEv_bicycle
+completely 
+flat 
+, 
+i 
+carefully 
+took ScrEv_take_tire_off
+the 
+rubber 
+tire 
+off 
+the 
+metal 
+bike 
+spoke 
+frame 
+. 
+the 
+inside 
+of 
+a 
+bike 
+tire 
+is UnrelEv_bicycle
+hollow 
+and 
+houses UnrelEv_bicycle
+the 
+tire 
+tube 
+. 
+i 
+knew UnrelEv_bicycle
+that 
+the 
+bike 
+tire 
+was UnrelEv_bicycle
+probably 
+flat 
+because 
+of 
+a 
+puncture 
+in 
+the 
+bike 
+tube 
+, 
+so 
+i 
+checked RelNScrEv_bicycle
+that 
+first 
+. 
+sure 
+enough 
+, 
+there 
+was UnrelEv_bicycle
+a 
+large 
+hole 
+in 
+my 
+bike 
+tire 
+tube 
+. 
+this 
+tube 
+would 
+not 
+hold RelNScrEv_bicycle
+air 
+. 
+i 
+had UnrelEv_bicycle
+a 
+small 
+bike 
+tire 
+repair 
+kit 
+in 
+my 
+garage 
+and 
+went 
+to 
+get ScrEv_get_tools
+it 
+. 
+i 
+returned UnrelEv_bicycle
+with 
+it 
+and 
+took+out ScrEv_get_tools
+the 
+rubber 
+patch 
+that 
+i 
+would 
+use UnrelEv_bicycle
+to 
+repair Evoking_bicycle
+the 
+tube 
+. 
+i 
+prepared ScrEv_other_bicycle
+the 
+tube 
+and 
+then 
+applied ScrEv_put_patch/seal
+a 
+rubber 
+patch 
+to 
+the 
+puncture 
+with 
+a 
+bit 
+of 
+glue 
+. 
+i 
+then 
+tested ScrEv_check_new_tire
+the 
+bike 
+tire 
+tube 
+and 
+found UnrelEv_bicycle
+that 
+the 
+patch 
+was 
+working UnrelEv_bicycle
+. 
+so 
+, 
+i 
+replaced ScrEv_put_new_tire
+the 
+tube 
+and 
+the 
+outer 
+tire 
+on 
+the 
+metal 
+spokes 
+. 
+then 
+, 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+bike 
+frame 
+and 
+tightened ScrEv_other_bicycle
+the 
+bolts 
+that 
+would 
+hold RelNScrEv_bicycle
+it 
+there 
+. 
+finally 
+, 
+i 
+put ScrEv_other_bicycle
+the 
+bike 
+right-side 
+up 
+and 
+filled ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+. 
+i 
+knew 
+this 
+weekend 
+would 
+be UnrelEv_bicycle
+fun 
+. 
+<end_of_story>_bicycle 
+repairing+a+bicycle Evoking_bicycle
+is UnrelEv_bicycle
+vital 
+and 
+i 
+learned UnrelEv_bicycle
+how 
+easy 
+and 
+important 
+it 
+is UnrelEv_bicycle
+through 
+the 
+many 
+years 
+i 
+have 
+rode ScrEv_ride_bike
+bicycles 
+. 
+first 
+of 
+all 
+do 
+not 
+think UnrelEv_bicycle
+you 
+ca 
+n't 
+do UnrelEv_bicycle
+it 
+i 
+will 
+show UnrelEv_bicycle
+and 
+you 
+will 
+be 
+glad UnrelEv_bicycle
+you 
+learned UnrelEv_bicycle
+the 
+first 
+time 
+a 
+tipe 
+deflates RelNScrEv_bicycle
+way 
+out 
+on 
+a 
+country 
+or 
+something 
+. 
+first 
+use UnrelEv_bicycle
+tire 
+removing 
+tools 
+that 
+are UnrelEv_bicycle
+flat 
+and 
+will 
+not 
+pop RelNScrEv_bicycle
+tires 
+or 
+tubes 
+and 
+have UnrelEv_bicycle
+a 
+portable 
+wrench 
+. 
+i 
+use UnrelEv_bicycle
+small 
+air 
+pressure 
+bulbs 
+that 
+i 
+find+are UnrelEv_bicycle
+more 
+convenient 
+to 
+use UnrelEv_bicycle
+for 
+tire 
+inflation 
+but 
+you 
+can 
+use UnrelEv_bicycle
+a 
+hand 
+pump 
+. 
+simply 
+remove ScrEv_remove_tire
+the 
+wheel 
+and 
+place ScrEv_put_new_tire
+the 
+new 
+tube 
+in 
+the 
+tire 
+being UnrelEv_bicycle
+careful 
+to 
+look+for ScrEv_other_bicycle
+debris 
+that 
+might 
+still 
+be 
+embedded UnrelEv_bicycle
+into 
+the 
+tire 
+still 
+. 
+then 
+carefully 
+tuck ScrEv_put_new_tire
+the 
+tire 
+back 
+into 
+the 
+rim 
+and 
+reinflate ScrEv_refill_tire_air
+. 
+its UnrelEv_bicycle
+a 
+real 
+good 
+thing 
+you 
+now UnrelEv_bicycle
+how 
+to 
+change RelNScrEv_bicycle
+your 
+tire 
+because 
+you 
+never 
+know UnrelEv_bicycle
+when 
+a 
+tube 
+will 
+pop RelNScrEv_bicycle
+or 
+puncture RelNScrEv_bicycle
+and 
+you 
+can 
+be UnrelEv_bicycle
+out 
+of 
+luck 
+if 
+you 
+do 
+n't 
+have UnrelEv_bicycle
+your 
+spare 
+tube 
+, 
+tools 
+, 
+and 
+pump 
+. 
+<end_of_story>_bicycle 
+if 
+you 
+love UnrelEv_bicycle
+riding ScrEv_ride_bike
+bikes 
+when 
+the 
+weather 
+starts 
+getting UnrelEv_bicycle
+better 
+an 
+important 
+thing 
+to 
+know UnrelEv_bicycle
+is 
+how 
+to 
+repair+your+tire Evoking_bicycle
+if 
+you 
+encounter UnrelEv_bicycle
+a 
+flat 
+. 
+head ScrEv_other_bicycle
+on 
+over 
+to 
+your 
+local 
+auto 
+shop 
+and 
+find ScrEv_get_tools
+a 
+patch 
+kit 
+, 
+and 
+make+sure UnrelEv_bicycle
+to 
+invest UnrelEv_bicycle
+in 
+an 
+air 
+pump 
+if 
+you 
+do 
+n't 
+have UnrelEv_bicycle
+one 
+. 
+sometimes 
+the 
+bike 
+tire 
+will 
+go RelNScrEv_bicycle
+flat 
+by 
+losing RelNScrEv_bicycle
+air 
+due 
+to 
+weather 
+conditions 
+. 
+if 
+this 
+is UnrelEv_bicycle
+your 
+case 
+, 
+simply 
+unscrew ScrEv_other_bicycle
+the 
+cap 
+and 
+pump ScrEv_refill_tire_air
+more 
+air 
+into 
+the 
+tire 
+. 
+if 
+you 
+have UnrelEv_bicycle
+a 
+puncture 
+in 
+a 
+tire 
+then 
+you 
+will 
+need UnrelEv_bicycle
+to 
+try 
+patching ScrEv_put_patch/seal
+. 
+by 
+using UnrelEv_bicycle
+the 
+kit 
+you 
+just 
+purchased ScrEv_get_tools
+you 
+can 
+find UnrelEv_bicycle
+the 
+problem 
+area 
+, 
+install ScrEv_put_patch/seal
+a 
+mesh 
+patch 
+over 
+it 
+, 
+and 
+use UnrelEv_bicycle
+the 
+kit 
+to 
+fuse RelNScrEv_bicycle
+it 
+to 
+the 
+tire 
+. 
+once 
+it 
+has 
+been 
+applied ScrEv_put_patch/seal
+you 
+can 
+fill ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+and 
+enjoy UnrelEv_bicycle
+your 
+bike 
+again 
+. 
+if 
+the 
+tire 
+is 
+still 
+losing RelNScrEv_bicycle
+air 
+then 
+you 
+will 
+unfortunately 
+need 
+to 
+invest RelNScrEv_bicycle
+in 
+a 
+new 
+tire 
+. 
+<end_of_story>_bicycle 
+the 
+other 
+day 
+i 
+decided UnrelEv_bicycle
+to 
+take ScrEv_ride_bike
+my 
+bike 
+out 
+on 
+the 
+local 
+scenic 
+bike 
+trail 
+. 
+a 
+few 
+miles 
+into 
+my 
+ride 
+, 
+i 
+was 
+trying UnrelEv_bicycle
+to 
+dodge UnrelEv_bicycle
+a 
+runner 
+that 
+was 
+n't 
+paying UnrelEv_bicycle
+attention 
+and 
+i 
+ended+up+running UnrelEv_bicycle
+over 
+a 
+piece 
+of 
+debris 
+in 
+the 
+trail 
+. 
+i 
+started UnrelEv_bicycle
+noticing ScrEv_notice_problem
+that 
+it 
+was 
+getting UnrelEv_bicycle
+harder 
+to 
+pedal ScrEv_ride_bike
+my 
+bike 
+, 
+so 
+i 
+stopped UnrelEv_bicycle
+to 
+evaluate UnrelEv_bicycle
+the 
+situation 
+. 
+once 
+i 
+looked UnrelEv_bicycle
+at 
+the 
+tire 
+, 
+i 
+realized ScrEv_notice_problem
+it 
+was 
+flat 
+and 
+that 
+i 
+needed UnrelEv_bicycle
+to 
+repair+it Evoking_bicycle
+. 
+thankfully 
+, 
+i 
+kept RelNScrEv_bicycle
+tire 
+repair 
+supplies 
+in 
+my 
+bag 
+for 
+situations 
+just 
+like 
+this 
+! 
+i 
+placed ScrEv_put_patch/seal
+a 
+temporary 
+patch 
+on 
+the 
+tire 
+and 
+used UnrelEv_bicycle
+my 
+portable 
+pump 
+to 
+inflate ScrEv_refill_tire_air
+it 
+again 
+. 
+i 
+set+off UnrelEv_bicycle
+to 
+ride ScrEv_ride_bike
+again 
+, 
+and 
+the 
+same 
+thing 
+happened UnrelEv_bicycle
+. 
+i 
+had 
+to 
+temporarily 
+repair Evoking_bicycle
+the 
+tire 
+three 
+more 
+times 
+just 
+to 
+make UnrelEv_bicycle
+it 
+back 
+to 
+my 
+car 
+. 
+once 
+i 
+made UnrelEv_bicycle
+it 
+home 
+, 
+i 
+removed ScrEv_remove_tire
+the 
+tire 
+and 
+placed ScrEv_put_new_tire
+a 
+new 
+one 
+on 
+. 
+that 
+'s UnrelEv_bicycle
+how 
+i 
+repaired+my+flat+bicycle+tire Evoking_bicycle
+. 
+<end_of_story>_bicycle 
+my 
+husband 
+and 
+i 
+are UnrelEv_bicycle
+huge 
+health 
+junkies 
+. 
+we 
+ride ScrEv_ride_bike
+our 
+bikes 
+to 
+and 
+from 
+work 
+everyday 
+. 
+yes 
+, 
+we 
+own UnrelEv_bicycle
+a 
+car 
+but 
+we 
+love+getting UnrelEv_bicycle
+that 
+extra 
+thirty 
+minute 
+workout 
+everyday 
+. 
+last 
+week 
+, 
+i 
+rode ScrEv_ride_bike
+over 
+a 
+piece 
+of 
+cracked UnrelEv_bicycle
+glass 
+from 
+a 
+bottle 
+. 
+the 
+tire 
+on 
+my 
+bike 
+slowly 
+began UnrelEv_bicycle
+to 
+deflate RelNScrEv_bicycle
+. 
+i 
+called UnrelEv_bicycle
+my 
+husband 
+to 
+come+get UnrelEv_bicycle
+me 
+and 
+we 
+took ScrEv_other_bicycle
+the 
+bike 
+home 
+to 
+get+fixed Evoking_bicycle
+. 
+i 
+washed ScrEv_other_bicycle
+it 
+with 
+soapy 
+water 
+to 
+see UnrelEv_bicycle
+where 
+the 
+hole 
+was UnrelEv_bicycle
+. 
+i 
+got+out ScrEv_get_tools
+my 
+air 
+pump 
+and 
+began UnrelEv_bicycle
+to 
+pump ScrEv_other_bicycle
+. 
+the 
+part 
+where 
+there 
+was UnrelEv_bicycle
+a 
+hole 
+blew+out RelNScrEv_bicycle
+air 
+around 
+the 
+wet 
+wheel 
+. 
+i 
+got ScrEv_get_tools
+a 
+bike 
+patch 
+and 
+just 
+stuff ScrEv_put_patch/seal
+it 
+on 
+over 
+the 
+spot 
+once 
+the 
+wheel 
+had 
+dried UnrelEv_bicycle
+. 
+put ScrEv_refill_tire_air
+some 
+more 
+air 
+into 
+the 
+tire 
+and 
+test+drove ScrEv_ride_bike
+it 
+around 
+the 
+street 
+and 
+back 
+. 
+my 
+sweet 
+bicycle 
+was UnrelEv_bicycle
+back 
+and 
+even 
+better 
+than 
+ever 
+. 
+<end_of_story>_bicycle 
+to 
+be UnrelEv_bicycle
+honest 
+, 
+when 
+ever 
+i 
+have UnrelEv_bicycle
+a 
+flat 
+tire 
+on 
+anything 
+, 
+i 
+usually 
+leave UnrelEv_bicycle
+it 
+to 
+my 
+husband 
+, 
+but 
+he 
+did 
+teach UnrelEv_bicycle
+me 
+how 
+to 
+fix+a+flat Evoking_bicycle
+on 
+a 
+bike 
+. 
+sometimes 
+, 
+it 
+needs UnrelEv_bicycle
+a 
+new 
+inner 
+tube 
+. 
+if 
+that 
+is UnrelEv_bicycle
+the 
+issue 
+, 
+you 
+must 
+remove ScrEv_take_tire_off
+the 
+outer 
+rubber 
+, 
+and 
+take+off ScrEv_take_tire_off
+the 
+old 
+broken 
+inner 
+tube 
+. 
+then 
+, 
+put ScrEv_put_new_tire
+on 
+the 
+new 
+one 
+, 
+out 
+the 
+rubber 
+back 
+on 
+, 
+and 
+fill ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+. 
+make 
+sure 
+that 
+you 
+check ScrEv_check_new_tire
+the 
+pressure 
+when 
+filling ScrEv_refill_tire_air
+the 
+tire 
+so 
+as 
+to 
+not 
+put RelNScrEv_bicycle
+too 
+much 
+air 
+in 
+. 
+sometimes 
+you 
+will 
+also 
+need UnrelEv_bicycle
+to 
+chance RelNScrEv_bicycle
+the 
+outer 
+tire 
+as 
+that 
+may 
+have UnrelEv_bicycle
+a 
+hole 
+. 
+it 
+can 
+be 
+hard 
+to 
+determine UnrelEv_bicycle
+which 
+part 
+of 
+the 
+tire 
+is UnrelEv_bicycle
+the 
+issue 
+when 
+you 
+have RelNScrEv_bicycle
+a 
+flat 
+. 
+first 
+, 
+you 
+can 
+check ScrEv_other_bicycle
+the 
+tire 
+pressure 
+and 
+fill ScrEv_refill_tire_air
+it 
+if 
+low 
+. 
+if 
+it 
+quickly 
+loses RelNScrEv_bicycle
+pressure 
+again 
+, 
+then 
+it 
+was UnrelEv_bicycle
+n't 
+just 
+an 
+issue 
+with 
+the 
+tire 
+pressure 
+and 
+you 
+need 
+to 
+replace RelNScrEv_bicycle
+one 
+of 
+the 
+tire 
+pieces 
+a 
+s 
+previously 
+stated UnrelEv_bicycle
+. 
+<end_of_story>_bicycle 
+sometimes 
+, 
+something 
+happens UnrelEv_bicycle
+that 
+can 
+really 
+just 
+ruin UnrelEv_bicycle
+your 
+day 
+. 
+take UnrelEv_bicycle
+, 
+for 
+example 
+, 
+going ScrEv_ride_bike
+for 
+a 
+fun 
+bicycle 
+ride 
+only 
+to 
+have UnrelEv_bicycle
+the 
+tire 
+go RelNScrEv_bicycle
+flat 
+! 
+when 
+something 
+like 
+this 
+happens UnrelEv_bicycle
+, 
+it 
+can 
+seem UnrelEv_bicycle
+like 
+a 
+big 
+deal 
+, 
+but 
+is UnrelEv_bicycle
+only 
+a 
+small 
+inconvenience 
+. 
+i 
+do 
+n't 
+even 
+know UnrelEv_bicycle
+how 
+to 
+repair+a+flat+bicycle+tire Evoking_bicycle
+, 
+but 
+i 
+know UnrelEv_bicycle
+how 
+i 
+could 
+do UnrelEv_bicycle
+it 
+myself 
+. 
+first 
+, 
+i 
+would 
+read ScrEv_other_bicycle
+about 
+how 
+to 
+fix+it Evoking_bicycle
+and 
+maybe 
+look ScrEv_other_bicycle
+at 
+a 
+video 
+from 
+the 
+internet 
+. 
+after 
+i 
+have 
+learned RelNScrEv_bicycle
+how 
+to 
+repair+it Evoking_bicycle
+, 
+i 
+would 
+go UnrelEv_bicycle
+to 
+the 
+store 
+to 
+get UnrelEv_bicycle
+some 
+supplies 
+. 
+i 
+would 
+need UnrelEv_bicycle
+the 
+tools 
+to 
+fix+it Evoking_bicycle
+and 
+a 
+new 
+tire 
+or 
+things 
+to 
+use UnrelEv_bicycle
+for 
+the 
+repair 
+. 
+after 
+arriving ScrEv_other_bicycle
+home 
+, 
+i 
+would 
+review ScrEv_other_bicycle
+the 
+things 
+i 
+learned RelNScrEv_bicycle
+about 
+how 
+to 
+repair 
+the 
+tire 
+and 
+i 
+would 
+follow UnrelEv_bicycle
+the 
+directions 
+. 
+once 
+it 
+was 
+repaired Evoking_bicycle
+, 
+i 
+would 
+test ScrEv_other_bicycle
+out 
+the 
+bicycle 
+to 
+make+sure UnrelEv_bicycle
+it 
+was 
+repaired Evoking_bicycle
+and 
+then 
+i 
+would 
+clean+up ScrEv_other_bicycle
+. 
+<end_of_story>_bicycle 
+as 
+i 
+was 
+riding ScrEv_ride_bike
+home 
+from 
+school 
+one 
+day 
+the 
+worst 
+possible 
+thing 
+that 
+could 
+happen UnrelEv_bicycle
+did 
+happen UnrelEv_bicycle
+. 
+my 
+tire 
+popped ScrEv_other_bicycle
+. 
+i 
+knew UnrelEv_bicycle
+i 
+was+in UnrelEv_bicycle
+deep 
+because 
+i 
+had UnrelEv_bicycle
+no 
+idea 
+how 
+to 
+repair+a+flat+bicycle+tire Evoking_bicycle
+. 
+luckily 
+my 
+grandfather 
+did UnrelEv_bicycle
+and 
+with 
+his 
+advice 
+we 
+went UnrelEv_bicycle
+to 
+get ScrEv_get_tire
+a 
+new 
+tube 
+for 
+the 
+rims 
+of 
+my 
+bike 
+'s 
+tire 
+. 
+we 
+arrive ScrEv_other_bicycle
+at 
+the 
+store 
+and 
+i 
+am 
+swamped UnrelEv_bicycle
+. 
+there 
+are UnrelEv_bicycle
+so 
+many 
+different 
+kinds 
+and 
+sizes 
+of 
+tubes 
+. 
+well 
+luckily 
+my 
+grandfather 
+had UnrelEv_bicycle
+already 
+looked UnrelEv_bicycle
+before 
+we 
+had 
+left UnrelEv_bicycle
+and 
+knew UnrelEv_bicycle
+which 
+kind 
+we 
+needed UnrelEv_bicycle
+. 
+with 
+that 
+in 
+mind 
+we 
+purchased ScrEv_get_tools
+the 
+one 
+we 
+needed UnrelEv_bicycle
+and 
+returned UnrelEv_bicycle
+home 
+ready 
+to 
+go UnrelEv_bicycle
+. 
+my 
+grandfather 
+showed UnrelEv_bicycle
+me 
+that 
+to 
+repair Evoking_bicycle
+a 
+tire 
+you 
+need 
+to 
+take+off ScrEv_take_tire_off
+the 
+old 
+broken 
+tube 
+and 
+the 
+replace ScrEv_put_new_tire
+it 
+with 
+the 
+new 
+one 
+. 
+after 
+that 
+you 
+take ScrEv_get_tools
+a 
+pump 
+and 
+pump ScrEv_refill_tire_air
+air 
+into 
+the 
+tire 
+until 
+it 
+is 
+full 
+. 
+i 
+was UnrelEv_bicycle
+n't 
+prepared 
+last 
+time 
+for 
+my 
+tire 
+to 
+pop RelNScrEv_bicycle
+but 
+you 
+can 
+be UnrelEv_bicycle
+sure 
+that 
+i 
+will 
+be UnrelEv_bicycle
+the 
+next 
+<end_of_story>_bicycle 
+today 
+i 
+found+out ScrEv_notice_problem
+my 
+bike 
+tire 
+was RelNScrEv_bicycle
+flat 
+right 
+before 
+i 
+needed 
+to 
+ride ScrEv_ride_bike
+it 
+to 
+work 
+. 
+i 
+hurriedly 
+flipped ScrEv_lay_bike_down
+the 
+bike 
+upside 
+down 
+and 
+sat ScrEv_lay_bike_down
+it 
+on 
+the 
+seat 
+. 
+i 
+pulled ScrEv_loose_nut
+quick 
+release 
+bolt 
+on 
+the 
+tire 
+and 
+unscrewed ScrEv_loose_nut
+it 
+. 
+i 
+disconnected ScrEv_other_bicycle
+the 
+brakes 
+and 
+removed ScrEv_take_tire_off
+the 
+wheel 
+from 
+the 
+bike 
+. 
+i 
+then 
+used UnrelEv_bicycle
+the 
+tire 
+removal 
+tool 
+so 
+that 
+i 
+could 
+get+to RelNScrEv_bicycle
+the 
+inner 
+tube 
+. 
+i 
+removed ScrEv_take_tire_off
+the 
+inner 
+tube 
+, 
+and 
+examined UnrelEv_bicycle
+where 
+the 
+hole 
+might 
+be UnrelEv_bicycle
+. 
+i 
+could 
+not 
+find UnrelEv_bicycle
+the 
+hole 
+so 
+i 
+put ScrEv_other_bicycle
+it 
+into 
+the 
+sink 
+with 
+water 
+. 
+i 
+found ScrEv_other_bicycle
+the 
+tiny 
+hole 
+in 
+the 
+tube 
+. 
+i 
+used UnrelEv_bicycle
+glue 
+and 
+a 
+chunk 
+of 
+rubber 
+from 
+an 
+old 
+inner 
+tube 
+to 
+fix ScrEv_put_patch/seal
+the 
+puncture 
+. 
+i 
+had 
+to 
+let UnrelEv_bicycle
+it 
+dry RelNScrEv_bicycle
+for 
+a 
+few 
+minutes 
+. 
+i 
+put ScrEv_other_bicycle
+the 
+inner 
+tube 
+back 
+onto 
+the 
+rim 
+, 
+and 
+then 
+put ScrEv_other_bicycle
+the 
+tire 
+back 
+onto 
+the 
+rim 
+. 
+i 
+fit ScrEv_other_bicycle
+the 
+tire 
+back 
+onto 
+the 
+bike 
+and 
+screwed ScrEv_other_bicycle
+the 
+tire 
+on 
+and 
+rode ScrEv_ride_bike
+to 
+work 
+. 
+<end_of_story>_bicycle 
+last 
+summer 
+, 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+and 
+i 
+must 
+have 
+ran UnrelEv_bicycle
+over 
+something 
+sharp 
+because 
+my 
+tire 
+started UnrelEv_bicycle
+going RelNScrEv_bicycle
+flat 
+. 
+i 
+tried UnrelEv_bicycle
+to 
+use UnrelEv_bicycle
+a 
+repair 
+kit 
+, 
+but 
+the 
+hole 
+was UnrelEv_bicycle
+too 
+big 
+and 
+the 
+patch 
+would 
+not 
+stay RelNScrEv_bicycle
+on 
+the 
+old 
+tube 
+. 
+it 
+turns+out UnrelEv_bicycle
+that 
+i 
+ran UnrelEv_bicycle
+over 
+a 
+screw 
+and 
+it 
+had 
+been 
+lodged RelNScrEv_bicycle
+through 
+the 
+tire 
+and 
+into 
+the 
+tube 
+. 
+i 
+knew UnrelEv_bicycle
+that 
+i 
+had UnrelEv_bicycle
+a 
+twenty 
+six 
+inch 
+wheel 
+, 
+so 
+i 
+went ScrEv_other_bicycle
+up 
+to 
+the 
+local 
+hardware 
+store 
+. 
+they 
+had UnrelEv_bicycle
+a 
+new 
+tube 
+and 
+i 
+bought ScrEv_get_tire
+a 
+new 
+tire 
+, 
+just 
+in 
+case 
+there 
+were UnrelEv_bicycle
+any 
+other 
+problems 
+. 
+i 
+followed UnrelEv_bicycle
+the 
+instructions 
+and 
+i 
+took ScrEv_take_tire_off
+the 
+old 
+tire 
+off 
+. 
+the 
+somehow 
+got ScrEv_put_new_tire
+the 
+new 
+tube 
+and 
+tire 
+onto 
+the 
+wheel 
+, 
+but 
+it 
+was UnrelEv_bicycle
+kind 
+of 
+a 
+pain 
+to 
+do UnrelEv_bicycle
+. 
+i 
+finally 
+got UnrelEv_bicycle
+it 
+on 
+and 
+all 
+that 
+i 
+had 
+to 
+do+was UnrelEv_bicycle
+put+in ScrEv_refill_tire_air
+some 
+air 
+. 
+i 
+plugged+in ScrEv_other_bicycle
+my 
+air 
+compressor 
+but 
+it 
+would 
+not 
+turn+on UnrelEv_bicycle
+for 
+some 
+reason 
+. 
+i 
+found ScrEv_get_tools
+an 
+old 
+tire 
+pump 
+buried UnrelEv_bicycle
+in 
+my 
+garage 
+and 
+i 
+was UnrelEv_bicycle
+finally 
+able 
+to 
+put ScrEv_refill_tire_air
+air 
+into 
+the 
+tires 
+. 
+in 
+the 
+future 
+, 
+i 
+am 
+going 
+to 
+be UnrelEv_bicycle
+more 
+careful 
+to 
+avoid UnrelEv_bicycle
+sharp 
+exits 
+because 
+repairing Evoking_bicycle
+the 
+flat 
+tire 
+was UnrelEv_bicycle
+a 
+pain 
+. 
+<end_of_story>_bicycle 
+yesterday 
+on 
+my 
+way 
+home 
+from 
+work 
+i 
+heard ScrEv_notice_problem
+a 
+loud 
+popping 
+noise 
+and 
+nearly 
+lost UnrelEv_bicycle
+control 
+of 
+my 
+bicycle 
+. 
+after 
+coming UnrelEv_bicycle
+to 
+a 
+stop 
+i 
+noticed ScrEv_notice_problem
+that 
+my 
+tire 
+was 
+flat 
+. 
+i 
+ended+up UnrelEv_bicycle
+having 
+to 
+walk ScrEv_other_bicycle
+my 
+bike 
+the 
+rest 
+of 
+the 
+way 
+home 
+as 
+i 
+did 
+not 
+have UnrelEv_bicycle
+any 
+tools 
+to 
+repair+the+tire Evoking_bicycle
+on 
+the 
+spot 
+. 
+once 
+i 
+returned ScrEv_other_bicycle
+home 
+i 
+found ScrEv_get_tools
+a 
+can 
+of 
+spray 
+foam 
+that 
+i 
+thought UnrelEv_bicycle
+might 
+do UnrelEv_bicycle
+the 
+trick 
+if 
+i 
+sprayed RelNScrEv_bicycle
+it 
+into 
+the 
+tire 
+. 
+i 
+sprayed ScrEv_other_bicycle
+the 
+foam 
+in 
+and 
+it 
+filled RelNScrEv_bicycle
+the 
+inside 
+walls 
+of 
+the 
+tire 
+. 
+i 
+was UnrelEv_bicycle
+happy 
+with 
+my 
+ingenuity 
+, 
+although 
+i 
+knew UnrelEv_bicycle
+this 
+was UnrelEv_bicycle
+only 
+a 
+temporary 
+fix 
+and 
+i 
+should 
+probably 
+replace RelNScrEv_bicycle
+the 
+tire 
+. 
+after 
+the 
+tire 
+was 
+filled ScrEv_put_patch/seal
+i 
+hopped+on UnrelEv_bicycle
+and 
+rode ScrEv_ride_bike
+to 
+my 
+local 
+bike 
+shop 
+where 
+i 
+purchased ScrEv_get_tire
+a 
+replacement 
+tire 
+to 
+put ScrEv_put_new_tire
+on 
+my 
+bike 
+at 
+a 
+later 
+date 
+. 
+<end_of_story>_bicycle 
+yesterday 
+, 
+i 
+woke+up UnrelEv_bicycle
+and 
+realized UnrelEv_bicycle
+how 
+gorgeous 
+of 
+a 
+day 
+it 
+was 
+so 
+i 
+decided UnrelEv_bicycle
+to 
+eat UnrelEv_bicycle
+my 
+breakfast 
+and 
+then 
+go UnrelEv_bicycle
+outside 
+for 
+a 
+nice 
+bike 
+ride 
+with 
+some 
+friends 
+at 
+the 
+park 
+. 
+when 
+i 
+went UnrelEv_bicycle
+into 
+the 
+garage 
+to 
+grab UnrelEv_bicycle
+my 
+bicycle 
+i 
+noticed ScrEv_notice_problem
+that 
+the 
+tire 
+had 
+gone UnrelEv_bicycle
+flat 
+and 
+i 
+would 
+need 
+to 
+repair+it Evoking_bicycle
+if 
+i 
+wanted 
+to 
+go ScrEv_ride_bike
+for 
+a 
+ride 
+with 
+my 
+friends 
+. 
+i 
+called UnrelEv_bicycle
+my 
+friend 
+joey 
+up 
+and 
+asked UnrelEv_bicycle
+if 
+he 
+could 
+give UnrelEv_bicycle
+me 
+a 
+half 
+hour 
+to 
+replace+the+tire Evoking_bicycle
+. 
+joey 
+said UnrelEv_bicycle
+that 
+was UnrelEv_bicycle
+fine 
+so 
+i 
+went UnrelEv_bicycle
+and 
+got ScrEv_get_tools
+some 
+tools 
+and 
+a 
+spare 
+tire 
+to 
+replace RelNScrEv_bicycle
+the 
+flat 
+one 
+with 
+. 
+i 
+took ScrEv_take_tire_off
+the 
+old 
+tire 
+off 
+and 
+tightly 
+put ScrEv_put_new_tire
+the 
+new 
+one 
+on 
+. 
+to 
+make+sure UnrelEv_bicycle
+that 
+everything 
+was UnrelEv_bicycle
+in 
+place 
+i 
+took ScrEv_ride_bike
+it 
+for 
+a 
+test 
+ride 
+around 
+the 
+block 
+before 
+calling UnrelEv_bicycle
+my 
+friend 
+joey 
+back 
+and 
+letting UnrelEv_bicycle
+him 
+know UnrelEv_bicycle
+that 
+i 
+was UnrelEv_bicycle
+now 
+ready 
+for 
+a 
+ride 
+. 
+after 
+that 
+i 
+went ScrEv_ride_bike
+on 
+the 
+bike 
+ride 
+and 
+everything 
+went UnrelEv_bicycle
+perfectly 
+. 
+<end_of_story>_bicycle 
+i 
+noticed ScrEv_notice_problem
+my 
+bicycle 
+tire 
+was UnrelEv_bicycle
+flat 
+this 
+morning 
+when 
+i 
+pulled UnrelEv_bicycle
+it 
+out 
+of 
+the 
+garage 
+to 
+go ScrEv_ride_bike
+on 
+a 
+ride 
+. 
+i 
+took UnrelEv_bicycle
+the 
+bike 
+back 
+into 
+the 
+garage 
+and 
+laid ScrEv_lay_bike_down
+it 
+on 
+it 
+'s 
+side 
+. 
+i 
+thoroughly 
+checked ScrEv_other_bicycle
+the 
+tire 
+to 
+see UnrelEv_bicycle
+what 
+had 
+caused UnrelEv_bicycle
+it 
+to 
+go RelNScrEv_bicycle
+flat 
+. 
+i 
+saw UnrelEv_bicycle
+no 
+nails 
+, 
+holes 
+or 
+tears 
+in 
+the 
+tire 
+so 
+i 
+assumed UnrelEv_bicycle
+that 
+the 
+tire 
+had 
+simply 
+lost RelNScrEv_bicycle
+air 
+and 
+needed UnrelEv_bicycle
+to 
+be 
+refilled RelNScrEv_bicycle
+. 
+after 
+then 
+i 
+went UnrelEv_bicycle
+into 
+my 
+tool 
+chest 
+until 
+i 
+found ScrEv_get_tools
+my 
+manual 
+air 
+pump 
+. 
+i 
+took ScrEv_get_tools
+the 
+pump 
+back 
+to 
+where 
+i 
+my 
+bicycle 
+was UnrelEv_bicycle
+. 
+i 
+removed ScrEv_other_bicycle
+the 
+cap 
+on 
+the 
+tires 
+stem 
+and 
+carefully 
+set UnrelEv_bicycle
+it 
+aside 
+. 
+i 
+then 
+inserted ScrEv_other_bicycle
+the 
+pump 
+needle 
+into 
+the 
+stem 
+and 
+made+sure UnrelEv_bicycle
+it 
+fit UnrelEv_bicycle
+. 
+i 
+then 
+placed ScrEv_other_bicycle
+the 
+pump 
+flat 
+on 
+the 
+ground 
+and 
+began 
+pumping ScrEv_refill_tire_air
+air 
+into 
+the 
+tire 
+, 
+all 
+the 
+while 
+monitoring RelNScrEv_bicycle
+the 
+pressure 
+gauge 
+. 
+when 
+i 
+saw UnrelEv_bicycle
+that 
+the 
+tire 
+was 
+properly 
+inflated RelNScrEv_bicycle
+i 
+removed ScrEv_other_bicycle
+the 
+pump 
+from 
+the 
+tire 
+. 
+i 
+put ScrEv_other_bicycle
+the 
+stem 
+cap 
+back 
+onto 
+the 
+tire 
+and 
+went+out UnrelEv_bicycle
+for 
+a 
+ride 
+to 
+make+sure UnrelEv_bicycle
+the 
+tire 
+was UnrelEv_bicycle
+ok 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bike 
+the 
+other 
+day 
+when 
+i 
+noticed ScrEv_notice_problem
+i 
+was 
+moving UnrelEv_bicycle
+slowly 
+, 
+even 
+though 
+i 
+was 
+pedaling UnrelEv_bicycle
+hard 
+with 
+a 
+lot 
+of 
+effort 
+. 
+i 
+stopped UnrelEv_bicycle
+and 
+looked UnrelEv_bicycle
+at 
+my 
+front 
+wheel 
+and 
+noticed ScrEv_notice_problem
+that 
+it 
+was 
+squished RelNScrEv_bicycle
+down 
+against 
+the 
+pavement 
+and 
+was UnrelEv_bicycle
+soft 
+when 
+i 
+pressed RelNScrEv_bicycle
+it 
+, 
+instead 
+of 
+being UnrelEv_bicycle
+firm 
+and 
+tough 
+. 
+it 
+did 
+n't 
+have UnrelEv_bicycle
+enough 
+air 
+in 
+it 
+to 
+fill RelNScrEv_bicycle
+it 
+up 
+, 
+like 
+an 
+old 
+balloon 
+. 
+i 
+took ScrEv_other_bicycle
+the 
+bicycle 
+home 
+to 
+my 
+garage 
+. 
+inside 
+my 
+garage 
+was UnrelEv_bicycle
+my 
+bicycle 
+tire 
+pump 
+. 
+the 
+pump 
+would 
+put ScrEv_refill_tire_air
+air 
+back 
+into 
+the 
+tire 
+. 
+on 
+my 
+front 
+tire 
+, 
+there 
+was UnrelEv_bicycle
+a 
+tiny 
+tube 
+or 
+straw 
+that 
+would 
+let UnrelEv_bicycle
+the 
+air 
+in 
+when 
+i 
+used UnrelEv_bicycle
+the 
+pump 
+. 
+the 
+pump 
+also 
+had UnrelEv_bicycle
+a 
+long 
+tube 
+with 
+a 
+tiny 
+metal 
+fastener 
+on 
+the 
+end 
+. 
+i 
+stuck ScrEv_other_bicycle
+the 
+metal 
+part 
+into 
+the 
+tube 
+so 
+that 
+it 
+can 
+blow ScrEv_refill_tire_air
+air 
+into 
+my 
+bicycle 
+tire 
+. 
+the 
+large 
+metal 
+cylinder 
+part 
+of 
+the 
+pump 
+had UnrelEv_bicycle
+a 
+handle 
+sticking UnrelEv_bicycle
+out 
+the 
+top 
+, 
+which 
+could 
+be 
+pulled+out UnrelEv_bicycle
+like 
+a 
+pogo 
+stick 
+, 
+and 
+two 
+little 
+metal 
+feet 
+on 
+the 
+bottom 
+. 
+i 
+stood UnrelEv_bicycle
+on 
+the 
+metal 
+feet 
+to 
+keep UnrelEv_bicycle
+the 
+pump 
+in 
+place 
+. 
+then 
+i 
+carefully 
+pulled ScrEv_other_bicycle
+the 
+handle 
+out 
+and 
+pushed ScrEv_other_bicycle
+it 
+back 
+in 
+. 
+a 
+dial 
+on 
+the 
+pump 
+showed UnrelEv_bicycle
+me 
+how 
+much 
+pressure 
+i 
+was 
+putting RelNScrEv_bicycle
+into 
+the 
+pump 
+by 
+pushing ScrEv_other_bicycle
+on 
+the 
+handle 
+, 
+which 
+then 
+pushed ScrEv_other_bicycle
+the 
+air 
+in 
+the 
+tire 
+. 
+i 
+heard 
+it 
+make RelNScrEv_bicycle
+a 
+hissing 
+noise 
+. 
+i 
+kept 
+pulling ScrEv_other_bicycle
+the 
+handle 
+out 
+and 
+pushing ScrEv_other_bicycle
+it 
+back 
+in 
+, 
+and 
+noticed UnrelEv_bicycle
+that 
+the 
+tire 
+was 
+getting UnrelEv_bicycle
+bigger 
+and 
+bigger 
+. 
+finally 
+, 
+after 
+a 
+few 
+minutes 
+, 
+i 
+pushed ScrEv_other_bicycle
+on 
+the 
+tire 
+again 
+. 
+it 
+was UnrelEv_bicycle
+firm 
+and 
+ready 
+to 
+ride ScrEv_ride_bike
+. 
+i 
+disconnected ScrEv_other_bicycle
+the 
+pump 
+and 
+put ScrEv_other_bicycle
+it 
+away 
+. 
+then 
+i 
+went+out UnrelEv_bicycle
+to 
+have 
+fun UnrelEv_bicycle
+on 
+my 
+bike 
+again 
+, 
+with 
+my 
+tire 
+working 
+perfectly 
+. 
+<end_of_story>_bicycle 
+when 
+i 
+was UnrelEv_bicycle
+younger 
+, 
+i 
+would 
+occasionally 
+get+flats+on+my+tires Evoking_bicycle
+. 
+whenever 
+it 
+happened UnrelEv_bicycle
+i 
+would 
+repair Evoking_bicycle
+it 
+as 
+soon 
+as 
+i 
+had UnrelEv_bicycle
+the 
+opportunity 
+. 
+in 
+my 
+garage 
+i 
+generally 
+used UnrelEv_bicycle
+a 
+piece 
+from 
+an 
+old 
+inner 
+tube 
+and 
+glue 
+to 
+patch ScrEv_put_patch/seal
+the 
+hole 
+. 
+before 
+i 
+patch ScrEv_put_patch/seal
+it 
+however 
+, 
+i 
+would 
+remove ScrEv_take_tire_off
+the 
+wheel 
+from 
+the 
+bike 
+frame 
+using UnrelEv_bicycle
+a 
+socket 
+wrench 
+to 
+remove ScrEv_loose_nut
+the 
+nuts 
+that 
+secure RelNScrEv_bicycle
+the 
+tire 
+to 
+the 
+frame 
+. 
+then 
+i 
+would 
+remove ScrEv_remove_tire
+the 
+inner 
+tube 
+from 
+the 
+outer 
+tire 
+. 
+then 
+i 
+would 
+put ScrEv_other_bicycle
+the 
+tube 
+in 
+a 
+pan 
+of 
+water 
+and 
+look+for UnrelEv_bicycle
+bubbles 
+and 
+where 
+they 
+may 
+be 
+coming+from UnrelEv_bicycle
+; 
+the 
+bubbles 
+will 
+lead UnrelEv_bicycle
+me 
+to 
+the 
+where 
+the 
+flat 
+or 
+flats 
+are UnrelEv_bicycle
+. 
+i 
+would 
+then 
+mark ScrEv_other_bicycle
+them 
+with 
+a 
+marker 
+or 
+piece 
+of 
+tape 
+, 
+then 
+cut ScrEv_other_bicycle
+a 
+big 
+enough 
+section 
+from 
+the 
+old 
+inner 
+tube 
+i 
+had 
+in 
+my 
+garage 
+and 
+patch ScrEv_put_patch/seal
+with 
+the 
+proper 
+super 
+glue 
+and 
+let UnrelEv_bicycle
+it 
+sit RelNScrEv_bicycle
+for 
+at 
+least 
+an 
+hour 
+to 
+properly 
+harden ScrEv_other_bicycle
+. 
+then 
+i 
+would 
+put ScrEv_put_new_tire
+the 
+repaired 
+inner 
+tube 
+back 
+into 
+the 
+tire 
+, 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+onto 
+the 
+bike 
+, 
+and 
+then 
+fill ScrEv_refill_tire_air
+the 
+tire 
+with 
+air 
+. 
+<end_of_story>_bicycle 
+one 
+day 
+when 
+i 
+was 
+riding ScrEv_ride_bike
+my 
+bicycle 
+, 
+and 
+i 
+realized ScrEv_notice_problem
+my 
+back 
+tire 
+was 
+getting RelNScrEv_bicycle
+low 
+. 
+i 
+walked ScrEv_other_bicycle
+the 
+bicycle 
+back 
+home 
+and 
+pulled+out ScrEv_get_tools
+my 
+patch 
+kit 
+. 
+after 
+removing ScrEv_take_tire_off
+my 
+back 
+tire 
+from 
+the 
+bicycle 
+i 
+let ScrEv_other_bicycle
+the 
+remaining 
+air 
+out 
+from 
+the 
+valve 
+, 
+and 
+used UnrelEv_bicycle
+the 
+small 
+tool 
+on 
+the 
+edge 
+of 
+the 
+tire 
+, 
+to 
+lift RelNScrEv_bicycle
+the 
+tire 
+away 
+and 
+clicked ScrEv_other_bicycle
+the 
+tool 
+onto 
+one 
+of 
+the 
+spokes 
+. 
+using UnrelEv_bicycle
+more 
+of 
+the 
+tools 
+, 
+i 
+continued UnrelEv_bicycle
+to 
+lift RelNScrEv_bicycle
+the 
+tire 
+away 
+from 
+the 
+rim 
+until 
+i 
+could 
+easily 
+remove ScrEv_remove_tire
+the 
+rest 
+of 
+the 
+tire 
+with 
+my 
+fingers 
+. 
+by 
+this 
+time 
+, 
+the 
+inner 
+tube 
+was 
+exposed UnrelEv_bicycle
+, 
+and 
+pushing RelNScrEv_bicycle
+the 
+valve 
+through 
+, 
+i 
+removed ScrEv_remove_tire
+the 
+tube 
+completely 
+from 
+the 
+tire 
+. 
+i 
+put ScrEv_other_bicycle
+the 
+tube 
+into 
+a 
+bucket 
+of 
+water 
+, 
+and 
+used UnrelEv_bicycle
+the 
+air 
+pump 
+to 
+pump ScrEv_refill_tire_air
+air 
+back 
+into 
+the 
+tube 
+, 
+and 
+watched UnrelEv_bicycle
+for 
+bubbles 
+to 
+see UnrelEv_bicycle
+where 
+the 
+hole 
+was UnrelEv_bicycle
+. 
+i 
+kept UnrelEv_bicycle
+a 
+close 
+eye 
+on 
+where 
+the 
+hole 
+was UnrelEv_bicycle
+, 
+and 
+taking ScrEv_other_bicycle
+the 
+tube 
+out 
+of 
+the 
+bucket 
+, 
+i 
+dried ScrEv_other_bicycle
+the 
+tube 
+with 
+a 
+towel 
+. 
+i 
+used UnrelEv_bicycle
+the 
+small 
+sandpaper 
+from 
+the 
+kit 
+, 
+and 
+carefully 
+roughed ScrEv_other_bicycle
+the 
+area 
+around 
+the 
+hole 
+. 
+i 
+then 
+chose ScrEv_other_bicycle
+a 
+patch 
+. 
+a 
+round 
+one 
+for 
+a 
+puncture 
+, 
+or 
+the 
+rectangle 
+for 
+a 
+slice 
+. 
+i 
+placed ScrEv_other_bicycle
+glue 
+on 
+the 
+patch 
+, 
+and 
+firmly 
+placed ScrEv_put_patch/seal
+it 
+on 
+the 
+tube 
+. 
+i 
+was UnrelEv_bicycle
+very 
+careful 
+, 
+because 
+last 
+time 
+i 
+got UnrelEv_bicycle
+glue 
+on 
+my 
+fingers 
+, 
+and 
+my 
+fingers 
+felt UnrelEv_bicycle
+funny 
+for 
+days 
+! 
+i 
+went+for UnrelEv_bicycle
+some 
+lemonade 
+while 
+i 
+waited UnrelEv_bicycle
+for 
+the 
+patch 
+to 
+dry ScrEv_other_bicycle
+. 
+boy 
+, 
+that 
+lemonade 
+was UnrelEv_bicycle
+good 
+on 
+such 
+a 
+hot 
+day 
+. 
+i 
+tried UnrelEv_bicycle
+pumping ScrEv_refill_tire_air
+some 
+air 
+back 
+in 
+the 
+tube 
+, 
+and 
+carefully 
+watched UnrelEv_bicycle
+around 
+the 
+patch 
+, 
+to 
+make+sure UnrelEv_bicycle
+no 
+air 
+was 
+leaking RelNScrEv_bicycle
+. 
+i 
+was UnrelEv_bicycle
+in 
+luck 
+, 
+the 
+patch 
+was UnrelEv_bicycle
+good 
+. 
+i 
+carefully 
+replaced ScrEv_put_new_tire
+the 
+tube 
+into 
+the 
+tire 
+, 
+and 
+used+the UnrelEv_bicycle
+small 
+tools 
+to 
+replace ScrEv_put_new_tire
+the 
+tire 
+into 
+the 
+rim 
+and 
+used UnrelEv_bicycle
+the 
+air 
+pump 
+to 
+fill ScrEv_refill_tire_air
+it 
+back 
+up 
+. 
+now 
+i 
+was UnrelEv_bicycle
+ready 
+for 
+more 
+adventures 
+! 
+<end_of_story>_bicycle 
+i 
+was 
+riding+my+bike Evoking_bicycle
+home 
+when 
+i 
+noticed ScrEv_notice_problem
+that 
+it 
+had ScrEv_notice_problem
+a 
+flat 
+tire 
+. 
+lucky 
+for 
+me 
+there 
+was UnrelEv_bicycle
+a 
+hardware 
+store 
+near 
+by 
+. 
+i 
+walked+in UnrelEv_bicycle
+and 
+purchased ScrEv_get_tools
+a 
+patch 
+kit 
+. 
+it 
+was UnrelEv_bicycle
+only 
+a 
+few 
+dollars 
+. 
+they 
+loaned RelNScrEv_bicycle
+me 
+a 
+chanellock 
+to 
+get ScrEv_take_tire_off
+the 
+tire 
+off 
+. 
+it 
+came+off ScrEv_take_tire_off
+easy 
+and 
+i 
+pulled ScrEv_remove_tire
+the 
+tire 
+off 
+the 
+rim 
+. 
+it 
+had RelNScrEv_bicycle
+a 
+nail 
+hole 
+so 
+i 
+took ScrEv_get_tools
+the 
+wire 
+scrubber 
+in 
+the 
+repair 
+kit 
+and 
+scruffed+up ScrEv_put_patch/seal
+the 
+rubber 
+. 
+i 
+applied ScrEv_put_patch/seal
+the 
+risen 
+and 
+stuck+on ScrEv_put_patch/seal
+the 
+patch 
+, 
+and 
+i 
+held ScrEv_put_patch/seal
+thumb 
+pressure 
+on 
+it 
+for 
+a 
+few 
+minutes 
+. 
+i 
+started UnrelEv_bicycle
+putting ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+the 
+rim 
+, 
+which 
+was UnrelEv_bicycle
+easy 
+i 
+got ScrEv_put_new_tire
+it 
+back 
+on 
+the 
+bike 
+. 
+lucky 
+for 
+me 
+the 
+hardware 
+store 
+had RelNScrEv_bicycle
+a 
+portable 
+tire 
+air 
+filler 
+and 
+i 
+was 
+able 
+to 
+fill ScrEv_refill_tire_air
+the 
+tire 
+. 
+i 
+thanked UnrelEv_bicycle
+them 
+and 
+finished RelNScrEv_bicycle
+my 
+ride Evoking_bicycle
+home 
+and 
+the 
+tire 
+did RelNScrEv_bicycle
+great 
+. 
+<end_of_story>_bicycle 
+i 
+was 
+about 
+to 
+ride+my+bicycle Evoking_bicycle
+to 
+the 
+park 
+one 
+day 
+when 
+i 
+noticed ScrEv_notice_problem
+that 
+the 
+front 
+tire 
+was ScrEv_notice_problem
+flat 
+. 
+i 
+realized UnrelEv_bicycle
+i 
+would 
+have 
+to 
+repair Evoking_bicycle
+it 
+. 
+i 
+went RelNScrEv_bicycle
+into 
+my 
+garage 
+to 
+get ScrEv_get_tools
+some 
+tools 
+. 
+the 
+first 
+thing 
+i 
+did 
+was 
+remove ScrEv_remove_tire
+the 
+tire 
+by 
+unscrewing ScrEv_remove_tire
+the 
+screws 
+that 
+were 
+holding RelNScrEv_bicycle
+the 
+wheel 
+in 
+place 
+. 
+once 
+that 
+was 
+done UnrelEv_bicycle
+, 
+i 
+examined ScrEv_examine_tire
+the 
+wheel 
+to 
+see ScrEv_examine_tire
+what 
+the 
+damage 
+was RelNScrEv_bicycle
+. 
+it 
+turns+out UnrelEv_bicycle
+a 
+nail 
+must 
+have 
+punctured ScrEv_other_bicycle
+the 
+tire 
+. 
+i 
+took ScrEv_get_tools
+some 
+glue 
+and 
+proceeded UnrelEv_bicycle
+to 
+glue ScrEv_put_patch/seal
+a 
+tube 
+patch 
+over 
+the 
+tiny 
+hole 
+. 
+i 
+continued UnrelEv_bicycle
+to 
+apply ScrEv_put_patch/seal
+pressure 
+to 
+the 
+tube 
+patch 
+. 
+when 
+that 
+was 
+done UnrelEv_bicycle
+, 
+i 
+inflated ScrEv_refill_tire_air
+the 
+tire 
+back 
+to 
+fullness 
+. 
+as 
+i 
+was 
+inflating ScrEv_refill_tire_air
+the 
+tire 
+, 
+i 
+made+sure ScrEv_check_new_tire
+the 
+patch 
+stayed RelNScrEv_bicycle
+in 
+place 
+. 
+i 
+then 
+reattached ScrEv_put_new_tire
+the 
+wheel 
+back 
+on 
+the 
+bicycle 
+and 
+it 
+was UnrelEv_bicycle
+good 
+to 
+go UnrelEv_bicycle
+. 
+i 
+happily 
+took UnrelEv_bicycle
+my 
+bike 
+out 
+to 
+the 
+park 
+as 
+i 
+had 
+initially 
+wanted UnrelEv_bicycle
+to 
+. 
+<end_of_story>_bicycle 
+i 
+noticed UnrelEv_bicycle
+it 
+was 
+getting UnrelEv_bicycle
+warmer 
+out 
+and 
+it 
+would 
+be UnrelEv_bicycle
+a 
+nice 
+time 
+to 
+exercise ScrEv_ride_bike
+so 
+i 
+took RelNScrEv_bicycle
+my 
+bicycle 
+out 
+to 
+see UnrelEv_bicycle
+if 
+it 
+needed UnrelEv_bicycle
+any 
+maintenance 
+. 
+at 
+first 
+everything 
+looked UnrelEv_bicycle
+good 
+and 
+i 
+was 
+ready 
+to 
+ride ScrEv_ride_bike
+but 
+then 
+i 
+noticed ScrEv_notice_problem
+that 
+the 
+front 
+tire 
+was RelNScrEv_bicycle
+a 
+little 
+flat 
+. 
+i 
+had RelNScrEv_bicycle
+some 
+tools 
+in 
+my 
+garage 
+so 
+i 
+picked+up RelNScrEv_bicycle
+the 
+bike 
+and 
+placed ScrEv_lay_bike_down
+it 
+on 
+my 
+workbench 
+. 
+first 
+i 
+removed ScrEv_free_wheel
+the 
+wheel 
+and 
+checked ScrEv_examine_tire
+as 
+best 
+i 
+could UnrelEv_bicycle
+to 
+make UnrelEv_bicycle
+sure 
+there 
+were UnrelEv_bicycle
+no 
+tears 
+or 
+other 
+types 
+of 
+damage 
+. 
+there 
+was UnrelEv_bicycle
+just 
+a 
+very 
+small 
+tear 
+so 
+i 
+got+out ScrEv_get_tools
+the 
+patching 
+kit 
+that 
+i 
+'d 
+purchased ScrEv_get_tools
+from 
+the 
+sports 
+store 
+last 
+summer 
+. 
+i 
+cleaned RelNScrEv_bicycle
+the 
+area 
+around 
+the 
+tear 
+and 
+applied ScrEv_put_patch/seal
+the 
+patch 
+. 
+after 
+waiting RelNScrEv_bicycle
+for 
+a 
+while 
+, 
+i 
+put ScrEv_put_new_tire
+the 
+tire 
+back 
+on 
+my 
+bike 
+and 
+re-inflated ScrEv_refill_tire_air
+the 
+tire 
+. 
+the 
+patch 
+held RelNScrEv_bicycle
+and 
+i 
+was 
+able 
+to 
+go+for+a+bike+ride Evoking_bicycle
+that 
+day 
+. 
+<end_of_story>_bicycle 
+i 
+once 
+had+a+flat+tire+on+my+bicycle Evoking_bicycle
+. 
+it 
+was UnrelEv_bicycle
+quite 
+a 
+surprise 
+when 
+it 
+happened UnrelEv_bicycle
+. 
+i 
+had 
+been 
+having UnrelEv_bicycle
+a 
+good 
+time 
+riding+my+bike Evoking_bicycle
+along 
+a 
+trail 
+and 
+the 
+air 
+went RelNScrEv_bicycle
+right 
+out 
+of 
+it 
+. 
+i 
+proceeded UnrelEv_bicycle
+to 
+flip ScrEv_lay_bike_down
+my 
+bicycle 
+over 
+so 
+it 
+was 
+standing ScrEv_lay_bike_down
+on 
+the 
+handlebars 
+and 
+seat UnrelEv_bicycle
+to 
+inspect ScrEv_examine_tire
+the 
+damage 
+. 
+once 
+i 
+had 
+that 
+accomplished UnrelEv_bicycle
+i 
+had 
+to 
+remove ScrEv_remove_tire
+the 
+wheel 
+from 
+the 
+bike 
+. 
+this 
+took UnrelEv_bicycle
+a 
+little 
+bit 
+and 
+i 
+needed ScrEv_get_tools
+some 
+tools 
+to 
+finish UnrelEv_bicycle
+this 
+task 
+. 
+my 
+bike 
+has RelNScrEv_bicycle
+a 
+tube 
+in 
+each 
+tire 
+to 
+keep 
+it 
+inflated RelNScrEv_bicycle
+. 
+something 
+had 
+gone ScrEv_other_bicycle
+through 
+the 
+outer 
+rubber 
+and 
+punctured ScrEv_other_bicycle
+that 
+inner 
+tube 
+. 
+i 
+had 
+to 
+remove ScrEv_remove_tire
+the 
+outer 
+rubber 
+and 
+find ScrEv_examine_tire
+the 
+spot 
+on 
+the 
+inner 
+tube 
+where 
+the 
+hole 
+was RelNScrEv_bicycle
+. 
+luckily 
+i 
+had ScrEv_get_tools
+a 
+patch 
+kit 
+with 
+me 
+and 
+was 
+able 
+to 
+patch ScrEv_put_patch/seal
+the 
+tube 
+once 
+i 
+found ScrEv_notice_problem
+the 
+hole 
+. 
+after 
+waiting RelNScrEv_bicycle
+for 
+the 
+patch 
+adhesive 
+to 
+set ScrEv_put_patch/seal
+i 
+put ScrEv_put_new_tire
+the 
+wheel 
+back 
+together 
+. 
+once 
+the 
+wheel 
+was ScrEv_put_new_tire
+back 
+on 
+my 
+bike 
+i 
+was 
+off 
+riding Evoking_bicycle
+again 
+. 
+<end_of_story>_bicycle 
+i 
+'d 
+had 
+my 
+old 
+bike 
+sitting UnrelEv_bicycle
+around 
+the 
+house 
+for 
+a 
+few 
+months 
+, 
+but 
+now 
+that 
+the 
+weather 
+is 
+getting UnrelEv_bicycle
+warmer 
+i 
+decided 
+i 
+should 
+probably 
+do+something+about+the+flat+tire Evoking_bicycle
+in 
+the 
+front 
+. 
+i 
+'d 
+already 
+tried UnrelEv_bicycle
+using ScrEv_get_tools
+my 
+bike 
+pump 
+; 
+it 
+would 
+inflate ScrEv_refill_tire_air
+a 
+little 
+but 
+i 
+could 
+never 
+get 
+it 
+anywhere 
+close 
+to 
+fully 
+inflated ScrEv_refill_tire_air
+. 
+i 
+know UnrelEv_bicycle
+from 
+past 
+experience 
+those 
+fix-a-flat 
+or 
+emergency 
+bike 
+repair 
+kits 
+are UnrelEv_bicycle
+pretty 
+worthless 
+. 
+i 
+think UnrelEv_bicycle
+they 
+'re 
+made UnrelEv_bicycle
+for 
+the 
+narrow 
+old 
+tires 
+you 
+'d 
+see UnrelEv_bicycle
+on 
+ten-speed 
+street 
+bikes 
+. 
+i 
+have UnrelEv_bicycle
+a 
+mountain 
+bike 
+with 
+large 
+tires 
+and 
+a 
+lot 
+of 
+pressure 
+is 
+needed UnrelEv_bicycle
+to 
+keep 
+them 
+inflated ScrEv_refill_tire_air
+. 
+since 
+i 
+only 
+live UnrelEv_bicycle
+a 
+few 
+blocks 
+from 
+a 
+bicycle 
+repair 
+shop 
+i 
+decided UnrelEv_bicycle
+to 
+take ScrEv_other_bicycle
+the 
+bike 
+there 
+. 
+i 
+bought UnrelEv_bicycle
+it 
+at 
+that 
+shop 
+anyway 
+so 
+i 
+figured UnrelEv_bicycle
+they 
+'d 
+do RelNScrEv_bicycle
+the 
+service 
+for 
+free 
+, 
+as 
+promised UnrelEv_bicycle
+. 
+i 
+stopped UnrelEv_bicycle
+by 
+, 
+they 
+took RelNScrEv_bicycle
+it 
+in 
+the 
+back 
+, 
+replaced ScrEv_put_new_tire
+the 
+inner 
+tube 
+of 
+the 
+tire 
+, 
+inflated ScrEv_refill_tire_air
+it 
+, 
+and 
+it 
+was UnrelEv_bicycle
+as 
+good 
+as 
+new 
+. 
+best 
+of 
+all 
+, 
+they 
+only 
+charged UnrelEv_bicycle
+me 
+ten 
+bucks 
+for 
+the 
+tube 
+. 
+that 
+'s UnrelEv_bicycle
+the 
+beauty 
+of 
+local 
+, 
+independently 
+own 
+businesses 
+. 
+they 
+really 
+care UnrelEv_bicycle
+about 
+their 
+customers 
+. 
+<end_of_story>_bicycle 
+yesterday 
+, 
+as 
+i 
+pulled RelNScrEv_bicycle
+my 
+bicycle 
+out 
+of 
+the 
+garage 
+, 
+i 
+realized 
+it 
+had+a+flat+tire Evoking_bicycle
+. 
+so 
+, 
+i 
+prepared UnrelEv_bicycle
+to 
+repair Evoking_bicycle
+it 
+. 
+first 
+, 
+i 
+went UnrelEv_bicycle
+to 
+the 
+tool 
+box 
+and 
+got+out ScrEv_get_tools
+the 
+wrench 
+and 
+other 
+necessary 
+tools 
+. 
+then 
+, 
+i 
+realized UnrelEv_bicycle
+i 
+did 
+n't 
+have RelNScrEv_bicycle
+a 
+new 
+bike 
+tire 
+. 
+so 
+, 
+i 
+opened UnrelEv_bicycle
+the 
+door 
+to 
+my 
+car 
+and 
+got+in UnrelEv_bicycle
+. 
+i 
+drove UnrelEv_bicycle
+to 
+the 
+nearest 
+bicycle 
+shop 
+and 
+bought ScrEv_get_tire
+two 
+new 
+bicycle 
+tires 
+-- 
+one 
+for 
+now 
+and 
+one 
+for 
+later 
+. 
+i 
+drove UnrelEv_bicycle
+back 
+home 
+where 
+the 
+bicycle 
+was 
+waiting UnrelEv_bicycle
+for 
+me 
+. 
+i 
+took ScrEv_take_tire_off
+the 
+old 
+, 
+flat 
+tire 
+off 
+of 
+the 
+bicycle 
+using ScrEv_get_tools
+my 
+wrench 
+to 
+loosen ScrEv_loose_nut
+the 
+screws 
+and 
+other 
+mechanical 
+devices 
+. 
+i 
+then 
+stretched ScrEv_put_new_tire
+the 
+new 
+tire 
+out 
+over 
+the 
+wheel 
+and 
+affixed ScrEv_put_new_tire
+it 
+. 
+i 
+twirled ScrEv_check_new_tire
+it 
+around 
+and 
+tested ScrEv_check_new_tire
+it 
+to 
+make UnrelEv_bicycle
+sure 
+that 
+it 
+was 
+properly 
+fastened ScrEv_other_bicycle
+. 
+next 
+, 
+i 
+drove ScrEv_check_new_tire
+around 
+the 
+driveway 
+to 
+make UnrelEv_bicycle
+sure 
+that 
+it 
+would 
+hold RelNScrEv_bicycle
+. 
+sure 
+enough 
+, 
+it 
+was UnrelEv_bicycle
+secure 
+and 
+ready 
+for 
+me 
+to 
+go+on+my+bike+ride Evoking_bicycle
+. 
+<end_of_story>_bicycle 
+yesterday 
+, 
+i 
+found ScrEv_notice_problem
+that 
+my 
+bicycle+tire+was+flat Evoking_bicycle
+and 
+would 
+have 
+to 
+be 
+repaired Evoking_bicycle
+. 
+first 
+, 
+i 
+went RelNScrEv_bicycle
+to 
+the 
+store 
+in 
+town 
+to 
+purchase ScrEv_get_tools
+a 
+machine 
+that 
+would 
+inflate ScrEv_refill_tire_air
+my 
+bike 
+tire 
+. 
+next 
+, 
+i 
+went RelNScrEv_bicycle
+to 
+my 
+garage 
+, 
+which 
+is UnrelEv_bicycle
+where 
+i 
+keep RelNScrEv_bicycle
+my 
+bike 
+. 
+i 
+found RelNScrEv_bicycle
+the 
+nozzle 
+in 
+the 
+bike 
+tire 
+where 
+the 
+air 
+is 
+supposed UnrelEv_bicycle
+to 
+be 
+pumped ScrEv_refill_tire_air
+into 
+. 
+i 
+plugged RelNScrEv_bicycle
+the 
+machine 
+into 
+the 
+wall 
+socket 
+and 
+then 
+attached RelNScrEv_bicycle
+the 
+nozzle 
+from 
+the 
+machine 
+onto 
+the 
+nozzle 
+on 
+the 
+bike 
+. 
+i 
+hit RelNScrEv_bicycle
+the 
+switch 
+, 
+which 
+caused UnrelEv_bicycle
+the 
+machine 
+to 
+beep RelNScrEv_bicycle
+as 
+it 
+added ScrEv_refill_tire_air
+air 
+into 
+the 
+tire 
+. 
+i 
+watched RelNScrEv_bicycle
+the 
+gauge 
+on 
+the 
+machine 
+to 
+make UnrelEv_bicycle
+sure 
+there 
+was RelNScrEv_bicycle
+n't 
+too 
+much 
+pressure 
+; 
+i 
+did 
+n't 
+want UnrelEv_bicycle
+my 
+tire 
+to 
+pop UnrelEv_bicycle
+like 
+a 
+balloon 
+. 
+finally 
+, 
+when 
+i 
+saw UnrelEv_bicycle
+that 
+there 
+was RelNScrEv_bicycle
+enough 
+air 
+in 
+the 
+tire 
+, 
+i 
+turned+off RelNScrEv_bicycle
+the 
+machine 
+and 
+removed RelNScrEv_bicycle
+it 
+before 
+closing RelNScrEv_bicycle
+the 
+bike 
+'s 
+tire 
+nozzle 
+tight 
+. 
+now 
+my 
+tire 
+is UnrelEv_bicycle
+good 
+as 
+new 
+and 
+i 
+can 
+ride Evoking_bicycle
+around 
+wherever 
+i 
+'d 
+like 
+to 
+go UnrelEv_bicycle
+. 
+i 
+'m UnrelEv_bicycle
+glad 
+i 
+got 
+this 
+important 
+job 
+done UnrelEv_bicycle
+. 
+<end_of_story>_bicycle 
+yesterday 
+i 
+wanted UnrelEv_bicycle
+to 
+ride+my+bicycle Evoking_bicycle
+to 
+my 
+friends 
+house 
+. 
+the 
+weather 
+was UnrelEv_bicycle
+nice 
+and 
+i 
+had 
+n't 
+used UnrelEv_bicycle
+my 
+bicycle 
+in 
+a 
+while 
+. 
+when 
+i 
+got RelNScrEv_bicycle
+to 
+my 
+garage 
+i 
+realized ScrEv_notice_problem
+that 
+i 
+had+a+front+flat+tire Evoking_bicycle
+. 
+first 
+i 
+checked ScrEv_examine_tire
+if 
+there 
+were RelNScrEv_bicycle
+any 
+holes 
+in 
+my 
+tire 
+but 
+there 
+were RelNScrEv_bicycle
+n't 
+. 
+that 
+was UnrelEv_bicycle
+good 
+because 
+it 
+meant UnrelEv_bicycle
+that 
+the 
+tire 
+only 
+needed UnrelEv_bicycle
+more 
+air 
+. 
+i 
+then 
+went UnrelEv_bicycle
+looking ScrEv_get_tools
+for 
+the 
+air 
+pump 
+. 
+i 
+found ScrEv_get_tools
+it 
+on 
+one 
+of 
+the 
+shelves 
+. 
+i 
+took ScrEv_pull_air_pin
+the 
+cap 
+off 
+the 
+tire 
+valve 
+. 
+i 
+put ScrEv_get_tools
+the 
+pump 
+onto 
+the 
+tire 
+valve 
+and 
+began UnrelEv_bicycle
+pumping ScrEv_refill_tire_air
+in 
+air 
+. 
+after 
+a 
+few 
+seconds 
+i 
+grabbed ScrEv_check_new_tire
+the 
+tire 
+to 
+see UnrelEv_bicycle
+how 
+much 
+more 
+air 
+was 
+needed UnrelEv_bicycle
+. 
+i 
+did UnrelEv_bicycle
+this 
+until 
+i 
+had 
+pumped ScrEv_refill_tire_air
+it 
+up 
+enough 
+. 
+i 
+then 
+took RelNScrEv_bicycle
+the 
+pump 
+off 
+the 
+valve 
+and 
+put RelNScrEv_bicycle
+the 
+cap 
+back 
+onto 
+the 
+valve 
+. 
+i 
+put RelNScrEv_bicycle
+the 
+pump 
+back 
+where 
+i 
+found ScrEv_get_tools
+it 
+and 
+got+on ScrEv_other_bicycle
+my 
+bicycle 
+. 
+i 
+cycled Evoking_bicycle
+to 
+my 
+friends 
+house 
+and 
+we 
+had UnrelEv_bicycle
+a 
+fun 
+time 
+. 
+<end_of_story>_bicycle 

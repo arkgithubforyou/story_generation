@@ -1,0 +1,336 @@
+ScrEv_leave_airport
+leave airport
+ScrEv_get_utensils
+get utensils
+ScrEv_take_bags
+take bags
+ScrEv_bus_comes
+bus comes
+ScrEv_pay
+pay
+ScrEv_brush_hair
+brush hair
+ScrEv_door_opens
+door opens
+ScrEv_get_plane
+aboard plane
+ScrEv_wait
+wait
+ScrEv_prepare_bath
+prepare for bath
+ScrEv_wash
+wash body
+ScrEv_get_train_station
+get to train station
+ScrEv_place_fertilizers
+place fertilizers
+ScrEv_relax
+relax
+ScrEv_open_drain
+open the drain
+ScrEv_bus_leaves
+bus leaves
+ScrEv_cool_down
+cool down
+ScrEv_use_computer
+use the computer
+ScrEv_browse_releases
+browse releases
+ScrEv_move_in_salon
+move into salon
+ScrEv_change_bus
+change bus
+ScrEv_enter
+enter
+ScrEv_stow_away_luggage
+stow away luggage
+ScrEv_spend_time_bus
+spend time in the bus
+ScrEv_check_luggage
+check luggage
+ScrEv_get_bus_stop
+get to bus stop
+ScrEv_leave
+leave
+ScrEv_fill_water/wait
+fill water
+ScrEv_go_exit
+go to exit
+ScrEv_listen_call
+listen to call
+ScrEv_pour_dough
+pour the dough
+ScrEv_place_root
+place the root
+ScrEv_look_mirror
+look into mirror
+ScrEv_take_home
+take the tree home 
+ScrEv_preheat
+preheat oven
+ScrEv_examine_tire
+examine tire
+ScrEv_grease_cake_tin
+grease cake tin
+ScrEv_get_destination_airport
+arrive at destination airport
+ScrEv_put_cake_oven
+put cake into oven
+ScrEv_get_library
+go to the library
+ScrEv_get_tickets
+get tickets
+ScrEv_move_exit
+move to the exit
+ScrEv_prepare_ingredients
+prepare ingredients
+ScrEv_put_on_cape
+put on cape
+ScrEv_get_airport
+get to airport
+ScrEv_eat
+eat
+ScrEv_go_check_in
+go to check in
+ScrEv_close_drain
+close the drain
+ScrEv_water
+water the tree
+ScrEv_bring_vehicle
+bring to vehicle
+ScrEv_get_tire
+get new tire
+ScrEv_meet_people
+meet with people
+ScrEv_take_clean_clothes
+take clean clothes
+ScrEv_return_book
+return the book
+ScrEv_check_list
+ckeck shopping list
+ScrEv_sink_water
+sink into water
+ScrEv_move_section
+move along the sections
+ScrEv_ride
+ride bike
+ScrEv_go_check_out
+go to check out
+ScrEv_present_ID/ticket
+present ID/ticket
+ScrEv_pull_air_pin
+pull air pin
+ScrEv_put_conveyor
+put stuff on the conveyor
+ScrEv_show_card
+show library card
+ScrEv_get_tools
+get tools
+ScrEv_choose_tree
+choose a tree
+ScrEv_find_place
+find a place
+ScrEv_free_wheel
+free the wheel
+ScrEv_return_shop_cart
+return the shopping cart
+ScrEv_put_patch/seal
+patch the tire
+ScrEv_buckle_seat_belt
+buckle seat belt
+ScrEv_customer_opinion
+provide customer opinion
+ScrEv_ride_bike
+ride the bike
+ScrEv_take_tire_off
+take off tire
+ScrEv_check_new_tire
+check new tire
+ScrEv_pack_luggage
+pack luggage
+ScrEv_turn_off_oven
+turn off oven
+ScrEv_arrive_destination
+arrive destination
+ScrEv_find_terminal
+find terminal
+ScrEv_put_new_tire
+put on new tire 
+ScrEv_pack_groceries
+pack groceries
+ScrEv_remove_tire
+remove tire
+ScrEv_check
+check
+ScrEv_take_seat
+take a seat
+ScrEv_refill_hole
+refill the hole
+ScrEv_press_stop_button
+press stop button
+ScrEv_enter_bathroom
+enter bathroom
+ScrEv_get_shelf
+get to the shelf
+ScrEv_get_called
+get called
+ScrEv_decorate
+decorate cake
+ScrEv_turn_water_off
+turn water off
+ScrEv_get_out_bath
+get out of bath 
+ScrEv_train_arrives
+train arrives
+ScrEv_look_for_book
+look for book
+ScrEv_prepare_wash
+prepare for washing
+ScrEv_board_plane
+board plane
+ScrEv_put_bubble_bath_scent
+put bubble bath
+ScrEv_check_catalog
+check catalog
+ScrEv_take_out_oven
+take cake out of oven
+ScrEv_make_list
+make a shopping list
+ScrEv_check_time-table
+check time-table
+ScrEv_present_boarding_pass
+present boarding pass
+ScrEv_take_book
+take book
+ScrEv_check_temp
+check temperature
+ScrEv_go_checkout
+go to checkout
+ScrEv_spend_time_flight
+spend time in flight
+ScrEv_dig_hole
+dig a hole
+ScrEv_tamp_dirt
+tamp dirt
+ScrEv_scalp_massage
+do a scalp massage
+ScrEv_make_hair_style
+make hair style
+ScrEv_conductor_checks
+conductor checks ticket
+ScrEv_get_tree
+get a tree
+ScrEv_choose_recipe
+choose a recipe
+ScrEv_notice_problem
+notice problem
+ScrEv_cashier_scan/weight
+cashier scan/weigh items
+ScrEv_talk_haircut
+talk about haircut
+ScrEv_spend_time_train
+spend time in the train
+ScrEv_undress
+undress
+ScrEv_refill_tire_air
+refill tire with air
+ScrEv_make_appointment
+make appointment
+ScrEv_take_off_preparations
+take off preparations
+ScrEv_exit_plane
+exit plane
+ScrEv_leave_tip
+leave a tip
+ScrEv_add_ingredients
+add ingredients
+ScrEv_note_shelf
+find the shelf
+ScrEv_register
+register
+ScrEv_make_dough
+make dough
+ScrEv_apply_soap
+apply soup
+ScrEv_obtain_card
+obtain card
+ScrEv_listen_crew
+listen to the crew
+ScrEv_get_ticket
+get ticket
+ScrEv_loose_nut
+loose nut
+ScrEv_board_bus
+board the bus
+ScrEv_dry
+dry yourself
+ScrEv_small_talk
+talk
+ScrEv_go_grocery
+go to grocery store
+ScrEv_comb
+comb hair
+ScrEv_get_towel
+get towel
+ScrEv_check_in
+check in
+ScrEv_take_out_cake_tin
+take cake out of tin
+ScrEv_cut
+cut hair
+ScrEv_check_off
+check off
+ScrEv_find_bus
+find the bus
+ScrEv_put_towel
+wrap hair in a towel
+ScrEv_get_dressed
+get dressed
+ScrEv_get_receipt
+get receipt
+ScrEv_get_on
+aboard train
+ScrEv_train_departs
+train departs
+ScrEv_turn_water_on
+turn water on
+ScrEv_bus_stops
+bus stops
+ScrEv_unwrap_root
+unwrap the root
+ScrEv_get_ingredients
+get ingredients
+ScrEv_remove_cap
+remove the cap
+ScrEv_tie_stakes_up
+tie stakes up
+ScrEv_get_off
+exit train
+ScrEv_landing
+plane lands
+ScrEv_wait_boarding
+wait for boarding
+ScrEv_set_time
+set the time
+ScrEv_retrieve_luggage
+retrieve luggage
+ScrEv_take_off
+take off
+ScrEv_lay_bike_down
+lay bike down
+ScrEv_ask_librarian
+ask librarian
+ScrEv_go_security_checks
+go to security check
+ScrEv_sit_down
+sit down
+ScrEv_get_groceries
+get groceries
+ScrEv_take_shop_cart
+take a shopping cart
+ScrEv_get_salon
+get to the salon
+ScrEv_get_platform
+go to the plarform
+ScrEv_go_target_location
+get target location

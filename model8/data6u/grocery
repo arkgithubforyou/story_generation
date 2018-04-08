@@ -1,0 +1,21203 @@
+yesterday 
+i 
+went+grocery+shopping Evoking_grocery
+. 
+i 
+took ScrEv_take_bags
+my 
+grocery 
+list 
+with 
+me 
+, 
+along 
+with 
+some 
+reusable 
+shopping 
+bags 
+. 
+my 
+grocery 
+list 
+has UnrelEv_grocery
+all 
+the 
+items 
+i 
+want 
+to 
+buy ScrEv_get_groceries
+on 
+it 
+. 
+i 
+selected ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+from 
+in 
+front 
+of 
+the 
+store 
+, 
+and 
+went+inside ScrEv_enter
+. 
+i 
+put RelNScrEv_grocery
+my 
+reusable 
+bags 
+in 
+the 
+cart 
+. 
+i 
+looked ScrEv_check_list
+at 
+my 
+list 
+and 
+started UnrelEv_grocery
+in 
+the 
+produce 
+section 
+. 
+i 
+put ScrEv_get_groceries
+different 
+vegetables 
+and 
+fruits 
+into 
+my 
+cart 
+. 
+next 
+i 
+wheeled ScrEv_move_section
+my 
+cart 
+to 
+the 
+cereal 
+aisle 
+and 
+took ScrEv_get_groceries
+a 
+box 
+of 
+cereal 
+. 
+i 
+went ScrEv_move_section
+through 
+the 
+store 
+aisle 
+by 
+aisle 
+and 
+selected ScrEv_get_groceries
+my 
+groceries 
+. 
+each 
+aisle 
+is 
+organized UnrelEv_grocery
+by 
+types 
+of 
+food 
+and 
+non-food 
+items 
+. 
+one 
+aisle 
+has UnrelEv_grocery
+dried 
+pasta 
+, 
+canned 
+tomatoes 
+, 
+rice 
+, 
+and 
+sauce 
+. 
+i 
+selected ScrEv_get_groceries
+a 
+few 
+boxes 
+of 
+pasta 
+and 
+some 
+rice 
+. 
+another 
+aisle 
+carries UnrelEv_grocery
+plastic 
+wrap 
+, 
+trash 
+bags 
+, 
+and 
+aluminum 
+foil 
+. 
+as 
+i 
+went ScrEv_move_section
+through 
+the 
+store 
+, 
+i 
+kept 
+looking ScrEv_check_list
+at 
+my 
+list 
+to 
+see 
+what 
+i 
+needed UnrelEv_grocery
+next 
+. 
+when 
+i 
+added ScrEv_get_groceries
+each 
+item 
+to 
+my 
+cart 
+, 
+i 
+crossed ScrEv_check_off
+it 
+off 
+my 
+list 
+. 
+my 
+last 
+stop 
+was UnrelEv_grocery
+the 
+dairy 
+aisle 
+where 
+i 
+got ScrEv_get_groceries
+milk 
+and 
+eggs 
+. 
+when 
+i 
+had UnrelEv_grocery
+all 
+the 
+groceries 
+i 
+wanted UnrelEv_grocery
+, 
+i 
+went ScrEv_go_checkout
+to 
+the 
+cash 
+register 
+ans 
+stood ScrEv_wait
+in 
+line 
+. 
+when 
+it 
+was UnrelEv_grocery
+my 
+turn 
+, 
+i 
+put ScrEv_put_conveyor
+each 
+item 
+on 
+the 
+conveyor 
+belt 
+and 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+each 
+one 
+. 
+a 
+bagger 
+put ScrEv_pack_groceries
+all 
+of 
+the 
+groceries 
+into 
+my 
+reusable 
+bags 
+. 
+i 
+paid ScrEv_pay
+, 
+and 
+then 
+the 
+cashier 
+gave ScrEv_get_receipt
+me 
+a 
+receipt 
+. 
+i 
+loaded ScrEv_bring_vehicle
+the 
+bags 
+of 
+groceries 
+into 
+the 
+trunk 
+of 
+my 
+car 
+and 
+drove ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+we 
+were 
+running UnrelEv_grocery
+out 
+of 
+milk 
+, 
+so 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+other 
+groceries 
+we 
+needed UnrelEv_grocery
+and 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+. 
+i 
+picked ScrEv_take_shop_cart
+out 
+a 
+cart 
+and 
+went ScrEv_move_section
+down 
+the 
+produce 
+aisle 
+first 
+, 
+picking ScrEv_get_groceries
+out 
+bananas 
+and 
+strawberries 
+as 
+i 
+went ScrEv_move_section
+. 
+lettuce 
+, 
+carrots 
+, 
+and 
+zucchini 
+were UnrelEv_grocery
+next 
+on 
+the 
+list 
+. 
+i 
+wanted 
+to 
+buy ScrEv_get_groceries
+ice 
+cream 
+, 
+but 
+was UnrelEv_grocery
+afraid 
+it 
+would 
+melt UnrelEv_grocery
+, 
+so 
+i 
+passed ScrEv_move_section
+the 
+freezer 
+aisle 
+and 
+went ScrEv_move_section
+straight 
+for 
+the 
+bread 
+. 
+it 
+'s UnrelEv_grocery
+nice 
+to 
+have UnrelEv_grocery
+good 
+fresh 
+bread 
+for 
+sandwiches 
+, 
+is UnrelEv_grocery
+n't 
+it 
+? 
+then 
+came ScrEv_move_section
+the 
+cereal 
+aisle 
+. 
+oatmeal 
+would 
+make UnrelEv_grocery
+a 
+good 
+change 
+for 
+breakfast 
+. 
+next 
+came ScrEv_move_section
+the 
+dairy 
+section 
+: 
+yogurt 
+, 
+cheese 
+, 
+butter 
+and 
+eggs 
+were UnrelEv_grocery
+all 
+on 
+the 
+list 
+along 
+with 
+the 
+milk 
+that 
+brought UnrelEv_grocery
+me 
+to 
+the 
+store 
+. 
+almost 
+done 
+, 
+i 
+swung ScrEv_move_section
+back 
+to 
+the 
+freezer 
+aisle 
+to 
+grab ScrEv_get_groceries
+that 
+ice 
+cream 
+. 
+mmm 
+, 
+they 
+had UnrelEv_grocery
+pralines 
+and 
+cream 
+, 
+yummy 
+! 
+<end_of_story>_grocery 
+upon 
+the 
+realization 
+i 
+was UnrelEv_grocery
+out 
+of 
+milk 
+and 
+had UnrelEv_grocery
+nothing 
+to 
+make UnrelEv_grocery
+for 
+dinner 
+, 
+i 
+decided UnrelEv_grocery
+to 
+stop ScrEv_go_grocery
+at 
+the 
+grocery 
+store 
+. 
+it 
+was UnrelEv_grocery
+down 
+the 
+street 
+from 
+my 
+apartment 
+, 
+so 
+i 
+hopped UnrelEv_grocery
+into 
+my 
+car 
+and 
+was UnrelEv_grocery
+there 
+within 
+minutes 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+basket 
+and 
+headed ScrEv_move_section
+to 
+the 
+back 
+right 
+corner 
+to 
+get ScrEv_get_groceries
+some 
+ground 
+beef 
+, 
+then 
+headed ScrEv_move_section
+to 
+the 
+back 
+left 
+to 
+grab ScrEv_get_groceries
+some 
+milk 
+. 
+my 
+journey 
+then 
+continued ScrEv_move_section
+to 
+the 
+produce 
+department 
+where 
+i 
+snagged ScrEv_get_groceries
+some 
+broccoli 
+and 
+onions 
+. 
+with 
+my 
+eyes 
+fixed UnrelEv_grocery
+on 
+the 
+checkout 
+line 
+, 
+i 
+headed ScrEv_go_checkout
+in 
+that 
+direction 
+trying 
+to 
+keep UnrelEv_grocery
+my 
+eyes 
+away 
+from 
+the 
+ice 
+cream 
+section 
+. 
+i 
+failed UnrelEv_grocery
+and 
+took ScrEv_get_groceries
+some 
+chocolate 
+ice 
+cream 
+, 
+went ScrEv_go_checkout
+to 
+check 
+out 
+. 
+the 
+line 
+was UnrelEv_grocery
+long 
+, 
+my 
+eyes 
+then 
+wandered UnrelEv_grocery
+to 
+the 
+tabloids 
+while 
+the 
+line 
+moved ScrEv_wait
+forward 
+. 
+i 
+put ScrEv_put_conveyor
+my 
+products 
+onto 
+the 
+conveyer 
+belt 
+and 
+smiled UnrelEv_grocery
+at 
+the 
+check 
+out 
+lady 
+. 
+after 
+i 
+typed UnrelEv_grocery
+in 
+my 
+phone 
+number 
+for 
+a 
+slight 
+discount 
+, 
+i 
+swung UnrelEv_grocery
+my 
+purse 
+around 
+me 
+to 
+get RelNScrEv_grocery
+my 
+wallet 
+and 
+paid ScrEv_pay
+. 
+i 
+took ScrEv_bring_vehicle
+my 
+bags 
+of 
+stuff 
+and 
+walked ScrEv_bring_vehicle
+to 
+my 
+car 
+. 
+<end_of_story>_grocery 
+before 
+i 
+go+grocery+shopping Evoking_grocery
+i 
+make ScrEv_make_list
+a 
+list 
+. 
+i 
+actually 
+keep UnrelEv_grocery
+a 
+list 
+going UnrelEv_grocery
+on 
+a 
+magnetic 
+notepad 
+on 
+the 
+fridge 
+and 
+one 
+on 
+my 
+phone 
+whenever 
+i 
+know UnrelEv_grocery
+i 
+am UnrelEv_grocery
+out 
+or 
+low 
+on 
+something 
+. 
+i 
+try 
+to 
+only 
+go Evoking_grocery
+once 
+a 
+week 
+unless 
+there 
+is UnrelEv_grocery
+something 
+i 
+really 
+need UnrelEv_grocery
+for 
+a 
+specific 
+meal 
+. 
+i 
+take UnrelEv_grocery
+my 
+electronic 
+list 
+with 
+me 
+to 
+the 
+store 
+, 
+but 
+i 
+often 
+still 
+walk ScrEv_move_section
+up 
+and 
+down 
+most 
+aisles 
+just 
+browsing RelNScrEv_grocery
+for 
+anything 
+new 
+or 
+that 
+i 
+might 
+want 
+to 
+try UnrelEv_grocery
+. 
+i 
+like 
+to 
+keep UnrelEv_grocery
+a 
+rough 
+estimate 
+of 
+how 
+much 
+i 
+am 
+buying RelNScrEv_grocery
+by 
+rounding+up UnrelEv_grocery
+. 
+so 
+if 
+a 
+can 
+of 
+soup 
+is UnrelEv_grocery
+$ 
+523 
+i 
+think 
+$ 
+523 
+and 
+keep 
+adding UnrelEv_grocery
+that 
+as 
+i 
+shop Evoking_grocery
+if 
+i 
+'m 
+wanting 
+to 
+stay UnrelEv_grocery
+on 
+a 
+specific 
+budget 
+. 
+once 
+i 
+have RelNScrEv_grocery
+all 
+my 
+items 
+in 
+my 
+cart 
+i 
+go ScrEv_go_checkout
+to 
+the 
+checkout 
+line 
+that 
+seems 
+to 
+have UnrelEv_grocery
+the 
+least 
+amount 
+of 
+people 
+in 
+it 
+. 
+i 
+do 
+n't 
+like 
+to 
+jump RelNScrEv_grocery
+lines 
+if 
+one 
+line 
+seems 
+to 
+be 
+moving RelNScrEv_grocery
+faster 
+. 
+good 
+to 
+have UnrelEv_grocery
+a 
+little 
+bit 
+of 
+patience 
+. 
+i 
+try 
+to 
+remember UnrelEv_grocery
+to 
+bring ScrEv_take_bags
+my 
+bags 
+with 
+me 
+so 
+that 
+i 
+'m 
+not 
+always 
+getting RelNScrEv_grocery
+plastic 
+bags 
+. 
+<end_of_story>_grocery 
+last 
+night 
+, 
+i 
+made ScrEv_make_list
+a 
+grocery 
+list 
+and 
+went+shopping Evoking_grocery
+. 
+to 
+make ScrEv_make_list
+a 
+list 
+, 
+i 
+go RelNScrEv_grocery
+through 
+my 
+cabinets 
+and 
+refrigerator 
+and 
+write+down ScrEv_make_list
+things 
+that 
+i 
+am UnrelEv_grocery
+out 
+of 
+. 
+these 
+are UnrelEv_grocery
+always 
+the 
+same 
+things 
+like 
+coffee 
+and 
+milk 
+. 
+then 
+i 
+thought UnrelEv_grocery
+of 
+some 
+recipes 
+i 
+wanted 
+to 
+make UnrelEv_grocery
+. 
+i 
+wrote+down ScrEv_make_list
+pasta 
+shells 
+, 
+ricotta 
+cheese 
+, 
+parmesan 
+cheese 
+, 
+spinach 
+, 
+and 
+tomato 
+sauce 
+. 
+i 
+am 
+going 
+to 
+make UnrelEv_grocery
+stuffed 
+shells 
+this 
+week 
+! 
+when 
+i 
+got ScrEv_go_grocery
+to 
+the 
+store 
+, 
+i 
+got ScrEv_take_bags
+my 
+reusable 
+bags 
+out 
+of 
+the 
+car 
+. 
+using UnrelEv_grocery
+no 
+plastic 
+bags 
+is UnrelEv_grocery
+a 
+great 
+way 
+to 
+help UnrelEv_grocery
+the 
+environment 
+. 
+since 
+i 
+went ScrEv_go_grocery
+to 
+the 
+store 
+around 
+523 
+p.m. 
+, 
+it 
+was UnrelEv_grocery
+n't 
+very 
+crowded 
+. 
+i 
+could 
+relax UnrelEv_grocery
+as 
+i 
+moved ScrEv_move_section
+my 
+way 
+from 
+produce 
+, 
+dry 
+goods 
+, 
+and 
+then 
+dairy 
+. 
+i 
+saw RelNScrEv_grocery
+a 
+huge 
+display 
+of 
+easter 
+candy 
+because 
+it 
+is UnrelEv_grocery
+march 
+and 
+the 
+holiday 
+is 
+coming+up UnrelEv_grocery
+. 
+i 
+was UnrelEv_grocery
+so 
+tempted 
+to 
+buy ScrEv_get_groceries
+a 
+lot 
+of 
+chocolate 
+but 
+i 
+did UnrelEv_grocery
+n't 
+. 
+i 
+only 
+try 
+to 
+get ScrEv_get_groceries
+treats 
+once 
+in 
+awhile 
+. 
+finally 
+, 
+i 
+went ScrEv_go_checkout
+to 
+the 
+front 
+check 
+out 
+. 
+the 
+cashier 
+was UnrelEv_grocery
+nice 
+and 
+the 
+bagger 
+was UnrelEv_grocery
+happy 
+to 
+use ScrEv_pack_groceries
+my 
+own 
+bags 
+. 
+i 
+got ScrEv_leave
+home 
+and 
+put RelNScrEv_grocery
+everything 
+away 
+. 
+now 
+i 
+ca 
+n't 
+wait UnrelEv_grocery
+to 
+make UnrelEv_grocery
+my 
+stuffed 
+shells 
+for 
+dinner 
+! 
+<end_of_story>_grocery 
+i 
+like 
+to 
+go+grocery+shopping Evoking_grocery
+and 
+went Evoking_grocery
+yesterday 
+. 
+the 
+first 
+thing 
+i 
+did UnrelEv_grocery
+when 
+i 
+arrived ScrEv_go_grocery
+was 
+park RelNScrEv_grocery
+closest 
+the 
+exit 
+i 
+knew 
+i 
+'d 
+be 
+using UnrelEv_grocery
+after 
+i 
+'m 
+finished UnrelEv_grocery
+. 
+then 
+i 
+went+inside ScrEv_enter
+and 
+chose ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+next 
+, 
+i 
+used RelNScrEv_grocery
+the 
+wipes 
+the 
+store 
+provides UnrelEv_grocery
+at 
+the 
+entrance 
+and 
+wipe RelNScrEv_grocery
+off 
+the 
+handle 
+of 
+the 
+shopping 
+cart 
+, 
+and 
+my 
+hands 
+, 
+so 
+i 
+know UnrelEv_grocery
+my 
+hands 
+will 
+stay UnrelEv_grocery
+clean 
+while 
+i 
+choose ScrEv_get_groceries
+my 
+food 
+. 
+then 
+i 
+took+out ScrEv_check_list
+the 
+shopping 
+list 
+i 
+wrote ScrEv_make_list
+at 
+home 
+and 
+i 
+started UnrelEv_grocery
+. 
+i 
+always 
+start UnrelEv_grocery
+with 
+heavy 
+things 
+like 
+cans 
+and 
+boxes 
+so 
+i 
+can 
+put ScrEv_get_groceries
+them 
+in 
+the 
+bottom 
+of 
+my 
+cart 
+. 
+then 
+i 
+went ScrEv_move_section
+to 
+the 
+cold 
+and 
+frozen 
+foods 
+and 
+put ScrEv_get_groceries
+them 
+into 
+my 
+cart 
+next 
+. 
+after 
+that 
+, 
+i 
+chose ScrEv_get_groceries
+meat 
+and 
+fresh 
+produce 
+as 
+well 
+as 
+things 
+like 
+bread 
+, 
+eggs 
+and 
+chips 
+which 
+need 
+to 
+stay UnrelEv_grocery
+on 
+top 
+of 
+the 
+other 
+food 
+so 
+they 
+wo 
+n't 
+get 
+crushed UnrelEv_grocery
+. 
+when 
+i 
+had UnrelEv_grocery
+everything 
+i 
+needed UnrelEv_grocery
+, 
+i 
+went ScrEv_go_checkout
+to 
+the 
+check 
+out 
+line 
+that 
+seemed UnrelEv_grocery
+the 
+fastest 
+and 
+shortest 
+. 
+then 
+i 
+unloaded ScrEv_put_conveyor
+my 
+groceries 
+onto 
+the 
+counter 
+so 
+the 
+check 
+out 
+clerk 
+could 
+add ScrEv_cashier_scan/weight
+the 
+costs 
+. 
+i 
+was 
+sure 
+to 
+keep UnrelEv_grocery
+my 
+cold 
+foods 
+together 
+so 
+the 
+clerk 
+would 
+pack ScrEv_pack_groceries
+them 
+together 
+in 
+bags 
+and 
+keep UnrelEv_grocery
+them 
+cold 
+. 
+i 
+gave RelNScrEv_grocery
+her 
+my 
+own 
+cloth 
+bags 
+because 
+it 
+helps UnrelEv_grocery
+the 
+environment 
+by 
+not 
+using UnrelEv_grocery
+paper 
+or 
+plastic 
+. 
+once 
+my 
+groceries 
+were 
+all 
+packed ScrEv_pack_groceries
+neatly 
+into 
+my 
+cart 
+, 
+i 
+took ScrEv_bring_vehicle
+them 
+to 
+my 
+car 
+, 
+loaded ScrEv_bring_vehicle
+them 
+into 
+my 
+trunk 
+and 
+then 
+put ScrEv_return_shop_cart
+the 
+empty 
+cart 
+into 
+the 
+cart 
+area 
+. 
+<end_of_story>_grocery 
+this 
+afternoon 
+, 
+i 
+headed ScrEv_go_grocery
+to 
+my 
+neighborhood 
+supermarket 
+to 
+buy+groceries Evoking_grocery
+. 
+luckily 
+, 
+the 
+place 
+was UnrelEv_grocery
+only 
+a 
+block 
+away 
+from 
+my 
+apartment 
+and 
+basically 
+right 
+next 
+door 
+to 
+me 
+. 
+it 
+was UnrelEv_grocery
+a 
+bit 
+chilly 
+outside 
+, 
+so 
+i 
+put+on Unclear_grocery
+a 
+jacket 
+and 
+my 
+shopping 
+bag 
+, 
+then 
+quickly 
+wrote+down ScrEv_make_list
+a 
+grocery 
+items 
+. 
+i 
+walked ScrEv_go_grocery
+my 
+way 
+to 
+the 
+supermarket 
+and 
+then 
+got+a+hold ScrEv_take_shop_cart
+of 
+a 
+shopping 
+basket 
+. 
+my 
+first 
+stop 
+was UnrelEv_grocery
+the 
+produce 
+section 
+, 
+where 
+i 
+picked+up ScrEv_get_groceries
+some 
+produce 
+like 
+bell 
+peppers 
+, 
+onions 
+, 
+and 
+garlic 
+. 
+next 
+, 
+i 
+headed ScrEv_move_section
+to 
+the 
+dairy 
+section 
+, 
+where 
+i 
+got ScrEv_get_groceries
+a 
+pack 
+of 
+gouda 
+cheese 
+and 
+a 
+liter 
+container 
+of 
+milk 
+. 
+my 
+next 
+stop 
+was UnrelEv_grocery
+one 
+of 
+the 
+supermarket 
+'s 
+middle 
+aisles 
+to 
+get ScrEv_get_groceries
+a 
+box 
+of 
+pasta 
+and 
+tomato 
+sauce 
+. 
+i 
+had 
+found ScrEv_get_groceries
+everything 
+i 
+needed UnrelEv_grocery
+for 
+the 
+week 
+, 
+so 
+i 
+went ScrEv_go_checkout
+over 
+to 
+the 
+checkout 
+counters 
+. 
+this 
+was UnrelEv_grocery
+a 
+bit 
+of 
+a 
+wait ScrEv_wait
+, 
+as 
+the 
+store 
+was UnrelEv_grocery
+pretty 
+packed 
+with 
+shoppers 
+. 
+fortunately 
+, 
+i 
+found RelNScrEv_grocery
+a 
+line 
+that 
+was UnrelEv_grocery
+relatively 
+less 
+crowded 
+. 
+a 
+few 
+minutes 
+later 
+, 
+i 
+placed ScrEv_put_conveyor
+my 
+items 
+onto 
+the 
+checkout 
+aisle 
+and 
+had 
+them 
+scanned ScrEv_cashier_scan/weight
+. 
+the 
+checkout 
+clerk 
+then 
+ran+up RelNScrEv_grocery
+my 
+total 
+, 
+after 
+which 
+i 
+paid ScrEv_pay
+with 
+my 
+debit 
+card 
+and 
+placed ScrEv_pack_groceries
+my 
+groceries 
+into 
+my 
+shopping 
+bag 
+. 
+once 
+i 
+was UnrelEv_grocery
+all 
+set 
+, 
+i 
+headed+back ScrEv_leave
+to 
+my 
+apartment 
+. 
+<end_of_story>_grocery 
+i 
+went+grocery+shopping Evoking_grocery
+today 
+. 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+things 
+that 
+i 
+needed UnrelEv_grocery
+before 
+i 
+left UnrelEv_grocery
+my 
+house 
+. 
+when 
+i 
+got ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+, 
+i 
+walked ScrEv_enter
+in 
+the 
+door 
+and 
+got ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+the 
+next 
+thing 
+i 
+did UnrelEv_grocery
+was 
+look ScrEv_check_list
+at 
+my 
+list 
+to 
+see UnrelEv_grocery
+which 
+items 
+i 
+needed 
+to 
+find RelNScrEv_grocery
+. 
+my 
+list 
+said UnrelEv_grocery
+i 
+needed 
+to 
+get ScrEv_get_groceries
+bread 
+, 
+cheese 
+and 
+milk 
+. 
+first 
+i 
+went ScrEv_move_section
+to 
+the 
+aisle 
+of 
+bread 
+. 
+there 
+were UnrelEv_grocery
+at 
+least 
+twenty 
+different 
+kinds 
+of 
+bread 
+. 
+i 
+picked+out ScrEv_get_groceries
+my 
+favorite 
+kind 
+of 
+bread 
+, 
+which 
+is UnrelEv_grocery
+whole 
+wheat 
+, 
+and 
+put ScrEv_get_groceries
+it 
+in 
+my 
+shopping 
+cart 
+. 
+next 
+i 
+went ScrEv_move_section
+to 
+the 
+dairy 
+section 
+of 
+the 
+store 
+where 
+i 
+put ScrEv_get_groceries
+a 
+gallon 
+of 
+milk 
+and 
+a 
+block 
+of 
+cheese 
+into 
+my 
+cart 
+. 
+i 
+then 
+took ScrEv_go_checkout
+my 
+cart 
+up 
+to 
+the 
+front 
+of 
+the 
+store 
+where 
+the 
+cash 
+registers 
+where 
+located UnrelEv_grocery
+. 
+i 
+put ScrEv_put_conveyor
+my 
+items 
+on 
+one 
+of 
+the 
+counters 
+and 
+a 
+lady 
+scanned ScrEv_cashier_scan/weight
+each 
+of 
+them 
+. 
+she 
+told ScrEv_get_receipt
+me 
+how 
+much 
+my 
+groceries 
+cost RelNScrEv_grocery
+and 
+i 
+gave ScrEv_pay
+her 
+the 
+money 
+to 
+pay ScrEv_pay
+for 
+them 
+. 
+a 
+boy 
+took ScrEv_pack_groceries
+my 
+groceries 
+from 
+the 
+counter 
+and 
+put ScrEv_pack_groceries
+them 
+in 
+a 
+bag 
+. 
+he 
+handed RelNScrEv_grocery
+me 
+the 
+bag 
+and 
+thanked RelNScrEv_grocery
+me 
+for 
+shopping Evoking_grocery
+with 
+them 
+today 
+. 
+finally 
+, 
+i 
+left ScrEv_leave
+and 
+took ScrEv_leave
+my 
+groceries 
+home 
+. 
+<end_of_story>_grocery 
+i 
+was 
+hosting UnrelEv_grocery
+a 
+party 
+and 
+needed 
+to 
+pick+up+some+groceries Evoking_grocery
+for 
+my 
+guests 
+. 
+i 
+started UnrelEv_grocery
+by 
+making ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+food 
+i 
+needed 
+to 
+buy ScrEv_get_groceries
+. 
+then 
+i 
+grabbed ScrEv_take_bags
+my 
+reusable 
+shopping 
+bags 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+. 
+i 
+chose ScrEv_take_shop_cart
+a 
+cart 
+from 
+outside 
+and 
+picked+up UnrelEv_grocery
+a 
+copy 
+of 
+the 
+grocery 
+store 
+ad 
+from 
+the 
+front 
+of 
+the 
+store 
+. 
+i 
+walked ScrEv_move_section
+through 
+all 
+the 
+aisles 
+pushing RelNScrEv_grocery
+my 
+cart 
+. 
+i 
+picked+out ScrEv_get_groceries
+the 
+food 
+i 
+needed UnrelEv_grocery
+from 
+my 
+list 
+, 
+making 
+sure 
+to 
+choose ScrEv_get_groceries
+food 
+that 
+was UnrelEv_grocery
+on 
+sale 
+or 
+generic 
+food 
+. 
+when 
+i 
+had 
+checked ScrEv_check_off
+everything 
+off 
+on 
+my 
+list 
+, 
+i 
+got ScrEv_go_checkout
+in 
+line 
+at 
+the 
+store 
+checkouts 
+. 
+there 
+was UnrelEv_grocery
+a 
+friendly 
+cashier 
+who 
+scanned ScrEv_cashier_scan/weight
+all 
+of 
+my 
+groceries 
+and 
+told RelNScrEv_grocery
+me 
+how 
+much 
+money 
+it 
+cost RelNScrEv_grocery
+. 
+there 
+was UnrelEv_grocery
+also 
+a 
+friendly 
+bagger 
+who 
+put ScrEv_pack_groceries
+all 
+on 
+my 
+groceries 
+in 
+my 
+bags 
+. 
+at 
+the 
+end 
+, 
+the 
+bagger 
+offered UnrelEv_grocery
+to 
+help UnrelEv_grocery
+put ScrEv_bring_vehicle
+all 
+of 
+my 
+groceries 
+in 
+the 
+cart 
+. 
+as 
+i 
+left ScrEv_leave
+the 
+parking 
+lot 
+, 
+i 
+waved UnrelEv_grocery
+goodbye 
+to 
+him 
+after 
+my 
+successful 
+trip 
+. 
+<end_of_story>_grocery 
+it 
+is UnrelEv_grocery
+saturday 
+morning 
+and 
+my 
+mother 
+wakes UnrelEv_grocery
+me 
+early 
+. 
+every 
+saturday 
+morning 
+is UnrelEv_grocery
+grocery 
+day 
+. 
+my 
+mother 
+likes 
+to 
+shop Evoking_grocery
+by 
+the 
+week 
+. 
+the 
+store 
+is UnrelEv_grocery
+huge 
+. 
+as 
+we 
+walk+in ScrEv_enter
+we 
+get ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+start UnrelEv_grocery
+down 
+the 
+1st 
+aisle 
+. 
+fruits 
+and 
+vegetables 
+all 
+stacked UnrelEv_grocery
+neatly 
+in 
+shelves 
+. 
+potatoes 
+in 
+bags 
+stacked UnrelEv_grocery
+next 
+to 
+the 
+onions 
+. 
+grapes 
+in 
+big 
+bunches 
+. 
+this 
+is UnrelEv_grocery
+my 
+favorite 
+aisle 
+. 
+i 
+love UnrelEv_grocery
+the 
+colors 
+and 
+the 
+shapes 
+. 
+here 
+you 
+can 
+find RelNScrEv_grocery
+some 
+stuff 
+i 
+have 
+never 
+seen UnrelEv_grocery
+before 
+. 
+star 
+fruit 
+, 
+miniature 
+bananas 
+and 
+blood 
+oranges 
+. 
+we 
+spend UnrelEv_grocery
+most 
+of 
+our 
+time 
+here 
+. 
+we 
+are UnrelEv_grocery
+vegetarians 
+so 
+we 
+do 
+not 
+go ScrEv_move_section
+to 
+the 
+meat 
+counter 
+or 
+the 
+dairy 
+aisle 
+. 
+we 
+do 
+go ScrEv_move_section
+to 
+the 
+cereal 
+aisle 
+and 
+i 
+beg UnrelEv_grocery
+my 
+mother 
+every 
+week 
+for 
+a 
+different 
+cereal 
+treat 
+. 
+sometimes 
+she 
+says UnrelEv_grocery
+yes 
+and 
+others 
+no 
+. 
+but 
+this 
+week 
+is UnrelEv_grocery
+yes 
+and 
+frosted 
+flakes 
+get 
+tossed ScrEv_get_groceries
+in 
+the 
+cart 
+with 
+delight 
+. 
+i 
+am UnrelEv_grocery
+so 
+excited 
+about 
+this 
+that 
+i 
+do 
+not 
+pay UnrelEv_grocery
+much 
+attention 
+to 
+the 
+rest 
+of 
+the 
+trip 
+. 
+i 
+help UnrelEv_grocery
+my 
+mom 
+bag ScrEv_pack_groceries
+the 
+groceries 
+and 
+put ScrEv_bring_vehicle
+the 
+bags 
+in 
+the 
+trunk 
+of 
+the 
+car 
+. 
+when 
+we 
+get ScrEv_leave
+home 
+it 
+all 
+unloaded RelNScrEv_grocery
+and 
+put+away RelNScrEv_grocery
+and 
+then 
+it 
+is UnrelEv_grocery
+time 
+for 
+some 
+frosted 
+flake 
+goodness 
+. 
+<end_of_story>_grocery 
+last 
+friday 
+, 
+i 
+went+grocery+shopping Evoking_grocery
+as 
+i 
+do UnrelEv_grocery
+every 
+friday 
+. 
+the 
+first 
+thing 
+i 
+did UnrelEv_grocery
+was 
+looked RelNScrEv_grocery
+around 
+the 
+house 
+to 
+see RelNScrEv_grocery
+what 
+all 
+i 
+needed UnrelEv_grocery
+from 
+the 
+grocery 
+store 
+. 
+i 
+always 
+make ScrEv_make_list
+a 
+list 
+to 
+make 
+sure 
+i 
+do 
+n't 
+forget UnrelEv_grocery
+anything 
+. 
+i 
+went+to+the+grocery+store Evoking_grocery
+about 
+lunch 
+time 
+. 
+when 
+i 
+got ScrEv_go_grocery
+to 
+the 
+store 
+, 
+i 
+made 
+sure 
+i 
+had UnrelEv_grocery
+my 
+list 
+and 
+money 
+and 
+got RelNScrEv_grocery
+out 
+of 
+my 
+car 
+. 
+i 
+went+in ScrEv_enter
+and 
+got ScrEv_take_shop_cart
+a 
+buggy 
+. 
+as 
+i 
+went ScrEv_move_section
+through 
+the 
+store 
+, 
+i 
+got ScrEv_get_groceries
+things 
+on 
+my 
+list 
+to 
+last UnrelEv_grocery
+me 
+through 
+the 
+week 
+. 
+i 
+put ScrEv_get_groceries
+things 
+like 
+fruit 
+, 
+milk 
+, 
+bread 
+, 
+eggs 
+, 
+and 
+snacks 
+in 
+my 
+buggy 
+. 
+i 
+also 
+got ScrEv_get_groceries
+some 
+things 
+that 
+i 
+can 
+make UnrelEv_grocery
+meals 
+with 
+, 
+like 
+meat 
+, 
+vegetables 
+, 
+and 
+macaroni 
+and 
+cheese 
+. 
+when 
+i 
+was 
+done 
+getting ScrEv_get_groceries
+everything 
+on 
+the 
+list 
+, 
+i 
+headed ScrEv_go_checkout
+to 
+the 
+front 
+of 
+the 
+store 
+. 
+there 
+was UnrelEv_grocery
+a 
+line 
+at 
+the 
+cash 
+register 
+, 
+so 
+i 
+got ScrEv_go_checkout
+in 
+line 
+to 
+wait ScrEv_wait
+my 
+turn 
+. 
+once 
+it 
+was UnrelEv_grocery
+my 
+turn 
+, 
+i 
+put ScrEv_put_conveyor
+all 
+of 
+my 
+items 
+onto 
+the 
+counter 
+for 
+the 
+cashier 
+to 
+ring+up ScrEv_cashier_scan/weight
+. 
+she 
+was UnrelEv_grocery
+a 
+very 
+sweet 
+young 
+girl 
+and 
+made RelNScrEv_grocery
+conversation 
+while 
+ringing+up ScrEv_cashier_scan/weight
+my 
+groceries 
+. 
+after 
+she 
+rung+up ScrEv_cashier_scan/weight
+and 
+scanned ScrEv_cashier_scan/weight
+everything 
+, 
+i 
+paid ScrEv_pay
+her 
+and 
+got RelNScrEv_grocery
+my 
+things 
+back 
+into 
+my 
+buggy 
+. 
+then 
+i 
+was UnrelEv_grocery
+all 
+done 
+! 
+i 
+headed ScrEv_bring_vehicle
+to 
+the 
+car 
+to 
+put ScrEv_bring_vehicle
+my 
+groceries 
+in 
+the 
+trunk 
+and 
+return RelNScrEv_grocery
+the 
+buggy 
+. 
+it 
+was UnrelEv_grocery
+a 
+nice 
+and 
+quick 
+grocery+trip Evoking_grocery
+. 
+<end_of_story>_grocery 
+the 
+last 
+time 
+i 
+went+grocery+shopping Evoking_grocery
+, 
+i 
+had UnrelEv_grocery
+a 
+list 
+of 
+things 
+i 
+needed UnrelEv_grocery
+to 
+buy ScrEv_get_groceries
+. 
+my 
+teenage 
+son 
+needed UnrelEv_grocery
+ingredients 
+for 
+yakisoba 
+for 
+a 
+potluck 
+dinner 
+that 
+his 
+japanese 
+class 
+at 
+school 
+was 
+having UnrelEv_grocery
+. 
+for 
+this 
+i 
+needed UnrelEv_grocery
+refrigerated 
+yakisoba 
+noodles 
+, 
+green 
+onions 
+, 
+and 
+chicken 
+. 
+we 
+were UnrelEv_grocery
+also 
+out 
+of 
+eggs 
+, 
+bread 
+, 
+and 
+few 
+other 
+things 
+. 
+my 
+list 
+was 
+written ScrEv_make_list
+on 
+a 
+post-it 
+note 
+stuck UnrelEv_grocery
+to 
+my 
+refrigerator 
+. 
+i 
+took UnrelEv_grocery
+the 
+note 
+, 
+got ScrEv_take_bags
+my 
+purse 
+, 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+. 
+the 
+store 
+is UnrelEv_grocery
+only 
+about 
+523 
+minutes 
+away 
+but 
+it 
+was 
+raining UnrelEv_grocery
+, 
+so 
+i 
+did 
+n't 
+want 
+to 
+walk ScrEv_go_grocery
+. 
+i 
+got ScrEv_take_shop_cart
+a 
+small 
+cart 
+because 
+i 
+was 
+n't 
+buying Unclear_grocery
+very 
+many 
+things 
+. 
+just 
+inside 
+the 
+entrance 
+to 
+the 
+store 
+is UnrelEv_grocery
+the 
+bread 
+section 
+, 
+so 
+i 
+got ScrEv_get_groceries
+that 
+first 
+. 
+then 
+i 
+bought ScrEv_get_groceries
+some 
+chicken 
+breasts 
+, 
+got ScrEv_get_groceries
+a 
+package 
+of 
+523 
+eggs 
+, 
+and 
+went ScrEv_move_section
+to 
+find RelNScrEv_grocery
+where 
+the 
+yakisoba 
+noodles 
+are 
+kept UnrelEv_grocery
+. 
+i 
+had 
+n't 
+bought ScrEv_get_groceries
+them 
+from 
+that 
+store 
+before 
+. 
+i 
+had 
+to 
+walk+around ScrEv_move_section
+a 
+little 
+bit 
+, 
+but 
+i 
+finally 
+found RelNScrEv_grocery
+them 
+and 
+got ScrEv_get_groceries
+two 
+packages 
+. 
+then 
+i 
+walked ScrEv_go_checkout
+to 
+the 
+self-checkout 
+area 
+, 
+swiped RelNScrEv_grocery
+my 
+grocery 
+store 
+card 
+so 
+that 
+i 
+would 
+get RelNScrEv_grocery
+any 
+member 
+discounts 
+, 
+and 
+checked+out ScrEv_pay
+and 
+bagged ScrEv_pack_groceries
+my 
+groceries 
+. 
+i 
+paid ScrEv_pay
+with 
+an 
+atm 
+card 
+and 
+carried ScrEv_bring_vehicle
+the 
+groceries 
+out 
+to 
+the 
+car 
+. 
+i 
+put ScrEv_bring_vehicle
+them 
+on 
+the 
+passenger 
+seat 
+in 
+front 
+. 
+then 
+i 
+drove ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+i 
+needed 
+to 
+go+grocery+shopping Evoking_grocery
+. 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+and 
+got UnrelEv_grocery
+the 
+list 
+from 
+my 
+purse 
+. 
+i 
+walked ScrEv_enter
+into 
+the 
+front 
+door 
+and 
+was 
+greeted RelNScrEv_grocery
+by 
+the 
+cashiers 
+. 
+i 
+went ScrEv_move_section
+to 
+the 
+buggy 
+area 
+and 
+got ScrEv_take_shop_cart
+a 
+large 
+grocery 
+cart 
+. 
+i 
+proceeded ScrEv_move_section
+down 
+the 
+produce 
+aisle 
+, 
+making ScrEv_check_off
+items 
+off 
+my 
+list 
+as 
+i 
+added ScrEv_get_groceries
+them 
+to 
+my 
+shopping 
+cart 
+. 
+i 
+then 
+went ScrEv_move_section
+to 
+the 
+meat 
+department 
+and 
+asked RelNScrEv_grocery
+the 
+butcher 
+to 
+package RelNScrEv_grocery
+some 
+cuts 
+of 
+meat 
+for 
+me 
+. 
+after 
+that 
+i 
+went ScrEv_move_section
+to 
+the 
+dairy 
+department 
+and 
+picked+up ScrEv_get_groceries
+some 
+eggs 
+, 
+milk 
+and 
+butter 
+. 
+i 
+proceeded ScrEv_go_checkout
+to 
+the 
+check 
+out 
+area 
+and 
+waited ScrEv_wait
+in 
+line 
+. 
+i 
+placed ScrEv_put_conveyor
+my 
+items 
+on 
+the 
+conveyor 
+belt 
+as 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+them 
+. 
+after 
+all 
+my 
+items 
+were 
+scanned ScrEv_cashier_scan/weight
+, 
+the 
+cashier 
+gave RelNScrEv_grocery
+my 
+my 
+total 
+. 
+i 
+gave ScrEv_pay
+her 
+exact 
+cash 
+and 
+proceeded ScrEv_bring_vehicle
+to 
+my 
+car 
+to 
+place ScrEv_bring_vehicle
+the 
+groceries 
+into 
+my 
+trunk 
+. 
+<end_of_story>_grocery 
+today 
+i 
+went+grocery+shopping Evoking_grocery
+. 
+i 
+do UnrelEv_grocery
+most 
+of 
+my 
+grocery+shopping Evoking_grocery
+at 
+wal-mart 
+. 
+unlike 
+most 
+people 
+, 
+i 
+do 
+n't 
+make ScrEv_make_list
+a 
+list 
+- 
+i 
+just 
+grab RelNScrEv_grocery
+my 
+wallet 
+and 
+think UnrelEv_grocery
+about 
+what 
+i 
+need UnrelEv_grocery
+, 
+and 
+run UnrelEv_grocery
+to 
+the 
+next 
+bus 
+and 
+go ScrEv_go_grocery
+! 
+once 
+i 
+'m UnrelEv_grocery
+there 
+, 
+i 
+made 
+sure 
+i 
+got ScrEv_get_groceries
+the 
+essentials 
+: 
+milk 
+, 
+cereal 
+, 
+meats 
+, 
+things 
+to 
+make UnrelEv_grocery
+meals 
+with 
+meats 
+, 
+et 
+cetera 
+. 
+i 
+had UnrelEv_grocery
+some 
+leftover 
+money 
+as 
+well 
+, 
+so 
+i 
+grabbed ScrEv_get_groceries
+some 
+fun 
+stuff 
+too 
+: 
+frozen 
+pizza 
+, 
+ice 
+cream 
+for 
+dessert 
+, 
+and 
+a 
+few 
+big 
+bottles 
+of 
+soda 
+. 
+after 
+that 
+, 
+i 
+got ScrEv_go_checkout
+in 
+line 
+at 
+self-checkout 
+, 
+scanned Unclear_grocery
+and 
+bagged ScrEv_pack_groceries
+everything 
+, 
+and 
+paid ScrEv_pay
+with 
+my 
+debit 
+card 
+. 
+after 
+that 
+, 
+i 
+hauled ScrEv_bring_vehicle
+my 
+groceries 
+outside 
+to 
+wait UnrelEv_grocery
+for 
+the 
+bus 
+home 
+, 
+stopping UnrelEv_grocery
+to 
+check UnrelEv_grocery
+the 
+time 
+. 
+i 
+played UnrelEv_grocery
+some 
+hand-held 
+video 
+games 
+for 
+about 
+523 
+minutes 
+at 
+the 
+bus 
+stop 
+and 
+getting+on UnrelEv_grocery
+. 
+once 
+i 
+was UnrelEv_grocery
+a 
+block 
+away 
+from 
+home 
+, 
+i 
+got+off UnrelEv_grocery
+the 
+bus 
+and 
+carried RelNScrEv_grocery
+my 
+groceries 
+in 
+, 
+putting RelNScrEv_grocery
+cold 
+things 
+in 
+the 
+fridge 
+, 
+frozen 
+things 
+in 
+the 
+freezer 
+, 
+and 
+everything 
+else 
+in 
+the 
+cabinets 
+. 
+phew 
+. 
+what 
+a 
+chore 
+! 
+<end_of_story>_grocery 
+yesterday 
+i 
+went+grocery+shopping Evoking_grocery
+. 
+before 
+i 
+left RelNScrEv_grocery
+the 
+house 
+, 
+i 
+made 
+sure 
+i 
+had UnrelEv_grocery
+my 
+shopping 
+list 
+, 
+my 
+wallet 
+, 
+and 
+my 
+reusable 
+shopping 
+bags 
+with 
+me 
+. 
+i 
+then 
+walked ScrEv_go_grocery
+to 
+my 
+local 
+grocery 
+store 
+. 
+when 
+i 
+entered ScrEv_enter
+the 
+store 
+, 
+i 
+picked+up ScrEv_take_shop_cart
+a 
+shopping 
+basket 
+near 
+the 
+entrance 
+. 
+i 
+then 
+looked ScrEv_check_list
+at 
+my 
+shopping 
+list 
+to 
+see ScrEv_check_list
+what 
+i 
+needed 
+to 
+buy Unclear_grocery
+. 
+i 
+walked ScrEv_move_section
+through 
+the 
+aisles 
+, 
+selecting ScrEv_get_groceries
+the 
+items 
+i 
+had 
+written ScrEv_make_list
+on 
+my 
+shopping 
+list 
+and 
+placing ScrEv_get_groceries
+them 
+in 
+my 
+shopping 
+basket 
+. 
+when 
+i 
+had UnrelEv_grocery
+everything 
+i 
+needed UnrelEv_grocery
+, 
+i 
+lined+up ScrEv_wait
+at 
+the 
+checkout 
+. 
+when 
+it 
+was UnrelEv_grocery
+my 
+turn 
+, 
+i 
+handed RelNScrEv_grocery
+my 
+shopping 
+basket 
+and 
+my 
+reusable 
+shopping 
+bags 
+to 
+the 
+lady 
+working UnrelEv_grocery
+at 
+the 
+checkout 
+. 
+she 
+scanned ScrEv_cashier_scan/weight
+my 
+items 
+, 
+and 
+another 
+man 
+placed ScrEv_pack_groceries
+all 
+my 
+items 
+in 
+my 
+shopping 
+bags 
+. 
+when 
+everything 
+had 
+been 
+scanned ScrEv_cashier_scan/weight
+, 
+the 
+lady 
+told RelNScrEv_grocery
+me 
+how 
+much 
+my 
+groceries 
+cost RelNScrEv_grocery
+, 
+and 
+i 
+handed ScrEv_pay
+her 
+the 
+correct 
+amount 
+of 
+money 
+. 
+i 
+then 
+picked+up RelNScrEv_grocery
+my 
+bags 
+and 
+left ScrEv_leave
+the 
+store 
+. 
+<end_of_story>_grocery 
+today 
+i 
+decided UnrelEv_grocery
+to 
+go 
+grocery+shopping Evoking_grocery
+. 
+i 
+made ScrEv_make_list
+a 
+list 
+detailing UnrelEv_grocery
+what 
+i 
+needed 
+to 
+buy ScrEv_get_groceries
+, 
+then 
+decided UnrelEv_grocery
+to 
+go+to+the+discount+grocery+store Evoking_grocery
+where 
+i 
+could 
+get ScrEv_get_groceries
+everything 
+on 
+my 
+list 
+in 
+one 
+stop 
+. 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+, 
+and 
+parked RelNScrEv_grocery
+near 
+the 
+front 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+basket 
+and 
+went+inside ScrEv_enter
+. 
+the 
+first 
+thing 
+i 
+saw RelNScrEv_grocery
+was 
+the 
+muffins 
+that 
+were UnrelEv_grocery
+on 
+my 
+list 
+. 
+they 
+were UnrelEv_grocery
+by 
+the 
+front 
+door 
+, 
+so 
+i 
+picked ScrEv_get_groceries
+some 
+out 
+and 
+put ScrEv_get_groceries
+them 
+in 
+my 
+basket 
+. 
+i 
+also 
+needed UnrelEv_grocery
+peanut 
+butter 
+, 
+which 
+was UnrelEv_grocery
+at 
+the 
+back 
+of 
+the 
+store 
+. 
+i 
+went ScrEv_move_section
+to 
+the 
+back 
+and 
+chose ScrEv_get_groceries
+my 
+favorite 
+peanut 
+butter 
+. 
+the 
+last 
+thing 
+i 
+needed UnrelEv_grocery
+was 
+bread 
+. 
+i 
+walked ScrEv_move_section
+down 
+the 
+middle 
+of 
+the 
+store 
+looking RelNScrEv_grocery
+down 
+each 
+aisle 
+to 
+see UnrelEv_grocery
+if 
+i 
+saw RelNScrEv_grocery
+anything 
+that 
+i 
+forgot UnrelEv_grocery
+to 
+put UnrelEv_grocery
+on 
+my 
+list 
+. 
+i 
+did 
+n't 
+see RelNScrEv_grocery
+anything 
+i 
+needed UnrelEv_grocery
+, 
+but 
+had 
+to 
+resist UnrelEv_grocery
+the 
+temptation 
+to 
+buy ScrEv_get_groceries
+some 
+ice 
+cream 
+. 
+once 
+i 
+got ScrEv_move_section
+to 
+the 
+front 
+of 
+the 
+store 
+, 
+i 
+picked+out ScrEv_get_groceries
+a 
+loaf 
+of 
+bread 
+and 
+went ScrEv_go_checkout
+to 
+stand ScrEv_wait
+in 
+line 
+to 
+check 
+out 
+. 
+it 
+was UnrelEv_grocery
+busy 
+, 
+but 
+a 
+new 
+line 
+was 
+just 
+opening+up UnrelEv_grocery
+, 
+so 
+i 
+was 
+able 
+to 
+get UnrelEv_grocery
+near 
+the 
+front 
+of 
+the 
+line 
+. 
+the 
+cashier 
+rang ScrEv_cashier_scan/weight
+me 
+up 
+and 
+i 
+paid ScrEv_pay
+with 
+my 
+debit 
+card 
+. 
+i 
+put ScrEv_pack_groceries
+my 
+groceries 
+in 
+a 
+paper 
+bag 
+. 
+then 
+i 
+left ScrEv_leave
+the 
+store 
+and 
+drove ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+i 
+had 
+just 
+finished 
+eating UnrelEv_grocery
+my 
+lunch 
+and 
+knew UnrelEv_grocery
+it 
+was UnrelEv_grocery
+time 
+to 
+go 
+grocery+shopping Evoking_grocery
+for 
+the 
+week 
+. 
+i 
+always 
+buy+my+groceries Evoking_grocery
+all 
+at 
+one 
+time 
+for 
+the 
+week 
+and 
+then 
+cook UnrelEv_grocery
+everything 
+over 
+the 
+weekend 
+so 
+that 
+i 
+do 
+n't 
+have 
+to 
+cook UnrelEv_grocery
+on 
+a 
+daily 
+basis 
+. 
+anyway 
+, 
+i 
+hopped RelNScrEv_grocery
+in 
+my 
+car 
+and 
+drove ScrEv_go_grocery
+to 
+walmart 
+which 
+is UnrelEv_grocery
+where 
+i 
+usually 
+do UnrelEv_grocery
+all 
+my 
+grocery+shopping Evoking_grocery
+. 
+i 
+found RelNScrEv_grocery
+a 
+parking 
+space 
+close 
+to 
+the 
+entrance 
+because 
+i 
+knew UnrelEv_grocery
+i 
+was 
+going 
+to 
+buy ScrEv_get_groceries
+a 
+lot 
+. 
+i 
+got RelNScrEv_grocery
+out 
+of 
+the 
+car 
+, 
+walked ScrEv_enter
+through 
+the 
+store 
+doors 
+, 
+and 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+along 
+the 
+way 
+. 
+i 
+made ScrEv_move_section
+my 
+way 
+down 
+the 
+fruit 
+and 
+vegetable 
+aisles 
+first 
+, 
+picking+up ScrEv_get_groceries
+bananas 
+, 
+oranges 
+, 
+salad 
+mix 
+, 
+and 
+kale 
+along 
+the 
+way 
+. 
+i 
+then 
+added ScrEv_get_groceries
+some 
+fish 
+, 
+chicken 
+, 
+hamburger 
+meat 
+, 
+and 
+pork 
+to 
+my 
+cart 
+. 
+moving+along ScrEv_move_section
+down 
+the 
+aisles 
+, 
+i 
+picked+up ScrEv_get_groceries
+all 
+the 
+dairy 
+goods 
+, 
+spices 
+, 
+and 
+snacks 
+i 
+would 
+need UnrelEv_grocery
+for 
+the 
+week 
+. 
+with 
+my 
+cart 
+stacked UnrelEv_grocery
+high 
+, 
+i 
+headed ScrEv_go_checkout
+to 
+the 
+check 
+out 
+line 
+where 
+the 
+cashier 
+greeted RelNScrEv_grocery
+me 
+warmly 
+and 
+began 
+ringing ScrEv_cashier_scan/weight
+my 
+items 
+up 
+. 
+my 
+total 
+came UnrelEv_grocery
+to 
+$ 
+523 
+which 
+was UnrelEv_grocery
+a 
+lot 
+of 
+money 
+but 
+definitely 
+worth 
+it 
+. 
+the 
+cashier 
+bagged ScrEv_pack_groceries
+my 
+groceries 
+as 
+i 
+paid ScrEv_pay
+. 
+then 
+, 
+i 
+pushed ScrEv_bring_vehicle
+my 
+cart 
+full 
+of 
+groceries 
+out 
+of 
+the 
+store 
+and 
+to 
+the 
+parking 
+lot 
+where 
+i 
+would 
+load ScrEv_bring_vehicle
+them 
+into 
+my 
+trunk 
+. 
+i 
+put ScrEv_return_shop_cart
+the 
+cart 
+in 
+the 
+cart 
+holding 
+area 
+and 
+drove ScrEv_leave
+away 
+. 
+<end_of_story>_grocery 
+the 
+previous 
+night 
+and 
+this 
+morning 
+before 
+work 
+i 
+noticed UnrelEv_grocery
+i 
+was 
+missing UnrelEv_grocery
+a 
+lot 
+of 
+necessary 
+ingredients 
+for 
+my 
+future 
+meals 
+. 
+i 
+planned+out UnrelEv_grocery
+a 
+trip 
+to 
+the 
+grocery 
+store 
+immediately 
+after 
+work 
+. 
+after 
+i 
+finished 
+working UnrelEv_grocery
+i 
+drove ScrEv_go_grocery
+over 
+to 
+the 
+store 
+. 
+it 
+was UnrelEv_grocery
+very 
+crowded 
+but 
+not 
+too 
+hard 
+to 
+find RelNScrEv_grocery
+a 
+parking 
+spot 
+. 
+once 
+inside 
+the 
+store 
+, 
+i 
+grabbed ScrEv_take_shop_cart
+the 
+nearest 
+shopping 
+cart 
+and 
+smiled UnrelEv_grocery
+as 
+one 
+of 
+the 
+grocery 
+workers 
+welcomed UnrelEv_grocery
+me 
+in 
+. 
+once 
+inside 
+and 
+out 
+of 
+everyone 
+'s 
+way 
+, 
+i 
+thought UnrelEv_grocery
+about 
+what 
+i 
+needed UnrelEv_grocery
+. 
+since 
+i 
+did 
+n't 
+have UnrelEv_grocery
+a 
+list 
+written+down ScrEv_make_list
+, 
+it 
+took UnrelEv_grocery
+me 
+a 
+few 
+minutes 
+. 
+once 
+i 
+came+up Unclear_grocery
+with 
+the 
+list 
+in 
+my 
+head 
+, 
+i 
+started 
+to 
+map UnrelEv_grocery
+out 
+a 
+route 
+in 
+my 
+head 
+that 
+would 
+take UnrelEv_grocery
+the 
+least 
+amount 
+of 
+time 
+for 
+me 
+to 
+follow UnrelEv_grocery
+in 
+the 
+store 
+. 
+first 
+, 
+i 
+picked+up ScrEv_get_groceries
+my 
+deli 
+. 
+they 
+offered RelNScrEv_grocery
+me 
+some 
+free 
+samples 
+of 
+the 
+meat 
+i 
+asked RelNScrEv_grocery
+for 
+. 
+then 
+i 
+picked+up ScrEv_get_groceries
+my 
+bread 
+which 
+was UnrelEv_grocery
+right 
+nearby 
+. 
+at 
+the 
+back 
+wall 
+of 
+the 
+store 
+i 
+found RelNScrEv_grocery
+the 
+meat 
+i 
+was 
+going 
+to 
+cook UnrelEv_grocery
+tonight 
+. 
+after 
+that 
+, 
+i 
+grabbed ScrEv_get_groceries
+a 
+few 
+extra 
+items 
+that 
+i 
+thought UnrelEv_grocery
+might 
+also 
+be UnrelEv_grocery
+nice 
+later 
+this 
+week 
+while 
+heading ScrEv_go_checkout
+towards 
+checkout 
+. 
+luckily 
+, 
+there 
+was UnrelEv_grocery
+n't 
+a 
+line 
+and 
+this 
+was 
+done UnrelEv_grocery
+quickly 
+. 
+i 
+paid ScrEv_pay
+with 
+my 
+debit 
+card 
+and 
+left ScrEv_bring_vehicle
+with 
+all 
+my 
+groceries 
+in 
+a 
+cart 
+, 
+packed ScrEv_bring_vehicle
+them 
+into 
+my 
+car 
+, 
+and 
+headed ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+yesterday 
+i 
+did UnrelEv_grocery
+my 
+weekly 
+grocery+shopping Evoking_grocery
+. 
+i 
+began UnrelEv_grocery
+the 
+day 
+by 
+checking RelNScrEv_grocery
+my 
+cupboards 
+and 
+refrigerator 
+to 
+see UnrelEv_grocery
+what 
+we 
+were 
+out 
+of 
+or 
+running+low UnrelEv_grocery
+on 
+. 
+as 
+i 
+came+across UnrelEv_grocery
+items 
+i 
+needed 
+, 
+i 
+wrote ScrEv_make_list
+them 
+down 
+on 
+a 
+piece 
+of 
+paper 
+, 
+which 
+i 
+planned UnrelEv_grocery
+to 
+take UnrelEv_grocery
+with 
+me 
+to 
+the 
+store 
+. 
+that 
+way 
+, 
+i 
+would 
+n't 
+have 
+to 
+rely UnrelEv_grocery
+on 
+my 
+memory 
+and 
+forget UnrelEv_grocery
+anything 
+. 
+i 
+gathered ScrEv_take_bags
+together 
+my 
+cloth 
+grocery 
+bags 
+and 
+put ScrEv_take_bags
+them 
+in 
+the 
+car 
+, 
+then 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+. 
+before 
+heading ScrEv_enter
+in 
+, 
+i 
+got ScrEv_take_shop_cart
+a 
+grocery 
+cart 
+from 
+outside 
+the 
+store 
+, 
+and 
+took+out ScrEv_check_list
+my 
+shopping 
+list 
+. 
+as 
+i 
+went ScrEv_move_section
+up 
+and 
+down 
+the 
+aisles 
+, 
+i 
+crossed+off ScrEv_check_off
+items 
+on 
+my 
+grocery 
+list 
+as 
+i 
+placed ScrEv_get_groceries
+the 
+items 
+in 
+the 
+cart 
+. 
+when 
+all 
+the 
+items 
+on 
+my 
+list 
+were UnrelEv_grocery
+in 
+the 
+cart 
+, 
+i 
+wheeled ScrEv_go_checkout
+the 
+cart 
+to 
+the 
+check-out 
+line 
+. 
+i 
+had 
+to 
+wait ScrEv_wait
+in 
+line 
+since 
+there 
+were UnrelEv_grocery
+some 
+people 
+ahead 
+of 
+me 
+. 
+when 
+it 
+was UnrelEv_grocery
+my 
+turn 
+, 
+i 
+took ScrEv_put_conveyor
+the 
+items 
+out 
+of 
+my 
+cart 
+and 
+placed ScrEv_put_conveyor
+them 
+on 
+the 
+conveyor 
+belt 
+that 
+brought UnrelEv_grocery
+them 
+up 
+to 
+the 
+cashier 
+. 
+she 
+took UnrelEv_grocery
+each 
+item 
+and 
+swiped ScrEv_cashier_scan/weight
+its 
+bar 
+code 
+over 
+a 
+screen 
+that 
+gave UnrelEv_grocery
+her 
+the 
+price 
+. 
+when 
+all 
+the 
+items 
+had 
+been 
+checked+out ScrEv_cashier_scan/weight
+, 
+she 
+told ScrEv_other_grocery
+me 
+what 
+the 
+total 
+would 
+be UnrelEv_grocery
+. 
+i 
+paid ScrEv_pay
+for 
+the 
+groceries 
+, 
+and 
+then 
+wheeled ScrEv_move_section
+my 
+cart 
+over 
+to 
+an 
+area 
+where 
+i 
+could 
+place ScrEv_pack_groceries
+the 
+groceries 
+into 
+my 
+reusable 
+bags 
+. 
+once 
+that 
+was 
+done UnrelEv_grocery
+, 
+i 
+pushed ScrEv_bring_vehicle
+the 
+cart 
+through 
+the 
+parking 
+lot 
+to 
+my 
+car 
+, 
+where 
+i 
+loaded ScrEv_bring_vehicle
+the 
+bags 
+of 
+groceries 
+into 
+my 
+car 
+, 
+and 
+drove ScrEv_leave
+home 
+. 
+when 
+i 
+got RelNScrEv_grocery
+home 
+, 
+i 
+took RelNScrEv_grocery
+the 
+bags 
+into 
+the 
+house 
+and 
+removed RelNScrEv_grocery
+all 
+the 
+items 
+from 
+them 
+. 
+putting RelNScrEv_grocery
+the 
+groceries 
+away 
+in 
+the 
+cupboards 
+and 
+refrigerator 
+was UnrelEv_grocery
+the 
+final 
+step 
+of 
+grocery+shopping Evoking_grocery
+day 
+. 
+<end_of_story>_grocery 
+i 
+went ScrEv_go_grocery
+to 
+the 
+corner 
+market 
+with 
+my 
+list 
+of 
+things 
+i 
+needed 
+to 
+buy Unclear_grocery
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+wheeled ScrEv_move_section
+it 
+up 
+and 
+down 
+the 
+aisles 
+. 
+i 
+started UnrelEv_grocery
+at 
+aisle 
+one 
+and 
+went ScrEv_move_section
+through 
+each 
+one 
+in 
+order 
+to 
+make 
+sure 
+that 
+i 
+got ScrEv_get_groceries
+everything 
+i 
+needed UnrelEv_grocery
+. 
+fruit 
+and 
+vegetables 
+were 
+placed ScrEv_get_groceries
+in 
+flimsy 
+plastic 
+bags 
+that 
+the 
+market 
+provided UnrelEv_grocery
+for 
+me 
+. 
+i 
+got ScrEv_get_groceries
+eggs 
+and 
+placed ScrEv_get_groceries
+them 
+in 
+the 
+cart 
+'s 
+basket 
+so 
+they 
+would 
+n't 
+get 
+broken UnrelEv_grocery
+. 
+all 
+other 
+items 
+were 
+tossed ScrEv_get_groceries
+in 
+the 
+cart 
+. 
+after 
+i 
+got ScrEv_get_groceries
+everything 
+on 
+my 
+list 
+, 
+i 
+rolled ScrEv_go_checkout
+the 
+cart 
+to 
+the 
+cashier 
+. 
+he 
+scanned ScrEv_cashier_scan/weight
+all 
+my 
+products 
+and 
+gave ScrEv_get_receipt
+me 
+a 
+final 
+, 
+total 
+price 
+. 
+a 
+grocery 
+bagger 
+put ScrEv_pack_groceries
+all 
+of 
+my 
+items 
+in 
+paper 
+bags 
+. 
+i 
+paid ScrEv_pay
+the 
+cashier 
+in 
+cash 
+and 
+he 
+gave RelNScrEv_grocery
+me 
+change 
+. 
+i 
+thanked RelNScrEv_grocery
+him 
+, 
+i 
+thanked RelNScrEv_grocery
+the 
+bagger 
+, 
+and 
+then 
+i 
+left ScrEv_leave
+with 
+my 
+groceries 
+. 
+<end_of_story>_grocery 
+last 
+saturday 
+i 
+decided UnrelEv_grocery
+to 
+go+grocery+shopping Evoking_grocery
+. 
+we 
+seemed 
+to 
+be UnrelEv_grocery
+out 
+of 
+a 
+number 
+of 
+things 
+in 
+our 
+house 
+that 
+we 
+needed 
+to 
+cook UnrelEv_grocery
+with 
+, 
+so 
+i 
+sat+down UnrelEv_grocery
+a 
+made ScrEv_make_list
+a 
+list 
+of 
+items 
+. 
+it 
+seemed 
+to 
+be UnrelEv_grocery
+really 
+large 
+, 
+so 
+i 
+knew UnrelEv_grocery
+i 
+would 
+be UnrelEv_grocery
+gone 
+for 
+a 
+while 
+. 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+that 
+i 
+like 
+the 
+best 
+, 
+and 
+parked RelNScrEv_grocery
+my 
+car 
+. 
+i 
+got ScrEv_take_shop_cart
+a 
+large 
+shopping 
+cart 
+instead 
+of 
+the 
+smaller 
+one 
+, 
+since 
+i 
+knew UnrelEv_grocery
+i 
+had UnrelEv_grocery
+a 
+lot 
+of 
+items 
+to 
+purchase ScrEv_get_groceries
+. 
+very 
+slowly 
+, 
+i 
+went ScrEv_move_section
+up 
+and 
+down 
+each 
+row 
+in 
+the 
+grocery 
+store 
+. 
+i 
+checked ScrEv_check_list
+my 
+list 
+on 
+each 
+row 
+, 
+and 
+got ScrEv_get_groceries
+the 
+items 
+that 
+i 
+needed UnrelEv_grocery
+. 
+i 
+made 
+sure 
+to 
+cross ScrEv_check_off
+the 
+item 
+off 
+when 
+i 
+put ScrEv_get_groceries
+it 
+in 
+my 
+cart 
+, 
+so 
+i 
+knew UnrelEv_grocery
+that 
+i 
+did 
+n't 
+forget UnrelEv_grocery
+anything 
+. 
+along 
+the 
+way 
+, 
+i 
+saw RelNScrEv_grocery
+some 
+items 
+that 
+were UnrelEv_grocery
+on 
+sale 
+, 
+and 
+decided UnrelEv_grocery
+to 
+purchase ScrEv_get_groceries
+those 
+as 
+well 
+, 
+knowing 
+we 
+would 
+use UnrelEv_grocery
+them 
+. 
+i 
+bought ScrEv_get_groceries
+the 
+cold 
+and 
+frozen 
+items 
+last 
+, 
+so 
+they 
+would 
+still 
+be UnrelEv_grocery
+cold 
+by 
+the 
+time 
+i 
+got ScrEv_leave
+home 
+. 
+when 
+i 
+had 
+crossed+off ScrEv_check_off
+everything 
+on 
+my 
+list 
+, 
+i 
+went ScrEv_go_checkout
+to 
+the 
+front 
+of 
+the 
+store 
+. 
+i 
+found RelNScrEv_grocery
+an 
+open 
+cash 
+register 
+lane 
+, 
+and 
+put ScrEv_put_conveyor
+my 
+items 
+on 
+the 
+conveyor 
+belt 
+. 
+the 
+cashier 
+was UnrelEv_grocery
+very 
+friendly 
+and 
+said RelNScrEv_grocery
+hello 
+. 
+she 
+began 
+scanning ScrEv_cashier_scan/weight
+each 
+of 
+my 
+items 
+, 
+and 
+even 
+had 
+to 
+weigh ScrEv_cashier_scan/weight
+some 
+of 
+them 
+. 
+a 
+nice 
+man 
+was 
+putting ScrEv_pack_groceries
+my 
+groceries 
+into 
+bags 
+for 
+me 
+, 
+and 
+putting RelNScrEv_grocery
+them 
+in 
+my 
+cart 
+as 
+he 
+filled ScrEv_pack_groceries
+the 
+bags 
+. 
+when 
+they 
+were UnrelEv_grocery
+done 
+, 
+i 
+paid ScrEv_pay
+the 
+cashier 
+the 
+amount 
+due 
+, 
+and 
+she 
+gave RelNScrEv_grocery
+me 
+my 
+change 
+, 
+which 
+i 
+put RelNScrEv_grocery
+in 
+my 
+purse 
+. 
+the 
+bagger 
+walked ScrEv_bring_vehicle
+with 
+me 
+out 
+to 
+my 
+car 
+and 
+helped UnrelEv_grocery
+me 
+put ScrEv_bring_vehicle
+the 
+groceries 
+in 
+the 
+trunk 
+of 
+my 
+car 
+. 
+i 
+said RelNScrEv_grocery
+thank 
+you 
+to 
+him 
+, 
+and 
+then 
+drove ScrEv_leave
+home 
+. 
+when 
+i 
+got ScrEv_leave
+there 
+, 
+it 
+took UnrelEv_grocery
+a 
+while 
+to 
+bring RelNScrEv_grocery
+all 
+of 
+the 
+bags 
+inside 
+, 
+but 
+my 
+children 
+helped UnrelEv_grocery
+me 
+. 
+we 
+all 
+had UnrelEv_grocery
+fun 
+putting RelNScrEv_grocery
+the 
+groceries 
+away 
+, 
+and 
+were UnrelEv_grocery
+glad 
+the 
+shelves 
+were UnrelEv_grocery
+filled 
+with 
+what 
+we 
+needed UnrelEv_grocery
+again 
+. 
+<end_of_story>_grocery 
+being UnrelEv_grocery
+that 
+we 
+needed UnrelEv_grocery
+food 
+in 
+the 
+house 
+, 
+i 
+went RelNScrEv_grocery
+through 
+the 
+cupboards 
+and 
+refrigerator 
+to 
+see RelNScrEv_grocery
+what 
+was 
+there 
+and 
+made ScrEv_make_list
+a 
+list 
+of 
+what 
+we 
+needed UnrelEv_grocery
+. 
+we 
+were UnrelEv_grocery
+almost 
+out 
+of 
+food 
+so 
+it 
+was UnrelEv_grocery
+a 
+long 
+list 
+. 
+then 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+. 
+first 
+i 
+went ScrEv_move_section
+to 
+the 
+meat 
+isle 
+and 
+picked+out ScrEv_get_groceries
+some 
+juicy 
+steaks 
+and 
+a 
+chicken 
+. 
+then 
+i 
+went ScrEv_move_section
+the 
+the 
+vegetable 
+isle 
+and 
+picked+out ScrEv_get_groceries
+some 
+fresh 
+asparagus 
+, 
+broccoli 
+, 
+and 
+salad 
+fixings 
+. 
+next 
+i 
+went ScrEv_move_section
+to 
+the 
+canned 
+goods 
+and 
+picked+out ScrEv_get_groceries
+some 
+cans 
+to 
+keep UnrelEv_grocery
+in 
+the 
+house 
+. 
+i 
+picked+out ScrEv_get_groceries
+some 
+chili 
+, 
+soups 
+and 
+stews 
+. 
+these 
+are UnrelEv_grocery
+always 
+good 
+to 
+have UnrelEv_grocery
+in 
+the 
+house 
+for 
+a 
+quick 
+meal 
+. 
+then 
+i 
+went ScrEv_move_section
+to 
+the 
+dairy 
+section 
+and 
+picked+out ScrEv_get_groceries
+some 
+sour 
+cream 
+and 
+milk 
+. 
+then 
+i 
+pushed ScrEv_go_checkout
+the 
+cart 
+to 
+the 
+payment 
+isles 
+and 
+paid ScrEv_pay
+for 
+the 
+groceries 
+. 
+<end_of_story>_grocery 
+i 
+needed 
+to 
+do UnrelEv_grocery
+my 
+weekly 
+grocery+shopping Evoking_grocery
+. 
+i 
+prepared UnrelEv_grocery
+by 
+first 
+looking RelNScrEv_grocery
+through 
+my 
+cupboards 
+and 
+the 
+refrigerator 
+and 
+freezer 
+to 
+see RelNScrEv_grocery
+what 
+i 
+already 
+had UnrelEv_grocery
+and 
+what 
+i 
+needed UnrelEv_grocery
+. 
+then 
+i 
+made ScrEv_make_list
+a 
+list 
+by 
+category 
+of 
+everything 
+i 
+needed UnrelEv_grocery
+for 
+the 
+upcoming 
+week 
+. 
+i 
+drove ScrEv_go_grocery
+to 
+shopper 
+'s 
+food 
+warehouse 
+, 
+parked RelNScrEv_grocery
+the 
+car 
+, 
+found ScrEv_take_shop_cart
+a 
+cart 
+near 
+the 
+front 
+door 
+and 
+went+in ScrEv_enter
+to 
+begin UnrelEv_grocery
+my 
+shopping Evoking_grocery
+. 
+i 
+started UnrelEv_grocery
+in 
+the 
+produce 
+section 
+and 
+picked+out ScrEv_get_groceries
+everything 
+i 
+needed UnrelEv_grocery
+in 
+the 
+way 
+of 
+fruits 
+and 
+vegetables 
+. 
+then 
+i 
+shopped ScrEv_get_groceries
+for 
+meats 
+, 
+cheeses 
+, 
+canned 
+goods 
+, 
+milk 
+, 
+eggs 
+, 
+juice 
+, 
+bread 
+, 
+cereal 
+, 
+paper 
+products 
+, 
+and 
+frozen 
+items 
+. 
+i 
+went ScrEv_go_checkout
+through 
+the 
+check-out 
+line 
+with 
+my 
+purchases 
+and 
+paid ScrEv_pay
+with 
+a 
+credit 
+card 
+. 
+the 
+cashier 
+bagged ScrEv_pack_groceries
+all 
+my 
+items 
+and 
+put RelNScrEv_grocery
+them 
+back 
+in 
+the 
+cart 
+. 
+i 
+rolled ScrEv_bring_vehicle
+the 
+cart 
+close 
+to 
+my 
+car 
+and 
+unloaded ScrEv_bring_vehicle
+the 
+bags 
+into 
+the 
+trunk 
+of 
+my 
+car 
+, 
+then 
+went ScrEv_leave
+home 
+and 
+put RelNScrEv_grocery
+everything 
+away 
+. 
+<end_of_story>_grocery 
+every 
+sunday 
+i 
+check RelNScrEv_grocery
+our 
+pantry 
+, 
+fridge 
+and 
+freezer 
+to 
+see RelNScrEv_grocery
+what 
+i 
+need 
+to 
+buy ScrEv_get_groceries
+from 
+the 
+grocery 
+store 
+. 
+i 
+also 
+have 
+to 
+check RelNScrEv_grocery
+the 
+pet 
+supplies 
+as 
+i 
+have UnrelEv_grocery
+dogs 
+and 
+cats 
+that 
+eat UnrelEv_grocery
+a 
+lot 
+! 
+i 
+carry UnrelEv_grocery
+a 
+piece 
+of 
+paper 
+with 
+me 
+and 
+write+down ScrEv_make_list
+what 
+i 
+need 
+to 
+get ScrEv_get_groceries
+. 
+i 
+also 
+have UnrelEv_grocery
+an 
+idea 
+of 
+what 
+meals 
+i 
+intend 
+to 
+cook UnrelEv_grocery
+during 
+the 
+week 
+and 
+what 
+ingredients 
+i 
+will 
+need UnrelEv_grocery
+to 
+make UnrelEv_grocery
+those 
+meals 
+, 
+so 
+i 
+add ScrEv_make_list
+them 
+to 
+the 
+list 
+. 
+i 
+know UnrelEv_grocery
+which 
+store 
+or 
+stores 
+i 
+am 
+going 
+to 
+visit ScrEv_go_grocery
+and 
+i 
+know UnrelEv_grocery
+the 
+layout 
+of 
+the 
+store 
+so 
+i 
+try 
+and 
+make ScrEv_make_list
+my 
+list 
+in 
+the 
+same 
+order 
+that 
+the 
+items 
+will 
+be 
+found RelNScrEv_grocery
+once 
+i 
+get 
+there 
+. 
+i 
+pick+up ScrEv_take_shop_cart
+a 
+cart 
+on 
+the 
+way 
+into 
+the 
+store 
+and 
+head ScrEv_move_section
+for 
+the 
+first 
+aisle 
+that 
+i 
+need 
+to 
+visit UnrelEv_grocery
+. 
+most 
+supermarkets 
+have UnrelEv_grocery
+their 
+frozen 
+foods 
+at 
+one 
+end 
+so 
+i 
+start UnrelEv_grocery
+at 
+the 
+other 
+end 
+as 
+it 
+is UnrelEv_grocery
+best 
+to 
+buy ScrEv_get_groceries
+frozen 
+items 
+last 
+so 
+they 
+do 
+n't 
+start 
+to 
+melt UnrelEv_grocery
+while 
+i 
+'m 
+walking ScrEv_move_section
+round 
+the 
+store 
+. 
+i 
+work UnrelEv_grocery
+my 
+way 
+through 
+my 
+shopping 
+list 
+, 
+selecting ScrEv_get_groceries
+items 
+off 
+the 
+shelf 
+and 
+placing ScrEv_get_groceries
+them 
+into 
+my 
+cart 
+, 
+trying 
+not 
+to 
+squash UnrelEv_grocery
+lighter 
+things 
+under 
+heavy 
+things 
+and 
+also 
+making 
+sure 
+i 
+buy ScrEv_get_groceries
+items 
+that 
+have UnrelEv_grocery
+a 
+use 
+by 
+date 
+that 
+is UnrelEv_grocery
+later 
+than 
+the 
+day 
+i 
+intend 
+to 
+use UnrelEv_grocery
+them 
+. 
+i 
+am 
+also 
+keeping UnrelEv_grocery
+an 
+approximate 
+idea 
+of 
+how 
+much 
+everything 
+costs RelNScrEv_grocery
+so 
+i 
+have UnrelEv_grocery
+some 
+idea 
+of 
+my 
+total 
+bill 
+. 
+when 
+i 
+am UnrelEv_grocery
+done 
+with 
+everything 
+i 
+wait ScrEv_wait
+at 
+a 
+checkout 
+. 
+there 
+is UnrelEv_grocery
+nearly 
+always 
+someone 
+in 
+front 
+of 
+me 
+but 
+the 
+checkout 
+people 
+work UnrelEv_grocery
+fast 
+and 
+i 
+never 
+wait ScrEv_wait
+for 
+long 
+. 
+i 
+place ScrEv_put_conveyor
+all 
+my 
+items 
+on 
+the 
+conveyor 
+belt 
+and 
+the 
+person 
+on 
+the 
+checkout 
+counter 
+scans ScrEv_cashier_scan/weight
+them 
+for 
+prices 
+. 
+the 
+prices 
+all 
+add+up RelNScrEv_grocery
+on 
+a 
+screen 
+in 
+front 
+of 
+me 
+so 
+i 
+can 
+see UnrelEv_grocery
+how 
+much 
+i 
+am 
+spending ScrEv_pay
+. 
+while 
+the 
+checkout 
+person 
+scans ScrEv_cashier_scan/weight
+my 
+items 
+another 
+shop 
+assistant 
+packs ScrEv_pack_groceries
+all 
+my 
+items 
+carefully 
+into 
+bags 
+and 
+places RelNScrEv_grocery
+them 
+back 
+in 
+my 
+cart 
+. 
+when 
+i 
+am 
+finished UnrelEv_grocery
+i 
+am 
+always 
+asked RelNScrEv_grocery
+if 
+i 
+need UnrelEv_grocery
+any 
+help 
+taking ScrEv_bring_vehicle
+my 
+bags 
+to 
+the 
+car 
+but 
+i 
+always 
+refuse UnrelEv_grocery
+as 
+i 
+think UnrelEv_grocery
+other 
+people 
+in 
+the 
+store 
+need UnrelEv_grocery
+help 
+more 
+than 
+i 
+do UnrelEv_grocery
+. 
+i 
+load ScrEv_bring_vehicle
+the 
+car 
+and 
+drive ScrEv_leave
+home 
+and 
+then 
+have 
+to 
+put RelNScrEv_grocery
+everything 
+into 
+the 
+pantry 
+, 
+freezer 
+or 
+refrigerator 
+. 
+that 
+is UnrelEv_grocery
+my 
+least 
+favorite 
+part 
+of 
+grocery+shopping Evoking_grocery
+! 
+<end_of_story>_grocery 
+i 
+love UnrelEv_grocery
+going+grocery+shopping Evoking_grocery
+! 
+i 
+have UnrelEv_grocery
+a 
+very 
+specific 
+way 
+that 
+i 
+approach UnrelEv_grocery
+it 
+and 
+i 
+do UnrelEv_grocery
+the 
+same 
+thing 
+each 
+week 
+. 
+on 
+tuesdays 
+, 
+the 
+grocery 
+ads 
+come+out UnrelEv_grocery
+for 
+the 
+week 
+. 
+i 
+look+through RelNScrEv_grocery
+them 
+and 
+make ScrEv_make_list
+a 
+list 
+of 
+what 
+is RelNScrEv_grocery
+on 
+sale 
+. 
+i 
+meal+plan RelNScrEv_grocery
+around 
+those 
+things 
+. 
+once 
+i 
+have ScrEv_make_list
+a 
+list 
+of 
+what 
+i 
+will 
+be 
+cooking UnrelEv_grocery
+, 
+i 
+write ScrEv_make_list
+those 
+ingredients 
+down 
+along 
+with 
+all 
+of 
+the 
+other 
+things 
+i 
+want UnrelEv_grocery
+or 
+need UnrelEv_grocery
+. 
+i 
+separate RelNScrEv_grocery
+them 
+by 
+department 
+. 
+i 
+put RelNScrEv_grocery
+all 
+of 
+the 
+dairy 
+items 
+together 
+, 
+then 
+the 
+meat 
+items 
+, 
+followed UnrelEv_grocery
+by 
+the 
+produce 
+, 
+and 
+so 
+on 
+. 
+this 
+makes UnrelEv_grocery
+it 
+more 
+efficient 
+when 
+i 
+am 
+pushing ScrEv_move_section
+a 
+cart 
+through 
+the 
+store 
+. 
+once 
+i 
+'m UnrelEv_grocery
+at 
+the 
+store 
+, 
+i 
+select ScrEv_get_groceries
+my 
+items 
+quickly 
+. 
+i 
+usually 
+buy ScrEv_get_groceries
+the 
+same 
+brands 
+and 
+often 
+the 
+same 
+items 
+each 
+week 
+, 
+so 
+i 
+know UnrelEv_grocery
+where 
+everything 
+is UnrelEv_grocery
+. 
+when 
+i 
+'m UnrelEv_grocery
+ready 
+, 
+i 
+go ScrEv_go_checkout
+to 
+the 
+checkout 
+and 
+put ScrEv_put_conveyor
+it 
+all 
+on 
+the 
+belt 
+so 
+i 
+can 
+pay ScrEv_pay
+for 
+it 
+. 
+i 
+love UnrelEv_grocery
+grocery+shopping Evoking_grocery
+but 
+i 
+hate UnrelEv_grocery
+to 
+put RelNScrEv_grocery
+it 
+all 
+away 
+when 
+i 
+get ScrEv_leave
+home 
+! 
+<end_of_story>_grocery 
+i 
+wanted UnrelEv_grocery
+to 
+make UnrelEv_grocery
+my 
+girlfriend 
+her 
+favorite 
+roasted 
+chicken 
+dinner 
+a 
+few 
+days 
+ago 
+. 
+i 
+realized UnrelEv_grocery
+that 
+i 
+did 
+n't 
+have UnrelEv_grocery
+everything 
+i 
+needed UnrelEv_grocery
+and 
+had 
+to 
+go+the+grocery+store Evoking_grocery
+for 
+it 
+. 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+and 
+got+out RelNScrEv_grocery
+and 
+walked ScrEv_enter
+inside 
+. 
+after 
+making ScrEv_make_list
+a 
+short 
+list 
+in 
+my 
+head 
+, 
+i 
+wandered ScrEv_move_section
+the 
+aisles 
+and 
+grabbed ScrEv_get_groceries
+the 
+chicken 
+, 
+fresh 
+vegetables 
+and 
+all 
+of 
+the 
+necessary 
+ingredients 
+for 
+the 
+meal 
+, 
+as 
+it 
+has UnrelEv_grocery
+a 
+lot 
+of 
+them 
+. 
+after 
+grabbing ScrEv_get_groceries
+everything 
+i 
+needed UnrelEv_grocery
+i 
+then 
+walked ScrEv_go_checkout
+to 
+the 
+checkout 
+counter 
+. 
+it 
+was ScrEv_wait
+a 
+very 
+long 
+line 
+and 
+i 
+had 
+to 
+wait ScrEv_wait
+for 
+a 
+long 
+time 
+to 
+purchase ScrEv_pay
+my 
+items 
+. 
+the 
+cashier 
+apologized RelNScrEv_grocery
+over 
+and 
+over 
+and 
+thanked RelNScrEv_grocery
+me 
+for 
+being RelNScrEv_grocery
+so 
+patient 
+. 
+i 
+then 
+paid ScrEv_pay
+for 
+my 
+items 
+and 
+walked+out ScrEv_bring_vehicle
+to 
+my 
+car 
+. 
+i 
+placed ScrEv_bring_vehicle
+the 
+goods 
+into 
+it 
+and 
+made+sure UnrelEv_grocery
+to 
+put ScrEv_return_shop_cart
+my 
+shopping 
+cart 
+back 
+into 
+the 
+area 
+with 
+the 
+rest 
+of 
+them 
+. 
+it 
+was UnrelEv_grocery
+a 
+bit 
+of 
+a 
+stressful 
+visit 
+to 
+the 
+grocery 
+store 
+, 
+but 
+in 
+the 
+end 
+, 
+i 
+made UnrelEv_grocery
+a 
+successful 
+dinner 
+. 
+<end_of_story>_grocery 
+when 
+i 
+went+grocery+shopping Evoking_grocery
+i 
+started UnrelEv_grocery
+by 
+looking RelNScrEv_grocery
+in 
+my 
+refrigerator 
+and 
+figuring+out RelNScrEv_grocery
+what 
+i 
+needed 
+to 
+get ScrEv_get_groceries
+. 
+i 
+made ScrEv_make_list
+a 
+shopping 
+list 
+based UnrelEv_grocery
+on 
+this 
+. 
+then 
+i 
+decided RelNScrEv_grocery
+which 
+store 
+was UnrelEv_grocery
+the 
+best 
+to 
+go+to ScrEv_go_grocery
+to 
+buy ScrEv_get_groceries
+these 
+items 
+. 
+i 
+decided RelNScrEv_grocery
+that 
+publix 
+was UnrelEv_grocery
+the 
+best 
+and 
+closest 
+store 
+for 
+me 
+. 
+i 
+walked ScrEv_go_grocery
+to 
+the 
+store 
+with 
+my 
+empty 
+backpack 
+, 
+and 
+when 
+i 
+got+in ScrEv_enter
+the 
+first 
+thing 
+i 
+did+was UnrelEv_grocery
+check ScrEv_move_section
+the 
+clearance 
+section 
+and 
+sales 
+. 
+after 
+that 
+i 
+walked ScrEv_move_section
+the 
+aisle 
+, 
+making+sure UnrelEv_grocery
+to 
+pick+up ScrEv_get_groceries
+everything 
+that 
+i 
+needed RelNScrEv_grocery
+. 
+i 
+avoided UnrelEv_grocery
+using ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+to 
+be+sure UnrelEv_grocery
+that 
+i 
+would 
+not 
+buy ScrEv_get_groceries
+more 
+than 
+i 
+could 
+carry RelNScrEv_grocery
+. 
+after 
+picking+up ScrEv_get_groceries
+all 
+the 
+items 
+i 
+went ScrEv_go_checkout
+to 
+the 
+checkout 
+where 
+i 
+paid ScrEv_pay
+for 
+my 
+purchases 
+in 
+cash 
+. 
+after 
+that 
+i 
+put ScrEv_pack_groceries
+the 
+items 
+in 
+my 
+backpack 
+and 
+walked+out ScrEv_leave
+of 
+the 
+store 
+and 
+back 
+to 
+my 
+house 
+. 
+<end_of_story>_grocery 
+i 
+looked RelNScrEv_grocery
+into 
+my 
+fridge 
+and 
+realized UnrelEv_grocery
+that 
+i 
+was RelNScrEv_grocery
+out 
+of 
+food 
+. 
+i 
+was UnrelEv_grocery
+so 
+hungry 
+. 
+i 
+decided UnrelEv_grocery
+that 
+despite 
+the 
+fact 
+that 
+it 
+was 
+raining UnrelEv_grocery
+outside 
+, 
+i 
+was 
+going 
+to 
+go+to+the+super+market Evoking_grocery
+to 
+buy+food Evoking_grocery
+. 
+i 
+drove ScrEv_go_grocery
+my 
+car 
+to 
+the 
+nearest 
+supermarket 
+, 
+which 
+was UnrelEv_grocery
+about 
+ten 
+minutes 
+away 
+. 
+once 
+inside 
+i 
+took ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+because 
+i 
+knew UnrelEv_grocery
+i 
+was 
+going 
+to 
+stockpile Unclear_grocery
+food 
+. 
+i 
+first 
+went ScrEv_move_section
+to 
+get ScrEv_get_groceries
+breakfast 
+food 
+. 
+this 
+included ScrEv_get_groceries
+eggs 
+, 
+bacon 
+, 
+milk 
+, 
+cereal 
+, 
+cereal 
+bars 
+and 
+fruit 
+such 
+as 
+bananas 
+and 
+apples 
+. 
+next 
+i 
+went ScrEv_move_section
+to 
+food 
+i 
+would 
+usually 
+eat UnrelEv_grocery
+for 
+lunch 
+. 
+this 
+included ScrEv_get_groceries
+pasta 
+, 
+tomato 
+sauce 
+, 
+mac 
+and 
+cheese 
+, 
+ramen 
+, 
+salad 
+ingredients 
+and 
+perhaps 
+some 
+snacks 
+. 
+i 
+also 
+got ScrEv_get_groceries
+a 
+pound 
+of 
+boar 
+'s 
+head 
+turkey 
+and 
+bread 
+. 
+i 
+then 
+went ScrEv_move_section
+to 
+pick+up ScrEv_get_groceries
+a 
+few 
+slabs 
+of 
+steak 
+, 
+pork 
+and 
+chicken 
+because 
+i 
+like UnrelEv_grocery
+to 
+eat UnrelEv_grocery
+big 
+dinners 
+. 
+next 
+, 
+i 
+went ScrEv_move_section
+to 
+the 
+ice 
+cream 
+aisle 
+and 
+picked+up ScrEv_get_groceries
+my 
+favorite 
+rocky 
+road 
+ice 
+cream 
+for 
+when 
+i 
+crave UnrelEv_grocery
+sweets 
+. 
+overall 
+it 
+was UnrelEv_grocery
+a 
+good 
+experience 
+, 
+everything 
+cost ScrEv_pay
+me 
+about 
+523 
+but 
+i 
+got RelNScrEv_grocery
+523 
+percent 
+off 
+with UnrelEv_grocery
+my 
+discount 
+card 
+. 
+<end_of_story>_grocery 
+my 
+fridge 
+was RelNScrEv_grocery
+completely 
+empty 
+, 
+so 
+i 
+knew UnrelEv_grocery
+i 
+had 
+to 
+go UnrelEv_grocery
+get+some+groceries Evoking_grocery
+. 
+i 
+drove+over ScrEv_go_grocery
+to 
+the 
+supermarket 
+and 
+parked RelNScrEv_grocery
+my 
+car 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+from 
+the 
+front 
+of 
+the 
+store 
+and 
+walked ScrEv_enter
+through 
+the 
+big 
+sliding UnrelEv_grocery
+doors 
+. 
+it 
+'s UnrelEv_grocery
+amazing 
+how 
+many 
+kinds 
+of 
+food 
+there 
+are UnrelEv_grocery
+to 
+buy ScrEv_get_groceries
+there 
+. 
+luckily 
+, 
+i 
+had 
+made ScrEv_make_list
+a 
+shopping 
+list 
+before 
+i 
+left RelNScrEv_grocery
+, 
+so 
+i 
+knew UnrelEv_grocery
+exactly 
+what 
+i 
+needed RelNScrEv_grocery
+. 
+i 
+walked ScrEv_move_section
+through 
+the 
+produce 
+section 
+and 
+picked+out ScrEv_get_groceries
+some 
+of 
+the 
+best 
+fruits 
+and 
+vegetables 
+. 
+i 
+picked+up ScrEv_get_groceries
+a 
+gallon 
+of 
+milk 
+from 
+the 
+dairy 
+section 
+. 
+up 
+ahead 
+was RelNScrEv_grocery
+the 
+bakery 
+and 
+some 
+fresh 
+bread 
+. 
+down 
+the 
+middle 
+i 
+was 
+able 
+to 
+pick+up ScrEv_get_groceries
+some 
+baking 
+soda 
+, 
+flour 
+, 
+and 
+other 
+baking 
+supplies 
+. 
+i 
+needed RelNScrEv_grocery
+some 
+cereal 
+for 
+breakfast 
+, 
+so 
+i 
+looked+around RelNScrEv_grocery
+until 
+i 
+found ScrEv_move_section
+that 
+aisle 
+. 
+my 
+cart 
+was RelNScrEv_grocery
+just 
+about 
+full 
+when 
+i 
+had RelNScrEv_grocery
+everything 
+i 
+needed RelNScrEv_grocery
+. 
+i 
+headed+for ScrEv_go_checkout
+the 
+checkout 
+and 
+put ScrEv_put_conveyor
+all 
+my 
+groceries 
+on 
+the 
+counter 
+. 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+each 
+thing 
+and 
+added+up RelNScrEv_grocery
+my 
+total 
+. 
+i 
+handed ScrEv_pay
+him 
+my 
+money 
+, 
+helped UnrelEv_grocery
+him 
+bag+up ScrEv_pack_groceries
+the 
+groceries 
+, 
+and 
+headed+out ScrEv_leave
+. 
+i 
+loaded+up ScrEv_bring_vehicle
+the 
+bags 
+into 
+my 
+car 
+, 
+put ScrEv_return_shop_cart
+the 
+cart 
+back 
+up 
+, 
+and 
+headed ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+the 
+other 
+night 
+i 
+went+grocery+shopping Evoking_grocery
+and 
+first 
+i 
+drove ScrEv_go_grocery
+my 
+car 
+to 
+the 
+store 
+and 
+parked RelNScrEv_grocery
+in 
+the 
+parking 
+lot 
+. 
+then 
+i 
+walked ScrEv_enter
+into 
+the 
+store 
+and 
+got ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+i 
+took ScrEv_take_shop_cart
+the 
+shopping 
+cart 
+and 
+began UnrelEv_grocery
+walking+down ScrEv_move_section
+the 
+isles 
+while 
+i 
+looked+at RelNScrEv_grocery
+my 
+shopping 
+list 
+. 
+i 
+usually 
+write ScrEv_make_list
+a 
+shopping 
+list 
+when 
+i 
+go+to+the+store Evoking_grocery
+to 
+make+sure ScrEv_check_list
+that 
+i 
+do 
+n't 
+forget RelNScrEv_grocery
+anything 
+. 
+i 
+grabbed ScrEv_get_groceries
+items 
+from 
+many 
+different 
+isles 
+, 
+like 
+grabbing ScrEv_get_groceries
+milk 
+from 
+the 
+fridge 
+at 
+the 
+back 
+of 
+the 
+store 
+and 
+some 
+cheese 
+in 
+the 
+isle 
+next 
+to 
+that 
+. 
+once 
+i 
+got ScrEv_get_groceries
+everything 
+on 
+my 
+list 
+i 
+took RelNScrEv_grocery
+the 
+shopping 
+cart 
+and 
+wheeled ScrEv_go_checkout
+it 
+over 
+to 
+the 
+line 
+for 
+the 
+checkout 
+counter 
+and 
+my 
+items 
+are 
+scanned ScrEv_cashier_scan/weight
+and 
+go+down ScrEv_cashier_scan/weight
+the 
+belt 
+to 
+be 
+bagged ScrEv_pack_groceries
+. 
+finally 
+a 
+bagger 
+bags ScrEv_pack_groceries
+my 
+groceries 
+and 
+i 
+put RelNScrEv_grocery
+them 
+in 
+my 
+cart 
+and 
+out 
+the 
+door 
+of 
+the 
+grocery 
+store 
+and 
+put ScrEv_bring_vehicle
+the 
+grocery 
+bags 
+in 
+my 
+car 
+and 
+put ScrEv_return_shop_cart
+the 
+cart 
+away 
+in 
+the 
+designated UnrelEv_grocery
+shopping 
+cart 
+drop+off ScrEv_return_shop_cart
+point 
+. 
+<end_of_story>_grocery 
+while 
+preparing UnrelEv_grocery
+a 
+dinner 
+of 
+spaghetti 
+and 
+meatballs 
+tonight 
+, 
+i 
+realized UnrelEv_grocery
+i 
+needed 
+to 
+go+grocery+shopping Evoking_grocery
+to 
+restock RelNScrEv_grocery
+my 
+refrigerator 
+. 
+it 
+was UnrelEv_grocery
+still 
+early 
+and 
+the 
+store 
+wasn UnrelEv_grocery
+' 
+t 
+close 
+so 
+i 
+made ScrEv_go_grocery
+a 
+trip 
+to 
+the 
+store 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+because 
+i 
+' 
+m+out RelNScrEv_grocery
+of 
+eggs 
+, 
+bread 
+, 
+orange 
+juice 
+, 
+milk 
+etc 
+. 
+i 
+don 
+' 
+t 
+like UnrelEv_grocery
+can 
+foods 
+but 
+i 
+like UnrelEv_grocery
+to 
+keep UnrelEv_grocery
+some 
+stocked UnrelEv_grocery
+in 
+my 
+cabinet 
+just 
+in 
+case UnrelEv_grocery
+. 
+i 
+needed RelNScrEv_grocery
+corn 
+, 
+beets 
+, 
+soup 
+etc. 
+. 
+i 
+had 
+to 
+eat UnrelEv_grocery
+bread 
+ends 
+because 
+i 
+was+out RelNScrEv_grocery
+of 
+whole 
+wheat 
+bread 
+. 
+the 
+store 
+wasn 
+' 
+t 
+so 
+crowded RelNScrEv_grocery
+considering UnrelEv_grocery
+it 
+would 
+be 
+closing RelNScrEv_grocery
+in 
+an 
+hour 
+or 
+so 
+. 
+i 
+got ScrEv_wait
+in 
+the 
+shortest 
+line 
+and 
+of 
+course 
+the 
+register 
+broke+down RelNScrEv_grocery
+. 
+i 
+waited ScrEv_wait
+and 
+waited ScrEv_wait
+. 
+i 
+could 
+have 
+gotten+out RelNScrEv_grocery
+of 
+line 
+but 
+i 
+didn UnrelEv_grocery
+' 
+t 
+. 
+when 
+i 
+finally 
+got RelNScrEv_grocery
+to 
+the 
+register 
+, 
+it 
+was UnrelEv_grocery
+time 
+for 
+my 
+checker 
+to 
+leave RelNScrEv_grocery
+. 
+i 
+had 
+to 
+wait ScrEv_wait
+until 
+an 
+assistant 
+manager 
+signed+in RelNScrEv_grocery
+the 
+register 
+to 
+ring+up ScrEv_cashier_scan/weight
+my 
+purchases 
+. 
+the 
+register 
+was RelNScrEv_grocery
+out 
+of 
+tape 
+so 
+i 
+was 
+delayed ScrEv_wait
+again 
+. 
+i 
+wished UnrelEv_grocery
+i 
+' 
+d 
+waited UnrelEv_grocery
+until 
+tomorrow 
+. 
+there 
+were UnrelEv_grocery
+no 
+baggers 
+to 
+bag ScrEv_pack_groceries
+my 
+groceries 
+so 
+i 
+did ScrEv_pack_groceries
+it 
+myself 
+. 
+my 
+total 
+came ScrEv_pay
+to 
+$ 
+523 
+and 
+i 
+only 
+had UnrelEv_grocery
+$ 
+523 
+cash 
+on 
+me 
+. 
+that 
+' 
+s UnrelEv_grocery
+all 
+i 
+thought UnrelEv_grocery
+i 
+was 
+going 
+to 
+spend ScrEv_pay
+. 
+i 
+gave ScrEv_pay
+the 
+clerk 
+a 
+credit 
+card 
+which 
+didn 
+' 
+t 
+go+through RelNScrEv_grocery
+and 
+the 
+people 
+behind 
+me 
+started UnrelEv_grocery
+blowing RelNScrEv_grocery
+and 
+hissing RelNScrEv_grocery
+under 
+their 
+breath 
+. 
+i 
+offered ScrEv_pay
+another 
+card 
+. 
+thank UnrelEv_grocery
+god 
+that 
+one 
+went+through RelNScrEv_grocery
+. 
+the 
+employees 
+had 
+locked RelNScrEv_grocery
+the 
+door 
+i 
+' 
+d 
+plan UnrelEv_grocery
+to 
+exit+out ScrEv_leave
+of 
+. 
+the 
+manager 
+came+over RelNScrEv_grocery
+and 
+let RelNScrEv_grocery
+me 
+out 
+. 
+my 
+car 
+was UnrelEv_grocery
+the 
+only 
+car 
+parked RelNScrEv_grocery
+in 
+the 
+customer 
+' 
+s 
+parking 
+lot 
+. 
+i 
+wished UnrelEv_grocery
+i 
+' 
+d 
+stayed UnrelEv_grocery
+at 
+home 
+. 
+<end_of_story>_grocery 
+when 
+i 
+go+grocery+shopping Evoking_grocery
+i 
+almost 
+always 
+take ScrEv_make_list
+a 
+list 
+. 
+so 
+for 
+me 
+, 
+the 
+first 
+step 
+to 
+shopping ScrEv_get_groceries
+is UnrelEv_grocery
+list 
+making ScrEv_make_list
+. 
+i 
+list ScrEv_make_list
+what 
+i 
+plan UnrelEv_grocery
+to 
+cook UnrelEv_grocery
+this 
+week 
+, 
+and 
+also 
+cleaning 
+products 
+and 
+similar 
+things 
+. 
+my 
+favorite 
+place 
+to 
+shop Evoking_grocery
+is UnrelEv_grocery
+a 
+huge 
+membership 
+store 
+, 
+for 
+its 
+good 
+prices 
+. 
+i 
+pick+up ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+just 
+outside 
+the 
+store 
+. 
+then 
+i 
+enter ScrEv_enter
+, 
+sometimes 
+showing RelNScrEv_grocery
+my 
+membership 
+card 
+to 
+the 
+person 
+at 
+the 
+door 
+and 
+sometimes 
+getting+in ScrEv_enter
+without 
+showing RelNScrEv_grocery
+it 
+. 
+i 
+cruise+past ScrEv_move_section
+the 
+impulse 
+items 
+just 
+inside 
+the 
+door 
+, 
+and 
+through 
+the 
+electronics 
+and 
+organic 
+foods 
+sections 
+that 
+come ScrEv_move_section
+next 
+. 
+next 
+come ScrEv_move_section
+many 
+aisles 
+with 
+items 
+like 
+light 
+bulbs 
+and 
+pillows 
+. 
+finally 
+i 
+get+to ScrEv_move_section
+the 
+food 
+. 
+there 
+are UnrelEv_grocery
+usually 
+people 
+here 
+offering RelNScrEv_grocery
+samples 
+of 
+new 
+food 
+items 
+. 
+i 
+often 
+take RelNScrEv_grocery
+some 
+. 
+i 
+buy ScrEv_get_groceries
+large 
+packages 
+of 
+chicken 
+or 
+fish 
+that 
+can 
+be 
+frozen UnrelEv_grocery
+. 
+sometimes 
+i 
+buy ScrEv_get_groceries
+fresh 
+bread 
+. 
+i 
+continue ScrEv_move_section
+to 
+the 
+fresh 
+fruit 
+and 
+vegetable 
+section 
+, 
+where 
+i 
+try UnrelEv_grocery
+to 
+restrain RelNScrEv_grocery
+myself 
+to 
+what 
+i 
+can 
+use RelNScrEv_grocery
+. 
+next 
+come ScrEv_move_section
+the 
+chiller 
+and 
+frozen 
+foods 
+, 
+but 
+i 
+go+past ScrEv_move_section
+hem 
+to 
+pet 
+food 
+and 
+paper 
+goods 
+. 
+i 
+get ScrEv_get_groceries
+frozen 
+food 
+on 
+the 
+way 
+back 
+, 
+and 
+then 
+a 
+few 
+canned UnrelEv_grocery
+food 
+and 
+dry 
+goods 
+. 
+the 
+last 
+areas 
+are UnrelEv_grocery
+pharmacy 
+, 
+which 
+i 
+mostly 
+avoid UnrelEv_grocery
+, 
+and 
+the 
+book 
+section 
+, 
+where 
+i 
+'m+apt UnrelEv_grocery
+to 
+linger RelNScrEv_grocery
+. 
+then 
+i 
+wait ScrEv_wait
+in 
+line 
+for 
+a 
+while 
+, 
+pay ScrEv_pay
+, 
+and 
+leave ScrEv_leave
+the 
+store 
+. 
+as 
+i 
+leave ScrEv_leave
+, 
+someone 
+checks RelNScrEv_grocery
+my 
+cart 
+, 
+to 
+make+sure UnrelEv_grocery
+what 
+'s UnrelEv_grocery
+on 
+my 
+receipt 
+matches RelNScrEv_grocery
+the 
+huge 
+load 
+i 
+am 
+carting RelNScrEv_grocery
+home 
+. 
+<end_of_story>_grocery 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+, 
+parked RelNScrEv_grocery
+, 
+and 
+went ScrEv_enter
+into 
+the 
+building 
+. 
+there 
+was UnrelEv_grocery
+a 
+line 
+of 
+shopping 
+carts 
+at 
+the 
+front 
+of 
+the 
+store 
+, 
+just 
+inside 
+the 
+doors 
+. 
+i 
+took ScrEv_take_shop_cart
+one 
+and 
+walked ScrEv_move_section
+to 
+the 
+wide 
+produce 
+aisle 
+at 
+the 
+left 
+of 
+the 
+store 
+. 
+i 
+walked+down ScrEv_move_section
+every 
+aisle 
+in 
+the 
+store 
+, 
+adding ScrEv_get_groceries
+things 
+to 
+my 
+cart 
+as 
+i 
+did UnrelEv_grocery
+. 
+i 
+had UnrelEv_grocery
+a 
+shopping 
+list 
+with 
+me 
+and 
+managed UnrelEv_grocery
+to 
+find ScrEv_check_list
+everything 
+i 
+needed RelNScrEv_grocery
+. 
+i 
+bought ScrEv_get_groceries
+material 
+for 
+making UnrelEv_grocery
+a 
+big 
+salad 
+for 
+dinner 
+: 
+lettuce 
+, 
+tomatoes 
+, 
+peppers 
+, 
+cucumbers 
+, 
+and 
+croutons 
+. 
+and 
+i 
+bought ScrEv_get_groceries
+two 
+packages 
+of 
+chicken 
+and 
+one 
+package 
+of 
+hamburg 
+. 
+i 
+also 
+bought ScrEv_get_groceries
+things 
+like 
+paper 
+towels 
+and 
+toilet 
+paper 
+and 
+frozen 
+food 
+. 
+when 
+i 
+was 
+finished UnrelEv_grocery
+adding ScrEv_get_groceries
+items 
+to 
+my 
+cart 
+, 
+i 
+walked ScrEv_go_checkout
+to 
+one 
+of 
+the 
+registers 
+. 
+there 
+are UnrelEv_grocery
+more 
+than 
+twenty 
+registers 
+in 
+the 
+store 
+. 
+i 
+chose RelNScrEv_grocery
+the 
+one 
+with 
+the 
+shortest 
+line 
+. 
+when 
+it 
+was ScrEv_wait
+my 
+turn 
+i 
+put ScrEv_put_conveyor
+the 
+things 
+i 
+had UnrelEv_grocery
+in 
+my 
+cart 
+onto 
+the 
+conveyor 
+belt 
+. 
+the 
+woman 
+at 
+the 
+cash 
+register 
+scanned ScrEv_cashier_scan/weight
+the 
+items 
+, 
+and 
+a 
+man 
+at 
+the 
+end 
+of 
+the 
+counter 
+put ScrEv_pack_groceries
+my 
+items 
+in 
+plastic 
+bags 
+. 
+when 
+she 
+was 
+finished UnrelEv_grocery
+scanning ScrEv_cashier_scan/weight
+my 
+order 
+, 
+she 
+told RelNScrEv_grocery
+me 
+how 
+much 
+i 
+owed ScrEv_pay
+. 
+i 
+swiped ScrEv_pay
+my 
+credit 
+card 
+into 
+the 
+machine 
+. 
+the 
+machine 
+approved RelNScrEv_grocery
+my 
+card 
+, 
+and 
+i 
+signed RelNScrEv_grocery
+the 
+machine 
+with 
+a 
+special 
+pen 
+. 
+the 
+bagger 
+had 
+finished UnrelEv_grocery
+bagging ScrEv_pack_groceries
+my 
+items 
+by 
+then 
+and 
+had 
+put RelNScrEv_grocery
+all 
+the 
+bags 
+in 
+my 
+shopping 
+cart 
+. 
+i 
+left ScrEv_leave
+the 
+store 
+to 
+put ScrEv_bring_vehicle
+the 
+bags 
+in 
+my 
+car 
+. 
+<end_of_story>_grocery 
+i 
+was RelNScrEv_grocery
+out 
+of 
+food 
+so 
+i 
+went+to+my+local+market Evoking_grocery
+. 
+i 
+parked RelNScrEv_grocery
+the 
+car 
+and 
+walked ScrEv_enter
+to 
+the 
+door 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+cart 
+on 
+the 
+way 
+. 
+once 
+inside 
+i 
+vowed UnrelEv_grocery
+to 
+stick ScrEv_move_section
+to 
+the 
+outside 
+edges 
+of 
+the 
+store 
+, 
+away 
+from 
+processed UnrelEv_grocery
+foods 
+. 
+i 
+bought ScrEv_get_groceries
+all 
+my 
+produce 
+and 
+some 
+fresh 
+baked UnrelEv_grocery
+bread 
+. 
+i 
+also 
+got ScrEv_get_groceries
+milk 
+and 
+eggs 
+and 
+cheese 
+. 
+i 
+caved RelNScrEv_grocery
+and 
+bought ScrEv_get_groceries
+some 
+tortilla 
+chips 
+because 
+i 
+had UnrelEv_grocery
+a 
+mean 
+craving 
+for 
+nachos 
+. 
+i 
+also 
+checked RelNScrEv_grocery
+the 
+frozen UnrelEv_grocery
+aisle 
+for 
+cheese 
+taquitos 
+. 
+i 
+found ScrEv_get_groceries
+cheese 
+taquitos 
+once 
+, 
+years 
+ago 
+, 
+but 
+had 
+never 
+seen UnrelEv_grocery
+them 
+again 
+. 
+i 
+always 
+check RelNScrEv_grocery
+in 
+vain 
+, 
+hoping UnrelEv_grocery
+one 
+day 
+to 
+see UnrelEv_grocery
+them 
+next 
+to 
+the 
+chicken 
+taquitos 
+. 
+after 
+i 
+had RelNScrEv_grocery
+all 
+my 
+goods 
+i 
+went ScrEv_go_checkout
+to 
+the 
+check 
+out 
+line 
+. 
+i 
+made RelNScrEv_grocery
+small 
+talk 
+with 
+the 
+cashier 
+after 
+i 
+loaded ScrEv_put_conveyor
+my 
+items 
+on 
+the 
+the 
+conveyor 
+belt 
+. 
+i 
+paid ScrEv_pay
+after 
+everything 
+was 
+bagged ScrEv_pack_groceries
+in 
+my 
+cart 
+. 
+then 
+i 
+left ScrEv_leave
+for 
+home 
+. 
+<end_of_story>_grocery 
+once 
+a 
+week 
+i 
+go ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+to 
+do+some+food+shopping Evoking_grocery
+. 
+before 
+i 
+left RelNScrEv_grocery
+the 
+house 
+my 
+wife 
+gave RelNScrEv_grocery
+me 
+a 
+list 
+of 
+things 
+that 
+we 
+needed RelNScrEv_grocery
+. 
+i 
+grabbed ScrEv_take_shop_cart
+my 
+shopping 
+cart 
+and 
+the 
+list 
+and 
+started UnrelEv_grocery
+walking ScrEv_go_grocery
+to 
+the 
+supermarket 
+that 
+was UnrelEv_grocery
+523 
+blocks 
+away 
+. 
+when 
+i 
+got+there ScrEv_enter
+i 
+walked ScrEv_move_section
+up 
+and 
+down 
+the 
+aisles 
+looking RelNScrEv_grocery
+for 
+the 
+items 
+that 
+were UnrelEv_grocery
+on 
+the 
+list 
+. 
+as 
+i 
+found ScrEv_get_groceries
+each 
+item 
+, 
+i 
+placed ScrEv_get_groceries
+them 
+into 
+my 
+shopping 
+cart 
+and 
+crossed ScrEv_check_off
+them 
+off 
+the 
+list 
+. 
+when 
+i 
+finally 
+found ScrEv_get_groceries
+everything 
+we 
+needed RelNScrEv_grocery
+i 
+made ScrEv_go_checkout
+my 
+way 
+towards 
+the 
+check 
+out 
+line 
+to 
+pay ScrEv_pay
+for 
+the 
+food 
+. 
+i 
+found RelNScrEv_grocery
+a 
+cashier 
+that 
+did 
+n't 
+have RelNScrEv_grocery
+anyone 
+on 
+her 
+line 
+and 
+i 
+made ScrEv_go_checkout
+my 
+way 
+towards 
+her 
+. 
+i 
+gave ScrEv_put_conveyor
+her 
+each 
+item 
+one 
+at 
+a 
+time 
+and 
+watched UnrelEv_grocery
+her 
+scan ScrEv_cashier_scan/weight
+and 
+place ScrEv_pack_groceries
+them 
+into 
+bags 
+for 
+me 
+. 
+after 
+she 
+was 
+finished UnrelEv_grocery
+she 
+told RelNScrEv_grocery
+me 
+the 
+total 
+amount 
+and 
+i 
+gave ScrEv_pay
+her 
+the 
+money 
+to 
+cover ScrEv_pay
+the 
+cost 
+. 
+she 
+gave ScrEv_get_receipt
+me 
+my 
+change 
+and 
+receipt 
+then 
+thanked RelNScrEv_grocery
+me 
+for 
+shopping Evoking_grocery
+. 
+<end_of_story>_grocery 
+i 
+got+up UnrelEv_grocery
+early 
+this 
+morning 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+from 
+outside 
+and 
+entered ScrEv_enter
+the 
+store 
+. 
+upon 
+entering ScrEv_enter
+, 
+i 
+headed ScrEv_move_section
+toward 
+the 
+bread 
+aisle 
+because 
+i 
+buy ScrEv_get_groceries
+dried UnrelEv_grocery
+goods 
+first 
+. 
+i 
+filled ScrEv_get_groceries
+my 
+cart 
+with 
+a 
+couple 
+loaves 
+of 
+bread 
+and 
+a 
+package 
+of 
+hamburger 
+buns 
+. 
+after 
+that 
+, 
+i 
+proceeded ScrEv_move_section
+to 
+the 
+beverage 
+section 
+and 
+grabbed ScrEv_get_groceries
+various 
+sodas 
+and 
+sports 
+drinks 
+. 
+then 
+, 
+i 
+moved+on ScrEv_move_section
+to 
+the 
+canned UnrelEv_grocery
+goods 
+and 
+grains 
+. 
+after 
+throwing ScrEv_get_groceries
+some 
+cans 
+of 
+beans 
+and 
+bags 
+of 
+pasta 
+into 
+my 
+cart 
+, 
+i 
+went ScrEv_move_section
+to 
+the 
+snack 
+aisle 
+. 
+there 
+, 
+i 
+took ScrEv_get_groceries
+advantage 
+of 
+discounts 
+on 
+cookies 
+, 
+crackers 
+, 
+and 
+potato 
+chips 
+. 
+it 
+was UnrelEv_grocery
+then 
+time 
+for 
+the 
+fruits 
+and 
+vegetables 
+, 
+of 
+which 
+i 
+bought ScrEv_get_groceries
+only 
+a 
+little 
+. 
+i 
+only 
+got ScrEv_get_groceries
+tomatoes 
+, 
+bananas 
+, 
+and 
+onions 
+from 
+this 
+section 
+. 
+next 
+, 
+i 
+made ScrEv_move_section
+my 
+way 
+to 
+the 
+meat 
+section 
+and 
+purchased ScrEv_get_groceries
+ground 
+beef 
+, 
+pork 
+chops 
+, 
+ham 
+, 
+and 
+chicken 
+breasts 
+. 
+lastly 
+, 
+i 
+hit ScrEv_move_section
+the 
+dairy 
+aisle 
+and 
+grabbed ScrEv_get_groceries
+a 
+carton 
+of 
+milk 
+and 
+a 
+gallon 
+of 
+ice 
+cream 
+. 
+it 
+was UnrelEv_grocery
+now 
+time 
+to 
+find ScrEv_go_checkout
+a 
+register 
+and 
+pay ScrEv_pay
+for 
+my 
+groceries 
+. 
+after 
+paying ScrEv_pay
+, 
+i 
+exited ScrEv_leave
+the 
+store 
+and 
+put ScrEv_bring_vehicle
+the 
+groceries 
+into 
+my 
+trunk 
+. 
+then 
+, 
+i 
+returned ScrEv_return_shop_cart
+my 
+shopping 
+cart 
+and 
+drove ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+yesterday 
+i 
+went ScrEv_go_grocery
+to 
+market 
+basket 
+, 
+a 
+local 
+food 
+store 
+, 
+to 
+do+my+grocery+shopping Evoking_grocery
+. 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+what 
+i 
+needed RelNScrEv_grocery
+before 
+i 
+left RelNScrEv_grocery
+home 
+. 
+when 
+i 
+got+to ScrEv_go_grocery
+the 
+store 
+, 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+started UnrelEv_grocery
+cruising ScrEv_move_section
+the 
+aisles 
+of 
+the 
+store 
+. 
+i 
+use RelNScrEv_grocery
+a 
+budget 
+when 
+i 
+shop Evoking_grocery
+so 
+i 
+add RelNScrEv_grocery
+the 
+prices 
+of 
+items 
+in 
+my 
+head 
+as 
+i 
+shop Evoking_grocery
+. 
+i 
+picked+out ScrEv_get_groceries
+the 
+things 
+on 
+my 
+list 
+: 
+milk 
+, 
+butter 
+, 
+bread 
+, 
+tuna 
+fish 
+, 
+dog 
+food 
+, 
+rice 
+, 
+maple 
+syrup 
+and 
+paper 
+cups 
+. 
+after 
+i 
+finished UnrelEv_grocery
+making ScrEv_get_groceries
+all 
+my 
+selections 
+, 
+i 
+pushed ScrEv_go_checkout
+my 
+cart 
+to 
+the 
+checkout 
+line 
+. 
+when 
+it 
+was UnrelEv_grocery
+my 
+turn 
+, 
+i 
+unloaded ScrEv_put_conveyor
+all 
+of 
+my 
+groceries 
+onto 
+the 
+conveyor 
+belt 
+so 
+that 
+the 
+cashier 
+could 
+ring ScrEv_cashier_scan/weight
+them 
+up 
+. 
+a 
+bagger 
+gently 
+put ScrEv_pack_groceries
+my 
+items 
+in 
+paper 
+bags 
+. 
+the 
+cashier 
+gave ScrEv_pay
+me 
+the 
+total 
+of 
+my 
+order 
+and 
+i 
+paid ScrEv_pay
+her 
+. 
+i 
+thanked RelNScrEv_grocery
+both 
+her 
+and 
+the 
+bagger 
+for 
+doing RelNScrEv_grocery
+an 
+excellent 
+job 
+. 
+i 
+pushed ScrEv_bring_vehicle
+the 
+cart 
+to 
+my 
+car 
+and 
+unloaded ScrEv_bring_vehicle
+the 
+groceries 
+. 
+i 
+put ScrEv_return_shop_cart
+my 
+cart 
+back 
+into 
+the 
+cart 
+holder 
+that 
+was 
+located UnrelEv_grocery
+in 
+the 
+parking 
+lot 
+. 
+once 
+i 
+got RelNScrEv_grocery
+home 
+, 
+i 
+brought RelNScrEv_grocery
+the 
+groceries 
+in 
+and 
+put RelNScrEv_grocery
+them 
+away 
+. 
+it 
+'s UnrelEv_grocery
+nice 
+to 
+have 
+the 
+house 
+restocked RelNScrEv_grocery
+with 
+food 
+just 
+in 
+time 
+for 
+the 
+weekend 
+. 
+<end_of_story>_grocery 
+weekly 
+grocery+shopping Evoking_grocery
+begins UnrelEv_grocery
+at 
+the 
+local 
+supermarket 
+down 
+the 
+street 
+. 
+it 
+'s UnrelEv_grocery
+the 
+closest 
+by 
+with 
+a 
+great 
+selection 
+. 
+it 
+may 
+not 
+be UnrelEv_grocery
+the 
+cheapest 
+but 
+nothing 
+compares UnrelEv_grocery
+in 
+how 
+close 
+it 
+is UnrelEv_grocery
+. 
+once 
+i 
+am ScrEv_enter
+at 
+the 
+store 
+, 
+i 
+usually 
+head ScrEv_move_section
+straight 
+to 
+the 
+fruits 
+and 
+vegetable 
+sections 
+first 
+. 
+i 
+will 
+grab ScrEv_get_groceries
+all 
+the 
+fruits 
+and 
+veggies 
+that 
+i 
+think UnrelEv_grocery
+i 
+will 
+need RelNScrEv_grocery
+for 
+the 
+week 
+. 
+i 
+do 
+n't 
+really 
+go RelNScrEv_grocery
+with 
+a 
+shopping 
+list 
+or 
+anything 
+in 
+mind 
+. 
+usually 
+whatever 
+looks RelNScrEv_grocery
+the 
+freshest 
+or 
+is RelNScrEv_grocery
+on 
+sale 
+is UnrelEv_grocery
+what 
+i 
+tend UnrelEv_grocery
+to 
+buy ScrEv_get_groceries
+. 
+after 
+selecting ScrEv_get_groceries
+these 
+items 
+, 
+i 
+will 
+move ScrEv_move_section
+to 
+the 
+proteins 
+. 
+sometimes 
+it 
+is UnrelEv_grocery
+chicken 
+and 
+sometimes 
+it UnrelEv_grocery
+beef 
+. 
+it 
+depends UnrelEv_grocery
+on 
+the 
+vegetables 
+i 
+'ve 
+just 
+selected ScrEv_get_groceries
+to 
+determine UnrelEv_grocery
+which 
+type 
+of 
+protein 
+i 
+will 
+be 
+purchasing ScrEv_get_groceries
+. 
+lastly 
+, 
+once 
+those 
+are 
+done ScrEv_get_groceries
+i 
+will 
+pick+up ScrEv_get_groceries
+the 
+packaged UnrelEv_grocery
+goods 
+such 
+as 
+milk 
+, 
+bread 
+, 
+eggs 
+, 
+and 
+cereal 
+. 
+i 
+do 
+n't 
+each UnrelEv_grocery
+much 
+junk 
+food 
+or 
+processed UnrelEv_grocery
+foods 
+so 
+this 
+is UnrelEv_grocery
+basically 
+all 
+i 
+will 
+get ScrEv_get_groceries
+for 
+a 
+typical 
+trip 
+to 
+the 
+grocery 
+store 
+. 
+<end_of_story>_grocery 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+things 
+we 
+needed 
+to 
+buy ScrEv_get_receipt
+beforehand 
+. 
+next 
+to 
+the 
+name 
+of 
+each 
+object 
+, 
+i 
+added RelNScrEv_grocery
+the 
+last 
+price 
+i 
+remembered UnrelEv_grocery
+for 
+it 
+. 
+then 
+, 
+i 
+added+up RelNScrEv_grocery
+all 
+the 
+prices 
+to 
+get RelNScrEv_grocery
+a 
+general 
+range 
+for 
+our 
+budget 
+. 
+i 
+marked+off RelNScrEv_grocery
+what 
+items 
+i 
+could 
+leave+behind RelNScrEv_grocery
+if 
+we 
+were 
+going 
+to 
+spend ScrEv_pay
+too 
+much 
+money 
+. 
+i 
+also 
+added ScrEv_make_list
+items 
+we 
+could 
+add ScrEv_get_groceries
+if 
+we 
+saved RelNScrEv_grocery
+a 
+lot 
+of 
+money 
+. 
+then 
+, 
+i 
+made+sure UnrelEv_grocery
+there 
+was UnrelEv_grocery
+plenty 
+of 
+room 
+in 
+the 
+car 
+to 
+hold ScrEv_bring_vehicle
+the 
+groceries 
+and 
+put ScrEv_bring_vehicle
+my 
+reusable RelNScrEv_grocery
+grocery 
+bags 
+in 
+the 
+trunk 
+. 
+the 
+next 
+day 
+, 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+and 
+picked+up ScrEv_get_groceries
+what 
+items 
+were UnrelEv_grocery
+on 
+my 
+list 
+and 
+wrote+down ScrEv_check_off
+what 
+prices 
+i 
+actually 
+paid ScrEv_pay
+for 
+them 
+. 
+since 
+i 
+had RelNScrEv_grocery
+extra 
+money 
+, 
+i 
+also 
+bought ScrEv_get_groceries
+some 
+ice 
+cream 
+. 
+i 
+headed ScrEv_go_checkout
+to 
+the 
+check-out 
+and 
+placed ScrEv_put_conveyor
+all 
+my 
+items 
+gently 
+on 
+the 
+conveyer 
+belt 
+. 
+i 
+said RelNScrEv_grocery
+hi 
+to 
+the 
+cashier 
+, 
+paid ScrEv_pay
+her 
+what 
+i 
+owed ScrEv_pay
+, 
+and 
+took ScrEv_bring_vehicle
+the 
+groceries 
+back 
+to 
+my 
+car 
+. 
+i 
+made+sure UnrelEv_grocery
+to 
+put ScrEv_return_shop_cart
+the 
+cart 
+away 
+, 
+too 
+. 
+then 
+, 
+i 
+drove ScrEv_leave
+home 
+and 
+unloaded RelNScrEv_grocery
+the 
+groceries 
+into 
+their 
+proper 
+places 
+. 
+<end_of_story>_grocery 
+every 
+tuesday 
+night 
+i 
+make UnrelEv_grocery
+the 
+same 
+routine 
+. 
+i 
+go+out UnrelEv_grocery
+and 
+buy+groceries Evoking_grocery
+that 
+night 
+. 
+however 
+, 
+this 
+week 
+was UnrelEv_grocery
+different 
+and 
+i 
+had UnrelEv_grocery
+a 
+party 
+to 
+prepare+for UnrelEv_grocery
+the 
+weekend 
+to 
+celebrate UnrelEv_grocery
+a 
+friend 
+'s 
+birthday 
+. 
+i 
+created ScrEv_make_list
+a 
+check 
+list 
+of 
+all 
+the 
+things 
+i 
+needed RelNScrEv_grocery
+earlier 
+in 
+the 
+day 
+, 
+and 
+headed+out ScrEv_go_grocery
+to 
+the 
+store 
+. 
+on 
+arrival 
+i 
+went+down ScrEv_move_section
+each 
+lane 
+, 
+and 
+picked+out ScrEv_get_groceries
+on 
+what 
+i 
+needed RelNScrEv_grocery
+exactly 
+. 
+this 
+process 
+can 
+be UnrelEv_grocery
+very 
+boring 
+so 
+i 
+kept UnrelEv_grocery
+my 
+mp3 
+player 
+along 
+with 
+me 
+to 
+play UnrelEv_grocery
+music 
+while 
+i 
+shop Evoking_grocery
+. 
+after 
+about 
+523 
+minutes 
+of 
+looking+around ScrEv_move_section
+, 
+i 
+finally 
+had ScrEv_get_groceries
+everything 
+that 
+i 
+needed RelNScrEv_grocery
+! 
+i 
+go ScrEv_go_checkout
+to 
+the 
+cashier 
+, 
+and 
+ended+up UnrelEv_grocery
+picking+up ScrEv_get_groceries
+a 
+magazine 
+on 
+the 
+way 
+there 
+. 
+i 
+paid ScrEv_pay
+the 
+cashier 
+using ScrEv_pay
+my 
+credit 
+card 
+after 
+watching UnrelEv_grocery
+them 
+scan ScrEv_cashier_scan/weight
+and 
+bag ScrEv_pack_groceries
+my 
+groceries 
+. 
+i 
+brought ScrEv_bring_vehicle
+the 
+kart 
+all 
+the 
+way 
+to 
+my 
+car 
+and 
+packed ScrEv_bring_vehicle
+everything 
+in 
+. 
+i 
+was 
+finally 
+done UnrelEv_grocery
+! 
+<end_of_story>_grocery 
+my 
+cupboard 
+is UnrelEv_grocery
+bare 
+, 
+so 
+it 
+is UnrelEv_grocery
+time 
+to 
+go+grocery+shopping Evoking_grocery
+. 
+i 
+do 
+n't 
+want 
+to 
+over-spend ScrEv_pay
+, 
+so 
+i 
+make+sure UnrelEv_grocery
+to 
+bring ScrEv_make_list
+a 
+grocery 
+list 
+. 
+i 
+usually 
+have ScrEv_make_list
+a 
+list 
+of 
+items 
+i 
+will 
+need RelNScrEv_grocery
+as 
+i 
+run+out RelNScrEv_grocery
+of 
+them 
+, 
+i 
+post ScrEv_make_list
+them 
+to 
+the 
+fridge 
+. 
+i 
+grabbed RelNScrEv_grocery
+my 
+list 
+and 
+looked+around RelNScrEv_grocery
+to 
+see UnrelEv_grocery
+if 
+i 
+need RelNScrEv_grocery
+any 
+additional 
+items 
+. 
+i 
+added ScrEv_make_list
+any 
+items 
+and 
+left RelNScrEv_grocery
+my 
+house 
+. 
+i 
+got+into RelNScrEv_grocery
+my 
+car 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+nearest 
+grocery 
+store 
+, 
+my 
+favorite 
+one 
+. 
+with 
+my 
+list 
+in 
+hand 
+, 
+i 
+start UnrelEv_grocery
+shopping Evoking_grocery
+. 
+i 
+went ScrEv_move_section
+to 
+the 
+middle 
+isles 
+first 
+, 
+since 
+i 
+want 
+to 
+get ScrEv_get_groceries
+my 
+refrigerated UnrelEv_grocery
+and 
+frozen UnrelEv_grocery
+items 
+last 
+, 
+do 
+n't 
+want 
+them 
+getting UnrelEv_grocery
+warm 
+or 
+thawing UnrelEv_grocery
+before 
+i 
+even 
+get RelNScrEv_grocery
+them 
+home 
+. 
+i 
+chose ScrEv_go_checkout
+the 
+express 
+lane 
+since 
+i 
+was 
+n't 
+getting ScrEv_get_groceries
+too 
+many 
+items 
+. 
+the 
+cashier 
+was RelNScrEv_grocery
+courteous 
+to 
+me 
+, 
+as 
+i 
+was RelNScrEv_grocery
+to 
+her 
+. 
+i 
+bought ScrEv_pay
+my 
+items 
+and 
+headed ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+yesterday 
+, 
+i 
+went ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+to 
+buy+food Evoking_grocery
+. 
+i 
+went ScrEv_go_grocery
+to 
+my 
+locally-owned UnrelEv_grocery
+supermarket 
+, 
+bet-r 
+, 
+because 
+i 
+like UnrelEv_grocery
+to 
+support UnrelEv_grocery
+small 
+businesses 
+. 
+i 
+go ScrEv_go_grocery
+in 
+the 
+early 
+afternoons 
+when 
+i 
+can 
+to 
+avoid UnrelEv_grocery
+the 
+rush 
+of 
+people 
+going ScrEv_go_grocery
+after 
+school 
+or 
+work 
+-- 
+that 
+way 
+i 
+do 
+n't 
+have 
+to 
+wait ScrEv_wait
+in 
+long 
+lines 
+at 
+checkout 
+. 
+i 
+brought ScrEv_make_list
+my 
+shopping 
+list 
+with 
+me 
+: 
+eggs 
+, 
+milk 
+, 
+bread 
+, 
+pasta 
+, 
+and 
+other 
+staples 
+. 
+i 
+picked+up ScrEv_take_shop_cart
+a 
+handbasket 
+as 
+my 
+list 
+was UnrelEv_grocery
+not 
+large 
+and 
+began UnrelEv_grocery
+to 
+peruse ScrEv_move_section
+the 
+aisles 
+. 
+i 
+picked+up ScrEv_get_groceries
+everything 
+on 
+my 
+list 
+, 
+except 
+one 
+thing 
+. 
+they 
+were+out RelNScrEv_grocery
+of 
+my 
+favorite 
+variety 
+of 
+pasta 
+sauce 
+, 
+so 
+i 
+bought ScrEv_get_groceries
+a 
+new 
+kind 
+to 
+try UnrelEv_grocery
+instead 
+. 
+i 
+did 
+not 
+intend UnrelEv_grocery
+to 
+pick+up ScrEv_get_groceries
+anything 
+that 
+was UnrelEv_grocery
+not 
+on 
+my 
+list 
+, 
+but 
+i 
+noticed UnrelEv_grocery
+the 
+pints 
+of 
+strawberries 
+were RelNScrEv_grocery
+very 
+inexpensive 
+and 
+decided UnrelEv_grocery
+to 
+buy ScrEv_get_groceries
+some 
+as 
+well 
+. 
+i 
+was 
+finished UnrelEv_grocery
+in 
+about 
+523 
+minutes 
+and 
+got ScrEv_go_checkout
+in 
+line 
+for 
+checkout 
+. 
+i 
+paid ScrEv_pay
+for 
+my 
+groceries 
+and 
+packed ScrEv_pack_groceries
+them 
+in 
+the 
+reusable UnrelEv_grocery
+bag 
+i 
+had 
+brought ScrEv_take_bags
+along 
+with 
+me 
+. 
+then 
+i 
+returned ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+when 
+i 
+go+grocery+shopping Evoking_grocery
+it 
+is UnrelEv_grocery
+usually 
+pretty 
+hectic 
+. 
+right 
+now 
+i 
+ca 
+n't 
+drive UnrelEv_grocery
+, 
+so 
+i 
+have 
+to 
+find UnrelEv_grocery
+a 
+ride 
+there 
+. 
+i 
+also 
+have 
+to 
+make+sure UnrelEv_grocery
+that 
+i 
+find UnrelEv_grocery
+someone 
+who 
+has UnrelEv_grocery
+a 
+car 
+that 
+my 
+two 
+children 
+will 
+fit+in UnrelEv_grocery
+as 
+well 
+. 
+so 
+, 
+after 
+finding UnrelEv_grocery
+a 
+way 
+to 
+get+there ScrEv_go_grocery
+, 
+i 
+get UnrelEv_grocery
+a 
+cart 
+wiped+down RelNScrEv_grocery
+and 
+put RelNScrEv_grocery
+my 
+youngest 
+in 
+the 
+seat 
+. 
+of 
+course 
+, 
+if 
+there 
+happens UnrelEv_grocery
+to 
+be UnrelEv_grocery
+a 
+car 
+cart 
+, 
+we 
+have 
+to 
+take ScrEv_take_shop_cart
+that 
+one 
+so 
+both 
+kids 
+can 
+sit+inside RelNScrEv_grocery
+. 
+if 
+i 
+remembered UnrelEv_grocery
+to 
+bring ScrEv_make_list
+my 
+list 
+, 
+i 
+get ScrEv_get_groceries
+all 
+of 
+the 
+stuff 
+on 
+it 
+first 
+. 
+i 
+always 
+grab ScrEv_get_groceries
+other 
+things 
+as 
+i 
+see UnrelEv_grocery
+them 
+and 
+realize UnrelEv_grocery
+i 
+need RelNScrEv_grocery
+them 
+. 
+it 
+can 
+be UnrelEv_grocery
+a 
+good 
+thing 
+, 
+or 
+a 
+bad 
+thing 
+. 
+we 
+usually 
+end+up ScrEv_get_groceries
+with 
+quite 
+a 
+bit 
+more 
+than 
+i 
+intended ScrEv_make_list
+, 
+but 
+since 
+i 
+ca 
+n't 
+go ScrEv_go_grocery
+to 
+the 
+store 
+whenever 
+i 
+want UnrelEv_grocery
+, 
+i 
+usually 
+justify UnrelEv_grocery
+it 
+to 
+myself 
+. 
+so 
+, 
+we 
+get+into ScrEv_wait
+the 
+check 
+out 
+line 
+and 
+of 
+course 
+i 
+have 
+to 
+tell RelNScrEv_grocery
+my 
+oldest 
+child 
+we 
+ca 
+n't 
+get ScrEv_get_groceries
+every 
+candy 
+he 
+sees UnrelEv_grocery
+in 
+the 
+aisle 
+while 
+we 
+are 
+waiting ScrEv_wait
+. 
+after 
+we 
+check+out ScrEv_pay
+, 
+we 
+go+outside ScrEv_leave
+and 
+i 
+get RelNScrEv_grocery
+the 
+kiddos 
+in 
+first 
+. 
+then 
+to 
+bring UnrelEv_grocery
+our 
+shopping 
+trip 
+to 
+an 
+end 
+, 
+i 
+puzzle+piece ScrEv_bring_vehicle
+everything 
+into 
+the 
+back 
+of 
+our 
+car 
+and 
+return ScrEv_return_shop_cart
+the 
+cart 
+. 
+<end_of_story>_grocery 
+going+grocery+shopping Evoking_grocery
+is UnrelEv_grocery
+a 
+routine 
+task 
+for 
+most 
+people 
+. 
+as 
+most 
+groceries 
+nearby 
+now 
+require UnrelEv_grocery
+the 
+use 
+of 
+reusable UnrelEv_grocery
+tote 
+bags 
+rather 
+than 
+offering RelNScrEv_grocery
+paper 
+or 
+plastic 
+bags 
+, 
+the 
+trip 
+usually 
+begins UnrelEv_grocery
+at 
+home 
+with 
+remembering UnrelEv_grocery
+to 
+take+along ScrEv_take_bags
+a 
+tote 
+or 
+two 
+. 
+i 
+begin UnrelEv_grocery
+my 
+trip 
+by 
+starting+down ScrEv_move_section
+the 
+aisle 
+to 
+either 
+the 
+far 
+right 
+or 
+left 
+and 
+continuing ScrEv_move_section
+from 
+there 
+. 
+if 
+the 
+store 
+offers RelNScrEv_grocery
+an 
+ad 
+at 
+the 
+door 
+i 
+will 
+usually 
+pick RelNScrEv_grocery
+one 
+up 
+and 
+decide RelNScrEv_grocery
+if 
+there 
+are UnrelEv_grocery
+any 
+deals 
+i 
+wish UnrelEv_grocery
+to 
+take Unclear_grocery
+advantage 
+of 
+. 
+keeping RelNScrEv_grocery
+an 
+eye 
+on 
+my 
+spending ScrEv_pay
+is UnrelEv_grocery
+importnat 
+, 
+as 
+grocery 
+expenses 
+can 
+add+up ScrEv_pay
+quickly 
+. 
+if 
+i 
+am 
+doing+major+shopping Evoking_grocery
+i 
+will 
+use ScrEv_take_shop_cart
+a 
+cart 
+, 
+but 
+if 
+i 
+'m 
+just 
+stopping+for+a+few+items Evoking_grocery
+, 
+a 
+hand 
+basket 
+will 
+suffice RelNScrEv_grocery
+. 
+when 
+paying ScrEv_pay
+for 
+my 
+items 
+i 
+do UnrelEv_grocery
+my 
+best 
+to 
+find RelNScrEv_grocery
+the 
+shortest 
+line 
+with 
+the 
+fastest 
+checker 
+so 
+i 
+can 
+be+in ScrEv_wait
+and 
+out 
+as 
+quickly 
+as 
+possible 
+. 
+<end_of_story>_grocery 
+after 
+breakfast 
+i 
+got UnrelEv_grocery
+in 
+my 
+car 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+to 
+buy+food Evoking_grocery
+for 
+the 
+next 
+several 
+days 
+. 
+i 
+like UnrelEv_grocery
+to 
+walk UnrelEv_grocery
+so 
+i 
+parked RelNScrEv_grocery
+in 
+the 
+back 
+row 
+of 
+the 
+parking 
+lot 
+. 
+i 
+walked ScrEv_enter
+in 
+the 
+store 
+and 
+selected ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+that 
+did 
+n't 
+have 
+stuck RelNScrEv_grocery
+wheels 
+. 
+as 
+i 
+normally 
+do UnrelEv_grocery
+i 
+first 
+proceeded ScrEv_move_section
+to 
+the 
+deli 
+department 
+and 
+got RelNScrEv_grocery
+a 
+number 
+. 
+since 
+there 
+were UnrelEv_grocery
+several 
+people 
+in 
+front 
+of 
+me 
+i 
+started UnrelEv_grocery
+my 
+shopping Evoking_grocery
+near 
+the 
+deli 
+. 
+i 
+picked ScrEv_get_groceries
+some 
+fresh 
+produce 
+and 
+vegetables 
+until 
+my 
+number 
+was 
+called RelNScrEv_grocery
+. 
+at 
+the 
+deli 
+i 
+purchased ScrEv_get_groceries
+ham 
+, 
+cheese 
+and 
+salami 
+. 
+i 
+picked+up ScrEv_get_groceries
+a 
+whole 
+chicken 
+and 
+a 
+steak 
+, 
+the 
+steak 
+would 
+be UnrelEv_grocery
+for 
+tonight 
+the 
+chicken 
+for 
+a 
+few 
+days 
+. 
+i 
+picked+up ScrEv_get_groceries
+stuffing 
+and 
+gravy 
+for 
+the 
+chicken 
+. 
+i 
+browsed ScrEv_move_section
+through 
+the 
+isles 
+selecting ScrEv_get_groceries
+various 
+items 
+that 
+i 
+did 
+n't 
+really 
+need RelNScrEv_grocery
+. 
+as 
+i 
+proceeded ScrEv_go_checkout
+to 
+the 
+checkout 
+there 
+was UnrelEv_grocery
+a 
+sale 
+isle 
+which 
+i 
+picked+up ScrEv_get_groceries
+a 
+few 
+more 
+items 
+. 
+i 
+paid ScrEv_pay
+for 
+my 
+groceries 
+and 
+walked+back ScrEv_bring_vehicle
+to 
+my 
+car 
+, 
+placing ScrEv_bring_vehicle
+the 
+bags 
+in 
+the 
+car 
+and 
+drove ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+one 
+day 
+i 
+noticed UnrelEv_grocery
+that 
+i 
+was 
+running+out RelNScrEv_grocery
+of 
+food 
+and 
+needed 
+to 
+go+grocery+shopping Evoking_grocery
+. 
+i 
+drove+down ScrEv_go_grocery
+to 
+sams 
+club 
+and 
+showed RelNScrEv_grocery
+the 
+man 
+my 
+card 
+, 
+got ScrEv_take_shop_cart
+my 
+shopping 
+cart 
+, 
+and 
+was UnrelEv_grocery
+on 
+my 
+way 
+to 
+get ScrEv_get_groceries
+my 
+things 
+. 
+i 
+went ScrEv_move_section
+through 
+the 
+aisles 
+picking+up ScrEv_get_groceries
+everything 
+i 
+needed RelNScrEv_grocery
+. 
+steaks 
+, 
+milk 
+, 
+eggs 
+, 
+pizza 
+, 
+bread 
+, 
+all 
+the 
+usual 
+things 
+. 
+i 
+also 
+stopped UnrelEv_grocery
+along 
+the 
+way 
+and 
+tried RelNScrEv_grocery
+some 
+of 
+the 
+free 
+samples 
+they 
+had UnrelEv_grocery
+in 
+the 
+store 
+. 
+the 
+ice 
+cream 
+sandwich 
+i 
+tried RelNScrEv_grocery
+was UnrelEv_grocery
+so 
+good 
+i 
+ended+up UnrelEv_grocery
+getting ScrEv_get_groceries
+a 
+box 
+even 
+though 
+it 
+was UnrelEv_grocery
+not 
+on 
+my 
+list 
+. 
+i 
+guess UnrelEv_grocery
+their 
+sales 
+pitch 
+worked UnrelEv_grocery
+. 
+after 
+i 
+had RelNScrEv_grocery
+everything 
+that 
+i 
+needed RelNScrEv_grocery
+i 
+took ScrEv_go_checkout
+my 
+cart 
+to 
+the 
+register 
+and 
+waited ScrEv_wait
+in 
+line 
+to 
+get UnrelEv_grocery
+checked+out ScrEv_pay
+. 
+i 
+put ScrEv_put_conveyor
+all 
+my 
+items 
+on 
+the 
+belt 
+and 
+got UnrelEv_grocery
+rung+up ScrEv_cashier_scan/weight
+by 
+the 
+cashier 
+. 
+i 
+then 
+paid ScrEv_pay
+the 
+woman 
+and 
+left ScrEv_leave
+the 
+store 
+. 
+on 
+the 
+way 
+out 
+i 
+decided UnrelEv_grocery
+to 
+rent UnrelEv_grocery
+a 
+redbox 
+movie 
+for 
+the 
+night 
+since 
+the 
+kiosk 
+was UnrelEv_grocery
+right 
+by 
+the 
+store 
+. 
+<end_of_story>_grocery 
+every 
+sunday 
+night 
+, 
+i 
+make ScrEv_go_grocery
+the 
+weekly 
+trip 
+to 
+the 
+grocery 
+store 
+. 
+i 
+usually 
+do RelNScrEv_grocery
+the 
+majority 
+of 
+my 
+grocery+shopping Evoking_grocery
+at 
+the 
+local 
+supermarket 
+because 
+the 
+location 
+is UnrelEv_grocery
+convenient 
+and 
+the 
+prices 
+are UnrelEv_grocery
+good 
+. 
+before 
+heading ScrEv_go_grocery
+to 
+the 
+store 
+, 
+i 
+always 
+go+through RelNScrEv_grocery
+my 
+freezer 
+, 
+fridge 
+, 
+and 
+cupboards 
+to 
+see UnrelEv_grocery
+what 
+i 
+need RelNScrEv_grocery
+or 
+am 
+getting+low RelNScrEv_grocery
+on 
+. 
+i 
+then 
+note ScrEv_make_list
+everything 
+that 
+i 
+need RelNScrEv_grocery
+in 
+my 
+shopping 
+list 
+app 
+on 
+my 
+cellphone 
+. 
+after 
+arriving ScrEv_go_grocery
+at 
+the 
+store 
+, 
+i 
+always 
+get ScrEv_get_groceries
+produce 
+first 
+. 
+then 
+i 
+make UnrelEv_grocery
+my 
+around 
+to 
+grab ScrEv_get_groceries
+any 
+dry 
+goods 
+that 
+i 
+need RelNScrEv_grocery
+, 
+and 
+then 
+get ScrEv_get_groceries
+anything 
+that 
+needs UnrelEv_grocery
+to 
+be 
+be UnrelEv_grocery
+in 
+the 
+fridge 
+or 
+freezer 
+last 
+so 
+that 
+they 
+wo 
+n't 
+be+out UnrelEv_grocery
+at 
+room 
+temp 
+for 
+too 
+long 
+. 
+after 
+i 
+get ScrEv_get_groceries
+everything 
+i 
+need RelNScrEv_grocery
+, 
+i 
+head ScrEv_go_checkout
+to 
+the 
+self-check 
+out 
+. 
+after 
+paying ScrEv_pay
+for 
+my 
+groceries 
+and 
+load ScrEv_bring_vehicle
+them 
+into 
+my 
+car 
+, 
+i 
+drive ScrEv_leave
+home 
+. 
+once 
+i 
+arrive RelNScrEv_grocery
+home 
+, 
+i 
+put RelNScrEv_grocery
+all 
+of 
+the 
+groceries 
+away 
+where 
+they 
+belong UnrelEv_grocery
+. 
+<end_of_story>_grocery 
+we 
+were RelNScrEv_grocery
+all 
+out 
+of 
+food 
+for 
+the 
+week 
+, 
+so 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+to 
+pick+up+some+supplies Evoking_grocery
+. 
+i 
+entered ScrEv_enter
+the 
+store 
+and 
+grabbed ScrEv_take_shop_cart
+a 
+grocery 
+cart 
+, 
+wheeling+down ScrEv_move_section
+the 
+aisle 
+before 
+me 
+. 
+i 
+started UnrelEv_grocery
+by 
+grabbing ScrEv_get_groceries
+some 
+fresh 
+fruits 
+and 
+vegetables 
+- 
+apples 
+, 
+lettuce 
+, 
+carrots 
+and 
+celery 
+. 
+then 
+i 
+went ScrEv_move_section
+on 
+the 
+dairy 
+aisle 
+. 
+i 
+got ScrEv_get_groceries
+a 
+gallon 
+of 
+milk 
+and 
+a 
+dozen 
+eggs 
+. 
+then 
+i 
+decided UnrelEv_grocery
+to 
+get ScrEv_get_groceries
+some 
+lunch 
+eat 
+, 
+so 
+i 
+got ScrEv_get_groceries
+a 
+package 
+of 
+ham 
+and 
+a 
+package 
+of 
+turkey 
+. 
+i 
+would 
+need RelNScrEv_grocery
+bread 
+, 
+so 
+i 
+went ScrEv_move_section
+to 
+the 
+bread 
+aisle 
+and 
+got ScrEv_get_groceries
+a 
+loaf 
+of 
+whole 
+wheat 
+. 
+finally 
+, 
+i 
+grabbed ScrEv_get_groceries
+a 
+box 
+of 
+cereal 
+- 
+corn 
+flakes 
+, 
+my 
+favorite 
+. 
+i 
+wheeled ScrEv_go_checkout
+my 
+cart 
+to 
+the 
+checkout 
+and 
+put ScrEv_put_conveyor
+my 
+groceries 
+on 
+the 
+small 
+conveyor 
+belt 
+. 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+each 
+item 
+and 
+then 
+read ScrEv_pay
+my 
+total 
+: 
+$ 
+523 
+. 
+i 
+gave ScrEv_pay
+her 
+two 
+twenty 
+dollar 
+bills 
+, 
+two 
+quarters 
+and 
+two 
+pennies 
+. 
+she 
+gave ScrEv_get_receipt
+me 
+a 
+receipt 
+, 
+put ScrEv_pack_groceries
+my 
+food 
+into 
+two 
+plastic 
+bags 
+. 
+i 
+grabbed RelNScrEv_grocery
+them 
+and 
+was ScrEv_leave
+on 
+my 
+way 
+. 
+<end_of_story>_grocery 
+i 
+do UnrelEv_grocery
+most 
+of 
+the 
+grocery+shopping Evoking_grocery
+for 
+my 
+family 
+, 
+i 
+really 
+enjoy UnrelEv_grocery
+buying+food Evoking_grocery
+. 
+i 
+went ScrEv_go_grocery
+to 
+the 
+grocery 
+and 
+started ScrEv_move_section
+with 
+the 
+produce 
+section 
+. 
+it 
+'s UnrelEv_grocery
+pleasant 
+to 
+see UnrelEv_grocery
+all 
+the 
+fresh 
+greenery 
+and 
+ripe 
+fruit 
+on 
+display 
+. 
+i 
+picked+out ScrEv_get_groceries
+a 
+bunch 
+of 
+asparagus 
+and 
+a 
+bag 
+of 
+minneola 
+oranges 
+. 
+then 
+i 
+moved+on ScrEv_move_section
+to 
+the 
+bread 
+section 
+where 
+i 
+chose ScrEv_get_groceries
+a 
+loaf 
+of 
+wheat 
+bread 
+and 
+a 
+french 
+baguette 
+. 
+i 
+was UnrelEv_grocery
+out 
+of 
+olive 
+oil 
+from 
+cooking UnrelEv_grocery
+rigatoni 
+last 
+week 
+, 
+so 
+i 
+went ScrEv_move_section
+to 
+the 
+oil 
+section 
+. 
+luckily 
+they 
+had UnrelEv_grocery
+my 
+favorite 
+brand 
+, 
+frantoia 
+. 
+i 
+selected ScrEv_get_groceries
+a 
+bottle 
+and 
+went+on ScrEv_move_section
+. 
+during 
+the 
+rest 
+of 
+the 
+trip 
+, 
+i 
+bought ScrEv_get_groceries
+meat 
+, 
+cereal 
+, 
+milk 
+, 
+eggs 
+, 
+freezer 
+bags 
+and 
+other 
+items 
+. 
+when 
+i 
+was 
+finished UnrelEv_grocery
+i 
+went ScrEv_go_checkout
+to 
+the 
+cashier 
+and 
+had UnrelEv_grocery
+my 
+purchases 
+rung+up ScrEv_cashier_scan/weight
+. 
+the 
+total 
+bill 
+was RelNScrEv_grocery
+$ 
+523 
+. 
+i 
+handed ScrEv_pay
+the 
+cashier 
+a 
+523 
+dollar 
+bill 
+, 
+and 
+received ScrEv_pay
+change 
+of 
+$ 
+523 
+. 
+my 
+grocery+shopping Evoking_grocery
+was 
+finished UnrelEv_grocery
+for 
+the 
+day 
+. 
+<end_of_story>_grocery 
+this 
+morning 
+, 
+i 
+went+to+the+grocery+store Evoking_grocery
+to 
+pick+up ScrEv_get_groceries
+some 
+food 
+. 
+i 
+got ScrEv_take_shop_cart
+a 
+grocery 
+cart 
+and 
+walked ScrEv_enter
+in 
+the 
+store 
+. 
+i 
+looked RelNScrEv_grocery
+at 
+the 
+sales 
+that 
+were 
+advertised RelNScrEv_grocery
+in 
+the 
+front 
+of 
+the 
+store 
+. 
+luckily 
+, 
+i 
+saw UnrelEv_grocery
+that 
+carrots 
+were RelNScrEv_grocery
+on 
+sale 
+, 
+which 
+was UnrelEv_grocery
+good 
+because 
+i 
+needed 
+to 
+buy RelNScrEv_grocery
+carrots 
+. 
+i 
+walked ScrEv_move_section
+to 
+the 
+produce 
+section 
+and 
+located ScrEv_get_groceries
+the 
+carrots 
+. 
+i 
+also 
+picked ScrEv_get_groceries
+up 
+some 
+pineapple 
+, 
+oranges 
+, 
+apples 
+, 
+and 
+broccoli 
+from 
+the 
+produce 
+section 
+. 
+i 
+walked+over ScrEv_move_section
+to 
+the 
+dry 
+goods 
+and 
+selected ScrEv_get_groceries
+some 
+chicken 
+noodle 
+soup 
+and 
+spaghetti 
+sauce 
+from 
+the 
+shelf 
+. 
+i 
+remembered UnrelEv_grocery
+that 
+i 
+also 
+needed RelNScrEv_grocery
+some 
+milk 
+, 
+so 
+i 
+walked ScrEv_move_section
+to 
+the 
+refrigerator 
+area 
+, 
+opened ScrEv_other_grocery
+the 
+case 
+, 
+and 
+selected ScrEv_get_groceries
+low-fat 
+milk 
+. 
+as 
+i 
+was 
+walking ScrEv_move_section
+to 
+the 
+register 
+, 
+i 
+passed ScrEv_move_section
+the 
+yogurt 
+and 
+decided UnrelEv_grocery
+to 
+buy ScrEv_get_groceries
+a 
+few 
+cartons 
+of 
+yogurt 
+as 
+well 
+. 
+i 
+walked ScrEv_move_section
+to 
+the 
+register 
+and 
+waited ScrEv_wait
+in 
+line 
+to 
+pay ScrEv_pay
+. 
+when 
+i 
+reached RelNScrEv_grocery
+the 
+front 
+of 
+the 
+line 
+, 
+i 
+greeted RelNScrEv_grocery
+the 
+cashier 
+while 
+she 
+rang+up ScrEv_cashier_scan/weight
+my 
+food 
+items 
+. 
+i 
+gave ScrEv_pay
+the 
+cashier 
+the 
+money 
+to 
+purchase ScrEv_pay
+my 
+food 
+and 
+left ScrEv_leave
+the 
+grocery 
+store 
+with 
+my 
+bags 
+in 
+my 
+hands 
+. 
+<end_of_story>_grocery 
+i 
+love UnrelEv_grocery
+to 
+save RelNScrEv_grocery
+money 
+everywhere 
+i 
+can 
+, 
+a 
+penny 
+saved RelNScrEv_grocery
+a 
+penny 
+earned UnrelEv_grocery
+kind 
+of 
+philosophy 
+. 
+so 
+when 
+i 
+analyzed UnrelEv_grocery
+our 
+finances 
+i 
+saw UnrelEv_grocery
+we 
+could 
+save RelNScrEv_grocery
+a 
+considerable 
+amount 
+of 
+money 
+by 
+doing+more+grocery+shopping Evoking_grocery
+. 
+i 
+set+up UnrelEv_grocery
+our 
+strategy 
+to 
+go ScrEv_go_grocery
+every 
+weekend 
+and 
+budget UnrelEv_grocery
+about 
+523 
+dollars 
+for 
+the 
+two 
+of 
+us 
+each 
+week 
+. 
+we 
+like UnrelEv_grocery
+to 
+go ScrEv_go_grocery
+to 
+publix 
+. 
+we 
+will 
+start+off UnrelEv_grocery
+buying ScrEv_get_groceries
+produce 
+, 
+fruits 
+and 
+vegetables 
+and 
+such 
+. 
+then 
+we 
+move+over ScrEv_move_section
+and 
+look+for RelNScrEv_grocery
+the 
+best 
+deals 
+on 
+meat 
+. 
+we 
+usually 
+get ScrEv_get_groceries
+fish 
+, 
+beef 
+, 
+chicken 
+and 
+pork 
+. 
+next 
+we 
+'ll 
+head ScrEv_move_section
+over 
+towards 
+dairy 
+and 
+eggs 
+. 
+i 
+like UnrelEv_grocery
+to 
+get ScrEv_get_groceries
+the 
+523 
+packs 
+of 
+eggs 
+. 
+they 
+are UnrelEv_grocery
+protein 
+loaded UnrelEv_grocery
+and 
+super 
+cheap 
+. 
+i 
+'ll 
+pick+up ScrEv_get_groceries
+some 
+cottage 
+cheese 
+and 
+about 
+523 
+to 
+523 
+pounds 
+of 
+cheese 
+. 
+we 
+then 
+get ScrEv_get_groceries
+a 
+couple 
+of 
+things 
+out 
+of 
+the 
+frozen 
+section 
+. 
+<end_of_story>_grocery 
+as 
+i 
+was+about UnrelEv_grocery
+to 
+leave+for+the+grocery+store UnrelEv_grocery
+, 
+i 
+reminded ScrEv_take_bags
+myself 
+not 
+to 
+forget UnrelEv_grocery
+my 
+reusable 
+shopping 
+bags 
+. 
+i 
+am 
+interested UnrelEv_grocery
+in 
+preserving 
+our 
+environment 
+, 
+so 
+i 
+avoid RelNScrEv_grocery
+paper 
+or 
+plastic 
+bags 
+. 
+my 
+market 
+is UnrelEv_grocery
+just 
+up 
+the 
+street 
+, 
+so 
+i 
+use UnrelEv_grocery
+a 
+hand 
+trolley 
+to 
+bring RelNScrEv_grocery
+everything 
+home 
+. 
+i 
+took UnrelEv_grocery
+that 
+from 
+the 
+closet 
+, 
+and 
+headed ScrEv_go_grocery
+out 
+the 
+door 
+. 
+the 
+air 
+was UnrelEv_grocery
+fresh 
+and 
+i 
+enjoyed UnrelEv_grocery
+the 
+walk 
+. 
+when 
+i 
+entered ScrEv_enter
+the 
+market 
+, 
+i 
+chose ScrEv_take_shop_cart
+a 
+cart 
+, 
+and 
+hung RelNScrEv_grocery
+my 
+hand 
+trolley 
+from 
+the 
+far 
+end 
+. 
+taking ScrEv_move_section
+each 
+lane 
+of 
+the 
+market 
+one 
+by 
+one 
+, 
+i 
+checked ScrEv_check_list
+my 
+list 
+, 
+and 
+gathered ScrEv_get_groceries
+the 
+dry 
+and 
+canned 
+goods 
+i 
+needed RelNScrEv_grocery
+from 
+the 
+shelves 
+. 
+i 
+even 
+decided+on ScrEv_get_groceries
+a 
+few 
+extras 
+, 
+as 
+a 
+treat 
+. 
+making ScrEv_move_section
+a 
+loop 
+around 
+the 
+outer 
+edges 
+of 
+the 
+store 
+, 
+i 
+visited ScrEv_move_section
+the 
+bakery 
+, 
+butcher 
+, 
+and 
+deli 
+as 
+well 
+. 
+by 
+now 
+, 
+the 
+idea 
+of 
+getting UnrelEv_grocery
+home 
+, 
+and 
+making UnrelEv_grocery
+lunch 
+with 
+some 
+of 
+the 
+deli 
+meat 
+and 
+cheese 
+i 
+had 
+just 
+chosen RelNScrEv_grocery
+, 
+seemed UnrelEv_grocery
+like 
+a 
+lovely 
+idea 
+. 
+i 
+made ScrEv_go_checkout
+my 
+way 
+to 
+the 
+cashier 
+, 
+and 
+was UnrelEv_grocery
+happy 
+to 
+see UnrelEv_grocery
+the 
+line 
+was RelNScrEv_grocery
+very 
+short 
+. 
+as 
+i 
+waited ScrEv_wait
+, 
+i 
+pulled RelNScrEv_grocery
+the 
+coupons 
+from 
+my 
+wallet 
+that 
+applied UnrelEv_grocery
+to 
+my 
+purchases 
+, 
+so 
+i 
+could 
+give ScrEv_other_grocery
+them 
+to 
+the 
+cashier 
+right 
+off 
+. 
+as 
+she 
+ran ScrEv_cashier_scan/weight
+my 
+items 
+across 
+the 
+scanner 
+, 
+i 
+let RelNScrEv_grocery
+her 
+know UnrelEv_grocery
+i 
+had UnrelEv_grocery
+my 
+own 
+bags 
+, 
+and 
+proceeded UnrelEv_grocery
+to 
+bag ScrEv_pack_groceries
+everything 
+in 
+an 
+organized 
+way 
+, 
+to 
+hang ScrEv_pack_groceries
+on 
+my 
+hand 
+trolley 
+. 
+having 
+finally 
+paid ScrEv_pay
+, 
+i 
+rolled+out ScrEv_leave
+of 
+the 
+store 
+with 
+a 
+smile 
+and 
+a 
+wave 
+. 
+<end_of_story>_grocery 
+on 
+last 
+sunday 
+morning 
+my 
+wife 
+woke UnrelEv_grocery
+me 
+up 
+and 
+told UnrelEv_grocery
+me 
+its 
+523 
+o'clock 
+and 
+time 
+to 
+to 
+get+up UnrelEv_grocery
+. 
+but 
+i 
+was UnrelEv_grocery
+very 
+lazy 
+on 
+that 
+day 
+and 
+i 
+want UnrelEv_grocery
+to 
+spend UnrelEv_grocery
+some 
+more 
+time 
+on 
+bed 
+. 
+i 
+asked UnrelEv_grocery
+my 
+wife 
+to 
+get 
+me 
+some 
+coffee 
+. 
+she 
+brought UnrelEv_grocery
+a 
+very 
+tasty 
+hot 
+coffee 
+. 
+its 
+aroma 
+is 
+spreading UnrelEv_grocery
+everywhere 
+in 
+my 
+room 
+. 
+after 
+having UnrelEv_grocery
+the 
+coffee 
+i 
+got+up UnrelEv_grocery
+and 
+took UnrelEv_grocery
+a 
+good 
+shower 
+. 
+that 
+time 
+my 
+wife 
+prepared UnrelEv_grocery
+breakfast 
+for 
+me 
+. 
+so 
+i 
+had UnrelEv_grocery
+my 
+breakfast 
+and 
+spent UnrelEv_grocery
+some 
+time 
+for 
+reading UnrelEv_grocery
+news 
+online 
+. 
+then 
+my 
+wife 
+came UnrelEv_grocery
+to 
+me 
+and 
+asked UnrelEv_grocery
+what 
+is UnrelEv_grocery
+my 
+plan 
+for 
+our 
+son 
+'s 
+birthday 
+. 
+i 
+told UnrelEv_grocery
+her 
+, 
+'' 
+`` 
+oh 
+! 
+i 
+forgot UnrelEv_grocery
+. 
+we 
+have 
+to 
+plan UnrelEv_grocery
+something 
+. 
+that 
+is UnrelEv_grocery
+on 
+next 
+saturday 
+'' 
+'' 
+. 
+at 
+last 
+i 
+reached UnrelEv_grocery
+a 
+conclusion 
+that 
+this 
+time 
+i 
+cook UnrelEv_grocery
+food 
+by 
+myself 
+. 
+so 
+we 
+need 
+to 
+make ScrEv_make_list
+a 
+list 
+for 
+groceries 
+for 
+that 
+. 
+my 
+wife 
+helped UnrelEv_grocery
+me 
+to 
+prepare ScrEv_make_list
+a 
+list 
+. 
+these 
+days 
+groceries 
+are RelNScrEv_grocery
+very 
+pricey 
+. 
+so 
+i 
+checked ScrEv_other_grocery
+the 
+deals 
+online 
+. 
+at 
+last 
+i 
+found RelNScrEv_grocery
+good 
+deals 
+in 
+a 
+grocery 
+shop 
+near 
+my 
+house 
+. 
+so 
+me 
+and 
+my 
+son 
+went ScrEv_go_grocery
+to 
+the 
+shop 
+. 
+my 
+son 
+likes UnrelEv_grocery
+grocery+shopping Evoking_grocery
+very 
+much 
+. 
+when 
+we 
+reached ScrEv_go_grocery
+the 
+grocery 
+shop 
+, 
+i 
+asked 
+my 
+son 
+to 
+sit RelNScrEv_grocery
+in 
+the 
+cart 
+. 
+while 
+we 
+were 
+moving ScrEv_move_section
+inside 
+the 
+shop 
+, 
+i 
+felt UnrelEv_grocery
+happy 
+by 
+seeing 
+the 
+deals 
+of 
+the 
+day 
+. 
+most 
+of 
+the 
+groceries 
+in 
+my 
+list 
+are RelNScrEv_grocery
+on 
+sale 
+. 
+i 
+bought RelNScrEv_grocery
+almost 
+everything 
+in 
+my 
+list 
+. 
+i 
+saved RelNScrEv_grocery
+a 
+lot 
+on 
+that 
+day 
+because 
+of 
+the 
+deal 
+. 
+after 
+paying ScrEv_pay
+the 
+bill 
+, 
+we 
+went+out ScrEv_bring_vehicle
+of 
+the 
+shop 
+and 
+kept UnrelEv_grocery
+everything 
+inside 
+the 
+car 
+and 
+left ScrEv_leave
+to 
+home 
+. 
+<end_of_story>_grocery 
+i 
+was 
+going 
+to 
+make UnrelEv_grocery
+dinner 
+on 
+sunday 
+, 
+so 
+i 
+needed 
+to 
+go+grocery+shopping Evoking_grocery
+. 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+items 
+i 
+needed RelNScrEv_grocery
+. 
+i 
+got UnrelEv_grocery
+in 
+my 
+car 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+. 
+i 
+entered ScrEv_enter
+the 
+store 
+and 
+got ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+to 
+put ScrEv_other_grocery
+all 
+of 
+my 
+food 
+items 
+inside 
+. 
+i 
+got RelNScrEv_grocery
+out 
+my 
+list 
+and 
+found ScrEv_get_groceries
+all 
+the 
+items 
+i 
+needed RelNScrEv_grocery
+and 
+put ScrEv_get_groceries
+them 
+in 
+my 
+cart 
+. 
+when 
+i 
+was 
+done UnrelEv_grocery
+getting ScrEv_get_groceries
+everything 
+i 
+stood ScrEv_wait
+in 
+line 
+to 
+check+out ScrEv_other_grocery
+. 
+i 
+put ScrEv_put_conveyor
+my 
+food 
+on 
+the 
+conveyor 
+belt 
+and 
+the 
+cashier 
+rung+up ScrEv_cashier_scan/weight
+my 
+items 
+. 
+she 
+told RelNScrEv_grocery
+me 
+the 
+total 
+cost 
+of 
+all 
+of 
+the 
+items 
+. 
+i 
+got+out ScrEv_other_grocery
+my 
+wallet 
+and 
+took+out RelNScrEv_grocery
+the 
+appropriate 
+money 
+and 
+paid ScrEv_pay
+the 
+bill 
+. 
+the 
+bag 
+boy 
+put ScrEv_pack_groceries
+all 
+of 
+my 
+bags 
+into 
+my 
+shopping 
+cart 
+. 
+i 
+left ScrEv_leave
+the 
+store 
+and 
+unloaded ScrEv_bring_vehicle
+all 
+of 
+my 
+goods 
+into 
+the 
+trunk 
+of 
+my 
+car 
+and 
+drove UnrelEv_grocery
+home 
+. 
+<end_of_story>_grocery 
+today 
+, 
+i 
+will 
+go+grocery+shopping Evoking_grocery
+with 
+my 
+six 
+year 
+old 
+grandson 
+. 
+bryan 
+loves UnrelEv_grocery
+to 
+help 
+grandma 
+go+to+the+grocery+store Evoking_grocery
+. 
+today 
+we 
+will 
+be 
+buying RelNScrEv_grocery
+some 
+of 
+bryan 
+'s 
+favorite 
+foods 
+like 
+cherry 
+tomatoes 
+and 
+grapes 
+. 
+we 
+also 
+need RelNScrEv_grocery
+milk 
+and 
+bread 
+and 
+some 
+kind 
+of 
+meat 
+for 
+supper 
+. 
+we 
+will 
+be 
+making UnrelEv_grocery
+hamburgers 
+for 
+supper 
+so 
+we 
+also 
+need 
+to 
+buy RelNScrEv_grocery
+hamburger 
+buns 
+. 
+bryan 
+likes UnrelEv_grocery
+to 
+push RelNScrEv_grocery
+the 
+shopping 
+cart 
+but 
+when 
+you 
+are 
+driving RelNScrEv_grocery
+the 
+shopping 
+cart 
+you 
+have 
+too 
+look+out UnrelEv_grocery
+for 
+other 
+people 
+so 
+you 
+do 
+not 
+bump UnrelEv_grocery
+into 
+them 
+. 
+i 
+let UnrelEv_grocery
+bryan 
+go+down ScrEv_move_section
+the 
+bread 
+isle 
+to 
+find 
+the 
+two 
+things 
+that 
+we 
+need RelNScrEv_grocery
+, 
+bread 
+and 
+hamburger 
+buns 
+. 
+bryan 
+likes UnrelEv_grocery
+looking+for ScrEv_get_groceries
+things 
+on 
+the 
+shelves 
+and 
+putting ScrEv_get_groceries
+them 
+in 
+the 
+cart 
+. 
+we 
+also 
+go ScrEv_move_section
+to 
+the 
+meat 
+department 
+to 
+look ScrEv_get_groceries
+for 
+the 
+hamburger 
+. 
+when 
+we 
+have UnrelEv_grocery
+everything 
+that 
+we 
+need RelNScrEv_grocery
+for 
+supper 
+it 
+is UnrelEv_grocery
+time 
+to 
+go ScrEv_move_section
+to 
+the 
+check-out 
+and 
+pay ScrEv_pay
+for 
+our 
+food 
+, 
+bryan 
+is UnrelEv_grocery
+a 
+big 
+helper 
+by 
+putting ScrEv_put_conveyor
+the 
+food 
+up 
+on 
+the 
+counter 
+for 
+the 
+cashier 
+so 
+they 
+can 
+see UnrelEv_grocery
+what 
+we 
+have UnrelEv_grocery
+and 
+put ScrEv_pack_groceries
+it 
+in 
+the 
+bags 
+for 
+us 
+to 
+take RelNScrEv_grocery
+home 
+. 
+this 
+has UnrelEv_grocery
+been 
+a 
+great 
+adventure 
+going+to+the+store Evoking_grocery
+with 
+grandma 
+. 
+<end_of_story>_grocery 
+we 
+were 
+starting UnrelEv_grocery
+to 
+run+out UnrelEv_grocery
+of 
+food 
+so 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+food 
+items 
+we 
+were UnrelEv_grocery
+out 
+of 
+this 
+morning 
+. 
+i 
+put UnrelEv_grocery
+on 
+my 
+jacket 
+and 
+shoes 
+, 
+grabbed UnrelEv_grocery
+my 
+keys 
+and 
+left UnrelEv_grocery
+the 
+house 
+. 
+i 
+started UnrelEv_grocery
+my 
+car 
+and 
+decided UnrelEv_grocery
+to 
+drive+to+fred+meyer+'s+,+an+excellent+grocery+store Evoking_grocery
+. 
+i 
+arrived ScrEv_go_grocery
+at 
+fred 
+meyer 
+'s 
+and 
+walked+through ScrEv_enter
+the 
+cold 
+wind 
+and 
+into 
+the 
+safety 
+of 
+the 
+store 
+. 
+there 
+were UnrelEv_grocery
+n't 
+a 
+lot 
+of 
+shoppers 
+around 
+thanks 
+to 
+the 
+weather 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+hand 
+basket 
+and 
+proceeded ScrEv_move_section
+to 
+the 
+produce 
+section 
+first 
+for 
+apples 
+, 
+bananas 
+and 
+potatoes 
+. 
+after 
+that 
+i 
+went ScrEv_move_section
+to 
+the 
+bread 
+section 
+and 
+got ScrEv_get_groceries
+english 
+muffins 
+and 
+a 
+loaf 
+of 
+wheat 
+bread 
+. 
+next 
+i 
+proceeded ScrEv_move_section
+to 
+the 
+frozen 
+food 
+section 
+for 
+a 
+frozen 
+pizza 
+. 
+the 
+basket 
+was 
+starting UnrelEv_grocery
+to 
+get UnrelEv_grocery
+full 
+and 
+heavy 
+but 
+i 
+only 
+had UnrelEv_grocery
+two 
+more 
+items 
+left 
+: 
+milk 
+and 
+cheese 
+. 
+i 
+headed ScrEv_move_section
+for 
+the 
+dairy 
+section 
+, 
+acquired ScrEv_get_groceries
+my 
+last 
+few 
+items 
+and 
+proceeded ScrEv_move_section
+to 
+checkout 
+. 
+despite 
+the 
+store 
+being UnrelEv_grocery
+not 
+very 
+busy 
+the 
+traditional 
+checkout 
+lines 
+were RelNScrEv_grocery
+all 
+full 
+so 
+i 
+used ScrEv_pay
+the 
+self-checkout 
+. 
+i 
+got ScrEv_pay
+my 
+receipt 
+and 
+my 
+bagged ScrEv_pack_groceries
+items 
+and 
+headed ScrEv_leave
+home 
+to 
+cook UnrelEv_grocery
+lunch 
+. 
+<end_of_story>_grocery 
+i 
+was 
+running UnrelEv_grocery
+low 
+on 
+food 
+, 
+so 
+i 
+decided UnrelEv_grocery
+to 
+take+a+trip+to+the+grocery+store Evoking_grocery
+. 
+first 
+i 
+wrote+down ScrEv_make_list
+a 
+list 
+of 
+everything 
+i 
+would 
+need UnrelEv_grocery
+. 
+then 
+i 
+hopped UnrelEv_grocery
+in 
+my 
+car 
+and 
+drove+over ScrEv_go_grocery
+there 
+. 
+i 
+parked RelNScrEv_grocery
+where 
+i 
+could 
+find UnrelEv_grocery
+a 
+space 
+and 
+headed ScrEv_enter
+into 
+the 
+store 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+went+over ScrEv_move_section
+to 
+the 
+bread 
+section 
+. 
+there 
+i 
+picked+out ScrEv_get_groceries
+a 
+good 
+loaf 
+of 
+bread 
+. 
+after 
+that 
+, 
+i 
+looked+at UnrelEv_grocery
+all 
+the 
+fruits 
+and 
+vegetables 
+. 
+i 
+picked+out ScrEv_get_groceries
+a 
+bag 
+of 
+oranges 
+and 
+kept 
+going UnrelEv_grocery
+. 
+there 
+were UnrelEv_grocery
+a 
+few 
+more 
+items 
+on 
+the 
+list 
+, 
+so 
+i 
+found ScrEv_get_groceries
+each 
+one 
+and 
+put ScrEv_get_groceries
+them 
+in 
+my 
+cart 
+. 
+once 
+i 
+finished UnrelEv_grocery
+finding ScrEv_get_groceries
+everything 
+on 
+my 
+list 
+, 
+i 
+went+over ScrEv_move_section
+to 
+the 
+check 
+out 
+lines 
+. 
+i 
+found UnrelEv_grocery
+a 
+line 
+with 
+only 
+one 
+person 
+in 
+front 
+of 
+me 
+, 
+so 
+i 
+waited ScrEv_wait
+there 
+. 
+when 
+it 
+was UnrelEv_grocery
+my 
+turn 
+, 
+i 
+put 
+my 
+items 
+on 
+the 
+conveyor 
+belt 
+. 
+then 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+my 
+items 
+and 
+gave RelNScrEv_grocery
+me 
+a 
+total 
+. 
+i 
+swiped RelNScrEv_grocery
+my 
+credit 
+card 
+and 
+paid ScrEv_pay
+for 
+my 
+items 
+. 
+she 
+then 
+gave ScrEv_get_receipt
+me 
+a 
+receipt 
+, 
+and 
+i 
+took ScrEv_leave
+my 
+cart 
+back 
+to 
+my 
+car 
+. 
+i 
+unloaded ScrEv_other_grocery
+my 
+bags 
+into 
+my 
+car 
+, 
+and 
+put ScrEv_return_shop_cart
+the 
+cart 
+back 
+in 
+the 
+cart 
+corral 
+. 
+finally 
+, 
+i 
+drove UnrelEv_grocery
+home 
+. 
+<end_of_story>_grocery 
+today 
+is UnrelEv_grocery
+the 
+day 
+of 
+the 
+week 
+i 
+usually 
+go+grocery+shopping Evoking_grocery
+. 
+this 
+morning 
+i 
+checked UnrelEv_grocery
+in 
+the 
+refrigerator 
+and 
+threw+out UnrelEv_grocery
+any 
+spoiled UnrelEv_grocery
+food 
+and 
+looked UnrelEv_grocery
+to 
+see UnrelEv_grocery
+what 
+i 
+would 
+need UnrelEv_grocery
+more 
+of 
+this 
+week 
+. 
+i 
+thought 
+about 
+what 
+dinners 
+i 
+would 
+have UnrelEv_grocery
+, 
+and 
+how 
+many 
+packed UnrelEv_grocery
+lunches 
+i 
+would 
+need UnrelEv_grocery
+this 
+week 
+. 
+i 
+started ScrEv_make_list
+a 
+list 
+of 
+things 
+to 
+buy RelNScrEv_grocery
+after 
+planning UnrelEv_grocery
+my 
+meals 
+. 
+the 
+grocery 
+store 
+is UnrelEv_grocery
+nearby 
+so 
+i 
+took ScrEv_take_bags
+my 
+reusable 
+bags 
+and 
+my 
+list 
+and 
+walked ScrEv_go_grocery
+to 
+the 
+store 
+. 
+i 
+got ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+on 
+my 
+way 
+in 
+. 
+i 
+selected ScrEv_get_groceries
+the 
+nonperishables 
+first 
+, 
+then 
+went ScrEv_move_section
+to 
+the 
+produce 
+section 
+, 
+then 
+the 
+refrigerated 
+, 
+and 
+finally 
+the 
+frozen 
+department 
+. 
+i 
+went+through ScrEv_go_checkout
+the 
+self 
+checkout 
+line 
+as 
+it 
+seemed UnrelEv_grocery
+a 
+shorter 
+wait ScrEv_wait
+. 
+after 
+scanning RelNScrEv_grocery
+and 
+placing ScrEv_pack_groceries
+my 
+items 
+in 
+my 
+reusable 
+bags 
+i 
+paid ScrEv_pay
+by 
+sliding RelNScrEv_grocery
+my 
+credit 
+card 
+, 
+and 
+then 
+took ScrEv_get_receipt
+the 
+printed RelNScrEv_grocery
+receipt 
+. 
+<end_of_story>_grocery 
+i 
+rolled UnrelEv_grocery
+my 
+cart 
+out 
+of 
+my 
+apartment 
+and 
+locked UnrelEv_grocery
+my 
+front 
+door 
+. 
+i 
+dragged UnrelEv_grocery
+the 
+empty 
+cart 
+down 
+the 
+stairs 
+and 
+pushed UnrelEv_grocery
+it 
+down 
+the 
+block 
+toward 
+the 
+supermarket 
+. 
+as 
+i 
+walked UnrelEv_grocery
+, 
+i 
+mentally 
+rehearsed UnrelEv_grocery
+some 
+of 
+the 
+items 
+i 
+intended UnrelEv_grocery
+to 
+buy Evoking_grocery
+. 
+i 
+needed RelNScrEv_grocery
+eggs 
+, 
+milk 
+, 
+bread 
+, 
+cookies 
+, 
+and 
+bananas 
+. 
+maybe 
+i 
+would 
+get RelNScrEv_grocery
+a 
+few 
+other 
+things 
+if 
+they 
+looked UnrelEv_grocery
+good 
+. 
+i 
+arrived ScrEv_go_grocery
+at 
+the 
+store 
+and 
+hooked UnrelEv_grocery
+my 
+cart 
+to 
+the 
+store 
+'s 
+larger 
+metal 
+shopping 
+cart 
+. 
+i 
+pushed RelNScrEv_grocery
+it 
+down 
+the 
+aisle 
+. 
+i 
+passed ScrEv_move_section
+the 
+section 
+with 
+the 
+bread 
+fist 
+, 
+and 
+put ScrEv_get_groceries
+it 
+in 
+my 
+cart 
+. 
+the 
+cookies 
+were UnrelEv_grocery
+near 
+the 
+bread 
+. 
+i 
+took UnrelEv_grocery
+a 
+while 
+looking UnrelEv_grocery
+at 
+the 
+ingredients 
+for 
+different 
+packages 
+of 
+cookies 
+and 
+finally 
+decided UnrelEv_grocery
+to 
+get 
+a 
+box 
+that 
+looked UnrelEv_grocery
+fresh 
+and 
+delicious 
+without 
+too 
+many 
+preservatives 
+. 
+i 
+put ScrEv_get_groceries
+my 
+chosen 
+cookies 
+into 
+my 
+cart 
+and 
+kept UnrelEv_grocery
+pushing RelNScrEv_grocery
+. 
+i 
+reached ScrEv_move_section
+the 
+refrigerated 
+section 
+and 
+found ScrEv_get_groceries
+the 
+milk 
+. 
+i 
+added ScrEv_get_groceries
+a 
+carton 
+to 
+my 
+cart 
+, 
+and 
+also 
+chose ScrEv_get_groceries
+some 
+yogurt 
+. 
+i 
+looked UnrelEv_grocery
+at 
+the 
+eggs 
+and 
+checked RelNScrEv_grocery
+them 
+for 
+cracks 
+before 
+adding ScrEv_get_groceries
+them 
+. 
+then 
+i 
+turned ScrEv_move_section
+my 
+cart 
+toward 
+the 
+fruit 
+and 
+vegetable 
+aisle 
+. 
+i 
+added ScrEv_get_groceries
+bananas 
+and 
+then 
+my 
+eye 
+caught UnrelEv_grocery
+some 
+avocados 
+that 
+were RelNScrEv_grocery
+on 
+sale 
+, 
+so 
+i 
+decided UnrelEv_grocery
+to 
+buy RelNScrEv_grocery
+two 
+of 
+them 
+. 
+i 
+also 
+got ScrEv_get_groceries
+a 
+few 
+apples 
+and 
+a 
+box 
+of 
+cherry 
+tomatoes 
+. 
+i 
+rolled ScrEv_go_checkout
+my 
+cart 
+toward 
+the 
+cashier 
+and 
+got ScrEv_other_grocery
+on 
+line 
+to 
+pay ScrEv_pay
+. 
+when 
+it 
+was UnrelEv_grocery
+my 
+turn 
+i 
+paid ScrEv_pay
+in 
+cash 
+and 
+then 
+put ScrEv_pack_groceries
+my 
+bagged ScrEv_pack_groceries
+items 
+into 
+my 
+cart 
+. 
+then 
+i 
+pushed UnrelEv_grocery
+my 
+cart 
+home 
+and 
+unloaded RelNScrEv_grocery
+my 
+items 
+in 
+my 
+kitchen 
+. 
+<end_of_story>_grocery 
+by 
+the 
+weekend 
+, 
+our 
+cereal 
+boxes 
+were UnrelEv_grocery
+empty 
+, 
+our 
+bread 
+was UnrelEv_grocery
+stale 
+, 
+and 
+we 
+had UnrelEv_grocery
+no 
+produce 
+. 
+our 
+family 
+got UnrelEv_grocery
+in 
+the 
+car 
+and 
+we 
+were+off+to+the+supermarket Evoking_grocery
+. 
+after 
+parking RelNScrEv_grocery
+, 
+we 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+began 
+roaming ScrEv_move_section
+up 
+and 
+down 
+the 
+aisles 
+. 
+mom 
+got RelNScrEv_grocery
+the 
+shopping 
+list 
+out 
+of 
+her 
+purse 
+. 
+it 
+was UnrelEv_grocery
+useful 
+in 
+navigating RelNScrEv_grocery
+our 
+shopping 
+trip 
+and 
+ensuring UnrelEv_grocery
+we 
+didn 
+' 
+t 
+forget RelNScrEv_grocery
+necessary 
+items 
+. 
+when 
+mom 
+shouted UnrelEv_grocery
+out 
+" 
+carrots 
+, 
+" 
+we 
+grabbed ScrEv_get_groceries
+a 
+bag 
+of 
+carrots 
+and 
+tossed RelNScrEv_grocery
+them 
+in 
+the 
+cart 
+. 
+mom 
+had 
+us 
+select ScrEv_get_groceries
+a 
+variety 
+of 
+products 
+, 
+from 
+milk 
+to 
+pasta 
+sauce 
+. 
+as 
+we 
+put ScrEv_get_groceries
+items 
+in 
+the 
+cart 
+, 
+mom 
+crossed ScrEv_check_off
+them 
+off 
+the 
+list 
+. 
+finally 
+, 
+we 
+had RelNScrEv_grocery
+everything 
+from 
+the 
+list 
+in 
+the 
+cart 
+and 
+were UnrelEv_grocery
+ready 
+to 
+check+out ScrEv_pay
+. 
+we 
+loaded ScrEv_put_conveyor
+each 
+item 
+on 
+the 
+counter 
+for 
+the 
+checker 
+to 
+scan ScrEv_cashier_scan/weight
+. 
+after 
+the 
+checker 
+scanned ScrEv_cashier_scan/weight
+each 
+item 
+, 
+our 
+total 
+appeared RelNScrEv_grocery
+on 
+the 
+register 
+. 
+mom 
+got RelNScrEv_grocery
+some 
+money 
+from 
+her 
+wallet 
+and 
+handed ScrEv_pay
+it 
+to 
+the 
+checker 
+. 
+the 
+checker 
+gave RelNScrEv_grocery
+mom 
+the 
+change 
+, 
+as 
+someone 
+else 
+bagged ScrEv_pack_groceries
+up 
+our 
+groceries 
+. 
+finally 
+, 
+we 
+headed ScrEv_leave
+home 
+, 
+ready 
+to 
+prepare UnrelEv_grocery
+lunch 
+with 
+some 
+of 
+the 
+ingredients 
+we 
+had 
+just 
+purchased RelNScrEv_grocery
+. 
+<end_of_story>_grocery 
+there 
+are UnrelEv_grocery
+six 
+people 
+living 
+in 
+my 
+house 
+, 
+so 
+going+grocery+shopping Evoking_grocery
+is UnrelEv_grocery
+usually 
+a 
+weekly 
+occurrence 
+. 
+i 
+do 
+n't 
+mind UnrelEv_grocery
+doing RelNScrEv_grocery
+it 
+though 
+, 
+because 
+i 
+like UnrelEv_grocery
+picking+out ScrEv_get_groceries
+what 
+food 
+to 
+buy RelNScrEv_grocery
+. 
+i 
+usually 
+go ScrEv_go_grocery
+on 
+the 
+morning 
+with 
+my 
+sister 
+. 
+we 
+get UnrelEv_grocery
+in 
+the 
+car 
+and 
+drive+over UnrelEv_grocery
+to 
+the 
+closest 
+grocery 
+store 
+which 
+is UnrelEv_grocery
+about 
+three 
+miles 
+away 
+. 
+we 
+also 
+take ScrEv_make_list
+a 
+list 
+of 
+items 
+with 
+us 
+so 
+we 
+do 
+n't 
+forget RelNScrEv_grocery
+what 
+we 
+need 
+to 
+buy RelNScrEv_grocery
+. 
+when 
+we 
+arrive ScrEv_go_grocery
+at 
+the 
+store 
+we 
+park RelNScrEv_grocery
+the 
+car 
+and 
+get+out UnrelEv_grocery
+. 
+i 
+will 
+grab ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+near 
+the 
+store 
+entrance 
+and 
+then 
+we 
+go ScrEv_enter
+inside 
+. 
+we 
+then 
+take RelNScrEv_grocery
+a 
+look 
+at 
+our 
+shopping 
+list 
+and 
+begin 
+gathering ScrEv_get_groceries
+all 
+the 
+items 
+. 
+it 
+takes RelNScrEv_grocery
+us 
+about 
+523 
+minutes 
+to 
+find ScrEv_get_groceries
+everything 
+. 
+we 
+then 
+go ScrEv_go_checkout
+to 
+the 
+checkout 
+and 
+pay ScrEv_pay
+for 
+all 
+the 
+stuff 
+. 
+then 
+we 
+go+back ScrEv_bring_vehicle
+to 
+our 
+car 
+and 
+drive ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+yesterday 
+i 
+went+grocery+shopping Evoking_grocery
+. 
+i 
+left UnrelEv_grocery
+my 
+house 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+. 
+i 
+parked RelNScrEv_grocery
+the 
+car 
+, 
+walked ScrEv_enter
+inside 
+and 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+i 
+looked RelNScrEv_grocery
+at 
+my 
+list 
+and 
+saw UnrelEv_grocery
+that 
+i 
+needed RelNScrEv_grocery
+some 
+fresh 
+produce 
+. 
+i 
+picked+out ScrEv_get_groceries
+the 
+best 
+looking UnrelEv_grocery
+strawberries 
+, 
+they 
+were RelNScrEv_grocery
+on 
+sale UnrelEv_grocery
+for 
+$ 
+523 
+a 
+pound 
+. 
+i 
+bought RelNScrEv_grocery
+several 
+pounds 
+because 
+my 
+daughter 
+loves UnrelEv_grocery
+fresh 
+strawberries 
+. 
+i 
+finished+up UnrelEv_grocery
+in 
+the 
+produce 
+section 
+, 
+buying RelNScrEv_grocery
+some 
+things 
+to 
+make UnrelEv_grocery
+a 
+green 
+salad 
+later 
+to 
+go UnrelEv_grocery
+with 
+dinner 
+. 
+i 
+then 
+stopped ScrEv_move_section
+at 
+the 
+meat 
+section 
+and 
+picked ScrEv_get_groceries
+out 
+some 
+nice 
+cuts 
+of 
+steak 
+for 
+dinner 
+. 
+i 
+went ScrEv_move_section
+into 
+the 
+frozen 
+foods 
+section 
+and 
+found UnrelEv_grocery
+ice 
+cream 
+was RelNScrEv_grocery
+also 
+on 
+sale 
+. 
+i 
+bought RelNScrEv_grocery
+vanilla 
+and 
+chocolate 
+. 
+i 
+went+through ScrEv_move_section
+the 
+rest 
+of 
+the 
+aisles 
+, 
+consulting ScrEv_check_list
+my 
+list 
+and 
+picking+out ScrEv_get_groceries
+what 
+my 
+family 
+needed RelNScrEv_grocery
+. 
+when 
+i 
+had 
+found ScrEv_get_groceries
+everything 
+i 
+needed RelNScrEv_grocery
+, 
+and 
+put ScrEv_other_grocery
+them 
+in 
+my 
+cart 
+, 
+i 
+walked+over ScrEv_go_checkout
+to 
+the 
+checkout 
+lanes 
+. 
+i 
+stood UnrelEv_grocery
+in 
+line 
+and 
+waited+for ScrEv_wait
+my 
+turn 
+. 
+finally 
+, 
+it 
+was UnrelEv_grocery
+my 
+turn 
+and 
+the 
+checkout 
+person 
+checked RelNScrEv_grocery
+me 
+out 
+. 
+i 
+paid ScrEv_pay
+my 
+bill 
+, 
+and 
+walked ScrEv_bring_vehicle
+out 
+to 
+my 
+car 
+with 
+the 
+shopping 
+cart 
+. 
+then 
+i 
+loaded ScrEv_bring_vehicle
+the 
+car 
+up 
+with 
+the 
+groceries 
+, 
+returned ScrEv_return_shop_cart
+the 
+cart 
+and 
+drove UnrelEv_grocery
+home 
+. 
+<end_of_story>_grocery 
+i 
+begin UnrelEv_grocery
+by 
+making ScrEv_make_list
+a 
+grocery 
+list 
+of 
+the 
+items 
+i 
+will 
+need 
+to 
+buy+at+the+grocery+store Evoking_grocery
+. 
+some 
+items 
+are UnrelEv_grocery
+staples 
+and 
+pantry 
+items 
+such 
+as 
+milk 
+and 
+eggs 
+and 
+some 
+are UnrelEv_grocery
+things 
+i 
+want RelNScrEv_grocery
+like 
+snacks 
+. 
+i 
+visit ScrEv_go_grocery
+my 
+favorite 
+grocery 
+store 
+trader 
+joes 
+which 
+is+walkable UnrelEv_grocery
+from 
+my 
+house 
+in 
+my 
+neighborhood 
+. 
+i 
+bring ScrEv_take_bags
+with 
+me 
+my 
+own 
+grocery 
+bags 
+so 
+i 
+can 
+be UnrelEv_grocery
+green 
+and 
+reuse RelNScrEv_grocery
+bags 
+for 
+the 
+environment 
+. 
+i 
+arrive ScrEv_enter
+at 
+the 
+store 
+and 
+get ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+to 
+put RelNScrEv_grocery
+my 
+groceries 
+in 
+. 
+i 
+start ScrEv_move_section
+at 
+the 
+aisle 
+with 
+the 
+vegetables 
+and 
+then 
+dairy 
+and 
+then 
+work ScrEv_move_section
+my 
+way 
+through 
+all 
+the 
+aisles 
+of 
+the 
+grocery 
+store 
+. 
+i 
+buy RelNScrEv_grocery
+and 
+check+off ScrEv_check_off
+on 
+the 
+items 
+on 
+my 
+grocery 
+list 
+plus 
+more 
+items 
+not 
+on 
+the 
+list 
+of 
+course 
+. 
+the 
+store 
+always 
+has RelNScrEv_grocery
+new 
+seasonal 
+items 
+so 
+i 
+always 
+manage UnrelEv_grocery
+to 
+buy RelNScrEv_grocery
+some 
+of 
+those 
+items 
+. 
+i 
+get ScrEv_wait
+on 
+line 
+and 
+pay ScrEv_pay
+for 
+my 
+groceries 
+at 
+the 
+cash 
+register 
+. 
+the 
+cashiers 
+at 
+this 
+store 
+are UnrelEv_grocery
+always 
+so 
+nice 
+with 
+good 
+customer 
+service 
+. 
+i 
+pay ScrEv_pay
+for 
+everything 
+, 
+leave ScrEv_leave
+the 
+store 
+, 
+and 
+bring RelNScrEv_grocery
+my 
+groceries 
+home 
+to 
+enjoy UnrelEv_grocery
+. 
+<end_of_story>_grocery 
+while 
+looking+for UnrelEv_grocery
+something 
+to 
+eat UnrelEv_grocery
+in 
+our 
+home 
+, 
+my 
+wife 
+and 
+i 
+decided UnrelEv_grocery
+it 
+was UnrelEv_grocery
+time 
+to 
+go+grocery+shopping Evoking_grocery
+. 
+first 
+, 
+we 
+decided UnrelEv_grocery
+to 
+take RelNScrEv_grocery
+inventory 
+on 
+everything 
+we 
+had 
+in 
+the 
+house 
+, 
+to 
+see 
+if 
+we 
+'d 
+need 
+to 
+buy RelNScrEv_grocery
+more 
+of 
+it 
+in 
+our 
+trip 
+to 
+the 
+grocery 
+store 
+. 
+after 
+that 
+, 
+we 
+made ScrEv_make_list
+a 
+list 
+of 
+things 
+we 
+need RelNScrEv_grocery
+and 
+want RelNScrEv_grocery
+. 
+after 
+that 
+we 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+and 
+got ScrEv_take_shop_cart
+a 
+cart 
+. 
+we 
+walked ScrEv_move_section
+around 
+the 
+grocery 
+store 
+, 
+getting ScrEv_get_groceries
+everything 
+that 
+we 
+put ScrEv_make_list
+on 
+our 
+list 
+. 
+after 
+, 
+we 
+still 
+had UnrelEv_grocery
+some 
+extra 
+spending RelNScrEv_grocery
+money 
+and 
+decided UnrelEv_grocery
+to 
+get 
+some 
+extra 
+things 
+. 
+she 
+was UnrelEv_grocery
+pregnant 
+so 
+she 
+craves UnrelEv_grocery
+weird 
+things 
+. 
+we 
+got ScrEv_get_groceries
+plenty 
+of 
+desserts 
+. 
+when 
+we 
+were 
+done UnrelEv_grocery
+picking ScrEv_get_groceries
+everything 
+, 
+we 
+headed ScrEv_go_checkout
+towards 
+the 
+cash 
+registers 
+to 
+check ScrEv_pay
+out 
+. 
+we 
+got UnrelEv_grocery
+everything 
+scanned ScrEv_cashier_scan/weight
+and 
+handed 
+the 
+cashier 
+the 
+money 
+to 
+pay ScrEv_pay
+for 
+everything 
+. 
+after 
+that 
+, 
+we 
+went UnrelEv_grocery
+home 
+and 
+put RelNScrEv_grocery
+everything 
+where 
+it 
+belongs UnrelEv_grocery
+. 
+<end_of_story>_grocery 
+today 
+i 
+have 
+to 
+go+grocery+shopping Evoking_grocery
+. 
+i 
+plan UnrelEv_grocery
+a 
+list 
+of 
+meals 
+for 
+the 
+next 
+week 
+. 
+then 
+i 
+go UnrelEv_grocery
+to 
+the 
+kitchen 
+and 
+look RelNScrEv_grocery
+to 
+see UnrelEv_grocery
+what 
+i 
+have UnrelEv_grocery
+already 
+and 
+what 
+i 
+need 
+to 
+buy RelNScrEv_grocery
+. 
+i 
+make ScrEv_make_list
+a 
+list 
+of 
+the 
+items 
+that 
+i 
+need 
+to 
+get ScrEv_get_groceries
+and 
+gather RelNScrEv_grocery
+any 
+coupons 
+i 
+have UnrelEv_grocery
+for 
+the 
+items 
+on 
+my 
+list 
+. 
+i 
+get UnrelEv_grocery
+in 
+the 
+car 
+and 
+drive ScrEv_go_grocery
+to 
+the 
+store 
+. 
+i 
+get RelNScrEv_grocery
+my 
+grocery 
+card 
+and 
+go+through ScrEv_move_section
+the 
+isles 
+gathering ScrEv_get_groceries
+my 
+items 
+marking ScrEv_check_off
+each 
+on 
+off 
+the 
+list 
+that 
+i 
+put ScrEv_other_grocery
+in 
+the 
+cart 
+. 
+now 
+i 
+head ScrEv_go_checkout
+to 
+the 
+register 
+. 
+i 
+give ScrEv_other_grocery
+all 
+my 
+items 
+to 
+the 
+cashier 
+to 
+ring+up ScrEv_cashier_scan/weight
+. 
+after 
+she 
+is UnrelEv_grocery
+through 
+ringing+up ScrEv_cashier_scan/weight
+the 
+items 
+i 
+hand ScrEv_other_grocery
+her 
+my 
+coupons 
+. 
+after 
+she 
+scans ScrEv_cashier_scan/weight
+my 
+coupons 
+she 
+gives 
+me 
+the 
+total 
+i 
+need 
+to 
+pay ScrEv_pay
+for 
+my 
+groceries 
+. 
+i 
+give ScrEv_pay
+her 
+my 
+money 
+and 
+wait RelNScrEv_grocery
+for 
+my 
+change 
+. 
+i 
+load ScrEv_pay
+my 
+bags 
+in 
+the 
+grocery 
+cart 
+and 
+take ScrEv_bring_vehicle
+them 
+to 
+my 
+car 
+. 
+i 
+drive UnrelEv_grocery
+home 
+and 
+bring RelNScrEv_grocery
+my 
+groceries 
+inside 
+. 
+i 
+put RelNScrEv_grocery
+each 
+of 
+the 
+items 
+in 
+the 
+kitchen 
+where 
+they 
+belong UnrelEv_grocery
+. 
+<end_of_story>_grocery 
+i 
+go+through UnrelEv_grocery
+my 
+kitchen 
+and 
+look+for RelNScrEv_grocery
+items 
+i 
+don 
+' 
+t 
+have UnrelEv_grocery
+or 
+are UnrelEv_grocery
+very 
+low 
+on 
+: 
+food 
+, 
+sponges 
+, 
+spices 
+, 
+napkins 
+, 
+etc. 
+. 
+i 
+also 
+quickly 
+check RelNScrEv_grocery
+my 
+bathroom 
+to 
+see UnrelEv_grocery
+if 
+i 
+need RelNScrEv_grocery
+anything 
+in 
+there 
+: 
+toilet 
+paper 
+, 
+soap 
+, 
+deodorant 
+, 
+etc. 
+. 
+i 
+do UnrelEv_grocery
+this 
+because 
+i 
+can 
+buy+both+sets+of+items+at+the+grocery+store Evoking_grocery
+in 
+the 
+same 
+trip 
+. 
+i 
+make ScrEv_make_list
+a 
+list 
+of 
+these 
+things 
+on 
+a 
+piece 
+of 
+paper 
+or 
+type ScrEv_make_list
+them 
+in 
+my 
+phone 
+, 
+so 
+i 
+can 
+easily 
+recall UnrelEv_grocery
+any 
+of 
+the 
+items 
+i 
+need RelNScrEv_grocery
+without 
+forgetting UnrelEv_grocery
+anything 
+. 
+i 
+drive ScrEv_go_grocery
+to 
+the 
+store 
+after 
+i 
+prepare ScrEv_take_bags
+my 
+bags 
+in 
+the 
+trunk 
+. 
+once 
+at 
+the 
+store 
+, 
+i 
+grab ScrEv_take_shop_cart
+a 
+cart 
+, 
+set ScrEv_other_grocery
+my 
+bags 
+in 
+the 
+cart 
+, 
+and 
+place RelNScrEv_grocery
+my 
+phone 
+in 
+the 
+space 
+allocated UnrelEv_grocery
+for 
+the 
+child 
+seat 
+. 
+now 
+i 
+' 
+m UnrelEv_grocery
+ready 
+to 
+start UnrelEv_grocery
+my 
+grocery+shopping Evoking_grocery
+: 
+i 
+mechanically 
+go+down ScrEv_move_section
+every 
+aisle 
+and 
+pick+up ScrEv_get_groceries
+any 
+items 
+i 
+need RelNScrEv_grocery
+from 
+those 
+aisles 
+, 
+all 
+the 
+while 
+keeping ScrEv_check_list
+an 
+eye 
+on 
+my 
+list 
+to 
+make+sure UnrelEv_grocery
+i 
+don 
+' 
+t 
+forget RelNScrEv_grocery
+anything 
+. 
+once 
+i 
+have ScrEv_get_groceries
+all 
+my 
+items 
+, 
+i 
+pay ScrEv_pay
+for 
+the 
+groceries 
+and 
+help UnrelEv_grocery
+bag ScrEv_pack_groceries
+them 
+up 
+. 
+i 
+drive UnrelEv_grocery
+home 
+with 
+my 
+freshly 
+bought RelNScrEv_grocery
+groceries 
+, 
+and 
+go+about UnrelEv_grocery
+putting RelNScrEv_grocery
+them 
+away 
+in 
+their 
+respective 
+places 
+once 
+home 
+. 
+with 
+the 
+last 
+item 
+set RelNScrEv_grocery
+in 
+its 
+place 
+, 
+the 
+grocery+shopping Evoking_grocery
+is UnrelEv_grocery
+complete 
+. 
+<end_of_story>_grocery 
+one 
+of 
+my 
+favorite 
+weekly 
+activities 
+is UnrelEv_grocery
+going 
+grocery+shopping Evoking_grocery
+. 
+yesterday 
+afternoon 
+i 
+took ScrEv_go_grocery
+a 
+casual 
+stroll 
+to 
+my 
+local 
+whole 
+foods 
+and 
+could 
+not 
+resist UnrelEv_grocery
+their 
+tempting UnrelEv_grocery
+and 
+rather 
+delicious 
+items 
+. 
+my 
+favorite 
+place 
+is UnrelEv_grocery
+the 
+bakery 
+. 
+from 
+the 
+warm 
+, 
+freshly 
+baked RelNScrEv_grocery
+chocolate 
+chip 
+cookies 
+, 
+to 
+the 
+elaborate 
+berries 
+and 
+cream 
+cakes 
+, 
+there 
+is UnrelEv_grocery
+not 
+a 
+product 
+that 
+does 
+not 
+disappoint UnrelEv_grocery
+. 
+another 
+section 
+i 
+perused ScrEv_move_section
+was 
+the 
+prepared UnrelEv_grocery
+food 
+section 
+. 
+from 
+pizza 
+, 
+tacos 
+, 
+a 
+salad 
+bar 
+, 
+and 
+fried 
+chicken 
+, 
+there 
+was UnrelEv_grocery
+plenty 
+to 
+choose 
+from 
+. 
+my 
+eyes 
+wandered UnrelEv_grocery
+to 
+the 
+burrito 
+bar 
+, 
+as 
+i 
+glanced UnrelEv_grocery
+at 
+the 
+grilled 
+chicken 
+, 
+steak 
+and 
+fajita 
+vegetables 
+. 
+i 
+ordered ScrEv_other_grocery
+a 
+grilled 
+steak 
+burrito 
+stuffed RelNScrEv_grocery
+with 
+cheese 
+, 
+hot 
+sauce 
+, 
+salsa 
+, 
+and 
+guacamole 
+. 
+after 
+i 
+paid ScrEv_pay
+the 
+kind 
+chef 
+who 
+created RelNScrEv_grocery
+it 
+, 
+i 
+took RelNScrEv_grocery
+one 
+large 
+mammoth 
+bite 
+and 
+dug+in UnrelEv_grocery
+. 
+it 
+was UnrelEv_grocery
+one 
+of 
+the 
+most 
+delicious 
+burritos 
+i 
+had 
+ever 
+tasted RelNScrEv_grocery
+. 
+i 
+made+sure UnrelEv_grocery
+to 
+definitely 
+come+back RelNScrEv_grocery
+next 
+time 
+! 
+<end_of_story>_grocery 
+yesterday 
+i 
+went+grocery+shopping Evoking_grocery
+. 
+first 
+i 
+sat+down UnrelEv_grocery
+and 
+made ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+food 
+i 
+would 
+need RelNScrEv_grocery
+for 
+the 
+next 
+week 
+. 
+i 
+grabbed ScrEv_take_bags
+my 
+reusable 
+shopping 
+bags 
+and 
+the 
+list 
+, 
+grabbed UnrelEv_grocery
+my 
+wallet 
+and 
+car 
+keys 
+, 
+then 
+started+up UnrelEv_grocery
+the 
+car 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+. 
+when 
+i 
+got ScrEv_go_grocery
+to 
+the 
+store 
+i 
+went UnrelEv_grocery
+and 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+, 
+then 
+i 
+went ScrEv_move_section
+straight 
+to 
+the 
+produce 
+aisle 
+and 
+got ScrEv_get_groceries
+all 
+the 
+fruits 
+and 
+vegetables 
+on 
+the 
+list 
+. 
+then 
+i 
+worked ScrEv_move_section
+my 
+way 
+to 
+the 
+opposite 
+end 
+of 
+the 
+store 
+, 
+making+sure UnrelEv_grocery
+to 
+grab ScrEv_get_groceries
+everything 
+that 
+was RelNScrEv_grocery
+on 
+my 
+list 
+. 
+as 
+i 
+went+through ScrEv_move_section
+the 
+store 
+i 
+picked+up ScrEv_get_groceries
+the 
+things 
+on 
+my 
+list 
+and 
+put ScrEv_other_grocery
+them 
+into 
+my 
+shopping 
+cart 
+. 
+when 
+i 
+had UnrelEv_grocery
+everything 
+i 
+went+up ScrEv_go_checkout
+to 
+the 
+checkstand 
+and 
+placed ScrEv_put_conveyor
+the 
+items 
+onto 
+the 
+conveyer 
+belt 
+, 
+so 
+the 
+person 
+could 
+scan ScrEv_cashier_scan/weight
+them 
+and 
+ring ScrEv_cashier_scan/weight
+me 
+out 
+. 
+after 
+the 
+cashier 
+had 
+totaled ScrEv_other_grocery
+up 
+my 
+bill 
+, 
+i 
+handed ScrEv_pay
+him 
+my 
+money 
+and 
+he 
+handed ScrEv_pay
+me 
+back 
+my 
+change 
+. 
+he 
+put ScrEv_pack_groceries
+all 
+the 
+groceries 
+into 
+my 
+bags 
+for 
+me 
+, 
+then 
+i 
+carried ScrEv_bring_vehicle
+them 
+out 
+to 
+the 
+car 
+and 
+went UnrelEv_grocery
+home 
+. 
+<end_of_story>_grocery 
+every 
+saturday 
+i 
+do UnrelEv_grocery
+a 
+chore 
+i 
+actually 
+really 
+enjoy UnrelEv_grocery
+- 
+grocery+shopping Evoking_grocery
+! 
+this 
+past 
+saturday 
+was UnrelEv_grocery
+no 
+exception 
+, 
+so 
+i 
+began UnrelEv_grocery
+to 
+plan UnrelEv_grocery
+my 
+outing UnrelEv_grocery
+. 
+i 
+always 
+begin UnrelEv_grocery
+by 
+surveying RelNScrEv_grocery
+my 
+refrigerator 
+and 
+cabinets 
+. 
+what 
+food 
+do 
+i 
+already 
+have UnrelEv_grocery
+and 
+what 
+do 
+i 
+need RelNScrEv_grocery
+? 
+there 
+are UnrelEv_grocery
+certain 
+basic 
+things 
+i 
+get ScrEv_get_groceries
+almost 
+every 
+week 
+. 
+at 
+this 
+point 
+i 
+begin UnrelEv_grocery
+to 
+make ScrEv_make_list
+a 
+written UnrelEv_grocery
+list 
+to 
+bring RelNScrEv_grocery
+with 
+. 
+this 
+week 
+i 
+also 
+had UnrelEv_grocery
+a 
+birthday 
+party 
+to 
+shop RelNScrEv_grocery
+for 
+so 
+extras 
+like 
+cake 
+mix 
+and 
+a 
+can 
+of 
+frosting 
+went RelNScrEv_grocery
+on 
+my 
+list 
+. 
+once 
+the 
+list 
+was 
+done ScrEv_make_list
+i 
+headed ScrEv_go_grocery
+to 
+the 
+store 
+. 
+it 
+'s UnrelEv_grocery
+a 
+short 
+drive 
+, 
+and 
+once 
+there 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+cart 
+and 
+begin UnrelEv_grocery
+to 
+head ScrEv_move_section
+down 
+the 
+aisles 
+. 
+produce 
+then 
+canned UnrelEv_grocery
+goods 
+then 
+meats 
+. 
+after 
+that 
+on 
+to 
+dairy 
+and 
+dried UnrelEv_grocery
+goods 
+, 
+and 
+even 
+cleaning 
+products 
+. 
+finally 
+it 
+was UnrelEv_grocery
+off 
+to 
+the 
+frozen UnrelEv_grocery
+aisles 
+, 
+i 
+needed UnrelEv_grocery
+to 
+get ScrEv_get_groceries
+ice 
+cream UnrelEv_grocery
+for 
+the 
+party 
+! 
+with 
+a 
+full 
+cart 
+i 
+went ScrEv_go_checkout
+to 
+the 
+cash 
+register 
+, 
+loaded ScrEv_put_conveyor
+all 
+the 
+food 
+on 
+the 
+convener 
+belt 
+, 
+and 
+then 
+paid ScrEv_pay
+for 
+the 
+groceries 
+as 
+a 
+boy 
+bagged ScrEv_pack_groceries
+everything 
+. 
+another 
+saturday 
+'s 
+chore 
+was 
+done UnrelEv_grocery
+! 
+<end_of_story>_grocery 
+the 
+other 
+day 
+i 
+went+to+the+grocery+store Evoking_grocery
+to 
+buy RelNScrEv_grocery
+enough 
+food 
+for 
+me 
+to 
+eat UnrelEv_grocery
+for 
+several 
+days 
+. 
+before 
+i 
+left UnrelEv_grocery
+, 
+i 
+thought UnrelEv_grocery
+about 
+what 
+i 
+might 
+want UnrelEv_grocery
+to 
+eat UnrelEv_grocery
+over 
+the 
+next 
+few 
+days 
+. 
+i 
+looked+through UnrelEv_grocery
+my 
+recipes 
+and 
+decided+on RelNScrEv_grocery
+what 
+sort 
+of 
+food 
+to 
+buy RelNScrEv_grocery
+. 
+i 
+got UnrelEv_grocery
+a 
+piece 
+of 
+paper 
+and 
+a 
+pencil 
+and 
+wrote+down ScrEv_make_list
+all 
+the 
+food 
+that 
+i 
+would 
+need RelNScrEv_grocery
+to 
+buy RelNScrEv_grocery
+to 
+make UnrelEv_grocery
+these 
+meals 
+. 
+once 
+i 
+felt UnrelEv_grocery
+my 
+list 
+was UnrelEv_grocery
+complete 
+, 
+i 
+gathered ScrEv_take_bags
+some 
+bags 
+and 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+. 
+i 
+took ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+pushed ScrEv_enter
+it 
+into 
+the 
+store 
+. 
+in 
+the 
+store 
+, 
+i 
+looked ScrEv_check_list
+at 
+my 
+list 
+again 
+and 
+thought UnrelEv_grocery
+about 
+what 
+foods 
+might 
+be UnrelEv_grocery
+near 
+the 
+front 
+of 
+the 
+store 
+. 
+the 
+front 
+of 
+the 
+store 
+had RelNScrEv_grocery
+fruits 
+and 
+vegetables 
+, 
+so 
+i 
+looked+for RelNScrEv_grocery
+fruits 
+and 
+vegetables 
+on 
+my 
+list 
+so 
+i 
+could 
+pick ScrEv_get_groceries
+them 
+up 
+together 
+. 
+i 
+walked ScrEv_move_section
+down 
+the 
+aisle 
+and 
+found ScrEv_get_groceries
+the 
+items 
+on 
+my 
+list 
+and 
+put ScrEv_get_groceries
+them 
+in 
+my 
+shopping 
+cart 
+. 
+i 
+put ScrEv_check_off
+a 
+check 
+mark 
+next 
+to 
+each 
+item 
+after 
+i 
+found ScrEv_get_groceries
+it 
+. 
+when 
+i 
+got ScrEv_move_section
+to 
+the 
+next 
+aisle 
+, 
+i 
+looked UnrelEv_grocery
+at 
+my 
+list 
+again 
+and 
+did UnrelEv_grocery
+the 
+same 
+thing 
+. 
+i 
+thought UnrelEv_grocery
+about 
+the 
+foods 
+that 
+would 
+be UnrelEv_grocery
+in 
+this 
+aisle 
+and 
+found ScrEv_get_groceries
+them 
+together 
+. 
+after 
+going+down ScrEv_move_section
+all 
+the 
+aisles 
+, 
+i 
+saw UnrelEv_grocery
+that 
+every 
+item 
+on 
+my 
+list 
+had UnrelEv_grocery
+a 
+check 
+mark 
+, 
+so 
+i 
+knew UnrelEv_grocery
+i 
+was 
+done UnrelEv_grocery
+shopping RelNScrEv_grocery
+. 
+i 
+pushed ScrEv_go_checkout
+my 
+shopping 
+cart 
+to 
+the 
+checkout 
+lane 
+and 
+gave ScrEv_other_grocery
+each 
+item 
+to 
+the 
+cashier 
+. 
+he 
+scanned ScrEv_cashier_scan/weight
+them 
+and 
+told UnrelEv_grocery
+me 
+how 
+much 
+money 
+the 
+food 
+costs RelNScrEv_grocery
+. 
+i 
+gave ScrEv_pay
+him 
+enough 
+money 
+to 
+pay ScrEv_pay
+for 
+the 
+food 
+and 
+then 
+helped UnrelEv_grocery
+him 
+put ScrEv_pack_groceries
+everything 
+into 
+my 
+bags 
+. 
+then 
+i 
+carried ScrEv_bring_vehicle
+the 
+bags 
+to 
+my 
+car 
+and 
+drove UnrelEv_grocery
+home 
+. 
+i 
+spent UnrelEv_grocery
+the 
+next 
+few 
+minutes 
+putting RelNScrEv_grocery
+all 
+the 
+food 
+away 
+where 
+it 
+belongs UnrelEv_grocery
+, 
+and 
+i 
+was 
+all 
+done UnrelEv_grocery
+shopping RelNScrEv_grocery
+. 
+<end_of_story>_grocery 
+every 
+week 
+i 
+go+to+the+grocery+store Evoking_grocery
+to 
+get ScrEv_get_groceries
+food 
+for 
+my 
+family 
+. 
+i 
+write ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+foods 
+i 
+will 
+need RelNScrEv_grocery
+and 
+gather ScrEv_other_grocery
+together 
+any 
+coupons 
+i 
+will 
+be 
+able 
+to 
+use UnrelEv_grocery
+. 
+i 
+drive ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+and 
+get ScrEv_take_shop_cart
+a 
+cart 
+to 
+put RelNScrEv_grocery
+the 
+food 
+in 
+. 
+i 
+take+out ScrEv_other_grocery
+my 
+list 
+and 
+coupons 
+and 
+put RelNScrEv_grocery
+them 
+where 
+i 
+will 
+be 
+able 
+to 
+see UnrelEv_grocery
+them 
+easily 
+. 
+i 
+walk+up ScrEv_move_section
+and 
+down 
+the 
+aisles 
+finding ScrEv_get_groceries
+the 
+food 
+on 
+my 
+list 
+. 
+i 
+put ScrEv_other_grocery
+each 
+one 
+into 
+the 
+grocery 
+cart 
+as 
+i 
+find ScrEv_get_groceries
+it 
+, 
+then 
+cross ScrEv_check_off
+it 
+off 
+my 
+list 
+. 
+when 
+i 
+have UnrelEv_grocery
+all 
+of 
+the 
+food 
+i 
+need RelNScrEv_grocery
+, 
+i 
+take ScrEv_move_section
+my 
+cart 
+full 
+of 
+food 
+to 
+the 
+register 
+area 
+. 
+i 
+empty ScrEv_other_grocery
+my 
+cart 
+, 
+put ScrEv_put_conveyor
+all 
+of 
+the 
+food 
+onto 
+the 
+belt 
+and 
+hand ScrEv_pay
+the 
+cashier 
+my 
+coupons 
+. 
+she 
+scans ScrEv_cashier_scan/weight
+the 
+bar+codes ScrEv_cashier_scan/weight
+on 
+each 
+item 
+and 
+places ScrEv_pack_groceries
+it 
+into 
+a 
+bag 
+, 
+then 
+she 
+scans ScrEv_cashier_scan/weight
+the 
+coupons 
+. 
+when 
+everything 
+has 
+been 
+scanned ScrEv_cashier_scan/weight
+, 
+the 
+cashier 
+tells RelNScrEv_grocery
+me 
+the 
+total 
+cost 
+and 
+i 
+give ScrEv_pay
+her 
+the 
+money 
+for 
+the 
+food 
+. 
+i 
+place ScrEv_other_grocery
+the 
+bags 
+into 
+my 
+cart 
+and 
+walk ScrEv_bring_vehicle
+back 
+to 
+my 
+car 
+. 
+<end_of_story>_grocery 
+'' 
+`` 
+going 
+grocery 
+shopping 
+'' 
+'' 
+going+to+the+grocery Evoking_grocery
+for 
+me 
+is 
+kind 
+of 
+a 
+burden 
+. 
+i 
+like 
+going+ahead UnrelEv_grocery
+and 
+getting RelNScrEv_grocery
+everything 
+i 
+need RelNScrEv_grocery
+for 
+at 
+least 
+two 
+weeks 
+. 
+the 
+longer 
+i 
+can 
+wait UnrelEv_grocery
+to 
+have 
+to 
+go+back ScrEv_go_grocery
+, 
+the 
+better 
+. 
+i 
+normally 
+go ScrEv_go_grocery
+to 
+two 
+different 
+stores 
+. 
+one 
+is UnrelEv_grocery
+a 
+traditional 
+grocery 
+store 
+and 
+the 
+other 
+is UnrelEv_grocery
+a 
+dollar 
+store 
+. 
+when 
+i 
+go ScrEv_go_grocery
+to 
+the 
+traditional 
+grocery 
+store 
+, 
+i 
+get 
+frustrated UnrelEv_grocery
+because 
+i 
+find UnrelEv_grocery
+it 
+hard 
+to 
+find ScrEv_get_groceries
+certain 
+things 
+. 
+baking 
+soda 
+is UnrelEv_grocery
+an 
+example 
+. 
+one 
+day 
+, 
+i 
+asked RelNScrEv_grocery
+an 
+employee 
+who 
+was 
+working UnrelEv_grocery
+in 
+the 
+baking 
+supplies 
+isle 
+where 
+the 
+baking 
+soda 
+was UnrelEv_grocery
+. 
+we 
+could 
+not 
+find ScrEv_get_groceries
+it 
+. 
+again 
+, 
+this 
+was UnrelEv_grocery
+on 
+the 
+baking 
+supplies 
+isle 
+. 
+as 
+i 
+walk+through ScrEv_move_section
+the 
+store 
+looking+for ScrEv_other_grocery
+things 
+i 
+need UnrelEv_grocery
+, 
+i 
+'ll 
+see UnrelEv_grocery
+a 
+display 
+of 
+chips 
+or 
+something 
+at 
+the 
+end 
+of 
+an 
+isle 
+. 
+this 
+makes 
+me 
+think UnrelEv_grocery
+that 
+there 
+are UnrelEv_grocery
+chips 
+on 
+that 
+isle 
+. 
+there 
+are UnrelEv_grocery
+no 
+chips 
+on 
+that 
+isle 
+. 
+it 
+'s 
+a 
+good 
+trip 
+when 
+i 
+have UnrelEv_grocery
+everything 
+i 
+need RelNScrEv_grocery
+for 
+a 
+few 
+weeks 
+. 
+<end_of_story>_grocery 
+today 
+is+grocery+day Evoking_grocery
+, 
+i 
+go ScrEv_go_grocery
+every 
+thursday 
+. 
+i 
+check RelNScrEv_grocery
+the 
+paper 
+on 
+wednesday 
+and 
+try UnrelEv_grocery
+to 
+to 
+match RelNScrEv_grocery
+all 
+the 
+coupons 
+i 
+can 
+to 
+each 
+sale 
+. 
+i 
+grab RelNScrEv_grocery
+my 
+coupon 
+book 
+and 
+head RelNScrEv_grocery
+it 
+to 
+the 
+store 
+. 
+as 
+i 
+walk+in ScrEv_enter
+there 
+are UnrelEv_grocery
+item 
+s 
+stack 
+that 
+are UnrelEv_grocery
+unadvertised RelNScrEv_grocery
+deals 
+and 
+i 
+check RelNScrEv_grocery
+the 
+out 
+to 
+see UnrelEv_grocery
+if 
+i 
+need RelNScrEv_grocery
+anything 
+. 
+i 
+walk+into ScrEv_enter
+the 
+store 
+and 
+the 
+way 
+it 
+is 
+laid+out UnrelEv_grocery
+i 
+can 
+easily 
+find ScrEv_get_groceries
+the 
+items 
+that 
+i 
+need RelNScrEv_grocery
+pretty 
+quickly 
+, 
+grocery+shopping Evoking_grocery
+is UnrelEv_grocery
+not 
+my 
+favorite 
+past 
+time 
+, 
+i 
+go ScrEv_move_section
+to 
+the 
+deli 
+counter 
+and 
+get ScrEv_get_groceries
+lunch 
+meat 
+for 
+help UnrelEv_grocery
+yourself 
+nights 
+and 
+school 
+lunches 
+. 
+i 
+then 
+head ScrEv_move_section
+to 
+the 
+meat 
+department 
+to 
+get ScrEv_get_groceries
+some 
+chicken 
+and 
+a 
+roast 
+for 
+sunday 
+. 
+now 
+time 
+for 
+the 
+isles 
+and 
+my 
+coupon 
+matches 
+, 
+i 
+head+down ScrEv_move_section
+each 
+isle 
+relativity 
+quickly 
+since 
+i 
+already 
+know UnrelEv_grocery
+pretty 
+much 
+what 
+i 
+am 
+going 
+to 
+buy ScrEv_get_groceries
+and 
+how 
+much 
+of 
+it 
+i 
+need RelNScrEv_grocery
+. 
+i 
+finish UnrelEv_grocery
+each 
+isle 
+and 
+have ScrEv_get_groceries
+all 
+of 
+my 
+necessities 
+. 
+i 
+go+over ScrEv_move_section
+to 
+the 
+bakery 
+to 
+see UnrelEv_grocery
+what 
+they 
+have RelNScrEv_grocery
+on 
+sale 
+today 
+and 
+see UnrelEv_grocery
+a 
+large 
+carrot 
+roll 
+with 
+cream 
+cheese 
+filling 
+. 
+so 
+i 
+place ScrEv_get_groceries
+that 
+in 
+my 
+cart 
+and 
+head ScrEv_move_section
+for 
+the 
+checkout 
+isle 
+. 
+i 
+place ScrEv_put_conveyor
+all 
+my 
+purchases 
+on 
+the 
+belt 
+near 
+the 
+cashier 
+and 
+watch UnrelEv_grocery
+as 
+each 
+one 
+is 
+scanned ScrEv_cashier_scan/weight
+, 
+she 
+totals ScrEv_cashier_scan/weight
+my 
+purchase 
+and 
+i 
+pay ScrEv_pay
+for 
+them 
+. 
+as 
+i 
+leave ScrEv_leave
+the 
+store 
+i 
+look UnrelEv_grocery
+at 
+my 
+watch 
+and 
+realize UnrelEv_grocery
+it 
+took UnrelEv_grocery
+me 
+much 
+less 
+time 
+as 
+usual 
+. 
+now 
+i 
+can 
+enjoy UnrelEv_grocery
+the 
+rest 
+of 
+my 
+day 
+! 
+<end_of_story>_grocery 
+as 
+i 
+was 
+looking UnrelEv_grocery
+in 
+my 
+cabinets 
+and 
+fridge 
+for 
+something 
+to 
+fix UnrelEv_grocery
+for 
+my 
+families 
+supper 
+i 
+realized UnrelEv_grocery
+that 
+a+trip+to+get+groceries+was+very+much+needed Evoking_grocery
+as 
+i 
+was UnrelEv_grocery
+low 
+on 
+food 
+supplies 
+. 
+i 
+grabbed RelNScrEv_grocery
+a 
+pen 
+and 
+paoper 
+and 
+made ScrEv_make_list
+me 
+a 
+list 
+of 
+all 
+that 
+was 
+needed RelNScrEv_grocery
+. 
+i 
+then 
+got 
+dressed UnrelEv_grocery
+and 
+ready 
+. 
+i 
+inspected UnrelEv_grocery
+my 
+handgun 
+to 
+make UnrelEv_grocery
+sure 
+it 
+was 
+cocked UnrelEv_grocery
+, 
+locked UnrelEv_grocery
+and 
+loaded UnrelEv_grocery
+and 
+placed UnrelEv_grocery
+it 
+securely 
+on 
+my 
+right 
+hip 
+. 
+i 
+then 
+made UnrelEv_grocery
+sure 
+i 
+had UnrelEv_grocery
+a 
+extra 
+magazine 
+of 
+ammunition 
+in 
+my 
+left 
+hand 
+pant 
+pocket 
+. 
+all 
+that 
+being UnrelEv_grocery
+good 
+i 
+got RelNScrEv_grocery
+in 
+the 
+car 
+and 
+off 
+to 
+the 
+store 
+i 
+went ScrEv_go_grocery
+. 
+i 
+always 
+start UnrelEv_grocery
+by 
+getting ScrEv_get_groceries
+the 
+dry 
+and 
+canned UnrelEv_grocery
+goods 
+first 
+so 
+that 
+my 
+perishables 
+will 
+stay RelNScrEv_grocery
+fresh 
+until 
+i 
+get ScrEv_get_groceries
+them 
+home 
+. 
+so 
+many 
+canned UnrelEv_grocery
+items 
+, 
+dry 
+items 
+, 
+then 
+meats 
+and 
+ice 
+cream 
+and 
+frozen UnrelEv_grocery
+goods 
+later 
+i 
+went ScrEv_leave
+home 
+and 
+put RelNScrEv_grocery
+everything 
+away 
+. 
+<end_of_story>_grocery 
+the 
+empty 
+refrigerator 
+one 
+evening 
+i 
+returned UnrelEv_grocery
+home 
+from 
+work 
+and 
+realized UnrelEv_grocery
+that 
+i 
+was UnrelEv_grocery
+very 
+hungry 
+. 
+however 
+, 
+when 
+i 
+opened UnrelEv_grocery
+the 
+door 
+to 
+my 
+refrigerator 
+, 
+i 
+saw UnrelEv_grocery
+that 
+there 
+was UnrelEv_grocery
+nothing 
+in 
+it 
+besides 
+a 
+gallon 
+of 
+water 
+and 
+a 
+half-used 
+bottle 
+of 
+ketchup 
+. 
+i 
+opened UnrelEv_grocery
+my 
+freezer 
+to 
+only 
+find UnrelEv_grocery
+two 
+trays 
+of 
+ice 
+. 
+this 
+did 
+not 
+look+promising UnrelEv_grocery
+at 
+all 
+. 
+since 
+i 
+was UnrelEv_grocery
+very 
+hungry 
+, 
+i 
+decided UnrelEv_grocery
+to 
+go+out UnrelEv_grocery
+to 
+eat UnrelEv_grocery
+and 
+then 
+go+grocery+shopping Evoking_grocery
+. 
+i 
+went UnrelEv_grocery
+to 
+eat UnrelEv_grocery
+at 
+a 
+restaurant 
+near 
+my 
+favorite 
+grocery 
+store 
+and 
+then 
+started UnrelEv_grocery
+my 
+grocery 
+shopping ScrEv_get_groceries
+quest 
+. 
+i 
+first 
+went ScrEv_move_section
+to 
+the 
+produce 
+aisle 
+and 
+picked+out ScrEv_get_groceries
+an 
+assortment 
+of 
+fruits 
+and 
+vegetables 
+. 
+i 
+then 
+proceeded ScrEv_move_section
+to 
+the 
+meat 
+section 
+where 
+i 
+picked+out ScrEv_get_groceries
+some 
+chicken 
+, 
+pork 
+chops 
+, 
+hamburger 
+, 
+and 
+a 
+beef 
+roast 
+. 
+next 
+, 
+i 
+picked+up ScrEv_get_groceries
+some 
+canned UnrelEv_grocery
+items 
+and 
+some 
+taco 
+shells 
+, 
+taco 
+seasoning 
+, 
+pizza 
+crust 
+mix 
+, 
+and 
+peanut 
+buttter 
+. 
+after 
+this 
+, 
+i 
+went ScrEv_move_section
+to 
+the 
+dairy 
+section 
+and 
+picked+up ScrEv_get_groceries
+some 
+cheese 
+and 
+milk 
+. 
+my 
+next 
+stop 
+was UnrelEv_grocery
+the 
+frozen 
+section 
+where 
+i 
+tossed ScrEv_get_groceries
+some 
+ready-made 
+meals 
+in 
+my 
+cart 
+along 
+with 
+chicken 
+strips 
+, 
+frozen 
+vegetables 
+, 
+tator 
+tots 
+, 
+and 
+frozen 
+pizza 
+. 
+before 
+i 
+made ScrEv_go_checkout
+it 
+to 
+the 
+checkout 
+area 
+, 
+i 
+picked+up ScrEv_get_groceries
+a 
+loaf 
+of 
+bread 
+. 
+i 
+know+had UnrelEv_grocery
+a 
+good 
+assortment 
+of 
+food 
+and 
+it 
+would 
+be UnrelEv_grocery
+a 
+long 
+time 
+before 
+i 
+would 
+come UnrelEv_grocery
+home 
+to 
+an 
+empty 
+refrigerator 
+and 
+freezer 
+again 
+which 
+was UnrelEv_grocery
+a 
+very 
+good 
+thing 
+. 
+<end_of_story>_grocery 
+i 
+was 
+excited UnrelEv_grocery
+for 
+the 
+upcoming UnrelEv_grocery
+party 
+. 
+i 
+knew UnrelEv_grocery
+that 
+i 
+had UnrelEv_grocery
+a 
+big 
+day 
+ahead 
+of 
+me 
+which 
+would 
+be 
+filled UnrelEv_grocery
+with 
+planning ScrEv_make_list
+and 
+buying+groceries Evoking_grocery
+. 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+everything 
+that 
+i 
+would 
+need RelNScrEv_grocery
+. 
+chips 
+, 
+dip 
+, 
+pretzels 
+, 
+soda 
+, 
+cheese 
+, 
+crackers 
+, 
+frozen 
+pizza 
+, 
+and 
+frozen 
+mozzarella 
+sticks 
+were UnrelEv_grocery
+just 
+some 
+of 
+the 
+things 
+i 
+needed RelNScrEv_grocery
+to 
+get ScrEv_get_groceries
+. 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+supermarket 
+and 
+decided UnrelEv_grocery
+to 
+get ScrEv_take_shop_cart
+a 
+big 
+shopping 
+cart 
+to 
+put ScrEv_get_groceries
+everything 
+in 
+. 
+i 
+checked ScrEv_check_list
+my 
+list 
+and 
+then 
+pushed ScrEv_move_section
+my 
+shopping 
+cart 
+from 
+aisle 
+to 
+aisle 
+. 
+i 
+saw UnrelEv_grocery
+that 
+the 
+chips 
+were RelNScrEv_grocery
+on 
+sale 
+so 
+i 
+was 
+able 
+to 
+get ScrEv_get_groceries
+an 
+extra 
+bag 
+. 
+after 
+all 
+of 
+the 
+snacks 
+i 
+went ScrEv_move_section
+to 
+the 
+frozen 
+aisle 
+in 
+order 
+to 
+get ScrEv_get_groceries
+the 
+pizza 
+and 
+mozzarella 
+sticks 
+. 
+it 
+was UnrelEv_grocery
+time 
+for 
+checkout ScrEv_go_checkout
+so 
+i 
+waited ScrEv_wait
+on 
+line 
+until 
+it 
+was RelNScrEv_grocery
+my 
+turn 
+. 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+my 
+items 
+and 
+i 
+swiped ScrEv_pay
+my 
+credit 
+card 
+to 
+pay ScrEv_pay
+for 
+them 
+. 
+she 
+bagged ScrEv_pack_groceries
+everything 
+up 
+and 
+i 
+was UnrelEv_grocery
+ready 
+to 
+go ScrEv_leave
+on 
+my 
+way 
+home 
+. 
+<end_of_story>_grocery 
+last 
+weekend 
+, 
+i 
+went ScrEv_go_grocery
+to 
+keyfood 
+by 
+myself 
+. 
+it 
+'s 
+a 
+grocery 
+store 
+with 
+a 
+good 
+selection 
+of 
+reasonably 
+priced RelNScrEv_grocery
+items 
+. 
+i 
+had 
+made ScrEv_make_list
+a 
+grocery 
+list 
+in 
+advance 
+. 
+i 
+drove ScrEv_go_grocery
+to 
+keyfood 
+at 
+2pm 
+. 
+i 
+parked RelNScrEv_grocery
+in 
+the 
+parking 
+lot 
+. 
+i 
+exited RelNScrEv_grocery
+my 
+car 
+and 
+locked RelNScrEv_grocery
+it 
+. 
+i 
+walked ScrEv_enter
+to 
+the 
+entrance 
+and 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+i 
+pushed ScrEv_move_section
+the 
+shopping 
+cart 
+into 
+the 
+store 
+and 
+began UnrelEv_grocery
+to 
+search ScrEv_move_section
+for 
+the 
+items 
+on 
+my 
+list 
+. 
+i 
+walked+through ScrEv_move_section
+each 
+isle 
+. 
+i 
+gathered ScrEv_get_groceries
+all 
+the 
+items 
+from 
+my 
+grocery 
+list 
+. 
+when 
+i 
+was 
+finished UnrelEv_grocery
+, 
+i 
+pushed ScrEv_move_section
+my 
+cart 
+to 
+the 
+cashier 
+to 
+pay ScrEv_pay
+for 
+my 
+groceries 
+. 
+i 
+placed ScrEv_put_conveyor
+the 
+items 
+in 
+front 
+of 
+the 
+cashier 
+so 
+that 
+he 
+could 
+account ScrEv_cashier_scan/weight
+for 
+my 
+purchases 
+. 
+he 
+tallied ScrEv_cashier_scan/weight
+my 
+total 
+. 
+i 
+paid ScrEv_pay
+the 
+total 
+amount 
+for 
+the 
+groceries 
+and 
+he 
+gave ScrEv_pay
+me 
+my 
+change 
+back 
+. 
+finally 
+, 
+i 
+left ScrEv_leave
+the 
+grocery 
+store 
+. 
+i 
+enjoy UnrelEv_grocery
+grocery+shopping Evoking_grocery
+. 
+<end_of_story>_grocery 
+all 
+week 
+long 
+my 
+family 
+had 
+been 
+adding ScrEv_make_list
+to 
+a 
+list 
+on 
+our 
+refrigerator 
+. 
+sometimes 
+they 
+wrote+down ScrEv_make_list
+what 
+food 
+they 
+wanted UnrelEv_grocery
+, 
+and 
+sometimes 
+it 
+was 
+food 
+we 
+had 
+run+out UnrelEv_grocery
+of 
+. 
+today 
+was 
+saturday 
+, 
+the 
+day 
+i 
+always 
+go+grocery+shopping Evoking_grocery
+. 
+after 
+putting RelNScrEv_grocery
+the 
+list 
+and 
+a 
+pen 
+in 
+my 
+pocket 
+, 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+store 
+and 
+parked RelNScrEv_grocery
+next 
+to 
+a 
+light 
+so 
+that 
+i 
+would 
+be 
+able 
+to 
+find UnrelEv_grocery
+it 
+later 
+. 
+on 
+my 
+way 
+into 
+the 
+store 
+i 
+took ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+, 
+because 
+the 
+list 
+was UnrelEv_grocery
+very 
+long 
+! 
+the 
+produce 
+section 
+is UnrelEv_grocery
+by 
+the 
+door 
+, 
+and 
+i 
+piled ScrEv_get_groceries
+broccoli 
+, 
+apples 
+, 
+oranges 
+, 
+and 
+carrots 
+into 
+individual 
+plastic 
+bags 
+, 
+using ScrEv_pack_groceries
+wire 
+ties 
+to 
+keep UnrelEv_grocery
+the 
+bags 
+closed ScrEv_pack_groceries
+. 
+then 
+i 
+pushed ScrEv_move_section
+my 
+cart 
+up 
+and 
+down 
+the 
+aisles 
+, 
+adding ScrEv_get_groceries
+kix 
+cereal 
+, 
+pop 
+tarts 
+, 
+cans 
+of 
+soup 
+, 
+crackers 
+, 
+bread 
+and 
+cookies 
+to 
+the 
+cart 
+. 
+last 
+was UnrelEv_grocery
+the 
+refrigerated 
+section 
+, 
+where 
+i 
+picked+up ScrEv_get_groceries
+milk 
+and 
+eggs 
+. 
+as 
+i 
+went ScrEv_move_section
+, 
+i 
+crossed ScrEv_check_off
+items 
+off 
+the 
+list 
+. 
+when 
+everything 
+was 
+crossed ScrEv_check_off
+off 
+i 
+waited ScrEv_wait
+in 
+a 
+line 
+until 
+a 
+cashier 
+rang+up ScrEv_cashier_scan/weight
+my 
+items 
+and 
+put ScrEv_pack_groceries
+them 
+in 
+bags 
+. 
+after 
+paying ScrEv_pay
+, 
+i 
+put ScrEv_bring_vehicle
+all 
+the 
+bags 
+into 
+the 
+back 
+of 
+my 
+car 
+and 
+went ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+after 
+looking UnrelEv_grocery
+in 
+the 
+fridge 
+, 
+i 
+realized UnrelEv_grocery
+i 
+had 
+to 
+go+buy+some+food Evoking_grocery
+. 
+there 
+were UnrelEv_grocery
+essential 
+things 
+i 
+needed RelNScrEv_grocery
+, 
+like 
+milk 
+, 
+eggs 
+, 
+flour 
+, 
+sugar 
+, 
+butter 
+, 
+fruits 
+, 
+and 
+vegetables 
+. 
+i 
+usually 
+shop ScrEv_get_groceries
+at 
+a 
+discount 
+store 
+that 
+has RelNScrEv_grocery
+really 
+good 
+deals 
+on 
+certain 
+items 
+. 
+towards 
+the 
+end 
+of 
+the 
+month 
+, 
+they 
+hold RelNScrEv_grocery
+a 
+wine 
+sale 
+where 
+all 
+bottles 
+are RelNScrEv_grocery
+twenty 
+percent 
+off 
+. 
+i 
+usually 
+purchase ScrEv_get_groceries
+my 
+wine 
+for 
+the 
+month 
+during 
+that 
+time 
+. 
+wine 
+was RelNScrEv_grocery
+on 
+my 
+list 
+for 
+today 
+as 
+well 
+. 
+my 
+pantry 
+had RelNScrEv_grocery
+a 
+lot 
+of 
+dry 
+goods 
+, 
+so 
+i 
+had UnrelEv_grocery
+little 
+intention 
+of 
+purchasing ScrEv_get_groceries
+products 
+in 
+that 
+category 
+. 
+my 
+deep 
+freezer 
+was 
+running UnrelEv_grocery
+low 
+, 
+so 
+one 
+of 
+the 
+things 
+i 
+kept UnrelEv_grocery
+an 
+eye 
+out 
+for 
+was 
+meat 
+that 
+was RelNScrEv_grocery
+on 
+sale 
+. 
+i 
+was 
+able 
+to 
+find ScrEv_get_groceries
+hams 
+at 
+severely 
+discounted RelNScrEv_grocery
+price 
+! 
+after 
+grabbing ScrEv_get_groceries
+four 
+bottles 
+of 
+wine 
+with 
+the 
+rest 
+of 
+my 
+groceries 
+, 
+i 
+went ScrEv_go_checkout
+to 
+the 
+cashier 
+, 
+checked+out ScrEv_pay
+, 
+and 
+drove ScrEv_leave
+home 
+to 
+put RelNScrEv_grocery
+all 
+the 
+food 
+away 
+. 
+<end_of_story>_grocery 
+we 
+began UnrelEv_grocery
+by 
+driving ScrEv_go_grocery
+past 
+the 
+overloaded UnrelEv_grocery
+parking 
+lot 
+dreading UnrelEv_grocery
+finding RelNScrEv_grocery
+a 
+parking 
+spot 
+. 
+luckily 
+we 
+know UnrelEv_grocery
+of 
+a 
+spot 
+on 
+the 
+side 
+of 
+the 
+grocery+store Evoking_grocery
+that 
+is UnrelEv_grocery
+almost 
+always 
+vacant 
+. 
+my 
+girlfriend 
+and 
+i 
+park RelNScrEv_grocery
+in 
+our 
+normal 
+spot 
+and 
+walk ScrEv_enter
+inside 
+. 
+the 
+store 
+is 
+booming RelNScrEv_grocery
+with 
+people 
+and 
+all 
+the 
+lines 
+are RelNScrEv_grocery
+full 
+. 
+we 
+are UnrelEv_grocery
+the 
+type 
+of 
+people 
+who 
+do 
+not 
+like UnrelEv_grocery
+a 
+lot 
+of 
+people 
+so 
+we 
+wanted UnrelEv_grocery
+to 
+get+in ScrEv_enter
+and 
+out 
+as 
+fast 
+as 
+we 
+could 
+. 
+quickly 
+we 
+get ScrEv_get_groceries
+all 
+the 
+groceries 
+marked+down RelNScrEv_grocery
+on 
+the 
+list 
+and 
+we 
+head ScrEv_go_checkout
+to 
+the 
+checkout 
+line 
+. 
+we 
+found UnrelEv_grocery
+a 
+shorter 
+line 
+that 
+was UnrelEv_grocery
+for 
+a 
+lesser 
+amount 
+of 
+groceries 
+. 
+luckily 
+we 
+had ScrEv_get_groceries
+523 
+items 
+less 
+than 
+the 
+maximum 
+for 
+the 
+line 
+, 
+so 
+we 
+hopped+in ScrEv_go_checkout
+and 
+quickly 
+got 
+checked+out ScrEv_pay
+and 
+on 
+our 
+way 
+. 
+i 
+carried ScrEv_bring_vehicle
+the 
+groceries 
+out 
+to 
+the 
+car 
+rather 
+than 
+having 
+the 
+employees 
+do ScrEv_bring_vehicle
+it 
+because 
+there 
+are UnrelEv_grocery
+much 
+less 
+able 
+people 
+who 
+need UnrelEv_grocery
+there 
+help 
+more 
+than 
+i 
+do UnrelEv_grocery
+. 
+finally 
+we 
+headed ScrEv_leave
+home 
+and 
+used UnrelEv_grocery
+our 
+groceries 
+to 
+cook UnrelEv_grocery
+dinner 
+. 
+<end_of_story>_grocery 
+on 
+friday 
+, 
+i 
+decided UnrelEv_grocery
+to 
+go+grocery+shopping Evoking_grocery
+. 
+my 
+mother 
+made ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+items 
+we 
+needed RelNScrEv_grocery
+and 
+i 
+went ScrEv_go_grocery
+to 
+go ScrEv_go_grocery
+buy ScrEv_get_groceries
+them 
+. 
+while 
+i 
+was UnrelEv_grocery
+at 
+the 
+grocery 
+store 
+, 
+i 
+looked ScrEv_check_list
+for 
+everything 
+on 
+the 
+list 
+. 
+some 
+of 
+them 
+were UnrelEv_grocery
+hard 
+to 
+find ScrEv_get_groceries
+, 
+so 
+i 
+had 
+to 
+ask RelNScrEv_grocery
+a 
+worker 
+where 
+to 
+find ScrEv_get_groceries
+them 
+. 
+they 
+were UnrelEv_grocery
+very 
+helpful 
+and 
+pointed RelNScrEv_grocery
+where 
+to 
+go ScrEv_move_section
+. 
+some 
+of 
+the 
+items 
+were UnrelEv_grocery
+not 
+available 
+so 
+i 
+had 
+to 
+get RelNScrEv_grocery
+a 
+raincheck 
+. 
+after 
+i 
+got ScrEv_get_groceries
+all 
+the 
+available 
+items 
+, 
+i 
+had 
+to 
+stand ScrEv_wait
+on 
+line 
+at 
+the 
+checkout 
+. 
+the 
+line 
+was UnrelEv_grocery
+very 
+long 
+and 
+there 
+were 
+no 
+other 
+checkout 
+lines 
+open RelNScrEv_grocery
+. 
+it 
+was 
+frustrating UnrelEv_grocery
+because 
+i 
+did 
+not 
+have 
+that 
+much 
+items 
+to 
+buy ScrEv_get_groceries
+. 
+meanwhile 
+, 
+there 
+were ScrEv_wait
+at 
+least 
+four 
+people 
+ahead 
+of 
+me 
+with 
+a 
+lot 
+of 
+items 
+to 
+buy ScrEv_get_groceries
+. 
+i 
+am UnrelEv_grocery
+very 
+impatient 
+. 
+fortunately 
+, 
+one 
+person 
+ahead 
+of 
+me 
+was UnrelEv_grocery
+kind 
+enough 
+to 
+let 
+me 
+skip RelNScrEv_grocery
+him 
+. 
+i 
+was UnrelEv_grocery
+very 
+appreciative 
+. 
+finally 
+, 
+i 
+left ScrEv_leave
+the 
+grocery 
+store 
+with 
+my 
+items 
+. 
+<end_of_story>_grocery 
+last 
+weekend 
+, 
+i 
+got RelNScrEv_grocery
+into 
+my 
+car 
+to 
+head+to+the+grocery+store Evoking_grocery
+. 
+the 
+store 
+i 
+normally 
+go ScrEv_go_grocery
+grocery 
+shop ScrEv_get_groceries
+at 
+is 
+safeway 
+, 
+with 
+the 
+exception 
+of 
+the 
+few 
+times 
+i 
+go ScrEv_go_grocery
+to 
+savemart 
+. 
+but 
+for 
+this 
+time 
+, 
+i 
+headed ScrEv_go_grocery
+to 
+safeway 
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+immediately 
+went ScrEv_move_section
+to 
+the 
+left 
+of 
+the 
+store 
+like 
+i 
+normally 
+do UnrelEv_grocery
+. 
+i 
+grabbed ScrEv_get_groceries
+the 
+bread 
+items 
+i 
+needed RelNScrEv_grocery
+along 
+with 
+any 
+breakfast 
+pastries 
+i 
+enjoy UnrelEv_grocery
+buying ScrEv_get_groceries
+. 
+like 
+normal 
+, 
+i 
+skip ScrEv_move_section
+the 
+first 
+four 
+aisles 
+due 
+to 
+them 
+being UnrelEv_grocery
+for 
+personal 
+care 
+and 
+pet 
+care 
+. 
+i 
+buy RelNScrEv_grocery
+my 
+personal 
+items 
+elsewhere 
+-lrb- 
+such 
+as 
+shampoo 
+, 
+etc. 
+-rrb- 
+. 
+i 
+then 
+went+down ScrEv_move_section
+the 
+beverage 
+aisle 
+where 
+i 
+picked+up ScrEv_get_groceries
+several 
+gatorades 
+and 
+bottled 
+waters 
+. 
+i 
+then 
+continue UnrelEv_grocery
+going+up ScrEv_move_section
+each 
+aisle 
+after 
+the 
+beverage 
+one 
+, 
+where 
+i 
+would 
+pick+up ScrEv_get_groceries
+my 
+frozen 
+foods 
+, 
+canned 
+foods 
+, 
+snacks 
+-lrb- 
+such 
+as 
+chips 
+and 
+cookies 
+-rrb- 
+, 
+and 
+any 
+other 
+lunch 
+items 
+-lrb- 
+frozen 
+or 
+non-frozen 
+-rrb- 
+. 
+i 
+then 
+ended ScrEv_move_section
+with 
+the 
+fruits 
+and 
+vegetables 
+, 
+where 
+i 
+picked+up ScrEv_get_groceries
+a 
+bunch 
+of 
+bananas 
+and 
+about 
+four 
+apples 
+. 
+i 
+took ScrEv_go_checkout
+my 
+cart 
+to 
+the 
+lone 
+open 
+register 
+after 
+waiting ScrEv_wait
+for 
+about 
+five 
+minutes 
+. 
+after 
+purchasing ScrEv_pay
+my 
+items 
+, 
+i 
+went+out ScrEv_leave
+to 
+my 
+car 
+and 
+packed ScrEv_bring_vehicle
+my 
+groceries 
+into 
+the 
+trunk 
+. 
+<end_of_story>_grocery 
+i 
+go+grocery+shopping Evoking_grocery
+every 
+week 
+to 
+get ScrEv_get_groceries
+food 
+and 
+any 
+other 
+items 
+that 
+my 
+husband 
+and 
+i 
+need RelNScrEv_grocery
+for 
+the 
+week 
+. 
+i 
+wait UnrelEv_grocery
+to 
+go ScrEv_go_grocery
+shopping ScrEv_get_groceries
+usually 
+until 
+thursday 
+or 
+friday 
+so 
+that 
+i 
+can 
+use RelNScrEv_grocery
+the 
+weekly 
+ads 
+to 
+make ScrEv_make_list
+my 
+list 
+. 
+i 
+shop ScrEv_get_groceries
+for 
+items 
+on 
+sale 
+, 
+so 
+i 
+like UnrelEv_grocery
+to 
+be 
+very 
+prepared UnrelEv_grocery
+. 
+i 
+also 
+use RelNScrEv_grocery
+the 
+store 
+'s 
+apps 
+on 
+my 
+phone 
+to 
+track RelNScrEv_grocery
+what 
+deals 
+they 
+are 
+offering RelNScrEv_grocery
+for 
+me 
+this 
+week 
+. 
+i 
+plan+out ScrEv_make_list
+my 
+list 
+based UnrelEv_grocery
+on 
+the 
+ads 
+and 
+the 
+apps 
+, 
+and 
+write ScrEv_make_list
+each 
+store 
+'s 
+name 
+above 
+the 
+items 
+i 
+want 
+to 
+buy ScrEv_get_groceries
+there 
+. 
+on 
+the 
+day 
+i 
+decide UnrelEv_grocery
+to 
+go ScrEv_go_grocery
+, 
+i 
+drive ScrEv_go_grocery
+to 
+the 
+first 
+store 
+which 
+is UnrelEv_grocery
+whichever 
+one 
+i 
+am 
+getting ScrEv_get_groceries
+less 
+more 
+cold 
+things 
+at 
+. 
+this 
+way 
+, 
+they 
+will 
+stay RelNScrEv_grocery
+colder 
+together 
+than 
+if 
+i 
+buy ScrEv_get_groceries
+one 
+cold 
+thing 
+and 
+it 
+'s 
+sitting RelNScrEv_grocery
+by 
+itself 
+in 
+the 
+heat 
+of 
+the 
+car 
+while 
+i 
+shop ScrEv_get_groceries
+at 
+the 
+next 
+store 
+. 
+i 
+park RelNScrEv_grocery
+my 
+car 
+as 
+close 
+as 
+i 
+can 
+to 
+the 
+entrance 
+and 
+grab ScrEv_take_shop_cart
+a 
+cart 
+. 
+i 
+begin UnrelEv_grocery
+by 
+opening ScrEv_check_list
+my 
+list 
+and 
+deciding UnrelEv_grocery
+which 
+part 
+of 
+the 
+store 
+i 
+am 
+going 
+to 
+start UnrelEv_grocery
+in 
+, 
+and 
+then 
+work ScrEv_move_section
+my 
+way 
+to 
+the 
+other 
+end 
+as 
+i 
+get ScrEv_get_groceries
+the 
+items 
+that 
+i 
+need RelNScrEv_grocery
+. 
+i 
+try UnrelEv_grocery
+to 
+go ScrEv_move_section
+quickly 
+so 
+it 
+does 
+n't 
+take UnrelEv_grocery
+much 
+time 
+. 
+when 
+i 
+'m 
+ready 
+, 
+i 
+go ScrEv_move_section
+to 
+the 
+front 
+of 
+the 
+store 
+and 
+get ScrEv_move_section
+into 
+a 
+line 
+with 
+a 
+number 
+that 
+is 
+lit 
+up 
+. 
+if 
+i 
+have ScrEv_get_groceries
+less 
+than 
+523 
+or 
+523 
+items 
+, 
+i 
+will 
+sometimes 
+go ScrEv_move_section
+to 
+the 
+express 
+lane 
+. 
+i 
+wait ScrEv_wait
+for 
+it 
+to 
+be UnrelEv_grocery
+my 
+turn 
+and 
+unload ScrEv_put_conveyor
+the 
+groceries 
+onto 
+the 
+conveyor 
+belt 
+. 
+after 
+the 
+cashier 
+rings+up ScrEv_cashier_scan/weight
+my 
+items 
+, 
+i 
+will 
+pay ScrEv_pay
+with 
+either 
+cash 
+or 
+my 
+credit 
+card 
+. 
+the 
+items 
+get 
+bagged+up ScrEv_pack_groceries
+and 
+placed ScrEv_bring_vehicle
+into 
+my 
+cart 
+for 
+me 
+. 
+i 
+thank RelNScrEv_grocery
+the 
+cashier 
+and 
+take ScrEv_bring_vehicle
+the 
+cart 
+to 
+where 
+my 
+car 
+is 
+parked RelNScrEv_grocery
+and 
+put ScrEv_bring_vehicle
+the 
+groceries 
+inside 
+it 
+. 
+i 
+then 
+go ScrEv_go_grocery
+to 
+the 
+next 
+store 
+and 
+get ScrEv_get_groceries
+any 
+items 
+i 
+need RelNScrEv_grocery
+there 
+. 
+i 
+drive ScrEv_leave
+home 
+and 
+bring RelNScrEv_grocery
+all 
+the 
+groceries 
+inside 
+my 
+house 
+, 
+and 
+then 
+put UnrelEv_grocery
+them 
+all 
+away 
+wherever 
+they 
+go UnrelEv_grocery
+. 
+<end_of_story>_grocery 
+i 
+needed RelNScrEv_grocery
+to 
+go+on+my+weekly+grocery+shopping+trip Evoking_grocery
+last 
+weekend 
+. 
+so 
+, 
+i 
+went UnrelEv_grocery
+to 
+my 
+fridge 
+and 
+started UnrelEv_grocery
+to 
+make ScrEv_make_list
+a 
+list 
+of 
+the 
+cold 
+items 
+that 
+i 
+would 
+need UnrelEv_grocery
+. 
+then 
+, 
+i 
+checked+out RelNScrEv_grocery
+my 
+cabinet 
+to 
+be UnrelEv_grocery
+sure 
+that 
+i 
+picked+up ScrEv_get_groceries
+a 
+few 
+canned UnrelEv_grocery
+goods 
+that 
+i 
+needed RelNScrEv_grocery
+as 
+well 
+. 
+i 
+checked RelNScrEv_grocery
+through 
+my 
+coupons 
+and 
+took RelNScrEv_grocery
+the 
+ones 
+that 
+i 
+needed RelNScrEv_grocery
+. 
+i 
+grabbed RelNScrEv_grocery
+my 
+wallet 
+, 
+helmet 
+, 
+sunglasses 
+, 
+and 
+my 
+insulated UnrelEv_grocery
+backpack 
+and 
+went+outside ScrEv_go_grocery
+to 
+get+on ScrEv_go_grocery
+my 
+bike 
+. 
+after 
+going+through ScrEv_go_grocery
+traffic 
+, 
+i 
+arrived ScrEv_go_grocery
+at 
+the 
+store 
+and 
+parked RelNScrEv_grocery
+my 
+bike 
+. 
+i 
+went ScrEv_enter
+into 
+the 
+store 
+and 
+grabbed ScrEv_take_shop_cart
+one 
+of 
+the 
+smaller 
+carts 
+, 
+since 
+i 
+would 
+not 
+need RelNScrEv_grocery
+to 
+get ScrEv_get_groceries
+too 
+many 
+things 
+this 
+trip 
+. 
+i 
+put RelNScrEv_grocery
+my 
+backpack 
+and 
+helmet 
+in 
+the 
+cart 
+and 
+went+inside ScrEv_enter
+. 
+i 
+just 
+needed RelNScrEv_grocery
+some 
+cream 
+, 
+milk 
+, 
+eggs 
+, 
+sausage 
+, 
+cheese 
+, 
+and 
+some 
+veggies 
+. 
+i 
+dodged+around ScrEv_move_section
+other 
+shoppers 
+and 
+headed ScrEv_move_section
+towards 
+the 
+veggies 
+. 
+salad 
+blends 
+were RelNScrEv_grocery
+on 
+sale 
+, 
+so 
+i 
+picked ScrEv_get_groceries
+some 
+up 
+. 
+i 
+also 
+grabbed ScrEv_get_groceries
+a 
+nice 
+head 
+of 
+broccoli 
+as 
+well 
+. 
+then 
+i 
+went ScrEv_move_section
+to 
+the 
+refrigerated 
+section 
+and 
+selected ScrEv_get_groceries
+my 
+meats 
+and 
+things 
+, 
+being UnrelEv_grocery
+sure 
+to 
+check RelNScrEv_grocery
+for 
+discounted RelNScrEv_grocery
+meats 
+. 
+my 
+list 
+was 
+all 
+checked+off ScrEv_check_off
+so 
+i 
+went ScrEv_go_checkout
+to 
+the 
+self-checkout 
+to 
+pay ScrEv_pay
+. 
+i 
+scanned ScrEv_cashier_scan/weight
+my 
+items 
+, 
+ran RelNScrEv_grocery
+my 
+coupons 
+, 
+and 
+paid ScrEv_pay
+. 
+i 
+loaded ScrEv_pack_groceries
+my 
+items 
+into 
+my 
+backpack 
+and 
+put UnrelEv_grocery
+both 
+it 
+and 
+my 
+helmet 
+on 
+and 
+left ScrEv_leave
+the 
+store 
+. 
+<end_of_story>_grocery 
+when 
+i 
+was UnrelEv_grocery
+a 
+young 
+boy 
+, 
+my 
+mother 
+would 
+always 
+take ScrEv_go_grocery
+me 
+grocery+shopping Evoking_grocery
+with 
+her 
+. 
+to 
+me 
+, 
+i 
+thought UnrelEv_grocery
+i 
+was 
+just 
+playing UnrelEv_grocery
+around 
+with 
+the 
+grocery 
+items 
+that 
+they 
+bought ScrEv_get_groceries
+and 
+handed UnrelEv_grocery
+to 
+me 
+to 
+put ScrEv_get_groceries
+in 
+the 
+shopping 
+cart 
+. 
+to 
+this 
+day 
+she 
+always 
+tells UnrelEv_grocery
+me 
+how 
+helpful 
+i 
+was UnrelEv_grocery
+to 
+organize RelNScrEv_grocery
+the 
+cans 
+, 
+frozen 
+items 
+, 
+snacks 
+and 
+produce 
+in 
+a 
+different 
+spot 
+in 
+the 
+shopping 
+cart 
+. 
+she 
+also 
+mentioned UnrelEv_grocery
+that 
+it 
+always 
+kept 
+me 
+occupied UnrelEv_grocery
+and 
+i 
+never 
+begged+for UnrelEv_grocery
+any 
+chips 
+or 
+sugary 
+enriched 
+items 
+. 
+so 
+my 
+mother 
+loved UnrelEv_grocery
+to 
+take ScrEv_go_grocery
+me 
+grocery+shopping Evoking_grocery
+. 
+i 
+think UnrelEv_grocery
+that 
+since 
+she 
+always 
+took ScrEv_go_grocery
+me 
+grocery+shopping Evoking_grocery
+with 
+her 
+, 
+that 
+is 
+why 
+i 
+love UnrelEv_grocery
+to 
+go ScrEv_go_grocery
+grocery+shopping Evoking_grocery
+now 
+that 
+i 
+am UnrelEv_grocery
+an 
+adult 
+. 
+i 
+walk+around ScrEv_move_section
+the 
+store 
+with 
+a 
+shopping 
+list 
+and 
+mark+off ScrEv_check_off
+the 
+items 
+as 
+i 
+walk+down ScrEv_move_section
+the 
+aisles 
+. 
+i 
+then 
+go ScrEv_move_section
+to 
+the 
+cashier 
+and 
+quickly 
+put ScrEv_put_conveyor
+my 
+items 
+up 
+on 
+the 
+side 
+and 
+they 
+are 
+all 
+rung+up ScrEv_cashier_scan/weight
+and 
+i 
+swipe ScrEv_pay
+the 
+credit 
+card 
+and 
+take RelNScrEv_grocery
+my 
+groceries 
+home 
+. 
+<end_of_story>_grocery 
+i 
+went ScrEv_go_grocery
+grocery+shopping Evoking_grocery
+late 
+last 
+night 
+. 
+i 
+like 
+going ScrEv_go_grocery
+at 
+night 
+because 
+it 
+'s 
+not 
+so 
+crowded RelNScrEv_grocery
+. 
+first 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+the 
+things 
+i 
+needed RelNScrEv_grocery
+then 
+headed ScrEv_go_grocery
+to 
+the 
+store 
+. 
+another 
+nice 
+thing 
+about 
+shopping ScrEv_get_groceries
+late 
+is 
+that 
+you 
+get 
+to 
+park RelNScrEv_grocery
+right 
+near 
+the 
+door 
+, 
+which 
+makes UnrelEv_grocery
+things 
+easier 
+when 
+you 
+come+out ScrEv_leave
+. 
+once 
+i 
+got+inside ScrEv_enter
+, 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+took+out ScrEv_check_list
+my 
+list 
+. 
+there 
+was UnrelEv_grocery
+nothing 
+out 
+of 
+the 
+ordinary 
+on 
+the 
+list 
+, 
+so 
+i 
+started UnrelEv_grocery
+heading+down ScrEv_move_section
+the 
+aisles 
+just 
+like 
+i 
+always 
+do UnrelEv_grocery
+. 
+i 
+always 
+keep+track RelNScrEv_grocery
+of 
+the 
+cost 
+of 
+everything 
+i 
+pick+out ScrEv_get_groceries
+on 
+my 
+tablet 
+as 
+i 
+go ScrEv_move_section
+so 
+that 
+i 
+know UnrelEv_grocery
+if 
+i 
+can 
+afford UnrelEv_grocery
+anything 
+extra 
+. 
+the 
+time 
+a 
+couple 
+thing 
+i 
+needed+were RelNScrEv_grocery
+on 
+sale 
+, 
+so 
+i 
+did 
+have UnrelEv_grocery
+some 
+extra 
+money 
+. 
+i 
+decided UnrelEv_grocery
+that 
+i 
+needed RelNScrEv_grocery
+some 
+cookies 
+and 
+headed+over ScrEv_move_section
+the 
+the 
+cookie 
+aisle 
+. 
+i 
+looked UnrelEv_grocery
+at 
+the 
+oreos 
+for 
+a 
+little 
+while 
+, 
+then 
+checked RelNScrEv_grocery
+the 
+other 
+cookies 
+. 
+i 
+decided UnrelEv_grocery
+on 
+chocolate 
+chip 
+cookies 
+this 
+time 
+, 
+so 
+i 
+put ScrEv_get_groceries
+the 
+on 
+top 
+of 
+the 
+other 
+things 
+in 
+my 
+cart 
+and 
+went ScrEv_go_checkout
+to 
+the 
+checkout 
+lane 
+. 
+i 
+paid ScrEv_pay
+and 
+got 
+everything 
+bagged ScrEv_pack_groceries
+, 
+then 
+headed+out ScrEv_bring_vehicle
+to 
+my 
+car 
+. 
+i 
+got ScrEv_bring_vehicle
+everything 
+in 
+the 
+trunk 
+, 
+put ScrEv_return_shop_cart
+the 
+cart 
+away 
+and 
+headed ScrEv_leave
+home 
+to 
+put RelNScrEv_grocery
+my 
+groceries 
+away 
+and 
+have UnrelEv_grocery
+some 
+chocolate 
+chip 
+cookies 
+. 
+<end_of_story>_grocery 
+yesterday 
+, 
+i 
+went+grocery+shopping Evoking_grocery
+. 
+before 
+i 
+had 
+left ScrEv_go_grocery
+, 
+i 
+made ScrEv_make_list
+a 
+list 
+of 
+most 
+of 
+the 
+things 
+that 
+i 
+needed RelNScrEv_grocery
+to 
+buy ScrEv_get_groceries
+for 
+the 
+week 
+. 
+i 
+looked RelNScrEv_grocery
+at 
+the 
+sales 
+advertisement 
+that 
+had 
+come UnrelEv_grocery
+in 
+the 
+mail 
+and 
+made UnrelEv_grocery
+a 
+note 
+of 
+a 
+few 
+things 
+that 
+were RelNScrEv_grocery
+on 
+sale 
+. 
+i 
+needed RelNScrEv_grocery
+to 
+buy ScrEv_get_groceries
+milk 
+, 
+bread 
+, 
+eggs 
+, 
+coffee 
+, 
+and 
+some 
+items 
+to 
+make UnrelEv_grocery
+lunches 
+for 
+me 
+to 
+take UnrelEv_grocery
+to 
+work 
+for 
+the 
+week 
+. 
+when 
+i 
+got ScrEv_go_grocery
+to 
+the 
+store 
+, 
+i 
+first 
+went ScrEv_move_section
+to 
+the 
+deli 
+and 
+picked+out ScrEv_get_groceries
+some 
+lunch 
+meat 
+. 
+i 
+got ScrEv_get_groceries
+some 
+turkey 
+, 
+ham 
+, 
+and 
+salami 
+. 
+i 
+then 
+picked+up ScrEv_get_groceries
+some 
+cheddar 
+cheese 
+. 
+near 
+the 
+deli 
+, 
+i 
+grabbed ScrEv_get_groceries
+some 
+bread 
+, 
+which 
+happened UnrelEv_grocery
+to 
+be RelNScrEv_grocery
+on 
+sale 
+. 
+a 
+few 
+isles 
+over 
+, 
+i 
+found ScrEv_get_groceries
+some 
+decent 
+coffee 
+that 
+was RelNScrEv_grocery
+not 
+on 
+sale 
+. 
+my 
+shopping ScrEv_get_groceries
+was RelNScrEv_grocery
+almost 
+complete 
+after 
+i 
+picked+up ScrEv_get_groceries
+a 
+half 
+gallon 
+of 
+milk 
+and 
+a 
+dozen 
+eggs 
+. 
+i 
+saw UnrelEv_grocery
+that 
+the 
+yogurt 
+was RelNScrEv_grocery
+on 
+sale 
+, 
+so 
+i 
+grabbed ScrEv_get_groceries
+a 
+few 
+of 
+those 
+in 
+my 
+favorite 
+flavors 
+. 
+i 
+was 
+trying UnrelEv_grocery
+to 
+find ScrEv_get_groceries
+some 
+other 
+things 
+to 
+make UnrelEv_grocery
+my 
+lunch 
+with 
+, 
+so 
+i 
+grabbed ScrEv_get_groceries
+some 
+bananas 
+. 
+i 
+also 
+picked+up ScrEv_get_groceries
+a 
+bag 
+of 
+chips 
+. 
+it 
+looked UnrelEv_grocery
+like 
+i 
+had UnrelEv_grocery
+everything 
+that 
+i 
+needed RelNScrEv_grocery
+for 
+making UnrelEv_grocery
+lunches 
+for 
+the 
+week 
+. 
+i 
+was UnrelEv_grocery
+ready 
+to 
+leave ScrEv_leave
+, 
+so 
+i 
+made ScrEv_move_section
+my 
+way 
+towards 
+the 
+front 
+of 
+the 
+store 
+. 
+i 
+went ScrEv_move_section
+into 
+the 
+express 
+line 
+because 
+i 
+had RelNScrEv_grocery
+less 
+than 
+twenty 
+items 
+. 
+i 
+was 
+finally 
+done UnrelEv_grocery
+and 
+i 
+ended+up+finishing UnrelEv_grocery
+my 
+shopping ScrEv_get_groceries
+in 
+less 
+than 
+a 
+half 
+hour 
+. 
+i 
+was 
+pleased UnrelEv_grocery
+with 
+my 
+efficiency 
+. 
+<end_of_story>_grocery 
+most 
+people 
+grocery+shop Evoking_grocery
+once 
+a 
+week 
+. 
+in 
+my 
+house 
+that 
+really 
+does 
+n't 
+work UnrelEv_grocery
+for 
+us 
+; 
+my 
+wife 
+and 
+i 
+work UnrelEv_grocery
+shifts 
+that 
+could 
+change UnrelEv_grocery
+and 
+we 
+never 
+know UnrelEv_grocery
+when 
+our 
+son 
+will 
+or 
+wo 
+n't 
+be UnrelEv_grocery
+home 
+so 
+when 
+i 
+shop ScrEv_go_grocery
+for 
+groceries 
+it 
+'s 
+only 
+looking UnrelEv_grocery
+one 
+or 
+two 
+days 
+ahead 
+. 
+there 
+'s 
+two 
+places 
+that 
+i 
+usually 
+go ScrEv_go_grocery
+for 
+my 
+groceries 
+; 
+i 
+either 
+shop ScrEv_go_grocery
+at 
+wegmans 
+, 
+which 
+is 
+a 
+grocery 
+store 
+near 
+where 
+i 
+work UnrelEv_grocery
+, 
+or 
+walmart 
+, 
+of 
+which 
+there 
+are UnrelEv_grocery
+two 
+near 
+me 
+, 
+about 
+equal 
+distances 
+from 
+where 
+i 
+work UnrelEv_grocery
+. 
+i 
+'ll 
+talk UnrelEv_grocery
+to 
+my 
+wife 
+before 
+i 
+leave UnrelEv_grocery
+work 
+, 
+we 
+'ll 
+decide UnrelEv_grocery
+on 
+dinner 
+and 
+then 
+i 
+'ll 
+go ScrEv_go_grocery
+to 
+whichever 
+store 
+i 
+decide UnrelEv_grocery
+on 
+-lrb- 
+for 
+example 
+, 
+if 
+we 
+'re 
+having UnrelEv_grocery
+fresh 
+meat 
+we 
+prefer UnrelEv_grocery
+to 
+get ScrEv_get_groceries
+it 
+at 
+wegmans 
+, 
+but 
+if 
+we 
+'re 
+making UnrelEv_grocery
+a 
+casserole 
+or 
+something 
+similar 
+i 
+can 
+get ScrEv_get_groceries
+it 
+at 
+wegmans 
+-rrb- 
+. 
+i 
+'ll 
+leave UnrelEv_grocery
+work 
+, 
+head ScrEv_go_grocery
+to 
+whichever 
+store 
+i 
+'ve 
+chosen UnrelEv_grocery
+and 
+, 
+without 
+spending UnrelEv_grocery
+alot 
+of 
+time 
+wandering UnrelEv_grocery
+, 
+get ScrEv_get_groceries
+the 
+exact 
+items 
+i 
+need RelNScrEv_grocery
+, 
+pay ScrEv_pay
+for 
+them 
+and 
+leave ScrEv_leave
+. 
+to 
+me 
+, 
+grocery+shopping Evoking_grocery
+is 
+more 
+of 
+a 
+necessity 
+than 
+something 
+i 
+enjoy UnrelEv_grocery
+so 
+i 
+want UnrelEv_grocery
+it 
+done UnrelEv_grocery
+quickly 
+. 
+<end_of_story>_grocery 
+with 
+a 
+family 
+of 
+five 
+it 
+seemed 
+like 
+all 
+we 
+ever 
+did 
+was 
+go+to+the+supermarket Evoking_grocery
+. 
+walmart 
+and 
+i 
+built UnrelEv_grocery
+a 
+strong 
+personal 
+relationship 
+. 
+not 
+only 
+did 
+they 
+have UnrelEv_grocery
+household 
+items 
+and 
+clothes 
+that 
+i 
+loved 
+, 
+they 
+had UnrelEv_grocery
+food 
+. 
+every 
+week 
+i 
+spend UnrelEv_grocery
+an 
+hour 
+online 
+printing RelNScrEv_grocery
+and 
+sorting RelNScrEv_grocery
+my 
+coupons 
+. 
+it 
+is 
+always 
+to 
+good 
+to 
+grab RelNScrEv_grocery
+extra 
+deals 
+even 
+if 
+it 
+is RelNScrEv_grocery
+just 
+cents 
+off 
+. 
+after 
+compiling RelNScrEv_grocery
+my 
+coupons 
+i 
+make ScrEv_make_list
+my 
+shopping 
+list 
+and 
+break RelNScrEv_grocery
+it 
+down 
+to 
+aisles 
+. 
+it 
+'s 
+so 
+amazing 
+that 
+i 
+have 
+been UnrelEv_grocery
+to 
+walmart 
+so 
+many 
+times 
+that 
+i 
+remember UnrelEv_grocery
+their 
+aisles 
+. 
+when 
+i 
+arrive ScrEv_move_section
+in 
+the 
+food 
+section 
+i 
+start UnrelEv_grocery
+with 
+the 
+middle 
+aisles 
+first 
+and 
+then 
+i 
+work ScrEv_move_section
+my 
+way 
+around 
+, 
+getting ScrEv_get_groceries
+milk 
+last 
+. 
+sometimes 
+i 
+have 
+to 
+buy ScrEv_get_groceries
+so 
+many 
+things 
+that 
+i 
+leave ScrEv_leave
+with 
+two 
+or 
+three 
+carts 
+. 
+grocery+shopping Evoking_grocery
+is UnrelEv_grocery
+beyond 
+a 
+tedious 
+task 
+that 
+i 
+hate UnrelEv_grocery
+to 
+love UnrelEv_grocery
+. 
+<end_of_story>_grocery 
+before 
+going+shopping Evoking_grocery
+i 
+make ScrEv_make_list
+a 
+shopping 
+list 
+and 
+look+through UnrelEv_grocery
+my 
+fridge 
+and 
+cupboards 
+to 
+make UnrelEv_grocery
+sure 
+i 
+buy ScrEv_get_groceries
+everything 
+i 
+need RelNScrEv_grocery
+. 
+i 
+then 
+get ScrEv_go_grocery
+into 
+my 
+car 
+and 
+drive ScrEv_go_grocery
+to 
+the 
+store 
+. 
+upon 
+entering ScrEv_enter
+the 
+store 
+i 
+grab ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+and 
+walk ScrEv_move_section
+to 
+the 
+fresh 
+fruits 
+and 
+vegetables 
+. 
+after 
+getting ScrEv_get_groceries
+all 
+of 
+my 
+fresh 
+items 
+i 
+go ScrEv_move_section
+to 
+the 
+butcher 
+stand 
+and 
+get ScrEv_get_groceries
+some 
+chicken 
+and 
+beef 
+. 
+i 
+sometimes 
+make ScrEv_move_section
+a 
+stop 
+to 
+et 
+lunch 
+meat 
+and 
+bread 
+so 
+i 
+can 
+make UnrelEv_grocery
+sandwiches 
+for 
+lunch 
+. 
+next 
+i 
+go ScrEv_move_section
+to 
+the 
+dairy 
+section 
+where 
+i 
+buy ScrEv_get_groceries
+cheese 
+, 
+milk 
+and 
+eggs 
+. 
+after 
+that 
+i 
+go ScrEv_move_section
+buy ScrEv_get_groceries
+some 
+snacks 
+and 
+canned UnrelEv_grocery
+items 
+. 
+to 
+end UnrelEv_grocery
+my 
+trip 
+i 
+go ScrEv_move_section
+to 
+the 
+frozen 
+foods 
+section 
+because 
+i 
+want UnrelEv_grocery
+to 
+make UnrelEv_grocery
+sure 
+my 
+frozen 
+items 
+stay RelNScrEv_grocery
+cold 
+until 
+i 
+am UnrelEv_grocery
+home 
+. 
+i 
+get ScrEv_go_checkout
+in 
+line 
+and 
+wait ScrEv_wait
+to 
+be 
+cashed+out ScrEv_cashier_scan/weight
+. 
+i 
+almost 
+always 
+pay ScrEv_pay
+with 
+my 
+credit 
+card 
+so 
+i 
+do 
+n't 
+have 
+to 
+worry UnrelEv_grocery
+about 
+money 
+. 
+i 
+then 
+leave ScrEv_leave
+the 
+store 
+, 
+head UnrelEv_grocery
+home 
+and 
+unload RelNScrEv_grocery
+all 
+my 
+groceries 
+. 
+<end_of_story>_grocery 
+sunday 
+, 
+my 
+husband 
+and 
+i 
+did 
+our 
+grocery+shopping Evoking_grocery
+. 
+he 
+had 
+a 
+shopping 
+list 
+recorded ScrEv_make_list
+in 
+his 
+cell 
+phone 
+. 
+we 
+arrived ScrEv_go_grocery
+at 
+the 
+store 
+in 
+the 
+early 
+afternoon 
+, 
+and 
+the 
+first 
+thing 
+we 
+did 
+was 
+get ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+we 
+walked+in ScrEv_enter
+and 
+went ScrEv_move_section
+to 
+the 
+produce 
+area 
+first 
+, 
+where 
+all 
+the 
+fruit 
+and 
+vegetables 
+are UnrelEv_grocery
+. 
+my 
+husband 
+checked ScrEv_check_list
+the 
+list 
+. 
+we 
+only 
+had RelNScrEv_grocery
+bananas 
+on 
+the 
+list 
+, 
+but 
+i 
+said UnrelEv_grocery
+we 
+should 
+get ScrEv_get_groceries
+things 
+for 
+salad 
+, 
+too 
+, 
+so 
+he 
+picked+out ScrEv_get_groceries
+bananas 
+and 
+bell 
+peppers 
+while 
+i 
+got ScrEv_get_groceries
+lettuce 
+and 
+radishes 
+and 
+tomatoes 
+. 
+then 
+we 
+went ScrEv_move_section
+to 
+the 
+deli 
+area 
+and 
+ordered ScrEv_other_grocery
+some 
+sliced 
+turkey 
+. 
+the 
+man 
+behind 
+the 
+counter 
+sliced ScrEv_other_grocery
+the 
+turkey 
+for 
+us 
+and 
+measured ScrEv_other_grocery
+it 
+on 
+a 
+scale 
+to 
+give ScrEv_get_groceries
+us 
+the 
+amount 
+we 
+wanted UnrelEv_grocery
+, 
+then 
+wrapped ScrEv_pack_groceries
+it 
+up 
+for 
+us 
+. 
+next 
+we 
+visited ScrEv_move_section
+the 
+bakery 
+area 
+and 
+picked+out ScrEv_get_groceries
+a 
+nice 
+loaf 
+of 
+rye 
+bread 
+to 
+put UnrelEv_grocery
+the 
+turkey 
+on 
+. 
+in 
+the 
+canned UnrelEv_grocery
+goods 
+area 
+, 
+we 
+picked+out ScrEv_get_groceries
+soup 
+and 
+white 
+beans 
+; 
+then 
+we 
+went ScrEv_move_section
+to 
+the 
+pasta 
+area 
+to 
+get ScrEv_get_groceries
+pasta 
+and 
+sauce 
+. 
+in 
+the 
+meat 
+area 
+, 
+we 
+picked+up ScrEv_get_groceries
+some 
+chicken 
+breasts 
+and 
+italian 
+sausage 
+. 
+then 
+we 
+went ScrEv_move_section
+to 
+the 
+dairy 
+refrigerators 
+and 
+we 
+each 
+picked+out ScrEv_get_groceries
+some 
+flavors 
+of 
+yogurt 
+we 
+like UnrelEv_grocery
+, 
+and 
+got ScrEv_get_groceries
+milk 
+and 
+butter 
+and 
+eggs 
+. 
+we 
+were 
+nearly 
+done UnrelEv_grocery
+, 
+so 
+my 
+husband 
+checked ScrEv_check_list
+the 
+list 
+again 
+and 
+we 
+saw 
+we 
+had 
+forgotten UnrelEv_grocery
+tin 
+foil 
+and 
+toilet 
+paper 
+, 
+so 
+we 
+went+back ScrEv_move_section
+and 
+got ScrEv_get_groceries
+those 
+two 
+things 
+. 
+then 
+we 
+went ScrEv_go_checkout
+to 
+the 
+check-out 
+where 
+we 
+put ScrEv_put_conveyor
+all 
+our 
+groceries 
+on 
+a 
+conveyor 
+belt 
+and 
+the 
+clerk 
+scanned ScrEv_cashier_scan/weight
+each 
+item 
+in 
+an 
+electronic 
+scanner 
+to 
+find+out ScrEv_cashier_scan/weight
+what 
+it 
+cost RelNScrEv_grocery
+. 
+she 
+told UnrelEv_grocery
+us 
+the 
+total 
+, 
+and 
+i 
+swiped ScrEv_pay
+my 
+bank 
+card 
+through 
+an 
+electronic 
+reader 
+to 
+pay ScrEv_pay
+. 
+meanwhile 
+, 
+a 
+bagger 
+was 
+putting ScrEv_pack_groceries
+our 
+groceries 
+into 
+re-usable 
+shopping 
+bags 
+that 
+we 
+had 
+brought ScrEv_take_bags
+with 
+us 
+. 
+he 
+put ScrEv_other_grocery
+the 
+bags 
+back 
+into 
+the 
+cart 
+. 
+we 
+got ScrEv_get_receipt
+a 
+receipt 
+from 
+the 
+clerk 
+and 
+pushed ScrEv_bring_vehicle
+the 
+cart 
+out 
+to 
+our 
+car 
+, 
+where 
+we 
+moved ScrEv_bring_vehicle
+the 
+bags 
+into 
+the 
+back 
+seat 
+. 
+then 
+my 
+husband 
+put ScrEv_return_shop_cart
+the 
+cart 
+in 
+little 
+corral 
+in 
+the 
+parking 
+lot 
+that 
+keeps UnrelEv_grocery
+the 
+carts 
+away 
+from 
+people 
+'s 
+cars 
+, 
+and 
+we 
+got+in ScrEv_leave
+our 
+car 
+and 
+went ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+last 
+night 
+i 
+realized UnrelEv_grocery
+i 
+did 
+not 
+have UnrelEv_grocery
+anything 
+for 
+dinner 
+. 
+to 
+solve UnrelEv_grocery
+this 
+conundrum 
+i 
+first 
+thought UnrelEv_grocery
+about 
+ordering UnrelEv_grocery
+out 
+food 
+. 
+this 
+, 
+i 
+realized UnrelEv_grocery
+, 
+was UnrelEv_grocery
+too 
+expensive 
+as 
+i 
+am 
+a 
+broke 
+college 
+graduate 
+just 
+trying 
+to 
+get UnrelEv_grocery
+by 
+. 
+i 
+settled UnrelEv_grocery
+on 
+an 
+alternative 
+, 
+going+to+the+grocery+store Evoking_grocery
+to 
+purchase ScrEv_get_groceries
+food 
+. 
+i 
+walked+down ScrEv_go_grocery
+the 
+street 
+from 
+my 
+apartment 
+to 
+the 
+whole 
+foods 
+in 
+the 
+brisk 
+spring 
+air 
+. 
+i 
+was UnrelEv_grocery
+on 
+a 
+mission 
+, 
+purchase ScrEv_get_groceries
+delicious 
+food 
+. 
+when 
+i 
+reached ScrEv_go_grocery
+the 
+whole 
+foods 
+, 
+the 
+distinct 
+smell 
+of 
+smug 
+filled UnrelEv_grocery
+my 
+nostrils 
+. 
+organic 
+, 
+natural 
+, 
+non 
+deoderized UnrelEv_grocery
+humans 
+paced ScrEv_move_section
+to 
+and 
+fro 
+within 
+the 
+confines 
+of 
+the 
+kale 
+infused UnrelEv_grocery
+shelving 
+units 
+. 
+i 
+quickly 
+scuttled ScrEv_move_section
+to 
+the 
+small 
+frozen 
+foods 
+section 
+to 
+purchase ScrEv_get_groceries
+some 
+` 
+healthy 
+' 
+junk 
+food 
+. 
+i 
+selected ScrEv_get_groceries
+chicken 
+tenders 
+and 
+a 
+small 
+frozen 
+pizza 
+. 
+skirting UnrelEv_grocery
+the 
+weed 
+smoking UnrelEv_grocery
+hippies 
+throughout 
+the 
+store 
+i 
+returned ScrEv_move_section
+to 
+the 
+front 
+. 
+i 
+quickly 
+made ScrEv_get_groceries
+my 
+purchase 
+and 
+sprinted+back ScrEv_leave
+towards 
+home 
+to 
+concoct UnrelEv_grocery
+my 
+wonderfully 
+delicious 
+tendies 
+and 
+pizza 
+. 
+<end_of_story>_grocery 
+grocery+shopping Evoking_grocery
+can 
+be UnrelEv_grocery
+a 
+stressful 
+event 
+, 
+but 
+if 
+you 
+come ScrEv_go_grocery
+prepared UnrelEv_grocery
+then 
+you 
+can 
+usually 
+leave ScrEv_leave
+without 
+a 
+headache 
+. 
+before 
+we 
+head+over ScrEv_go_grocery
+to 
+the 
+store 
+we 
+need RelNScrEv_grocery
+to 
+make ScrEv_make_list
+a 
+list 
+of 
+all 
+the 
+items 
+that 
+we 
+need RelNScrEv_grocery
+. 
+once 
+you 
+arrive ScrEv_enter
+at 
+the 
+store 
+if 
+you 
+have UnrelEv_grocery
+a 
+short 
+list 
+make UnrelEv_grocery
+sure 
+to 
+grab ScrEv_take_shop_cart
+a 
+basket 
+. 
+if 
+you 
+are 
+purchasing ScrEv_get_groceries
+a 
+wider 
+variety 
+of 
+items 
+then 
+grab ScrEv_take_shop_cart
+a 
+shopping 
+cart 
+. 
+i 
+would 
+recommend UnrelEv_grocery
+starting Unclear_grocery
+on 
+the 
+outside 
+perimeter 
+of 
+the 
+store 
+, 
+hitting+up ScrEv_get_groceries
+your 
+dairy 
+, 
+meats 
+, 
+and 
+vegetables 
+. 
+while 
+you 
+are 
+working ScrEv_move_section
+your 
+way 
+clockwise 
+or 
+counter-clockwise 
+you 
+can 
+frequent ScrEv_move_section
+the 
+aisles 
+in 
+the 
+middle 
+to 
+pickup ScrEv_get_groceries
+the 
+remainder 
+of 
+items 
+. 
+spending RelNScrEv_grocery
+a 
+lot 
+of 
+time 
+in 
+the 
+aisles 
+can 
+become+frustrating UnrelEv_grocery
+since 
+people 
+are 
+more 
+likely 
+to 
+be UnrelEv_grocery
+in 
+your 
+way 
+. 
+after 
+you 
+select ScrEv_get_groceries
+all 
+the 
+items 
+to 
+purchase ScrEv_get_groceries
+, 
+find ScrEv_go_checkout
+the 
+shortest 
+checkout 
+line 
+. 
+once 
+you 
+are UnrelEv_grocery
+close 
+enough 
+start UnrelEv_grocery
+piling ScrEv_put_conveyor
+your 
+groceries 
+on 
+the 
+belt 
+, 
+and 
+take+out ScrEv_pay
+your 
+form 
+of 
+payment 
+. 
+once 
+paid ScrEv_pay
+, 
+the 
+store 
+will 
+generally 
+bag ScrEv_pack_groceries
+your 
+groceries 
+for 
+you 
+. 
+now 
+you 
+just 
+need UnrelEv_grocery
+to 
+load ScrEv_bring_vehicle
+your 
+car 
+, 
+drive ScrEv_leave
+home 
+, 
+and 
+unload RelNScrEv_grocery
+all 
+of 
+your 
+bounty 
+! 
+<end_of_story>_grocery 
+i 
+love UnrelEv_grocery
+going+grocery+shopping Evoking_grocery
+! 
+usually 
+i 
+am 
+going ScrEv_go_grocery
+with 
+my 
+ten 
+month 
+old 
+son 
+while 
+my 
+husband 
+is UnrelEv_grocery
+at 
+work 
+. 
+before 
+i 
+go ScrEv_go_grocery
+, 
+i 
+make ScrEv_make_list
+a 
+list 
+of 
+what 
+we 
+need RelNScrEv_grocery
+or 
+else 
+i 
+will 
+buy ScrEv_get_groceries
+things 
+that 
+i 
+do 
+not 
+need RelNScrEv_grocery
+. 
+i 
+check RelNScrEv_grocery
+sales 
+to 
+make UnrelEv_grocery
+sure 
+i 
+get RelNScrEv_grocery
+the 
+best 
+deals 
+on 
+things 
+and 
+make UnrelEv_grocery
+a 
+meal 
+plan 
+. 
+then 
+i 
+get UnrelEv_grocery
+my 
+son 
+in 
+the 
+car 
+and 
+we 
+drive+over ScrEv_go_grocery
+the 
+the 
+grocery 
+store 
+. 
+we 
+get ScrEv_take_shop_cart
+a 
+cart 
+and 
+i 
+put UnrelEv_grocery
+my 
+son 
+in 
+it 
+. 
+i 
+give UnrelEv_grocery
+him 
+a 
+toy 
+and 
+secure RelNScrEv_grocery
+it 
+to 
+the 
+cart 
+after 
+i 
+wipe UnrelEv_grocery
+it 
+down 
+to 
+make UnrelEv_grocery
+sure 
+its 
+clean 
+, 
+and 
+we 
+enter ScrEv_enter
+the 
+store 
+. 
+we 
+go+through ScrEv_move_section
+the 
+store 
+and 
+using RelNScrEv_grocery
+my 
+list 
+grab ScrEv_get_groceries
+what 
+i 
+need RelNScrEv_grocery
+. 
+since 
+i 
+usually 
+go ScrEv_go_grocery
+two 
+or 
+more 
+times 
+a 
+week 
+, 
+i 
+only 
+spend RelNScrEv_grocery
+about 
+523 
+minutes 
+there 
+before 
+i 
+have 
+all 
+we 
+need RelNScrEv_grocery
+and 
+can 
+pay ScrEv_pay
+. 
+then 
+we 
+go+back ScrEv_bring_vehicle
+out 
+to 
+the 
+car 
+. 
+i 
+put UnrelEv_grocery
+my 
+son 
+back 
+in 
+his 
+car 
+seat 
+and 
+the 
+bagged ScrEv_pack_groceries
+groceries 
+in 
+the 
+trunk 
+and 
+head ScrEv_leave
+home 
+. 
+<end_of_story>_grocery 
+as 
+i 
+was 
+preparing UnrelEv_grocery
+breakfast 
+, 
+i 
+noticed UnrelEv_grocery
+that 
+i 
+was RelNScrEv_grocery
+out 
+of 
+a 
+lot 
+of 
+things 
+that 
+are UnrelEv_grocery
+staples 
+in 
+the 
+preparation 
+of 
+most 
+other 
+dishes 
+. 
+bread 
+, 
+milk 
+, 
+and 
+things 
+of 
+that 
+nature 
+. 
+so 
+after 
+i 
+was 
+done UnrelEv_grocery
+with 
+breakfast 
+, 
+i 
+sat+down UnrelEv_grocery
+to 
+prepare+a+grocery+shopping+list Evoking_grocery
+. 
+i 
+thought UnrelEv_grocery
+of 
+all 
+the 
+things 
+off 
+the 
+top 
+of 
+my 
+head 
+that 
+i 
+would 
+need RelNScrEv_grocery
+, 
+and 
+then 
+i 
+perused RelNScrEv_grocery
+through 
+my 
+cupboards 
+and 
+refrigerator 
+to 
+fill+in ScrEv_make_list
+the 
+blanks 
+. 
+once 
+i 
+was 
+satisfied UnrelEv_grocery
+with 
+my 
+list 
+, 
+i 
+got+dressed UnrelEv_grocery
+and 
+got ScrEv_go_grocery
+in 
+my 
+car 
+. 
+i 
+drove ScrEv_go_grocery
+to 
+the 
+grocery 
+store 
+and 
+parked RelNScrEv_grocery
+. 
+i 
+grabbed ScrEv_take_shop_cart
+a 
+cart 
+and 
+pulled ScrEv_check_list
+my 
+shopping 
+list 
+out 
+of 
+my 
+purse 
+. 
+i 
+went ScrEv_move_section
+up 
+and 
+down 
+the 
+aisles 
+, 
+placing ScrEv_get_groceries
+things 
+in 
+the 
+cart 
+as 
+i 
+went ScrEv_move_section
+. 
+once 
+i 
+had UnrelEv_grocery
+everything 
+, 
+i 
+went ScrEv_go_checkout
+to 
+the 
+checkout 
+counter 
+. 
+i 
+put ScrEv_put_conveyor
+all 
+my 
+things 
+on 
+the 
+belt 
+and 
+a 
+bagger 
+bagged ScrEv_pack_groceries
+them 
+as 
+the 
+cashier 
+scanned ScrEv_cashier_scan/weight
+. 
+the 
+bagger 
+set ScrEv_pack_groceries
+the 
+bags 
+in 
+my 
+cart 
+, 
+and 
+i 
+took ScrEv_bring_vehicle
+the 
+bags 
+out 
+to 
+my 
+car 
+. 
+once 
+i 
+got ScrEv_leave
+home 
+, 
+i 
+brought RelNScrEv_grocery
+the 
+bags 
+inside 
+and 
+put RelNScrEv_grocery
+all 
+the 
+groceries 
+away 
+. 
+this 
+is 
+how 
+i 
+went ScrEv_go_grocery
+grocery+shopping Evoking_grocery
+. 
+<end_of_story>_grocery 
